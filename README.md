@@ -4,7 +4,7 @@ An open repository for data on the Irish gender pay gap, as reported by companie
 
 ## Dataset in use
 
-You can view this dataset in a searchable, linked format (graphs and enhanced data coming soon) at https://jenniferkeane.ie/gpgportal/ - my aim is to keep these datasets in sync, so that all users can browse the data easily via a web interface, and anyone who wishes to code using the data has a readymade dataset available.
+You can view this dataset in a searchable, linked format (graphs and enhanced data coming soon) at https://www.gpg.ie/ - my aim is to keep these datasets in sync, so that all users can browse the data easily via a web interface, and anyone who wishes to code using the data has a readymade dataset available.
 
 ## Adding to the datasets on github
 
@@ -17,7 +17,7 @@ If the company doesn't exist in the [companies.csv](companies.csv) file, please 
 
 ## Adding to the datasets via a web form
 
-There is a web form to make new contributions to the dataset available at https://jenniferkeane.ie/gpgportal/newReport.php
+There is a web form to make new contributions to the dataset available at https://gpg.ie/newReport.php
 
 # Attribution
 
