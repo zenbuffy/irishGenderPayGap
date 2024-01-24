@@ -17,7 +17,7 @@ If the company doesn't exist in the [companies.csv](companies.csv) file, please 
 
 ## Adding to the datasets via a web form
 
-There is a web form to make new contributions to the dataset available at https://gpg.ie/newReport.php
+There is a web form to make new contributions to the dataset available at https://gpg.ie/newReport
 
 # Attribution
 
