@@ -21,18 +21,10 @@ There is a web form to make new contributions to the dataset available at https:
 
 # Attribution
 
-This project currently has a GPL3 license. The tl;dr of that is:
-1. Anyone can copy, modify and distribute this software.
-2. You have to include the license and copyright notice with each and every distribution.
-3. You can use this software privately.
-4. You can use this software for commercial purposes.
-5. If you build your software solely from this code, source code must be made available when the software is distributed
-6. If you modify it, you have to indicate changes made to the code.
-7. Any modifications of this code base MUST be distributed with the same license, GPLv3.
-8. This software is provided without warranty.
-9. The software author or license can not be held liable for any damages inflicted by the software.
+This project currently has a [CC0 1.0 license](https://creativecommons.org/publicdomain/zero/1.0/). 
+The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
 
-I'm open to suggestions on changes to this. I'd appreciate a shoutout if you use the data somewhere, and I'd love to see what you're doing with it!
+Though not mandatory, I'd appreciate a shoutout if you use the data somewhere, and I'd love to see what you're doing with it!
 
 
 # Understanding the Structure of gpg.csv
