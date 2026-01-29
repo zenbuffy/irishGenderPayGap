@@ -59,7 +59,7 @@
 "58","Beckman Coulter Ireland Inc","https://www.beckman.com/contact-us/ireland","beckmancoulter",NULL,"diversityandinclusion@beckman.com, media@beckman.com",NULL,"2022","3","21",NULL,NULL,NULL
 "59","Becton Dickinson Research Centre Ireland Limited","https://www.bd.com/en-us","bectondickinson",NULL,"BDUK_customerservice@bd.com",NULL,"2022","14","72","59",NULL,NULL
 "60","Becton Dickinson: ClearStream Technologies Limited","https://www.bd.com/en-us","clearstreamtechnologies",NULL,NULL,NULL,"2022","11","62","59",NULL,NULL
-"61","Bidvest Noonan","https://bidvestnoonan.ie/","bidvestnoonan",NULL,NULL,NULL,"2022","15","81",NULL,NULL,NULL
+"61","Bidvest Noonan","https://bidvestnoonan.ie/","bidvestnoonan",NULL,"info@bidvestnoonan.com",NULL,"2022","15","81",NULL,NULL,NULL
 "62","BioMarin","https://www.biomarin.com/","biomarin",NULL,"media@bmrn.com",NULL,"2022","3","21",NULL,NULL,NULL
 "63","Blackrock Clinic","https://www.blackrockhealth.com/","blackrockclinic",NULL,NULL,NULL,"2022","18","86",NULL,NULL,NULL
 "64","BMS (BMS Ireland)","https://www.bms.com/ie","bms",NULL,NULL,NULL,"2022","3","21","64",NULL,NULL
@@ -88,7 +88,7 @@
 "87","Chief State Solicitors Office","https://www.gov.ie/en/organisation/chief-state-solicitors-office/","csso",NULL,"contact@csso.gov.ie",NULL,"2022","16","84",NULL,"1",NULL
 "88","Children's Health Ireland","https://www.childrenshealthireland.ie/","childrenshealthireland",NULL,"press.office@childrenshealthireland.ie",NULL,"2022","16","84",NULL,"1",NULL
 "89","CRH: Roadstone","https://roadstone.ie/","crhroadstone",NULL,"info@roadstone.ie",NULL,"2022","3","23","89",NULL,NULL
-"90","Circle K","https://www.circlek.ie/","circlek",NULL,NULL,NULL,"2022","7","47",NULL,NULL,NULL
+"90","Circle K","https://www.circlek.ie/","circlek",NULL,"communications@circlekeurope.co",NULL,"2022","7","47",NULL,NULL,NULL
 "91","Cisco","https://www.cisco.com/","cisco",NULL,NULL,NULL,"2022","11","61",NULL,NULL,NULL
 "92","Citco Fund Services (Ireland) Limited","https://www.citco.com/","citco",NULL,"citco-ireland@citco.com",NULL,"2022","12","64","92",NULL,NULL
 "93","Citibank Europe Plc Ireland","https://www.citigroup.com/global/about-us/global-presence/ireland","citibank","CEP Ireland",NULL,NULL,"2022","12","64","93",NULL,NULL
@@ -283,7 +283,7 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "279","Mercury Ireland UC","https://www.mercuryeng.com/","mercuryeng","Mercury Engineering","info@mercuryeng.com",NULL,"2022","6","41",NULL,NULL,NULL
 "280","Mercy University Hospital","https://www.muh.ie/","mercyuniversityhospital",NULL,"ovanlaren@muh.ie",NULL,"2022","18","86",NULL,"5",NULL
 "281","Merit Medical Ireland","https://www.merit.com/","meritmedical",NULL,NULL,NULL,"2022","3","32",NULL,NULL,NULL
-"282","Meta Ireland (all legal entities)","https://about.meta.com/","meta",NULL,NULL,NULL,"2022","11","62","282",NULL,NULL
+"282","Meta Ireland (all legal entities)","https://about.meta.com/","meta",NULL,"press@meta.com",NULL,"2022","11","62","282",NULL,NULL
 "283","Microsoft (all legal entities)","https://www.microsoft.com/en-ie","microsoft",NULL,NULL,NULL,"2022","11","62","283",NULL,NULL
 "284","ABM","https://abmireland.com/","abm","Momentum Support",NULL,NULL,"2022","15","81",NULL,NULL,NULL
 "285","Monaghan County Council","https://monaghan.ie/","monaghancoco",NULL,"info@monaghancoco.ie",NULL,"2022","16","84",NULL,"3",NULL
@@ -317,7 +317,7 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "314","Pfizer Ireland (all legal entities)","https://www.pfizer.ie/","pfizer",NULL,"mediaqueriesireland@pfizer.com",NULL,"2022","3","21","314",NULL,NULL
 "315","PJ Hegarty & Sons","https://www.pjhegarty.ie/","pjhegartysons",NULL,"pjhdublin@pjhegarty.ie",NULL,"2022","6","41",NULL,NULL,NULL
 "316","PM Group","https://www.pmgroup-global.com/","pmgroup",NULL,NULL,NULL,"2022","14","74",NULL,NULL,NULL
-"317","PrepayPower Limited","https://www.prepaypower.ie/","prepaypower",NULL,NULL,NULL,"2022","4","35",NULL,NULL,NULL
+"317","PrepayPower Limited","https://www.prepaypower.ie/","prepaypower",NULL,"customer.care@prepaypower.ie",NULL,"2022","4","35",NULL,NULL,NULL
 "318","PricewaterhouseCoopers","https://www.pwc.ie/","pwc","PwC","info@pwc.ie",NULL,"2022","12","64",NULL,NULL,NULL
 "319","Primark","https://www.primark.com/en-ie","primark","Penneys",NULL,NULL,"2022","7","47",NULL,NULL,NULL
 "320","Tailte Éireann NSSO","https://www.tailte.ie/","tailteeireann","Property Registration Authority","customer.services@tailte.ie",NULL,"2022","16","84",NULL,"1",NULL
@@ -339,8 +339,8 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "336","SAP Landscapes","https://saplandscapes.ie/","saplandscapes",NULL,"mail@saplandscapes.ie",NULL,"2022","15","82",NULL,NULL,NULL
 "337","SAP: Business Objects Software Limited","https://www.sap.com/uk/about/company/office-locations/ireland.html","sapbobj",NULL,NULL,NULL,"2022","11","62","337",NULL,NULL
 "338","SAP: SAP Service and Support Centre (Ireland) Limited","https://www.sap.com/uk/about/company/office-locations/ireland.html","sapssc",NULL,NULL,NULL,"2022","11","62","337",NULL,NULL
-"339","Savills Ireland","https://www.savills.ie/","savills",NULL,NULL,NULL,"2022","13","68",NULL,NULL,NULL
-"340","Screwfix Republic of Ireland","https://www.screwfix.ie/","screwfix",NULL,NULL,NULL,"2022","7","47",NULL,NULL,NULL
+"339","Savills Ireland","https://www.savills.ie/","savills",NULL,"info@savills.ie",NULL,"2022","13","68",NULL,NULL,NULL
+"340","Screwfix Republic of Ireland","https://www.screwfix.ie/","screwfix",NULL,"online@screwfix.ie",NULL,"2022","7","47",NULL,NULL,NULL
 "341","Sherry FitzGerald","https://www.sherryfitz.ie/","sherryfitzgerald",NULL,"info@sherryfitz.ie",NULL,"2022","13","68",NULL,NULL,NULL
 "342","SIPTU","https://www.siptu.ie/","siptu",NULL,"info@siptu.ie",NULL,"2022","20","94",NULL,NULL,NULL
 "343","Sky","https://www.sky.com/ie","sky",NULL,"mysky@sky.ie",NULL,"2022","10","60",NULL,NULL,NULL
@@ -367,7 +367,7 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "364","The Coombe Hospital","https://www.coombe.ie/","thecoombe",NULL,"hr@coombe.ie",NULL,"2022","18","86",NULL,"5",NULL
 "365","The Defence Organisation: Civil Servant Employees","https://www.gov.ie/en/organisation/department-of-defence/","defenceorgcivilservant",NULL,"info@defence.ie",NULL,"2022","16","84","365","1",NULL
 "366","The Defence Organisation: Civilian Employees","https://www.gov.ie/en/organisation/department-of-defence/","defenceorgcivilian",NULL,"info@defence.ie",NULL,"2022","16","84","365","1",NULL
-"367","The Defence Organisation: Defense Forces","https://www.gov.ie/en/organisation/department-of-defence/","defenceorgdefenseforces",NULL,"info@defence.ie",NULL,"2022","16","84","365","1",NULL
+"367","The Defence Organisation: Defence Forces","https://www.gov.ie/en/organisation/department-of-defence/","defenceorgdefenceforces",NULL,"info@defence.ie",NULL,"2022","16","84","365","1",NULL
 "368","Department of Children, Equality, Disability, Integration and Youth","https://www.gov.ie/en/organisation/department-of-children-equality-disability-integration-and-youth/","deptchildrenequality",NULL,"contact@equality.gov.ie, minister@equality.gov.ie",NULL,"2022","16","84",NULL,"2",NULL
 "369","The Environmental Protection Agency","https://www.epa.ie/","epa",NULL,"info@epa.ie",NULL,"2022","16","84",NULL,"1",NULL
 "370","The Irish Times","https://www.irishtimes.com/","theirishtimes",NULL,"hrdept@irishtimes.com, enquiries@irishtimes.com",NULL,"2022","10","58",NULL,NULL,NULL
@@ -378,10 +378,10 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "375","TJX Ireland","https://www.tjx.com/businesses/europe/tkmaxx","tjx",NULL,"customerservice@tjxeurope.com",NULL,"2022","7","47",NULL,NULL,NULL
 "376","Top Oil","https://www.top.ie/","topoil",NULL,NULL,NULL,"2022","7","47",NULL,NULL,NULL
 "377","Transport Infrastructure Ireland","https://www.tii.ie/","tii","TII","info@tii.ie",NULL,"2022","16","84",NULL,"1",NULL
-"378","Trend Micro","https://www.trendmicro.com/en_ie/business.html","trendmicro",NULL,NULL,NULL,"2022","11","62",NULL,NULL,NULL
+"378","Trend Micro","https://www.trendmicro.com/en_ie/business.html","trendmicro",NULL,"support@trendmicro.com",NULL,"2022","11","62",NULL,NULL,NULL
 "379","Trinity College Dublin","https://www.tcd.ie/","tcd",NULL,"ANTOINETTE.QUINN@tcd.ie",NULL,"2022","17","85",NULL,"4",NULL
 "380","Tusla Child and Family Agency","https://www.tusla.ie/","tusla",NULL,"info@tusla.ie",NULL,"2022","16","84",NULL,"1",NULL
-"381","Twitter Ireland","https://twitter.com/?lang=en","twitter",NULL,NULL,NULL,"2022","11","62",NULL,NULL,NULL
+"381","Twitter Ireland","https://twitter.com/?lang=en","twitter",NULL,"support@twitter.com",NULL,"2022","11","62",NULL,NULL,NULL
 "382","Uniphar: Hickey's Pharmacy Group Limited","https://www.uniphar.ie/","unipharhickeys",NULL,"info@uniphar.ie",NULL,"2022","7","47","1213",NULL,NULL
 "383","Uniphar: Medtech","https://www.unipharmedtech.com/","unipharmedtech","SISK Healthcare","info@uniphar.ie",NULL,"2022","18","86","1213",NULL,NULL
 "384","Uniphar: Uniphar Wholesale Limited","https://www.uniphar.ie/","unipharwholesale",NULL,"info@uniphar.ie",NULL,"2022","7","46","1213",NULL,NULL
@@ -400,12 +400,12 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "397","Wexford County Council","https://www.wexfordcoco.ie/","wexfordcoco",NULL,"customerservice@wexfordcoco.ie",NULL,"2022","16","84",NULL,"3",NULL
 "398","Wicklow County Council","https://www.wicklow.ie/","wicklowcoco",NULL,"CustomerService@wicklowcoco.ie",NULL,"2022","16","84",NULL,"3",NULL
 "399","William Fry (excluding partners)","https://www.williamfry.com/","williamfry",NULL,"recruit@williamfry.com",NULL,"2022","14","69",NULL,NULL,NULL
-"400","Windsor Motor Group","https://www.windsor.ie/","windsormotorgroup",NULL,NULL,NULL,"2022","7","47",NULL,NULL,NULL
+"400","Windsor Motor Group","https://www.windsor.ie/","windsormotorgroup",NULL,"info@windsor.ie",NULL,"2022","7","47",NULL,NULL,NULL
 "401","Workday","https://www.workday.com/","workday",NULL,NULL,NULL,"2022","11","62",NULL,NULL,NULL
 "402","Workhuman","https://www.workhuman.com/","workhuman","Globoforce",NULL,NULL,"2022","14","70",NULL,NULL,NULL
 "403","WTW (all legal entities)","https://www.wtwco.com/en-ie","wtw",NULL,"info@willistowerswatson.com",NULL,"2022","12","66","403",NULL,NULL
 "404","WuXi Biologics","https://www.wuxibiologics.com/","wuxibiologics",NULL,NULL,NULL,"2022","3","21","404",NULL,NULL
-"405","Zendesk","https://www.zendesk.com/","zendesk",NULL,NULL,NULL,"2022","15","82",NULL,NULL,NULL
+"405","Zendesk","https://www.zendesk.com/","zendesk",NULL,"peopleandplaces@zendesk.com",NULL,"2022","15","82",NULL,NULL,NULL
 "406","Zoetis Belgium S.A. (Irish Branch) ","https://www.zoetis.com/","zoetisbelgium",NULL,NULL,NULL,"2022","14","75",NULL,NULL,NULL
 "407","Zurich (all legal entities)","https://www.zurich.ie/","zurich",NULL,NULL,NULL,"2022","12","65","407",NULL,NULL
 "520","Department of Further and Higher Education, Research, Innovation and Science","https://www.gov.ie/en/organisation/department-of-higher-education-innovation-and-science/","deptfurthereducation",NULL,NULL,NULL,"2022","16","84",NULL,"2",NULL
@@ -424,7 +424,7 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "536","Aecom","https://aecom.com/ie/","aecom",NULL,NULL,NULL,"2022","6","43",NULL,NULL,NULL
 "537","Analog Devices","https://www.analog.com/en/index.html","analogdevices",NULL,NULL,NULL,"2022","3","27",NULL,NULL,NULL
 "538","Argos","https://www.argos.co.uk/features/republic-of-ireland","argos",NULL,NULL,"2023","2022","7","47",NULL,NULL,NULL
-"539","Atlantic Technological University","https://www.gmit.ie/","atu","Galway-Mayo Institute of Technology (GMIT)",NULL,NULL,"2022","17","85",NULL,"4",NULL
+"539","Atlantic Technological University","https://www.gmit.ie/","atu","Galway-Mayo Institute of Technology (GMIT)","edi@atu.ie",NULL,"2022","17","85",NULL,"4",NULL
 "540","Axa Insurance","https://www.axa.ie/","axainsurance",NULL,NULL,NULL,"2022","12","65",NULL,NULL,NULL
 "541","B&Q Ireland","https://www.diy.ie/","bandq",NULL,NULL,NULL,"2022","7","47",NULL,NULL,NULL
 "542","Beacon Hospital","https://www.beaconhospital.ie/","beaconhospital",NULL,NULL,NULL,"2022","18","86",NULL,NULL,NULL
@@ -434,10 +434,10 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "546","Boyle Sports","https://www.boylesports.com/","boylesports",NULL,NULL,NULL,"2022","19","92",NULL,NULL,NULL
 "547","Brothers of Charity","https://www.brothersofcharity.ie/","brothersofcharity",NULL,NULL,NULL,"2022","20","94",NULL,"1",NULL
 "548","Bus Eireann","https://www.buseireann.ie/","buseireann",NULL,NULL,NULL,"2022","8","49",NULL,"1",NULL
-"549","Cappagh National Orthopaedic Hospital","https://nohc.ie/","cappaghnational",NULL,NULL,NULL,"2022","18","86",NULL,"5",NULL
+"549","Cappagh National Orthopaedic Hospital","https://nohc.ie/","cappaghnational",NULL,"feedback@nohc.ie, sharon@bannerton.ie, comms@nohc.ie",NULL,"2022","18","86",NULL,"5",NULL
 "551","ARYZTA Bakeries Ireland","https://aryzta.ie/","aryztabi",NULL,NULL,NULL,"2022","7","46","44",NULL,NULL
 "552","Louth and Meath Education and Training Board","https://www.lmetb.ie/","lmetb",NULL,NULL,NULL,"2022","17","85",NULL,"6",NULL
-"553","NOVAS","https://www.novas.ie/","novas",NULL,NULL,NULL,"2022","18","88",NULL,NULL,NULL
+"553","NOVAS","https://www.novas.ie/","novas",NULL,"info@novas.ie",NULL,"2022","18","88",NULL,NULL,NULL
 "554","Longford and Westmeath Education and Training Board","https://www.lwetb.ie/","lwetb",NULL,NULL,NULL,"2022","17","85",NULL,"6",NULL
 "555","Aviva Group Services","https://www.aviva.ie/group/","avivagroupservices",NULL,NULL,NULL,"2022","12","65","49",NULL,NULL
 "556","Carey Glass","https://www.careyglass.com/","careyglass",NULL,NULL,NULL,"2022","3","32",NULL,NULL,NULL
@@ -446,24 +446,24 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "559","Central Remedial Clinic","https://www.crc.ie/","crc",NULL,NULL,NULL,"2022","18","86",NULL,"1",NULL
 "560","Cheshire Ireland","https://www.cheshire.ie/","cheshireireland",NULL,NULL,NULL,"2022","18","88",NULL,NULL,NULL
 "561","Concentrix","https://jobs.concentrix.com/global/en/country-page-ireland","concentrix",NULL,"recruitment@concentrix.com",NULL,"2022","11","62",NULL,NULL,NULL
-"562","Horizons","https://www.cope-foundation.ie/","copefoundation","Cope Foundation",NULL,NULL,"2022","18","88",NULL,"1",NULL
-"563","Core Media","https://www.onecore.ie/","coremedia",NULL,NULL,NULL,"2022","14","73",NULL,NULL,NULL
+"562","Horizons","https://www.cope-foundation.ie/","copefoundation","Cope Foundation","headoffice@horizonscork.ie",NULL,"2022","18","88",NULL,"1",NULL
+"563","Core Media","https://www.onecore.ie/","coremedia",NULL,"info@onecore.ie",NULL,"2022","14","73",NULL,NULL,NULL
 "564","Cork Education and Training Board","https://www.corketb.ie/","cetb",NULL,NULL,NULL,"2022","17","85",NULL,"6",NULL
 "565","Dawn Meats","https://www.dawnmeats.com/","dawnmeats",NULL,NULL,NULL,"2022","7","46",NULL,NULL,NULL
-"566","DB Schenker","https://www.dbschenker.com/","dbschenker",NULL,NULL,NULL,"2022","8","52",NULL,NULL,NULL
-"567","Dealz","https://www.dealz.ie/","dealz",NULL,NULL,NULL,"2022","7","47",NULL,NULL,NULL
+"566","DSV Ireland","https://www.dsv.com","dsv","DB Schenker","info@ie.dsv.com",NULL,"2022","8","52",NULL,NULL,NULL
+"567","Dealz","https://www.dealz.ie/","dealz",NULL,"customer.relations.dealz@dealz.eu",NULL,"2022","7","47",NULL,NULL,NULL
 "568","Designer Group","https://designergrp.com/","designergroup",NULL,"info@designergrp.com",NULL,"2022","6","41",NULL,NULL,NULL
 "569","Diligent","https://www.diligent.com/","diligent",NULL,NULL,NULL,"2022","15","82",NULL,NULL,NULL
-"570","Dornan Engineering","https://www.dornan.ie/","dornanengineering",NULL,NULL,NULL,"2022","6","41",NULL,NULL,NULL
-"571","Ei Electronics","https://www.eielectronics.ie/","eielectronics",NULL,NULL,NULL,"2022","3","26",NULL,NULL,NULL
+"570","Dornan Engineering","https://www.dornan.ie/","dornanengineering",NULL,"reception@dornangroup.com",NULL,"2022","6","41",NULL,NULL,NULL
+"571","Ei Electronics","https://www.eielectronics.ie/","eielectronics",NULL,"customerservice@eielectronics.ie, hr@eielectronics.ie",NULL,"2022","3","26",NULL,NULL,NULL
 "572","Elverys","https://www.elverys.ie/","elverys",NULL,"online@elverys.ie",NULL,"2022","7","47",NULL,NULL,NULL
-"573","Enable Ireland","https://enableireland.ie/","enableireland",NULL,NULL,NULL,"2022","18","88",NULL,"1",NULL
-"574","EPS Water","https://epswater.ie/","epswater",NULL,NULL,NULL,"2022","5","36",NULL,NULL,NULL
+"573","Enable Ireland","https://enableireland.ie/","enableireland",NULL,"hello@enableireland.ie",NULL,"2022","18","88",NULL,"1",NULL
+"574","EPS Water","https://epswater.ie/","epswater",NULL,"info@epswater.com",NULL,"2022","5","36",NULL,NULL,NULL
 "575","Ergo Group","https://www.ergogroup.ie/","ergogroup",NULL,NULL,NULL,"2022","11","62",NULL,NULL,NULL
 "576","Essilor","https://www.essilor.com/ie-en/","essilor",NULL,NULL,NULL,"2022","15","82","576",NULL,NULL
 "577","Europcar Mobility Group","https://europcar-mobility-group.com/","europcar",NULL,NULL,NULL,"2022","15","77",NULL,NULL,NULL
 "578","Firstsource","https://www.firstsource.com/","firstsource",NULL,"dataprivacy@firstsource.com",NULL,"2022","15","82",NULL,NULL,NULL
-"579","Galway and Roscommon Education and Training Board","https://gretb.ie/","gretb",NULL,NULL,NULL,"2022","17","85",NULL,"6",NULL
+"579","Galway and Roscommon Education and Training Board","https://gretb.ie/","gretb",NULL,"info@gretb.ie",NULL,"2022","17","85",NULL,"6",NULL
 "580","Gilead Sciences","https://www.gilead.com/","gileadsciences",NULL,NULL,NULL,"2022","3","21",NULL,NULL,NULL
 "581","Gleneagle Hotel","https://www.gleneaglehotel.com/","gleneaglehotel",NULL,NULL,NULL,"2022","9","55",NULL,NULL,NULL
 "582","Guidewire","https://www.guidewire.com/","guidewire",NULL,NULL,NULL,"2022","11","62",NULL,NULL,NULL
@@ -471,7 +471,7 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "584","Hertz","https://www.hertz.ie/rentacar/reservation/","hertz",NULL,NULL,NULL,"2022","15","77",NULL,NULL,NULL
 "585","Hollister","https://www.hollister.ie/en-ie","hollister",NULL,NULL,NULL,"2022","7","47",NULL,NULL,NULL
 "586","Home Store + More","https://www.homestoreandmore.ie/homepage.html","homestoremore",NULL,"info@homestoreandmore.ie",NULL,"2022","7","47",NULL,NULL,NULL
-"587","Insomnia","https://www.insomnia.ie","insomnia",NULL,NULL,NULL,"2022","9","56",NULL,NULL,NULL
+"587","Insomnia","https://www.insomnia.ie","insomnia",NULL,"info@insomnia.ie",NULL,"2022","9","56",NULL,NULL,NULL
 "588","Integer Holdings","https://www.integer.net/home/default.aspx","integerholdings",NULL,NULL,NULL,"2022","3","32",NULL,NULL,NULL
 "589","Intercom","https://www.intercom.com/","intercom",NULL,NULL,NULL,"2022","11","62",NULL,NULL,NULL
 "590","JJ Rhatigan","https://www.jjrhatigan.com","jjrhatigan",NULL,NULL,NULL,"2022","6","41",NULL,NULL,NULL
@@ -498,14 +498,14 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "611","Kilkenny Design","https://kilkennydesign.com/","kilkennydesign",NULL,"info@kilkennydesign.com",NULL,"2022","7","47",NULL,NULL,NULL
 "612","Kostal","https://www.kostal.com/en-gb/","kostal",NULL,"info@kostal.com",NULL,"2022","3","26",NULL,NULL,NULL
 "613","Lifestyle Sports","https://www.lifestylesports.com/ie/","lifestylesports",NULL,NULL,NULL,"2022","7","47",NULL,NULL,NULL
-"615","Liffey Meats","https://liffeymeats.ie/","liffeymeats",NULL,NULL,NULL,"2022","3","10",NULL,NULL,NULL
+"615","Liffey Meats","https://liffeymeats.ie/","liffeymeats",NULL,"sales@liffeymeats.ie",NULL,"2022","3","10",NULL,NULL,NULL
 "616","LotusWorks","https://lotusworks.com/en-ie/","lotusworks",NULL,NULL,NULL,"2022","3","27",NULL,NULL,NULL
 "617","Manpower","https://www.manpower.ie/","manpower",NULL,"info@manpower.ie",NULL,"2022","15","78",NULL,NULL,NULL
 "618","Mazars","https://www.mazars.ie/","mazars",NULL,"mazars@mazars.ie",NULL,"2022","12","64",NULL,NULL,NULL
 "619","Mercer","https://www.mercer.com/en-ie/","mercer",NULL,NULL,NULL,"2022","12","65","265",NULL,NULL
 "620","Microchip Technology","https://www.microchip.com/","microchiptechnology",NULL,"pr@microchip.com",NULL,"2022","3","26",NULL,NULL,NULL
 "621","Monaghan Mushrooms","https://www.monaghan.eu/","monaghanmushrooms",NULL,NULL,NULL,"2022","1","1",NULL,NULL,NULL
-"622","Drimbawn Mushrooms","https://www.monaghan.eu/","drimbawnmushrooms",NULL,NULL,NULL,"2022","1","1",NULL,NULL,NULL
+"622","Drimbawn Mushrooms","https://www.monaghan.eu/","drimbawnmushrooms",NULL,"info@mushrooms.ie",NULL,"2022","1","1",NULL,NULL,NULL
 "623","Mondelez International","https://www.mondelezinternational.com/ireland/","mondelez",NULL,"ukpressoffice@mdlz.com",NULL,"2022","7","46",NULL,NULL,NULL
 "624","Muiriosa Foundation","https://www.muiriosa.ie/","muiriosafoundation",NULL,NULL,NULL,"2022","18","88",NULL,"1",NULL
 "625","National Maternity Hospital","https://www.nmh.ie/","nationalmaternityhospital",NULL,NULL,NULL,"2022","18","86",NULL,"5",NULL
@@ -513,7 +513,7 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "627","Nature's Best","https://www.naturesbest.ie/","naturesbest",NULL,"info@naturesbest.ie",NULL,"2022","3","10",NULL,NULL,NULL
 "628","Next","https://www.next.ie/en","next",NULL,NULL,NULL,"2022","7","47",NULL,NULL,NULL
 "629","O'Briens Wine","https://www.obrienswine.ie/","obrienswine",NULL,"online@obrienswine.ie",NULL,"2022","7","47",NULL,NULL,NULL
-"630","Oracle","https://www.oracle.com/ie/","oracle",NULL,NULL,NULL,"2022","11","62",NULL,NULL,NULL
+"630","Oracle","https://www.oracle.com/ie/","oracle",NULL,NULL,NULL,"2022","11","62","630",NULL,NULL
 "631","Pepsico","https://www.pepsico.com/","pepsico",NULL,NULL,NULL,"2022","3","10","631",NULL,NULL
 "632","Pepsico: Portfolio Concentrate Solutions","https://www.pepsico.com/","pepsicopcs",NULL,NULL,NULL,"2022","3","10","631",NULL,NULL
 "633","PFH Technology Group","https://www.pfh.ie/","pfh",NULL,NULL,NULL,"2022","11","62",NULL,NULL,NULL
@@ -521,14 +521,14 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "635","Pobal","https://www.pobal.ie/","pobal",NULL,NULL,NULL,"2022","16","84",NULL,"1",NULL
 "636","Red Hat","https://www.redhat.com/en","redhat",NULL,NULL,NULL,"2022","11","62",NULL,NULL,NULL
 "637","Rotunda Hospital","https://rotunda.ie/","rotundahospital",NULL,"foi@rotunda.ie",NULL,"2022","18","86",NULL,"5",NULL
-"638","Saint John of God Community Services","https://sjogcommunityservices.ie/","sjogcommunityservices",NULL,NULL,NULL,"2022","18","87",NULL,"1",NULL
-"639","St John of God Hospital","https://stjohnofgodhospital.ie/","sjoghospital",NULL,NULL,NULL,"2022","18","86",NULL,"5",NULL
+"638","Saint John of God Community Services","https://sjogcommunityservices.ie/","sjogcommunityservices",NULL,"company.secretary@sjog.ie",NULL,"2022","18","87",NULL,"1",NULL
+"639","St John of God Hospital","https://stjohnofgodhospital.ie/","sjoghospital",NULL,"info@sjog.ie, comms.hosp@sjog.ie",NULL,"2022","18","86",NULL,"5",NULL
 "640","Servier","https://servier.ie/","servier",NULL,NULL,NULL,"2022","3","21",NULL,NULL,NULL
 "641","SK biotek","https://www.skbiotek.com/","skbiotek",NULL,"ireland@skbiotek.ie",NULL,"2022","3","20",NULL,NULL,NULL
 "642","SSP Ireland","https://www.foodtravelexperts.com/","sspireland",NULL,NULL,NULL,"2022","9","56",NULL,NULL,NULL
 "643","St Michael's House","https://www.smh.ie","stmichaelshouse",NULL,"info@smh.ie",NULL,"2022","18","88",NULL,"1",NULL
 "644","St Patrick's Mental Health Services","https://www.stpatricks.ie/","stpatsmentalhealth",NULL,NULL,NULL,"2022","18","86",NULL,NULL,NULL
-"645","St Vincent's Private Hospital","https://svph.ie/","stvincentsprivate",NULL,NULL,NULL,"2022","18","86",NULL,NULL,NULL
+"645","St Vincent's Private Hospital","https://svph.ie/","stvincentsprivate",NULL,"financedepartment@svph.ie",NULL,"2022","18","86",NULL,NULL,NULL
 "646","St John's Hospital Limerick","https://www.stjohnshospital.ie/","stjohnslimerick",NULL,"info@stjohnshospital.ie",NULL,"2022","18","86",NULL,"5",NULL
 "647","Standard Life","https://www.standardlife.ie/","standardlife",NULL,NULL,NULL,"2022","12","65",NULL,NULL,NULL
 "648","Standard Life Assets & Employee Services","https://www.standardlife.ie/","standardlifeassets","Phoenix Group Management Services PGMS",NULL,NULL,"2022","12","65",NULL,NULL,NULL
@@ -536,11 +536,11 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "650","STL Logistics","https://stllogistics.ie/","stllogistics",NULL,"info@stllogistics.ie",NULL,"2022","8","52",NULL,NULL,NULL
 "651","Suir Engineering","https://suireng.ie/","suirengineering",NULL,NULL,NULL,"2022","6","41",NULL,NULL,NULL
 "652","Sulzer Pumps","https://www.sulzer.com/","sulzerpumps",NULL,"privacy@sulzer.com",NULL,"2022","3","28",NULL,NULL,NULL
-"653","SIG Susquehanna International Group","https://sig.com/","sig",NULL,NULL,NULL,"2022","12","64",NULL,NULL,NULL
+"653","SIG Susquehanna International Group","https://sig.com/","sig",NULL,"recruiting@sig.com",NULL,"2022","12","64",NULL,NULL,NULL
 "654","Teleflex","https://www.teleflex.com/","teleflex",NULL,NULL,NULL,"2022","18","86",NULL,NULL,NULL
 "655","TELUS International","https://www.telusinternational.com/","telusinternational",NULL,NULL,NULL,"2022","11","62",NULL,NULL,NULL
-"656","Teva Pharmaceuticals","https://www.teva.ie/","tevapharmaceuticals",NULL,NULL,NULL,"2022","3","21",NULL,NULL,NULL
-"657","ThermoFisher Scientific","https://jobs.thermofisher.com/global/en/ireland","thermofisher",NULL,NULL,NULL,"2022","3","32",NULL,NULL,NULL
+"656","Teva Pharmaceuticals","https://www.teva.ie/","tevapharmaceuticals",NULL,"info@teva.ie",NULL,"2022","3","21",NULL,NULL,NULL
+"657","ThermoFisher Scientific","https://jobs.thermofisher.com/global/en/ireland","thermofisher",NULL,"fsie.sales@thermofisher.com",NULL,"2022","3","32",NULL,NULL,NULL
 "658","PPD Development","https://www.ppd.com/","ppddevelopment",NULL,"media@ppd.com",NULL,"2022","3","21",NULL,NULL,NULL
 "659","Three Ireland","https://www.three.ie/","threeireland",NULL,NULL,NULL,"2022","11","61",NULL,NULL,NULL
 "660","Trane Technologies","https://www.tranetechnologies.com/","tranetechnologies",NULL,NULL,NULL,"2022","3","26",NULL,NULL,NULL
@@ -550,17 +550,17 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "664","Viatris: Rottapharm Limited","https://www.viatris.ie/","rottapharm",NULL,NULL,NULL,"2022","3","21","663",NULL,NULL
 "665","Viatris: Mylan Teoranta","https://www.viatris.ie/","mylanteoranta",NULL,NULL,NULL,"2022","3","21","663",NULL,NULL
 "666","Virgin Media","https://www.virginmedia.ie/","virginmedia",NULL,NULL,NULL,"2022","10","60",NULL,NULL,NULL
-"667","Walls Construction","https://walls.ie/","wallsconstruction",NULL,NULL,NULL,"2022","6","41",NULL,NULL,NULL
+"667","Walls Construction","https://walls.ie/","wallsconstruction",NULL,"build@walls.ie",NULL,"2022","6","41",NULL,NULL,NULL
 "668","Yahoo","https://www.yahoo.com/","yahoo",NULL,NULL,NULL,"2022","11","63",NULL,NULL,NULL
 "669","AirNav","https://www.airnav.ie/","airnav",NULL,NULL,NULL,"2023","8","52",NULL,NULL,NULL
 "670","Viatris: Upjohn Manufacturing","https://www.viatris.ie/","upjohnmanufacturing",NULL,NULL,NULL,"2022","3","21","663",NULL,NULL
 "671","Viatris: Mylan Healthcare","https://www.viatris.ie/","mylanhealthcare",NULL,NULL,NULL,"2022","7","46","663",NULL,NULL
-"672","Royal College of Surgeons Ireland","https://www.rcsi.com/dublin/","rcsi","RCSI",NULL,NULL,"2022","17","85",NULL,"4",NULL
+"672","Royal College of Surgeons Ireland","https://www.rcsi.com/dublin/","rcsi","RCSI","recruitment@rcsi.ie, communications@rcsi.ie, info@rcsi.ie",NULL,"2022","17","85",NULL,"4",NULL
 "673","Pinterest","https://www.pinterest.com/","pinterest",NULL,NULL,NULL,"2022","11","62",NULL,NULL,NULL
 "674","TLI Group","https://www.tli.ie/","tligroup",NULL,NULL,NULL,"2022","6","41",NULL,NULL,NULL
 "675","Sustainable Energy Authority of Ireland","https://www.seai.ie/","seai","SEAI",NULL,NULL,"2022","16","84",NULL,"1",NULL
 "676","Flogas","https://www.flogas.ie/","flogas",NULL,NULL,NULL,"2022","4","35",NULL,NULL,NULL
-"677","Energia","https://www.energia.ie/home","energia",NULL,NULL,NULL,"2023","4","35",NULL,NULL,NULL
+"677","Energia","https://www.energia.ie/home","energia",NULL," contact@energiagroup.com",NULL,"2023","4","35",NULL,NULL,NULL
 "678","Woodies","https://www.woodies.ie/","woodies",NULL,NULL,NULL,"2022","7","47",NULL,NULL,NULL
 "679","Eddie Rocket's","https://www.eddierockets.ie/","eddierockets",NULL,"info@eddierockets.ie",NULL,"2022","9","56",NULL,NULL,NULL
 "680","New Look","https://www.newlookgroup.com/","newlook",NULL,NULL,"2025","2022","7","47",NULL,NULL,NULL
@@ -572,9 +572,9 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "687","Beauparc Panda Waste","https://beauparc.ie/","beauparcpandawaste",NULL,"contact@beauparc.ie",NULL,"2022","5","38",NULL,NULL,NULL
 "688","Capita","https://www.capita.com/","capita",NULL,NULL,NULL,"2022","14","70",NULL,NULL,NULL
 "689","Harvey Norman","https://www.harveynorman.ie/","harveynorman",NULL,"jobs@ie.harveynorman.com",NULL,"2022","7","47",NULL,NULL,NULL
-"690","Keelings Logistics","https://www.keelings.com/","keelingslogistics",NULL,NULL,NULL,"2022","8","52","1183",NULL,NULL
-"691","Keelings Farms","https://www.keelings.com/","keelingsfarms",NULL,NULL,NULL,"2022","1","1","1183",NULL,NULL
-"692","Keelings Retail","https://www.keelings.com/","keelingsretail",NULL,NULL,NULL,"2022","7","46","1183",NULL,NULL
+"690","Keelings Logistics","https://www.keelings.com/","keelingslogistics",NULL,"customercare@keelings.com",NULL,"2022","8","52","1183",NULL,NULL
+"691","Keelings Farms","https://www.keelings.com/","keelingsfarms",NULL,"customercare@keelings.com",NULL,"2022","1","1","1183",NULL,NULL
+"692","Keelings Retail","https://www.keelings.com/","keelingsretail",NULL,"customercare@keelings.com",NULL,"2022","7","46","1183",NULL,NULL
 "693","LinkedIn","https://www.linkedin.com/feed/","linkedin",NULL,"LERA_IE@linkedin.com",NULL,"2022","11","62",NULL,NULL,NULL
 "694","Dromoland Castle","https://www.dromoland.ie/","dromolandcastle",NULL,"sales@dromoland.ie",NULL,"2022","9","55",NULL,NULL,NULL
 "695","Chanelle Pharma","https://chanellepharma.com/","chanellepharma",NULL,NULL,NULL,"2022","3","21",NULL,NULL,NULL
@@ -585,7 +585,7 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "700","InterContinental Hotel","https://www.ihg.com/intercontinental/hotels/us/en/dublin/dblic/hoteldetail","intercontinentalhotel",NULL,"info@icdublin.com",NULL,"2022","9","55","700",NULL,NULL
 "701","The Galmont Hotel","https://www.thegalmont.com/en/","thegalmonthotel",NULL,"reservations@thegalmont.com",NULL,"2022","9","55","700",NULL,NULL
 "702","Powerscourt Hotel","https://www.powerscourthotel.com/","powerscourthotel",NULL,"marketing@powerscourthotel.com",NULL,"2022","9","55","700",NULL,NULL
-"703","Castleknock Hotel","https://www.castleknockhotel.com/","castleknockhotel",NULL,NULL,NULL,"2022","9","55",NULL,NULL,NULL
+"703","Castleknock Hotel","https://www.castleknockhotel.com/","castleknockhotel",NULL,"eservations@castleknockhotel.ie",NULL,"2022","9","55",NULL,NULL,NULL
 "704","Dole Ireland","https://doleireland.com/","doleireland",NULL,NULL,NULL,"2022","7","46",NULL,NULL,NULL
 "705","Castlemartyr Resort","https://www.castlemartyrresort.ie/","castlemartyrresort",NULL,"info@castlemartyrresort.ie",NULL,"2022","9","55",NULL,NULL,NULL
 "706","RelateCare","https://relatecare.com/","relatecare",NULL,NULL,NULL,"2022","14","70","706",NULL,NULL
@@ -601,7 +601,7 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "716","UPMC Whitfield Hospital","https://upmc.ie","upmcwhitfieldhospital",NULL,NULL,NULL,"2022","18","86","715",NULL,NULL
 "717","UPMC Aut Even Hospital","https://upmc.ie","upmcautevenhospital",NULL,NULL,NULL,"2022","18","86","715",NULL,NULL
 "718","UPMC Kildare Hospital","https://upmc.ie","upmckildarehospital",NULL,NULL,NULL,"2022","18","86","715",NULL,NULL
-"719","Mitie","https://mitie.ie/","mitie",NULL,NULL,NULL,"2022","15","81",NULL,NULL,NULL
+"719","Mitie","https://mitie.ie/","mitie",NULL,"info@mitie.com",NULL,"2022","15","81",NULL,NULL,NULL
 "720","Pieta","https://www.pieta.ie","pieta",NULL,"info@pieta.ie,comms@pieta.ie",NULL,"2022","18","88",NULL,NULL,NULL
 "721","PVH Ireland","https://www.pvh.com/","pvhireland",NULL,"Careers@pvh.com",NULL,"2022","7","47",NULL,NULL,NULL
 "722","Tallaght University Hospital","https://www.tuh.ie/","tallaghtuniversityhospital",NULL,NULL,NULL,"2022","18","86",NULL,"5",NULL
@@ -609,18 +609,18 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "724","Donegal Education and Training Board","https://www.donegaletb.ie/","donegaletb",NULL,NULL,NULL,"2022","17","85",NULL,"6",NULL
 "725","DPD","https://www.dpd.ie/","dpd",NULL,"customerservices@dpd.ie",NULL,"2022","8","52",NULL,NULL,NULL
 "726","FMI","https://fmi.ie/","fmi",NULL,NULL,NULL,"2022","14","73",NULL,NULL,NULL
-"727","Flextronics International","https://flex.com/","flextronicsinternational",NULL,NULL,NULL,"2023","3","26",NULL,NULL,NULL
+"727","Flextronics International","https://flex.com/","flextronicsinternational",NULL,NULL,NULL,"2023","3","26","727",NULL,NULL
 "728","Xilinx","https://www.amd.com/en.html","xilinx","AMD",NULL,NULL,"2022","3","26",NULL,NULL,NULL
 "729","National Rehabilitation Hospital","https://www.nrh.ie/","nationalrehabilitationhospital",NULL,"enquiries@nrh.ie",NULL,"2022","18","86",NULL,"5",NULL
 "730","Winthrop Technologies","https://winthrop.ie/","winthroptechnologies",NULL,"info@winthrop.ie",NULL,"2022","6","41",NULL,NULL,NULL
 "731","Verizon Connect","https://www.verizonconnect.com/ie/","verizonconnect",NULL,NULL,NULL,"2022","11","62","1215",NULL,NULL
 "732","The Barry Group","https://barrygroup.ie/reports-and-publications/","barrygroup",NULL,"info@barrys.ie",NULL,"2022","8","49",NULL,NULL,NULL
 "733","Mater Misericordiae University Hospital","https://www.mater.ie/","materhospital",NULL,"foi@mater.ie, humanresources@mater.ie",NULL,"2022","18","86",NULL,"5",NULL
-"734","Stafford Bakeries","https://www.staffordbakeries.ie/","staffordbakeries",NULL,NULL,NULL,"2022","3","10",NULL,NULL,NULL
+"734","Stafford Bakeries","https://www.staffordbakeries.ie/","staffordbakeries",NULL,"info@staffordbakeries.ie",NULL,"2022","3","10","734",NULL,NULL
 "735","MOWI","https://mowi.com/ie/","mowi",NULL,NULL,NULL,"2022","1","3",NULL,NULL,NULL
 "736","Odeon","https://www.odeoncinemasgroup.com/","odeon",NULL,NULL,NULL,"2022","10","59",NULL,NULL,NULL
-"737","UPS Ireland","https://www.ups.com/","upsireland",NULL,NULL,NULL,"2022","8","52","737",NULL,NULL
-"738","UPS CSTC","https://www.ups.com/","upscstc",NULL,NULL,NULL,"2022","8","52","737",NULL,NULL
+"737","UPS Ireland","https://www.ups.com/","upsireland",NULL,"iefcr@ups.com",NULL,"2022","8","52","737",NULL,NULL
+"738","UPS CSTC","https://www.ups.com/","upscstc",NULL,"iefcr@ups.com",NULL,"2022","8","52","737",NULL,NULL
 "739","Marine Institute","https://www.marine.ie/","marineinstitute",NULL,NULL,NULL,"2023","14","72",NULL,"1",NULL
 "740","Liberty IT","https://www.liberty-it.co.uk/","libertyit",NULL,"careers@liberty-it.co.uk",NULL,"2022","11","62",NULL,NULL,NULL
 "741","Liberty Claims Handling and Imaging","https://www.liberty-it.co.uk/","libertyclaimshandlingandimaging",NULL,NULL,NULL,"2022","12","65",NULL,NULL,NULL
@@ -632,7 +632,7 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "747","Aptiv","https://www.aptiv.com/","aptiv",NULL,"Venishree.Mayer@aptiv.com, Adriana.Clemens@aptiv.com",NULL,"2022","11","62",NULL,NULL,NULL
 "748","Optum Ireland","https://www.optum.ie/","optumireland",NULL,NULL,NULL,"2022","18","86",NULL,NULL,NULL
 "749","Mr. Price","https://www.mrprice.ie/","mrprice",NULL,NULL,NULL,"2022","7","47",NULL,NULL,NULL
-"750","Farnham Estate","https://www.farnhamestate.ie/","farnhamestate",NULL,NULL,NULL,"2022","9","55",NULL,NULL,NULL
+"750","Farnham Estate","https://www.farnhamestate.ie/","farnhamestate",NULL,"info@farnhamestate.ie",NULL,"2022","9","55",NULL,NULL,NULL
 "751","ITX Retail Ireland",,"itxretailireland",NULL,NULL,NULL,"2022","7","47",NULL,NULL,NULL
 "752","Personio","https://www.personio.com/","personio",NULL,"hello@personio.com",NULL,"2023","11","62",NULL,NULL,NULL
 "753","Cadence","https://www.cadence.com/en_US/home.html","cadence",NULL,NULL,NULL,"2023","3","26",NULL,NULL,NULL
@@ -640,12 +640,12 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "755","Riot Games","https://www.riotgames.com/","riotgames",NULL,NULL,NULL,"2024","11","62",NULL,NULL,NULL
 "756","Sea-Fisheries Protection Authority","https://www.sfpa.ie/","sfpa","SFPA",NULL,NULL,"2024","16","84",NULL,"1",NULL
 "757","H&MV Engineering","https://www.hmvengineering.com/","hmvengineering",NULL,NULL,NULL,"2022","14","71",NULL,NULL,NULL
-"758","The Grand Hotel Malahide","https://www.thegrand.ie/","thegrandhotelmalahide",NULL,NULL,NULL,"2024","9","55",NULL,NULL,NULL
-"759","Lily O'Brien's","https://lilyobriens.ie/","lilyobriens",NULL,NULL,NULL,"2024","3","10",NULL,NULL,NULL
+"758","The Grand Hotel Malahide","https://www.thegrand.ie/","thegrandhotelmalahide",NULL,"info@thegrand.ie",NULL,"2024","9","55",NULL,NULL,NULL
+"759","Lily O'Brien's","https://lilyobriens.ie/","lilyobriens",NULL,"weborders@lilyobriens.ie",NULL,"2024","3","10",NULL,NULL,NULL
 "760","The Shannon Airport Group","https://snnairportgroup.ie/","shannonairportgroup",NULL,NULL,NULL,"2024","8","51",NULL,NULL,NULL
 "761","Gheel Autism Services","https://www.gheel.ie/","gheelautismservices",NULL,NULL,NULL,"2024","18","88",NULL,NULL,NULL
 "762","National Standards Authority of Ireland","https://www.nsai.ie/","nsai","NSAI",NULL,NULL,"2024","16","84",NULL,"1",NULL
-"763","Dawn Farms","https://www.dawnfarms.ie/","dawnfarms",NULL,NULL,NULL,"2024","3","10",NULL,NULL,NULL
+"763","Dawn Farms","https://www.dawnfarms.ie/","dawnfarms",NULL,"info@dawnfarms.ie",NULL,"2024","3","10",NULL,NULL,NULL
 "764","Secure All Security Group","https://secureall.ie/","secureallsecuritygroup",NULL,NULL,NULL,"2024","15","80",NULL,NULL,NULL
 "765","Nostra Ireland","https://www.nostra.ie/","nostraireland",NULL,NULL,NULL,"2024","11","62",NULL,NULL,NULL
 "766","Weltec Engineering","https://weltec.ie/","weltecengineering",NULL,NULL,NULL,"2024","6","41",NULL,NULL,NULL
@@ -672,62 +672,62 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "787","Verizon Services","https://www.verizon.com/business","verizonservices",NULL,NULL,NULL,"2024","11","61","1215",NULL,NULL
 "788","TCP Homecare","https://www.tcp.ie/","tcphomecare",NULL,NULL,NULL,"2024","18","86",NULL,NULL,NULL
 "789","Takeda Pharmaceuticals","https://www.takeda.com/en-ie/","takedapharmaceuticals",NULL,NULL,NULL,"2024","3","21","1206",NULL,NULL
-"790","SIG Ireland","https://www.sig.ie/","sigireland",NULL,NULL,NULL,"2024","6","41",NULL,NULL,NULL
+"790","SIG Ireland","https://www.sig.ie/","sigireland",NULL,"dublinsales@sig.ie",NULL,"2024","6","41",NULL,NULL,NULL
 "791","Morehampton Foods","https://www.musgravegroup.com/","morehamptonfoods",NULL,NULL,NULL,"2024","3","10",NULL,NULL,NULL
 "792","La Rousse Foods","https://www.laroussefoods.ie/","laroussefoods",NULL,NULL,NULL,"2024","7","46",NULL,NULL,NULL
 "793","Donnybrook Fair","https://www.donnybrookfair.ie/","donnybrookfair",NULL,NULL,NULL,"2024","9","56","289",NULL,NULL
-"794","Tote Ireland","https://www.toteireland.ie/","toteireland",NULL,NULL,NULL,"2024","19","92",NULL,NULL,NULL
+"794","Tote Ireland","https://www.toteireland.ie/","toteireland",NULL,"customercare@tote.ie, info@thetote.com",NULL,"2024","19","92",NULL,NULL,NULL
 "795","Home Instead","https://www.homeinstead.ie/","homeinstead","Dovida","privacy@dovida.ie",NULL,"2022","18","86",NULL,NULL,NULL
 "796","National Gallery of Ireland","https://www.nationalgallery.ie","nationalgalleryofireland",NULL,NULL,NULL,"2024","19","91",NULL,"1",NULL
 "797","Tourism Ireland","https://www.tourismireland.com/","tourismireland",NULL,NULL,NULL,"2023","16","84",NULL,"1",NULL
 "798","An Post Insurance","https://www.anpostinsurance.ie/","anpostinsurance",NULL,NULL,NULL,"2024","12","65",NULL,NULL,NULL
 "799","Supermacs","https://supermacs.ie/","supermacs",NULL,"info@supermacs.ie",NULL,"2022","9","56",NULL,NULL,NULL
-"800","Seafield Hotel & Spa","https://www.seafieldhotel.com/","seafieldhotelspa",NULL,NULL,NULL,"2024","9","55",NULL,NULL,NULL
+"800","Seafield Hotel & Spa","https://www.seafieldhotel.com/","seafieldhotelspa",NULL,"reservations@seafieldhotel.com, sales@seafieldhotel.com",NULL,"2024","9","55",NULL,NULL,NULL
 "801","Harvey's Point","https://www.harveyspoint.com/","harveyspoint",NULL,NULL,NULL,"2024","9","55",NULL,NULL,NULL
 "802","Square","https://squareup.com/","square","Block Inc",NULL,NULL,"2022","15","82",NULL,NULL,NULL
 "803","Tulfarris Hotel & Golf Resort","https://www.tulfarrishotel.com/","tulfarrishotelgolfresort",NULL,NULL,NULL,"2024","9","55",NULL,NULL,NULL
 "804","Royal Marine Hotel","https://www.royalmarine.ie/","royalmarinehotel",NULL,NULL,NULL,"2024","9","55",NULL,NULL,NULL
-"805","Griffin Group Hotels","https://www.griffingroup.ie/","griffingrouphotels","Hotel Kilkenny",NULL,NULL,"2024","9","55",NULL,NULL,NULL
+"805","Griffin Group Hotels","https://www.griffingroup.ie/","griffingrouphotels","Hotel Kilkenny","info@griffingroup.ie",NULL,"2024","9","55",NULL,NULL,NULL
 "806","Ballygarry Estate","https://www.ballygarry.com/","ballygarryestate",NULL,NULL,NULL,"2024","9","55",NULL,NULL,NULL
 "807","Mount Wolseley Hotel","https://www.mountwolseley.ie/","mountwolseleyhotel",NULL,NULL,NULL,"2024","9","55",NULL,NULL,NULL
-"808","WuXi Vaccines","https://wuxivaccines.com/","wuxivaccines",NULL,NULL,NULL,"2024","3","21","404",NULL,NULL
-"809","Tailte Éireann Non-NSSO","https://www.tailte.ie/","tailteÉireannnonnsso",NULL,NULL,NULL,"2024","16","84",NULL,"1",NULL
+"808","WuXi Vaccines","https://wuxivaccines.com/","wuxivaccines",NULL,"info@wuxibiologics.com, Dundalk_Ireland@wuxibiologics.com, talentacquisition@wuxibiologics.com",NULL,"2024","3","21","404",NULL,NULL
+"809","Tailte Éireann Non-NSSO","https://www.tailte.ie/","tailteÉireannnonnsso",NULL,"info@tailte.ie","2024","2024","16","84",NULL,"1",NULL
 "810","Kerrygold Park Butter Packing","https://www.ornua.com/our-locations/kerrygold-park/","kerrygoldparkbutterpacking",NULL,NULL,NULL,"2024","3","10",NULL,NULL,NULL
 "811","Primeline Logistics","https://primeline.ie/","primelinelogistics",NULL,NULL,NULL,"2022","8","52",NULL,NULL,NULL
-"812","Merchants Quay Ireland","https://mqi.ie","merchantsquayireland",NULL,NULL,NULL,"2024","18","88",NULL,NULL,NULL
-"813","An Bord Pleanála","https://www.pleanala.ie/","anbordpleanala",NULL,NULL,NULL,"2024","16","84",NULL,"1",NULL
+"812","Merchants Quay Ireland","https://mqi.ie","merchantsquayireland",NULL,"info@mqi.ie",NULL,"2024","18","88",NULL,NULL,NULL
+"813","An Coimisiún Pleanála","https://www.pleanala.ie/","ancoimisiunpleanala","An Bord Pleanála",NULL,NULL,"2024","16","84",NULL,"1",NULL
 "814","FRS Recruitment","https://www.frsrecruitment.com/","frsrecruitment",NULL,"info@frsrecruitment.com",NULL,"2022","15","78",NULL,NULL,NULL
 "815","Dublin Port","https://www.dublinport.ie/","dublinport",NULL,NULL,NULL,"2024","8","50",NULL,"1",NULL
 "816","Web Summit","https://websummit.com/","websummit",NULL,NULL,NULL,"2024","15","82",NULL,NULL,NULL
 "817","Premier Lotteries Ireland","https://www.lottery.ie/","premierlotteriesireland",NULL,NULL,NULL,"2024","19","92",NULL,NULL,NULL
 "818","DBFL Consulting Engineers","https://www.dbfl.ie/","dbfl",NULL,NULL,NULL,"2024","14","71",NULL,NULL,NULL
 "819","Ethos Ireland","https://www.ethoseng.ie/","ethosireland",NULL,NULL,NULL,"2024","14","71",NULL,NULL,NULL
-"820","NTT Data Services","https://uk.nttdata.com/ireland","nttdataservices",NULL,NULL,NULL,"2024","11","62",NULL,NULL,NULL
+"820","NTT Data Services","https://uk.nttdata.com/ireland","nttdataservices",NULL,"pressofficeuki@emeal.nttdata.com, ",NULL,"2024","11","62",NULL,NULL,NULL
 "821","Breedon","https://www.breedongroup.com/","breedon",NULL,NULL,NULL,"2024","2","8",NULL,NULL,NULL
-"822","RDJ","https://www.rdj.ie/","rdj",NULL,NULL,NULL,"2023","14","69",NULL,NULL,NULL
+"822","RDJ","https://www.rdj.ie/","rdj",NULL,"info.rdj@rdj.ie",NULL,"2023","14","69",NULL,NULL,NULL
 "823","Acquired Brain Injury Ireland","https://www.abiireland.ie/","acquiredbraininjuryireland",NULL,"hello@abiireland.ie",NULL,"2022","18","88",NULL,NULL,NULL
 "824","Tuath Housing","https://tuathhousing.ie/","tuathhousing",NULL,NULL,NULL,"2024","18","88",NULL,NULL,NULL
 "825","Regatta Ireland","https://www.regatta.com/ie/","regattaireland",NULL," dataprotection@Regatta.com",NULL,"2022","7","47",NULL,NULL,NULL
 "826","Logitech","https://www.logitech.com/en-eu","logitech",NULL,NULL,NULL,"2022","3","26",NULL,NULL,NULL
 "827","Affidea Diagnostics","https://www.affidea.ie/","affideadiagnostics",NULL,"oana.dumitroiu@affidea.com",NULL,"2022","18","86",NULL,NULL,NULL
 "828","The Alzheimer Society of Ireland","https://alzheimer.ie/","thealzheimersocietyofireland",NULL,NULL,NULL,"2022","18","88",NULL,NULL,NULL
-"829","Viatel Technology Group","https://www.viatel.com/","viateltechnologygroup",NULL,NULL,NULL,"2022","11","62",NULL,NULL,NULL
+"829","Viatel Technology Group","https://www.viatel.com/","viateltechnologygroup",NULL,NULL,NULL,"2022","11","62","829",NULL,NULL
 "830","Deutsche Bank","https://country.db.com/ireland/index?language_id=1&kid=ireland.redirect-en.shortcut","deutschebank",NULL,NULL,NULL,"2024","12","64",NULL,NULL,NULL
 "831","Peninsula Business Services","https://www.peninsulagrouplimited.com/ie/","peninsulabusinessservices",NULL,NULL,NULL,"2024","14","69",NULL,NULL,NULL
 "832","St. Hilda's Services","https://www.sthildas.ie/","sthildasservices",NULL,NULL,NULL,"2024","18","87",NULL,NULL,NULL
-"833","Port of Cork","https://www.portofcork.ie/","portofcork",NULL,NULL,NULL,"2024","8","50",NULL,NULL,NULL
-"834","Aircoach","https://www.aircoach.ie/","aircoach",NULL,NULL,NULL,"2024","8","49",NULL,NULL,NULL
-"835","Cork Simon Community","https://www.corksimon.ie/","corksimoncommunity",NULL,NULL,NULL,"2024","18","88",NULL,NULL,NULL
+"833","Port of Cork","https://www.portofcork.ie/","portofcork",NULL,"info@portofcork.ie, communications@portofcork.ie",NULL,"2024","8","50",NULL,NULL,NULL
+"834","Aircoach","https://www.aircoach.ie/","aircoach",NULL,"info@aircoach.ie",NULL,"2024","8","49",NULL,NULL,NULL
+"835","Cork Simon Community","https://www.corksimon.ie/","corksimoncommunity",NULL,"ursula.galvin@corksimon.ie",NULL,"2024","18","88",NULL,NULL,NULL
 "836","Dunboyne Castle Hotel","https://www.dunboynecastlehotel.com/","dunboynecastlehotel",NULL,NULL,NULL,"2024","9","55",NULL,NULL,NULL
-"837","Decathlon","https://www.decathlon.ie/","decathlon",NULL,NULL,NULL,"2024","7","47",NULL,NULL,NULL
+"837","Decathlon","https://www.decathlon.ie/","decathlon",NULL,"help.ireland@decathlon.com",NULL,"2024","7","47",NULL,NULL,NULL
 "838","Aerogen","https://www.aerogen.com/","aerogen",NULL,NULL,NULL,"2022","3","32",NULL,NULL,NULL
-"839","Glenroyal Hotel & Leisure Club","https://www.glenroyal.ie/","glenroyalhotel",NULL,NULL,NULL,"2024","9","55",NULL,NULL,NULL
+"839","Glenroyal Hotel & Leisure Club","https://www.glenroyal.ie/","glenroyalhotel",NULL,"info@glenroyal.ie",NULL,"2024","9","55",NULL,NULL,NULL
 "840","Hodson Bay Group","https://www.hodsonbaygroup.com/","hodsonbaygroup",NULL,NULL,NULL,"2024","9","55",NULL,NULL,NULL
 "841","UCD Campus Sport & Leisure","https://www.ucd.ie/studentcentre/newsopportunities/ucd_csl_ltd_gender_pay_report_2024/","ucdcampussportleisure",NULL,NULL,NULL,"2024","19","93",NULL,NULL,NULL
 "842","National College of Art & Design","https://www.ncad.ie/","ncad","NCAD","information@ncad.ie",NULL,"2022","17","85",NULL,"4",NULL
 "843","The Workman's Club","https://theworkmansclub.com/","theworkmansclub",NULL,NULL,NULL,"2024","19","90",NULL,NULL,NULL
 "844","Department of Rural and Community Development","https://www.gov.ie/en/organisation/department-of-rural-and-community-development/?referrer=/","deptruralcommunitydevelopment",NULL,NULL,NULL,"2024","16","84",NULL,"2",NULL
-"845","The Heritage Hotel","https://www.theheritage.com/","theheritagehotel",NULL,NULL,NULL,"2024","9","55",NULL,NULL,NULL
+"845","The Heritage Hotel","https://www.theheritage.com/","theheritagehotel",NULL,"info@theheritage.com",NULL,"2024","9","55",NULL,NULL,NULL
 "847","Essilor - Transitions Optical Limited","https://www.transitions.com/en-ie/","transitionsopticallimited",NULL,NULL,NULL,"2024","3","32","576",NULL,NULL
 "848","Essilor - Organic Lens Manufacturing","https://www.essilor.com/ie-en/","organiclensmanufacturing",NULL,NULL,NULL,"2024","3","32","576",NULL,NULL
 "849","SGS Ireland","https://www.sgs.com/en-ie","sgsireland",NULL,NULL,NULL,"2022","14","71",NULL,NULL,NULL
@@ -737,17 +737,17 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "853","Cloudera","https://cloudera.com/","cloudera",NULL,NULL,NULL,"2024","11","62",NULL,NULL,NULL
 "854","Economic & Social Research Institute","https://www.esri.ie/","esri","ESRI",NULL,NULL,"2024","14","72",NULL,NULL,NULL
 "855","SMBC Aviation Capital","https://smbc.aero/","smbcaviationcapital",NULL,NULL,NULL,"2024","15","77",NULL,NULL,NULL
-"856","O Callaghan Collection","https://www.ocallaghancollection.com/","ocallaghancollection",NULL,NULL,NULL,"2024","9","55",NULL,NULL,NULL
-"857","Donnelly Fresh","https://www.donnellyfresh.ie/","donnellyfresh",NULL,NULL,NULL,"2024","3","10",NULL,NULL,NULL
+"856","O'Callaghan Collection","https://www.ocallaghancollection.com/","ocallaghancollection",NULL,NULL,NULL,"2024","9","55",NULL,NULL,NULL
+"857","Donnelly Fresh","https://www.donnellyfresh.ie/","donnellyfresh",NULL,"info@donnellyfresh.ie, careers@donnellyfresh.ie",NULL,"2024","3","10",NULL,NULL,NULL
 "858","Alone","https://alone.ie/","alone",NULL,NULL,NULL,"2024","18","88",NULL,NULL,NULL
 "859","ServiceNow","https://www.servicenow.com/","servicenow",NULL,NULL,NULL,"2022","11","62",NULL,NULL,NULL
-"860","MKO","https://mkoireland.ie/","mko",NULL,NULL,NULL,"2024","14","70",NULL,NULL,NULL
+"860","MKO","https://mkoireland.ie/","mko",NULL,"info@mkoireland.ie",NULL,"2024","14","70",NULL,NULL,NULL
 "861","IVC Evidensia","https://www.ivcevidensia.ie/","ivcevidensia",NULL,NULL,NULL,"2022","14","75",NULL,NULL,NULL
 "862","Charter Medical Private Hospital","https://www.cmph.ie/","chartermedicalprivatehospital",NULL,NULL,NULL,"2024","18","86",NULL,NULL,NULL
 "863","Clontarf Hospital","https://www.ioh.ie/","clontarfhospital",NULL,"hr@ioh.ie, pa@ioh.ie ",NULL,"2024","18","86",NULL,NULL,NULL
-"864","Woodlands House Hotel","https://www.woodlands-hotel.ie/","woodlandshousehotel",NULL,NULL,NULL,"2024","9","55",NULL,NULL,NULL
+"864","Woodlands House Hotel","https://www.woodlands-hotel.ie/","woodlandshousehotel",NULL,"hello@woodlands-hotel.ie",NULL,"2024","9","55",NULL,NULL,NULL
 "865","Director of Public Prosecutions","https://www.dppireland.ie/","directorofpublicprosecutions",NULL,NULL,NULL,"2024","16","84",NULL,"1",NULL
-"866","GAA","https://www.gaa.ie/","gaa",NULL,NULL,NULL,"2024","19","93",NULL,NULL,NULL
+"866","GAA","https://www.gaa.ie/","gaa",NULL,"info@gaa.ie",NULL,"2024","19","93",NULL,NULL,NULL
 "867","Toast","https://careers.toasttab.com/ireland","toast",NULL,NULL,NULL,"2024","11","62",NULL,NULL,NULL
 "868","IPB Insurance","https://ipb.ie","ipbinsurance",NULL,NULL,NULL,"2024","12","65",NULL,NULL,NULL
 "869","Loughnane's Family Butchers","https://loughnanes.ie","loughnanesfamilybutchers",NULL,NULL,NULL,"2024","3","10",NULL,NULL,NULL
@@ -757,14 +757,14 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "873","Beauchamps LLP (excluding partners)","https://beauchamps.ie","beauchamps",NULL,NULL,NULL,"2024","14","69",NULL,NULL,NULL
 "874","Maples and Calder LLP","https://maples.com/","maplesandcalderllp",NULL,NULL,NULL,"2024","14","69",NULL,NULL,NULL
 "875","Adobe","https://www.adobe.com","adobe",NULL,NULL,NULL,"2024","11","62",NULL,NULL,NULL
-"876","Global Payments","https://www.globalpayments.com","globalpayments",NULL,NULL,NULL,"2024","12","64",NULL,NULL,NULL
-"877","Pay and Shop Limited","https://www.globalpayments.com","payandshoplimited",NULL,NULL,NULL,"2024","12","64",NULL,NULL,NULL
+"876","Global Payments","https://www.globalpayments.com","globalpayments",NULL,NULL,NULL,"2024","12","64","876",NULL,NULL
+"877","Pay and Shop Limited","https://www.globalpayments.com","payandshoplimited",NULL,"dpo@globalpay.com, media.relations@globalpay.com",NULL,"2024","12","64","876",NULL,NULL
 "878","Squarespace","https://www.squarespace.com","squarespace",NULL,NULL,NULL,"2024","11","63",NULL,NULL,NULL
 "879","Collen","https://www.collen.com/","collen",NULL,NULL,NULL,"2024","6","41",NULL,NULL,NULL
-"880","Emeis Ireland","https://emeis.ie/","emeisireland",NULL,NULL,NULL,"2024","18","87",NULL,NULL,NULL
-"881","Folens","https://www.folensgroup.com","folens",NULL,NULL,NULL,"2024","10","58",NULL,NULL,NULL
+"880","Emeis Ireland","https://emeis.ie/","emeisireland",NULL,"ie.enquiries@emeis.com, recruitment-ireland@emeis.com",NULL,"2024","18","87",NULL,NULL,NULL
+"881","Folens","https://www.folensgroup.com","folens",NULL,"info@folens.ie",NULL,"2024","10","58",NULL,NULL,NULL
 "882","Clúid Housing","https://www.cluid.ie","cluidhousing",NULL,NULL,NULL,"2022","13","68",NULL,"1",NULL
-"883","Itron Management Service","https://na.itron.com/","itronmanagementservice",NULL,NULL,NULL,"2024","14","70",NULL,NULL,NULL
+"883","Itron Management Service","https://na.itron.com/","itronmanagementservice",NULL,"support@itron.com",NULL,"2024","14","70",NULL,NULL,NULL
 "884","Smurfit Westrock","https://www.westrock.com","smurfitwestrock",NULL,NULL,NULL,"2024","3","17","345",NULL,NULL
 "885","Hayes Solicitors","https://hayes-solicitors.ie","hayessolicitors",NULL,NULL,NULL,"2024","14","69",NULL,NULL,NULL
 "886","Cental","https://www.cental.ie","cental",NULL,NULL,NULL,"2024","3","25",NULL,NULL,NULL
@@ -773,45 +773,45 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "889","Amgen ","https://www.amgen.ie","amgen",NULL,NULL,NULL,"2022","14","72",NULL,NULL,NULL
 "890","Horizon Theraputics","https://www.amgen.ie","horizontheraputics",NULL,NULL,NULL,"2024","14","72",NULL,NULL,NULL
 "891","Derrycourt Cleaning Specialists","https://www.derrycourt.ie/","derrycourtcleaningspecialists",NULL,NULL,NULL,"2022","15","81",NULL,NULL,NULL
-"892","CPM Ireland","https://www.cpm-int.com","cpmireland",NULL,NULL,NULL,"2022","14","70",NULL,NULL,NULL
+"892","CPM Ireland","https://www.cpm-int.com","cpmireland",NULL,"info@cpmire.com",NULL,"2022","14","70",NULL,NULL,NULL
 "893","ComReg","https://www.comreg.ie","comreg",NULL,NULL,NULL,"2024","16","84",NULL,"1",NULL
-"894","International Financial Data Services","https://ifdsgroup.com","internationalfinancialdataservices",NULL,NULL,NULL,"2024","1","1",NULL,NULL,NULL
+"894","International Financial Data Services","https://ifdsgroup.com","internationalfinancialdataservices",NULL,"vcugliari@ifdsgroup.com",NULL,"2024","1","1",NULL,NULL,NULL
 "895","DFDS - Logistics Contracts","https://www.dfds.com/en","dfds",NULL,NULL,NULL,"2024","8","50",NULL,NULL,NULL
-"896","Moog Ireland","https://www.moog.com","moogireland",NULL,NULL,NULL,"2024","3","26",NULL,NULL,NULL
+"896","Moog Ireland","https://www.moog.com","moogireland",NULL,"info.ireland@moog.com",NULL,"2024","3","26",NULL,NULL,NULL
 "897","National Broadband Ireland","https://nbi.ie","nationalbroadbandireland",NULL,NULL,NULL,"2024","11","61",NULL,NULL,NULL
-"898","Football Association of Ireland (Main Payroll)","https://www.fai.ie/national-teams/","fai-main","FAI",NULL,NULL,"2024","19","93","898",NULL,NULL
-"899","Football Association of Ireland (Casual Payroll)","https://www.fai.ie/national-teams/","fai-casual","FAI",NULL,NULL,"2024","19","93","898",NULL,NULL
+"898","Football Association of Ireland (Main Payroll)","https://www.fai.ie/national-teams/","fai-main","FAI","media@fai.ie",NULL,"2024","19","93","898",NULL,NULL
+"899","Football Association of Ireland (Casual Payroll)","https://www.fai.ie/national-teams/","fai-casual","FAI","media@fai.ie",NULL,"2024","19","93","898",NULL,NULL
 "900","Sunbeam House Services","https://sunbeam.ie/","sunbeamhouseservices",NULL,"foi@sunbeam.ie",NULL,"2022","18","87",NULL,NULL,NULL
 "901","Medica Ireland","https://www.medica.ie/","medicaireland",NULL,NULL,NULL,"2024","18","86",NULL,NULL,NULL
-"902","iNUA Hospitality","https://www.inua.ie/","inuahospitality",NULL,NULL,NULL,"2024","9","55",NULL,NULL,NULL
-"903","Midlands Park Hotel","https://www.midlandsparkhotel.com","midlandsparkhotel",NULL,NULL,NULL,"2024","9","55",NULL,NULL,NULL
-"904","Faithlegg Hotel","https://www.faithlegg.com","faithlegghotel",NULL,NULL,NULL,"2024","9","55",NULL,NULL,NULL
-"905","Howden Group","https://www.howdengroup.com/sites/ireland.howdenprod.com/files/2024-12/HR-Gender-Pay-Gap-Report-HIL-001-1224.pdf","howdengroup",NULL,NULL,NULL,"2024","12","64",NULL,NULL,NULL
+"902","iNUA Hospitality","https://www.inua.ie/","inuahospitality",NULL,"info@inuahospitality.ie",NULL,"2024","9","55",NULL,NULL,NULL
+"903","Midlands Park Hotel","https://www.midlandsparkhotel.com","midlandsparkhotel",NULL,NULL,NULL,"2024","9","55","1345",NULL,NULL
+"904","Faithlegg Hotel","https://www.faithlegg.com","faithlegghotel",NULL,"reservations@faithlegg.com",NULL,"2024","9","55",NULL,NULL,NULL
+"905","Howden Group","https://www.howdengroup.com/sites/ireland.howdenprod.com/files/2024-12/HR-Gender-Pay-Gap-Report-HIL-001-1224.pdf","howdengroup",NULL,"info@howdeninsurance.ie",NULL,"2024","12","64",NULL,NULL,NULL
 "906","Junction 14 Mayfield","https://junction14mayfield.ie","junction14mayfield",NULL,NULL,NULL,"2024","7","47",NULL,NULL,NULL
 "907","The Plaza Group","https://www.plazagroup.ie","theplazagroup",NULL,NULL,NULL,"2024","7","47",NULL,NULL,NULL
-"908","DID Electrical","https://www.did.ie/","didelectrical",NULL,NULL,NULL,"2024","7","47",NULL,NULL,NULL
+"908","DID Electrical","https://www.did.ie/","didelectrical",NULL,"help@did.ie",NULL,"2024","7","47",NULL,NULL,NULL
 "909","Fields","https://www.fields.ie","fields",NULL,NULL,NULL,"2024","7","47",NULL,NULL,NULL
 "910","STS Group","https://stsgroup.ie/","stsgroup",NULL,"info@stsgroup.ie",NULL,"2022","6","43",NULL,NULL,NULL
-"911","Bunzl Limited","https://www.bunzlireland.ie/","bunzllimited",NULL,NULL,NULL,"2024","7","46",NULL,NULL,NULL
+"911","Bunzl Limited","https://www.bunzlireland.ie/","bunzllimited",NULL,"info@bunzlireland.ie",NULL,"2024","7","46",NULL,NULL,NULL
 "912","Tullow Mushroom Growers","https://coddmushrooms.ie/","tullowmushroomgrowers",NULL,NULL,NULL,"2024","1","1",NULL,NULL,NULL
 "913","Bentley Systems","https://www.bentley.com/","bentleysystems",NULL,NULL,NULL,"2024","11","62",NULL,NULL,NULL
 "914","Dentsu Ireland","https://www.dentsu.com/ie/en","dentsuireland",NULL,NULL,NULL,"2024","14","70",NULL,NULL,NULL
-"915","Fallon & Byrne","https://www.fallonandbyrne.com/","fallonbyrne",NULL,NULL,NULL,"2024","9","56",NULL,NULL,NULL
+"915","Fallon & Byrne","https://www.fallonandbyrne.com/","fallonbyrne",NULL,"office@fallonandbyrne.com",NULL,"2024","9","56",NULL,NULL,NULL
 "916","Cantor Fitzgerald","https://cantorfitzgerald.ie/","cantorfitzgerald",NULL,NULL,NULL,"2024","12","64",NULL,NULL,NULL
 "917","Freudenberg Medical (Carrick-on-Shannon)","https://www.freudenbergmedical.com","freudenbergmedicalcarrick",NULL,NULL,NULL,"2022","3","32","917",NULL,NULL
 "918","Freudenberg Medical (Galway)","https://www.freudenbergmedical.com/","freudenbergmedicalgalway",NULL,NULL,NULL,"2024","3","32","917",NULL,NULL
-"920","Brennans Bread","https://brennansbread.ie/","brennansbread",NULL,NULL,NULL,"2024","3","10",NULL,NULL,NULL
-"921","Cagney Contract Cleaning","https://samsic.ie","cagneycontractcleaning","Samsic",NULL,NULL,"2022","15","81",NULL,NULL,NULL
-"922","Royal Irish Academy of Music","https://www.riam.ie/","royalirishacademyofmusic","RIAM",NULL,NULL,"2024","17","85",NULL,"4",NULL
-"923","Bewley's","https://bewleys.com/","bewleys",NULL,NULL,NULL,"2024","9","56",NULL,NULL,NULL
+"920","Brennans Bread","https://brennansbread.ie/","brennansbread",NULL,"customerservice@brennansbakeries.ie",NULL,"2024","3","10",NULL,NULL,NULL
+"921","Cagney Contract Cleaning","https://samsic.ie","cagneycontractcleaning","Samsic","info@samsic.ie",NULL,"2022","15","81",NULL,NULL,NULL
+"922","Royal Irish Academy of Music","https://www.riam.ie/","royalirishacademyofmusic","RIAM","info@riam.ie",NULL,"2024","17","85",NULL,"4",NULL
+"923","Bewley's","https://bewleys.com/","bewleys",NULL,"connect@bewleys.com",NULL,"2024","9","56",NULL,NULL,NULL
 "924","Córas Iompair Éireann","https://www.cie.ie/","cie","CIE",NULL,NULL,"2024","8","49",NULL,NULL,NULL
-"925","Guineys","https://guineys.ie/","guineys",NULL,NULL,NULL,"2024","7","47",NULL,NULL,NULL
-"926","Dropbox","https://dropbox.com","dropbox",NULL,NULL,NULL,"2024","11","62",NULL,NULL,NULL
-"927","Saint-Gobain","https://www.saint-gobain.ie/","saintgobain",NULL,NULL,NULL,"2024","6","43",NULL,NULL,NULL
+"925","Guineys","https://guineys.ie/","guineys",NULL,"info@guineys.ie",NULL,"2024","7","47",NULL,NULL,NULL
+"926","Dropbox","https://dropbox.com","dropbox",NULL,"info@dropbox.com",NULL,"2024","11","62",NULL,NULL,NULL
+"927","Saint-Gobain","https://www.saint-gobain.ie/","saintgobain",NULL,"SGSolutionsIrl@saint-gobain.com",NULL,"2024","6","43",NULL,NULL,NULL
 "928","Eurofins Biomnis","https://www.eurofins.ie/","eurofinsbiomnis",NULL,"clientservices@ctie.eurofinseu.com",NULL,"2022","14","74",NULL,NULL,NULL
-"929","Jazz Pharmaceuticals","https://www.jazzpharma.com/","jazzpharmaceuticals",NULL,NULL,NULL,"2024","14","72",NULL,NULL,NULL
+"929","Jazz Pharmaceuticals","https://www.jazzpharma.com/","jazzpharmaceuticals",NULL,"corporateaffairsmediainfo@jazzpharma.com, customerservices.r1@jazzpharma.com",NULL,"2024","14","72",NULL,NULL,NULL
 "930","Kneat","https://kneat.com/","kneat",NULL,NULL,NULL,"2024","11","62",NULL,NULL,NULL
-"931","MWP","https://mwp.ie","mwp",NULL,NULL,NULL,"2024","6","43",NULL,NULL,NULL
+"931","MWP","https://mwp.ie","mwp",NULL,"info@mwp.ie",NULL,"2024","6","43",NULL,NULL,NULL
 "932","Fannin","https://www.fannin.eu/","fannin",NULL,NULL,NULL,"2022","7","46",NULL,NULL,NULL
 "933","Genesys","https://www.genesys.com/","genesys",NULL,NULL,NULL,"2022","11","62",NULL,NULL,NULL
 "934","Sonas Nursing Homes","https://sonas.ie/","sonasnursinghomes",NULL,NULL,NULL,"2022","18","87",NULL,NULL,NULL
@@ -839,17 +839,17 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "956","Element Six","https://www.e6.com/","elementsix",NULL,NULL,NULL,"2024","3","23",NULL,NULL,NULL
 "957","CBRE","https://www.cbre.ie/","cbre",NULL,NULL,NULL,"2022","15","82","957",NULL,NULL
 "958","Hovione","https://www.hovione.com/","hovione",NULL,NULL,NULL,"2024","3","21",NULL,NULL,NULL
-"959","CJK Engineering","https://cjkengineering.ie","cjkengineering",NULL,NULL,NULL,"2024","14","71",NULL,NULL,NULL
-"960","Ifac","https://ifac.ie","ifac",NULL,NULL,NULL,"2022","14","74",NULL,NULL,NULL
-"961","Adecco","https://www.adecco.com/en-ie","adecco",NULL,NULL,NULL,"2022","15","78",NULL,NULL,NULL
-"962","Irish College of GPs","https://www.irishcollegeofgps.ie/","irishcollegeofgps",NULL,NULL,NULL,"2024","17","85",NULL,"4",NULL
-"963","Heyday Recruitment","https://heydayrecruitment.ie/","heydayrecruitment",NULL,NULL,NULL,"2024","15","78",NULL,NULL,NULL
-"964","Circet Installations Division","https://www.circet.ie/","circetinstallationsdivision",NULL,NULL,NULL,"2022","11","61","686",NULL,NULL
+"959","CJK Engineering","https://cjkengineering.ie","cjkengineering",NULL,"info@cjkengineering.ie",NULL,"2024","14","71",NULL,NULL,NULL
+"960","Ifac","https://ifac.ie","ifac",NULL,"dublinsme@ifac.ie",NULL,"2022","14","74",NULL,NULL,NULL
+"961","Adecco","https://www.adecco.com/en-ie","adecco",NULL,"1295.dublin@adecco.ie",NULL,"2022","15","78",NULL,NULL,NULL
+"962","Irish College of GPs","https://www.irishcollegeofgps.ie/","irishcollegeofgps",NULL,"info@icgp.ie",NULL,"2024","17","85",NULL,"4",NULL
+"963","Heyday Recruitment","https://heydayrecruitment.ie/","heydayrecruitment",NULL,"hospitality@heydaygroup.ie, healthcare@heydaygroup.ie",NULL,"2024","15","78",NULL,NULL,NULL
+"964","Circet Installations Division","https://www.circet.ie/","circetinstallationsdivision",NULL,"recruitment@circet.ie, info@circet.ie",NULL,"2022","11","61","686",NULL,NULL
 "965","Mediolanum International Funds","https://www.mifl.ie","mediolanuminternationalfunds",NULL,NULL,NULL,"2024","12","64",NULL,NULL,NULL
 "966","Wells Fargo","https://www.wellsfargo.com","wellsfargo",NULL,NULL,NULL,"2024","12","64",NULL,NULL,NULL
-"967","Silver Hill Duck","https://silverhillduck.ie/","silverhillduck",NULL,NULL,NULL,"2024","1","1",NULL,NULL,NULL
-"968","Aer Lingus Ireland","https://www.aerlingus.com/html/en-US/home.html","aerlingusireland",NULL,NULL,NULL,"2022","8","51","13",NULL,NULL
-"969","Aer Lingus Ltd","https://www.aerlingus.com","aerlingusltd",NULL,NULL,NULL,"2022","8","51","13",NULL,NULL
+"967","Silver Hill Duck","https://silverhillduck.ie/","silverhillduck",NULL,"info@silverhillduck.com",NULL,"2024","1","1",NULL,NULL,NULL
+"968","Aer Lingus Ireland","https://www.aerlingus.com/html/en-US/home.html","aerlingusireland",NULL,"pressqueries@aerlingus.com",NULL,"2022","8","51","13",NULL,NULL
+"969","Aer Lingus Ltd","https://www.aerlingus.com","aerlingusltd",NULL,"pressqueries@aerlingus.com",NULL,"2022","8","51","13",NULL,NULL
 "970","Aon Ireland Limited","https://www.aon.com/ireland/default.jsp","aonirelandlimited",NULL,NULL,NULL,"2022","12","65","29",NULL,NULL
 "971","Aon Solutions Ireland","https://www.aon.com","aonsolutionsireland",NULL,NULL,NULL,"2024","12","65","29",NULL,NULL
 "972","Apple Distribution International","https://www.apple.com/ie/","appledistributioninternational",NULL,NULL,NULL,"2022","11","62","30",NULL,NULL
@@ -866,32 +866,32 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "983","Paddy Power Retail","https://www.paddypower.com/bet","paddypowerretail",NULL,NULL,NULL,"2022","19","92","174",NULL,NULL
 "984","TSG Interactive Services","https://www.pokerstars.com/","tsginteractiveservices",NULL,NULL,NULL,"2022","19","92","174",NULL,NULL
 "985","Citibank N.A. Ireland","https://www.citi.com/","citibanknaireland",NULL,NULL,NULL,"2023","12","64","93",NULL,NULL
-"986","Arthur Cox (The Firm - excluding partners)","https://www.arthurcox.com/","arthurcoxthefirmexcludingpartners",NULL,NULL,NULL,"2022","14","69","42",NULL,NULL
+"986","Arthur Cox (The Firm - excluding partners)","https://www.arthurcox.com/","arthurcoxfirmexclpartners",NULL,NULL,NULL,"2022","14","69","42",NULL,NULL
 "987","Zurich Insurance plc","https://www.zurich.ie/","zurichinsurance",NULL,NULL,"2023","2022","12","65","407",NULL,NULL
 "988","Zurich Life Assurance","https://www.zurich.ie/","zurichlifeassurance",NULL,NULL,NULL,"2022","12","65","407",NULL,NULL
 "989","Zurich Insurance Company","https://www.zurich.ie/","zurichinsurancecompany",NULL,NULL,NULL,"2022","12","65","407",NULL,NULL
 "990","Zurich Europe AG","https://www.zurich.ie/","zuricheuropeag",NULL,NULL,NULL,"2024","12","65","407",NULL,NULL
 "991","EY Chartered Accountants","https://www.ey.com/en_ie","eycharteredaccountants",NULL,NULL,NULL,"2023","14","69","162",NULL,NULL
 "992","EY Services","https://www.ey.com/en_ie","eyservices",NULL,NULL,NULL,"2024","14","69","162",NULL,NULL
-"993","Nicholas O'Dwyer","https://nodwyer.com/","nicholasodwyer",NULL,NULL,NULL,"2024","14","71",NULL,NULL,NULL
+"993","Nicholas O'Dwyer","https://nodwyer.com/","nicholasodwyer",NULL,"dublin@nodwyer.com",NULL,"2024","14","71",NULL,NULL,NULL
 "994","Stafford-Miller",,"staffordmiller",NULL,NULL,NULL,"2024","3","21",NULL,NULL,NULL
 "995","Water Wipes","https://www.waterwipes.com/ie/en","waterwipes",NULL,"info@waterwipes.com",NULL,"2023","7","47",NULL,NULL,NULL
 "996","DP World Logistics","https://www.dpworld.com/en","dpworldlogistics",NULL,NULL,NULL,"2024","8","52",NULL,NULL,NULL
-"997","The Fota Collection","https://www.fotacollection.ie/","thefotacollection",NULL,NULL,NULL,"2024","9","55",NULL,NULL,NULL
-"998","The Law Society of Ireland","https://www.lawsociety.ie","thelawsocietyofireland",NULL,NULL,NULL,"2024","20","94",NULL,NULL,NULL
+"997","The Fota Collection","https://www.fotacollection.ie/","thefotacollection",NULL,"reservations@fotaisland.ie, info@fotacollection.ie",NULL,"2024","9","55",NULL,NULL,NULL
+"998","The Law Society of Ireland","https://www.lawsociety.ie","thelawsocietyofireland",NULL," general@lawsociety.ie",NULL,"2024","20","94",NULL,NULL,NULL
 "999","The Rose Hotel","https://www.therosehotel.com","therosehotel",NULL,NULL,NULL,"2024","9","55",NULL,NULL,NULL
-"1000","Irish Blood Transfusion Service","https://www.giveblood.ie","irishbloodtransfusionservice",NULL,NULL,NULL,"2024","18","86",NULL,"1",NULL
+"1000","Irish Blood Transfusion Service","https://www.giveblood.ie","irishbloodtransfusionservice",NULL,"contactus@ibts.ie",NULL,"2024","18","86",NULL,"1",NULL
 "1001","Peter McVerry Trust","https://pmvtrust.ie/","petermcverrytrust",NULL,NULL,NULL,"2022","18","88",NULL,NULL,NULL
-"1002","Sanmina","https://www.sanmina.com/","sanmina",NULL,NULL,NULL,"2022","3","26",NULL,NULL,NULL
+"1002","Sanmina","https://www.sanmina.com/","sanmina",NULL,"nfo@sanmina.com",NULL,"2022","3","26",NULL,NULL,NULL
 "1003","Etsy","https://www.etsy.com/","etsy",NULL,NULL,NULL,"2025","7","47",NULL,NULL,NULL
 "1004","Humanscale","https://eu.humanscale.com","humanscale",NULL,NULL,NULL,"2025","14","74",NULL,NULL,NULL
-"1005","Crowe","https://www.crowe.com/ie","crowe",NULL,NULL,NULL,"2024","14","69",NULL,NULL,NULL
+"1005","Crowe","https://www.crowe.com/ie","crowe",NULL,"info@crowe.ie",NULL,"2024","14","69",NULL,NULL,NULL
 "1006","Akamai","https://www.akamai.com/","akamai",NULL,NULL,NULL,"2025","11","62",NULL,NULL,NULL
 "1007","Schneider Electric Ireland","https://www.se.com/ie","schneiderelectricireland",NULL,NULL,NULL,"2024","3","27","1007",NULL,NULL
 "1008","Schneider Electric IT Logistics Europe","https://www.se.com/ie","schneiderelectric",NULL,NULL,NULL,"2024","8","49","1007",NULL,NULL
 "1009","NFP Ireland","https://www.nfpireland.ie/","nfpireland",NULL,NULL,NULL,"2025","12","66",NULL,NULL,NULL
 "1010","Kennco Insurance","https://www.kennco.ie/","kenncoinsurance",NULL,NULL,NULL,"2025","12","65",NULL,NULL,NULL
-"1011","The Chancery Hotel","https://www.thechanceryhotel.ie","thechanceryhotel",NULL,NULL,NULL,"2024","9","55",NULL,NULL,NULL
+"1011","The Chancery Hotel","https://www.thechanceryhotel.ie","thechanceryhotel",NULL,"reservations.chancery@shgroup.ie",NULL,"2024","9","55",NULL,NULL,NULL
 "1012","Kilkenny Leader Partnership","https://cklp.ie","kilkennyleaderpartnership",NULL,NULL,NULL,"2025","18","88",NULL,NULL,NULL
 "1013","SOS Kilkenny","https://www.soskilkenny.com","soskilkenny",NULL,NULL,NULL,"2023","18","87",NULL,NULL,NULL
 "1014","FinTrU","https://www.fintru.com","fintru",NULL,NULL,NULL,"2025","14","70",NULL,NULL,NULL
@@ -904,14 +904,14 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "1021","Molloy Group","https://molloys.ie","molloygroup",NULL,NULL,NULL,"2025","7","46",NULL,NULL,NULL
 "1022","DPL Group","http://dpl.ie","dplgroup",NULL,NULL,NULL,"2025","7","46",NULL,NULL,NULL
 "1023","Bookstation","https://bookstation.ie/","bookstation",NULL,NULL,NULL,"2025","7","47",NULL,NULL,NULL
-"1024","Wright Quarry Products","https://www.wright.ie","wrightquarryproducts",NULL,NULL,NULL,"2025","3","32","1024",NULL,NULL
-"1025","Wright Concrete Products","https://www.wright.ie","wrightconcreteproducts",NULL,NULL,NULL,"2025","3","32","1024",NULL,NULL
+"1024","Wright Quarry Products","https://www.wright.ie","wrightquarryproducts",NULL,"info@wright.ie",NULL,"2025","3","32","1024",NULL,NULL
+"1025","Wright Concrete Products","https://www.wright.ie","wrightconcreteproducts",NULL,"info@wright.ie",NULL,"2025","3","32","1024",NULL,NULL
 "1026","Nazareth Care Ireland","https://nazarethcare.ie","nazarethcareireland",NULL,NULL,NULL,"2025","18","87",NULL,NULL,NULL
 "1027","Irish Examiner and Echo ","https://www.irishexaminer.com/","irishexaminerandecho",NULL,NULL,NULL,"2023","10","58",NULL,NULL,NULL
 "1028","S&W ","https://www.swgroup.com","sw",NULL,NULL,NULL,"2025","14","69",NULL,NULL,NULL
 "1029","SolarWinds","https://www.solarwinds.com/legal/solarwinds-irish-gender-pay-gap-report","solarwinds",NULL,NULL,NULL,"2024","11","62",NULL,NULL,NULL
 "1030","Irish HomeCare","https://irishhomecare.ie/","irishhomecare",NULL,NULL,NULL,"2022","18","86",NULL,NULL,NULL
-"1031","Courts Service","https://www.courts.ie/","courtsservice",NULL,NULL,NULL,"2022","16","84",NULL,NULL,NULL
+"1031","Courts Service","https://www.courts.ie/","courtsservice",NULL,"ccco@courts.ie",NULL,"2022","16","84",NULL,NULL,NULL
 "1032","Irving Oil Whitegate Refinery","https://www.irvingoil.com/","irvingoilwhitegaterefinery",NULL,NULL,NULL,"2024","3","19",NULL,NULL,NULL
 "1033","Carrolls Irish Gifts","https://carrollsirishgifts.com","carrollsirishgifts",NULL,NULL,NULL,"2024","7","47",NULL,NULL,NULL
 "1034","Blacknight Solutions","https://www.blacknight.com","blacknightsolutions",NULL,NULL,NULL,"2025","15","82",NULL,NULL,NULL
@@ -1003,7 +1003,7 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "1125","Garland Consultancy","https://www.garlandconsultancy.com/","garlandconsultancy",NULL,NULL,NULL,"2025","14","70",NULL,NULL,NULL
 "1126","Phonewatch","https://www.phonewatch.ie/","phonewatch",NULL,NULL,NULL,"2025","15","80",NULL,NULL,NULL
 "1127","Actons Hotel Kinsale","https://www.actonshotelkinsale.com/","actonshotelkinsale",NULL,NULL,NULL,"2025","1","1",NULL,NULL,NULL
-"1128","Unijobs","https://unijobs.ie/","unijobs",NULL,NULL,NULL,"2023","15","78",NULL,NULL,NULL
+"1128","Unijobs","https://unijobs.ie/","unijobs",NULL,"info@unijobs.ie",NULL,"2023","15","78",NULL,NULL,NULL
 "1129","Threshold","https://threshold.ie/","threshold",NULL,NULL,NULL,"2025","18","88",NULL,NULL,NULL
 "1130","Crown Paints","https://about.crownpaints.com/","crownpaints",NULL,NULL,NULL,"2025","3","32",NULL,NULL,NULL
 "1131","The Brehon Hotel & Spa","https://www.thebrehon.com/","thebrehonhotelspa",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
@@ -1036,7 +1036,7 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "1158","Aon Broking Technology","https://www.aon.com/en/capabilities/risk-transfer","aonbrokingtechnology",NULL,NULL,NULL,"2025","12","64","29",NULL,NULL
 "1159","Aviva Direct Ireland","https://www.aviva.ie/","avivadirectireland",NULL,NULL,NULL,"2025","12","65","49",NULL,NULL
 "1160","Jigsaw (National Centre for Youth Mental Health clg)","https://jigsaw.ie/","jigsawnationalcentreforyouthmentalhealth",NULL,NULL,NULL,"2025","18","88",NULL,NULL,NULL
-"1161","Vantive","https://www.vantive.eu/","vantive",NULL,NULL,NULL,"2024","3","21","56",NULL,NULL
+"1161","Vantive","https://www.vantive.eu/","vantive",NULL,"media@vantive.com",NULL,"2024","3","21","56",NULL,NULL
 "1162","CBRE Advisory","https://www.cbre.ie/","cbreadvisory",NULL,NULL,NULL,"2024","13","68","957",NULL,NULL
 "1163","CBRE Project Management","https://www.cbre.ie/","cbreprojectmanagement",NULL,NULL,NULL,"2025","14","70","957",NULL,NULL
 "1164","Citco Technology Management","https://www.citco.com/","citcotechnologymanagement",NULL,NULL,NULL,"2024","11","62","92",NULL,NULL
@@ -1051,7 +1051,7 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "1173","Essilor: Vision Express","https://www.visionexpress.ie/","essilorvisionexpress",NULL,NULL,NULL,"2025","7","47","576",NULL,NULL
 "1174","Rupp and Hubrach Optik","https://www.rh-brillenglas.de/","ruppandhubrachoptik",NULL,NULL,NULL,"2025","7","46",NULL,NULL,NULL
 "1175","EY Client Solution","https://www.ey.com/en_ie","eyclientsolution",NULL,NULL,NULL,"2025","14","70","162",NULL,NULL
-"1176","Claregalway Hotel","https://www.claregalwayhotel.ie","claregalwayhotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1176","Claregalway Hotel","https://www.claregalwayhotel.ie","claregalwayhotel",NULL,NULL,NULL,"2025","9","55","1345",NULL,NULL
 "1177","Hilton Foods",,"hiltonfoods",NULL,NULL,NULL,"2025","3","10",NULL,NULL,NULL
 "1178","Haleon Ireland Dungarvan","https://www.haleon.com/","haleonirelanddungarvan",NULL,NULL,NULL,"2025","3","21","196",NULL,NULL
 "1179","Hewlett Packard - HP Enterprise","https://www.hpe.com/","hewlettpackardhpenterprise",NULL,NULL,NULL,"2025","11","62","207",NULL,NULL
@@ -1119,7 +1119,7 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "1241","Vienna Woods Hotel","https://www.viennawoodshotel.com/","viennawoodshotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
 "1242","Academy Plaza Hotel","https://www.academyplazahotel.ie/","academyplazahotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
 "1243","Sage Hibernian","https://www.sage.com/","sagehibernian",NULL,NULL,NULL,"2025","11","62",NULL,NULL,NULL
-"1244","RBK (Russell Brennan Keane)","https://www.rbk.ie/","rbkrussellbrennankeane",NULL,NULL,NULL,"2024","14","69",NULL,NULL,NULL
+"1244","RBK (Russell Brennan Keane)","https://www.rbk.ie/","rbkrussellbrennankeane",NULL,"enquiries@rbk.ie",NULL,"2024","14","69",NULL,NULL,NULL
 "1245","Computershare","https://www.computershare.com/us","computershare",NULL,NULL,NULL,"2025","12","66",NULL,NULL,NULL
 "1246","Transdev","https://www.transdev.com/","transdev",NULL,NULL,NULL,"2023","8","49",NULL,NULL,NULL
 "1247","IQ-EQ","https://iqeq.com/","iqeq",NULL,NULL,NULL,"2025","11","63",NULL,NULL,NULL
@@ -1144,7 +1144,392 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "1266","Chanel","https://www.chanel.com/","chanel",NULL,NULL,NULL,"2025","7","47",NULL,NULL,NULL
 "1267","Flyefit","https://www.flyefit.ie/wp-content/uploads/2025/12/GENDER-PAY-REPORT-2025.pdf","flyefit",NULL,NULL,NULL,"2025","19","93",NULL,NULL,NULL
 "1268","Sogeti","https://www.sogeti.ie/","sogeti",NULL,NULL,NULL,"2025","11","62",NULL,NULL,NULL
-"1269","Jennings O\'Donovan","https://www.jodireland.com/","jenningsodonovan",NULL,NULL,NULL,"2025","6","43",NULL,NULL,NULL
+"1269","Jennings O'Donovan","https://www.jodireland.com/","jenningsodonovan",NULL,NULL,NULL,"2025","6","43",NULL,NULL,NULL
 "1270","DAC Beachcroft","https://www.dacbeachcroft.com/","dacbeachcroft",NULL,NULL,NULL,"2025","14","69",NULL,NULL,NULL
 "1271","D/RES","https://dres.ie/","dres",NULL,NULL,NULL,"2025","6","41",NULL,NULL,NULL
 "1272","Health Services Staffs Credit Union","https://www.hsscu.ie/","healthservicesstaffscreditunion",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1273","Apem Group","https://www.apemltd.com/","apemgroup",NULL,NULL,NULL,"2025","14","70","1273",NULL,NULL
+"1274","Woodrow SSL","https://woodrow.ie/","woodrowssl",NULL,NULL,NULL,"2025","14","70","1273",NULL,NULL
+"1275","The Iveagh Trust","https://www.theiveaghtrust.ie/","theiveaghtrust",NULL,NULL,NULL,"2025","15","77",NULL,NULL,NULL
+"1276","Aiséirí","https://aiseiri.ie/","aisir",NULL,NULL,NULL,"2025","18","86",NULL,NULL,NULL
+"1277","Capital","https://www.capitalswitchgear.com/","capital",NULL,NULL,NULL,"2025","3","27",NULL,NULL,NULL
+"1278","Finance Ireland","https://www.financeireland.ie/","financeireland",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1279","PCO Pharma Group","https://www.pco.ie","pcopharmagroup",NULL,NULL,NULL,"2025","7","46",NULL,NULL,NULL
+"1280","Cygnum","https://cygnum.ie/","cygnum",NULL,"info@cygnum.ie",NULL,"2025","6","41",NULL,NULL,NULL
+"1281","Gallivan Murphy Insurance Brokers","https://www.gmib.ie/","gmib","GMIB","info@gmib.ie",NULL,"2025","12","65",NULL,NULL,NULL
+"1282","Munster Bovine","https://www.munsterbovine.ie/","munsterbovine",NULL,NULL,NULL,"2025","14","75",NULL,NULL,NULL
+"1283","PV Generation","https://pvgeneration.ie/","pvgeneration",NULL,NULL,NULL,"2025","6","43",NULL,NULL,NULL
+"1284","Fexco","https://www.fexco.com/","fexco",NULL,NULL,NULL,"2022","1","1",NULL,NULL,NULL
+"1285","Talbot Hotel Clonmel","https://www.talbothotelclonmel.ie/","talbothotelclonmel",NULL,NULL,NULL,"2025","9","55","1068",NULL,NULL
+"1286","Caregivers Ireland","https://caregiversireland.ie/","caregiversireland",NULL,NULL,NULL,"2022","18","88",NULL,NULL,NULL
+"1287","Tennant & Ruttle","https://www.tandr.ie/","tennantruttle",NULL,NULL,NULL,"2025","8","52",NULL,NULL,NULL
+"1288","Rockwell","https://www.rockwell.ie/","rockwell",NULL,NULL,NULL,"2025","6","43",NULL,NULL,NULL
+"1289","Trident Hotel","https://www.tridenthotel.com/","tridenthotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1290","Leinster Rugby","https://www.leinsterrugby.ie/","leinsterrugby",NULL,NULL,NULL,"2025","19","93",NULL,NULL,NULL
+"1291","Asana Software","https://asana.com/","asanasoftware",NULL,NULL,NULL,"2025","11","62",NULL,NULL,NULL
+"1292","Archdiocese of Dublin","https://dublindiocese.ie/","archdioceseofdublin",NULL,NULL,NULL,"2025","20","94",NULL,NULL,NULL
+"1293","Skillnet Ireland","https://www.skillnetireland.ie/","skillnetireland",NULL,NULL,NULL,"2025","20","94",NULL,NULL,NULL
+"1294","Cabot Financial","https://www.cabotfinancial.ie/","cabotfinancial",NULL,NULL,NULL,"2025","12","66",NULL,NULL,NULL
+"1295","Member First Credit Union","https://www.mfcu.ie/","memberfirstcreditunion",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1296","Dolmen Insurance","https://www.dolmen-insurance.ie/","dolmeninsurance",NULL,NULL,NULL,"2025","12","65",NULL,NULL,NULL
+"1297","Cara Credit Union","https://www.caracreditunion.ie/","caracreditunion",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1298","Croí Laighean Credit Union","https://www.clcu.ie/","croilaigheancreditunion",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1299","Progressive Credit Union","https://progressivecu.ie/media/pmsdqxyz/pcu-gender-pay-gap-report-2025.pdf","progressivecreditunion",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1300","Tullamore Credit Union","https://www.tullamorecu.ie/","tullamorecreditunion",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1301","Credit Union Plus","https://creditunionplus.ie/","creditunionplus",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1302","St. Canice's Credit Union","https://stcanicescu.ie/","stcanicescreditunion",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1303","Irish League of Credit Unions","https://www.creditunion.ie/","irishleagueofcreditunions",NULL,NULL,NULL,"2025","20","94",NULL,NULL,NULL
+"1304","Menlo Park Hotel","https://www.menloparkhotel.com/","menloparkhotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1305","CeX","https://ie.webuy.com/","cex",NULL,NULL,NULL,"2022","7","47",NULL,NULL,NULL
+"1306","EisnerAmper","https://eisneramper.ie/","eisneramper",NULL,NULL,NULL,"2025","14","69",NULL,NULL,NULL
+"1307","Avista","https://avista.ie/","avista",NULL,"info@avistaclg.ie",NULL,"2022","18","87",NULL,NULL,NULL
+"1308","Black Shamrock","https://www.black-shamrock.com/","blackshamrock",NULL,NULL,NULL,"2025","11","62",NULL,NULL,NULL
+"1309","Mars Capital Finance","https://www.marscapital.ie/","marscapitalfinance",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1310","Irish Pensions & Finance","https://ipf.ie/","irishpensionsfinance",NULL,NULL,NULL,"2025","12","66",NULL,NULL,NULL
+"1311","WPP Media","https://www.wppmedia.com/","wppmedia",NULL,NULL,NULL,"2025","14","73",NULL,NULL,NULL
+"1312","Canbe Group","https://www.canbe.ie/","canbegroup",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1313","Propylon Ireland (RWS)","https://propylon.com/","propylonirelandrws",NULL,NULL,NULL,"2025","11","63",NULL,NULL,NULL
+"1314","Fyffes","https://www.fyffes.com/","fyffes",NULL,NULL,NULL,"2025","3","10",NULL,NULL,NULL
+"1315","Country Clean","https://countryclean.ie/","countryclean",NULL,"sales@countryclean.ie",NULL,"2024","5","38",NULL,NULL,NULL
+"1316","Fragomen","https://www.fragomen.com/","fragomen",NULL,NULL,NULL,"2025","14","74",NULL,NULL,NULL
+"1317","Invesco","https://www.invesco.com/","invesco",NULL,NULL,NULL,"2025","12","65",NULL,NULL,NULL
+"1318","Amdocs ASSL","https://www.amdocs.com/","amdocsassl",NULL,NULL,NULL,"2025","11","62","1318",NULL,NULL
+"1319","Amdocs Openet","https://www.amdocs.com/","amdocsopenet",NULL,NULL,NULL,"2025","11","62","1318",NULL,NULL
+"1320","Pilgrim's Europe","https://pilgrimseurope.com/","pilgrimseurope",NULL,NULL,NULL,"2022","3","10",NULL,NULL,NULL
+"1321","Dimon Walsh Hospitality","https://lilyandwild.ie/","dimonwalshhospitality","Lily & Wild",NULL,NULL,"2025","9","56",NULL,NULL,NULL
+"1322","Lyrath Estate","https://www.lyrath.com/","lyrathestate",NULL,"info@lyrath.com",NULL,"2024","9","55",NULL,NULL,NULL
+"1323","Cavan Crystal Hotel","https://www.cavancrystalhotel.com/","cavancrystalhotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1324","Chubb","https://www.chubb.com/","chubb",NULL,NULL,NULL,"2025","12","65",NULL,NULL,NULL
+"1325","World Rugby Ireland","https://www.world.rugby/?lang=en","worldrugbyireland",NULL,NULL,NULL,"2025","19","93",NULL,NULL,NULL
+"1326","Taoglas","https://www.taoglas.com/","taoglas",NULL,NULL,NULL,"2025","11","61",NULL,NULL,NULL
+"1327","Tobin","https://www.tobin.ie/","tobin",NULL,NULL,NULL,"2024","14","74",NULL,NULL,NULL
+"1328","Nestlé Ireland","https://www.nestle.co.uk/","nestle",NULL,NULL,NULL,"2025","3","10",NULL,NULL,NULL
+"1329","Storyful","https://storyful.com/","storyful",NULL,NULL,NULL,"2025","10","60",NULL,NULL,NULL
+"1330","The Grafton","https://www.thegrafton.ie/","thegrafton",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1331","NetApp","https://www.netapp.com/","netapp",NULL,NULL,NULL,"2025","11","63",NULL,NULL,NULL
+"1332","GLG Insights","https://glginsights.com/","glginsights",NULL,NULL,NULL,"2025","14","73",NULL,NULL,NULL
+"1333","M&G","https://www.mandg.com/","mg",NULL,NULL,NULL,"2025","12","66",NULL,NULL,NULL
+"1334","Residential Tenancies Board","https://rtb.ie/","residentialtenanciesboard","RTB",NULL,NULL,"2025","16","84",NULL,NULL,NULL
+"1335","PE Global","https://www.peglobal.net/","peglobal",NULL,NULL,NULL,"2025","15","78",NULL,NULL,NULL
+"1336","Blizzard Entertainment Ltd","https://www.activision.com/","blizzardentertainmentltd",NULL,NULL,NULL,"2025","11","62","1336",NULL,NULL
+"1337","Activision Blizzard Ireland","https://www.activision.com/","activisionblizzardireland",NULL,NULL,NULL,"2024","11","62","1336",NULL,NULL
+"1338","Demonware","https://www.demonware.net/","demonware",NULL,NULL,NULL,"2025","11","63","1336",NULL,NULL
+"1339","Milford Care Centre","https://milfordcarecentre.ie/","milfordcarecentre",NULL,NULL,NULL,"2022","18","87",NULL,NULL,NULL
+"1340","Cowper Care","https://cowpercare.ie/","cowpercare",NULL,NULL,NULL,"2024","18","87",NULL,NULL,NULL
+"1341","Boeing","https://www.boeing.co.uk/","boeing",NULL,NULL,NULL,"2025","15","77",NULL,NULL,NULL
+"1342","Nokia Ireland","https://www.nokia.com/","nokiaireland",NULL,NULL,NULL,"2025","11","61",NULL,NULL,NULL
+"1343","Pownall & Hampson","https://www.pownallandhampson.com/","pownallhampson",NULL,NULL,NULL,"2025","3","32",NULL,NULL,NULL
+"1344","Siemens","https://www.siemens.com/ie/en.html","siemens",NULL,NULL,NULL,"2025","3","27",NULL,NULL,NULL
+"1345","Great National Hotel Balina","https://www.hotelballina.ie/","greatnationalhotelbalina",NULL,NULL,NULL,"2025","9","55","1345",NULL,NULL
+"1346","Jaguar Land Rover (JLR)","https://www.jlr.com/","jaguarlandroverjlr",NULL,NULL,NULL,"2025","7","47",NULL,NULL,NULL
+"1347","ProStrategy","https://www.prostrategy.ie/","prostrategy",NULL,NULL,NULL,"2025","14","70",NULL,NULL,NULL
+"1348","SOTI","https://soti.net/","soti",NULL,NULL,NULL,"2025","11","62",NULL,NULL,NULL
+"1349","Millenium","https://www.mlp.com/","millenium",NULL,NULL,NULL,"2025","12","66",NULL,NULL,NULL
+"1350","Mallinckrodt Pharmaceuticals","https://www.mallinckrodt.com/","mallinckrodtpharmaceuticals",NULL,NULL,NULL,"2025","3","21",NULL,NULL,NULL
+"1351","Sterling Pharma Solutions","https://www.sterlingpharmasolutions.com/","sterlingpharmasolutions",NULL,NULL,NULL,"2025","3","21",NULL,NULL,NULL
+"1352","Adrian Dunne Pharmacy","https://www.dunnepharmacies.ie/","adriandunnepharmacy",NULL,"info@dunnepharmacies.ie",NULL,"2024","7","47",NULL,NULL,NULL
+"1353","Flynn","https://www.flynnmc.com/","flynn",NULL,NULL,NULL,"2024","6","41",NULL,NULL,NULL
+"1354","Coolmine Therapeutic Community","https://www.coolmine.ie/","coolminetherapeuticcommunity",NULL,NULL,NULL,"2025","18","87",NULL,NULL,NULL
+"1355","Prosper Fingal","https://www.prosperfingal.ie/","prosperfingal",NULL,NULL,NULL,"2025","18","88",NULL,NULL,NULL
+"1356","LauraLynn","https://www.lauralynn.ie/","lauralynn",NULL,NULL,NULL,"2025","18","87",NULL,NULL,NULL
+"1357","Mental Health Ireland","https://www.mentalhealthireland.ie/","mentalhealthireland",NULL,NULL,NULL,"2025","18","88",NULL,NULL,NULL
+"1358","Newbrook Nursing Home","https://newbrooknursinghome.ie/","newbrooknursinghome",NULL,NULL,NULL,"2025","18","87",NULL,NULL,NULL
+"1359","Trailfinders","https://www.trailfinders.ie","trailfinders",NULL,NULL,NULL,"2025","15","79",NULL,NULL,NULL
+"1360","Flynn O'Driscoll (all entities combined, excluding equity partners)","https://www.fod.ie/","flynnodriscoll",NULL,NULL,NULL,"2025","14","69",NULL,NULL,NULL
+"1361","National Beauty","https://www.nationalbeauty.ie/","nationalbeauty",NULL,NULL,NULL,"2025","7","46",NULL,NULL,NULL
+"1362","Down Syndrome Ireland","https://downsyndrome.ie/","downsyndromeireland",NULL,NULL,NULL,"2025","18","88",NULL,NULL,NULL
+"1363","Gaiety Theatre","https://www.gaietytheatre.ie/","gaietytheatre",NULL,NULL,NULL,"2025","19","90",NULL,NULL,NULL
+"1364","Phorest","https://www.phorest.com/","phorest",NULL,NULL,NULL,"2024","11","62",NULL,NULL,NULL
+"1365","Superdrug","https://www.superdrug.com/","superdrug",NULL,NULL,NULL,"2025","7","47",NULL,NULL,NULL
+"1366","Capital Hair & Beauty","https://www.capitalhairandbeauty.ie/","capitalhairbeauty",NULL,NULL,NULL,"2025","7","46",NULL,NULL,NULL
+"1367","Charlotte Tlbury","https://www.charlottetilbury.com/","charlottetlbury",NULL,"customercare@charlottetilbury.com",NULL,"2024","7","47",NULL,NULL,NULL
+"1368","The Lady Gregory Hotel","https://www.ladygregoryhotel.ie/","theladygregoryhotel",NULL,NULL,NULL,"2025","9","55","1345",NULL,NULL
+"1369","The Tanning Shop","https://thetanningshop.ie/","thetanningshop",NULL,NULL,NULL,"2025","20","96",NULL,NULL,NULL
+"1370","News Press Ireland","https://www.newspressireland.com/","newspressireland",NULL,NULL,NULL,"2025","10","58","1372",NULL,NULL
+"1371","Onic Audio","https://www.onic.ie/","onicaudio",NULL,NULL,NULL,"2025","10","60","1372",NULL,NULL
+"1372","News UK & Ireland (all legal entities)","https://www.news.co.uk/","newsukireland",NULL,NULL,NULL,"2025","10","60","1372",NULL,NULL
+"1373","Shareridge Civil Engineering","https://www.shareridge.ie/","shareridgecivilengineering",NULL,NULL,NULL,"2025","6","42","1373",NULL,NULL
+"1374","Shareridge Utilities","https://www.shareridge.ie/","shareridgeutilities",NULL,NULL,NULL,"2025","14","71","1373",NULL,NULL
+"1375","TSL Projects","https://tslprojects.com/","tslprojects",NULL,NULL,NULL,"2025","6","43",NULL,NULL,NULL
+"1376","Teckro","https://teckro.com/","teckro",NULL,NULL,NULL,"2025","11","62",NULL,NULL,NULL
+"1377","Smarttech247","https://www.smarttech247.com/","smarttech247",NULL,NULL,NULL,"2025","11","63",NULL,NULL,NULL
+"1378","Land Development Agency","https://lda.ie/","landdevelopmentagency",NULL,NULL,NULL,"2025","16","84",NULL,NULL,NULL
+"1379","Securitas","https://www.securitas.ie/","securitas",NULL,"customerservice@securitas.ie",NULL,"2024","15","80",NULL,NULL,NULL
+"1380","Fleetwood","https://www.fleetwood.ie/","fleetwood",NULL,NULL,NULL,"2025","3","20",NULL,NULL,NULL
+"1381","Bellingham Castle","https://www.bellinghamcastle.ie/","bellinghamcastle",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1382","Welocalize","https://www.welocalize.com/","welocalize",NULL,NULL,NULL,"2025","11","63",NULL,NULL,NULL
+"1383","Giraffe Childcare","https://www.giraffe.ie/","giraffechildcare",NULL,"info@giraffe.ie, careers@giraffe.ie",NULL,"2024","18","88",NULL,NULL,NULL
+"1384","Co-operative Housing Ireland","https://www.cooperativehousing.ie/","cooperativehousingireland",NULL,NULL,NULL,"2025","13","68",NULL,NULL,NULL
+"1385","Eirgen","https://www.eirgen.com/","eirgen",NULL,NULL,NULL,"2025","3","21",NULL,NULL,NULL
+"1386","The Brazen Head","https://brazenhead.com/","thebrazenhead",NULL,NULL,NULL,"2025","9","56",NULL,NULL,NULL
+"1387","Four Seasons Carlingford","https://www.4seasonshotelcarlingford.ie/","fourseasonscarlingford",NULL,NULL,NULL,"2025","9","55","1387",NULL,NULL
+"1388","Close Brothers Motor Finance","https://www.closemotorfinance.ie/","closebrothersmotorfinance",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1389","Four Seasons Monaghan","https://www.4seasonshotel.ie/","fourseasonsmonaghan",NULL,NULL,NULL,"2025","9","55","1387",NULL,NULL
+"1390","Frank Keane Liffey Valley","https://www.frankkeanevolkswagen.ie/","frankkeaneliffeyvalley",NULL,NULL,NULL,"2025","7","47","1390",NULL,NULL
+"1391","Frank Keane South Dublin","https://www.frankkeanevolkswagen.ie/","frankkeanesouthdublin",NULL,NULL,NULL,"2025","7","47","1390",NULL,NULL
+"1392","International Hotel Kilkenny","https://www.killarneyinternational.com/","internationalhotelkilkenny",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1393","Aghadoe Heights Hotel & Spa","https://www.aghadoeheights.com/","aghadoeheightshotelspa",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1394","Bluebird Care BKE Ltd.","https://www.bluebirdcare.ie/","bluebirdcarebkeltd",NULL,NULL,NULL,"2025","18","86","1394",NULL,NULL
+"1395","Bluebird Care Dublin South","https://www.bluebirdcare.ie/","bluebirdcaredublinsouth",NULL,NULL,NULL,"2025","18","86","1394",NULL,NULL
+"1396","Bluebird Care Northeast","https://www.bluebirdcare.ie/","bluebirdcarenortheast","Kiermar",NULL,NULL,"2025","18","86","1394",NULL,NULL
+"1397","Bluebird Care Valcao","https://www.bluebirdcare.ie/","bluebirdcarevalcao",NULL,NULL,NULL,"2025","18","86","1394",NULL,NULL
+"1398","Bluebird Care Wexford","https://www.bluebirdcare.ie/","bluebirdcarewexford",NULL,NULL,NULL,"2025","18","86","1394",NULL,NULL
+"1399","Bluebird Care Dublin South West","https://www.bluebirdcare.ie/","bluebirdcaredublinsouthwest",NULL,NULL,NULL,"2025","18","86","1394",NULL,NULL
+"1400","Bluebird Care Tipperary & East Cork","https://www.bluebirdcare.ie/","bluebirdcaretipperaryeastcork",NULL,NULL,NULL,"2025","18","86","1394",NULL,NULL
+"1401","Bluebird Care Galway","https://www.bluebirdcare.ie/","bluebirdcaregalway",NULL,NULL,NULL,"2025","18","86","1394",NULL,NULL
+"1402","Bluebird Care Clare","https://www.bluebirdcare.ie/","bluebirdcareclare",NULL,NULL,NULL,"2025","18","86","1394",NULL,NULL
+"1403","ALS Global","https://www.alsglobal.com/en/","alsglobal",NULL,NULL,NULL,"2025","14","71",NULL,NULL,NULL
+"1404","Granville Hotel Waterford","https://www.granvillehotel.ie/","granvillehotelwaterford",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1405","Great National South Court Hotel","https://www.southcourthotel.com/","greatnationalsouthcourthotel",NULL,NULL,NULL,"2025","9","55","1345",NULL,NULL
+"1406","Great National Ballykisteen Hotel","https://www.ballykisteenhotel.com/","greatnationalballykisteenhotel",NULL,NULL,NULL,"2025","9","55","1345",NULL,NULL
+"1407","Newtown Park Hotel","https://www.newtownparkhotel.com/","newtownparkhotel",NULL,NULL,NULL,"2025","9","55","1345",NULL,NULL
+"1408","Brandon House Hotel","https://www.brandonhousehotel.ie","brandonhousehotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1409","Carrigaline Court Hotel","https://carrigalinecourt.com/","carrigalinecourthotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1410","Sligo Park Hotel","https://www.sligoparkhotel.com/","sligoparkhotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1411","Eccles Hotel","https://www.eccleshotel.com/","eccleshotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1412","Hotel Isaacs","https://www.hotelisaacscork.com/","hotelisaacs",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1413","Ticketmaster","https://www.ticketmaster.ie/","ticketmaster",NULL,NULL,NULL,"2025","15","79",NULL,NULL,NULL
+"1414","Autism Initiatives Ireland","https://autisminitiatives.org","autisminitiativesireland",NULL,NULL,NULL,"2024","18","88",NULL,NULL,NULL
+"1415","Avalon House Hotel","https://www.avalonhousehotel.ie/","avalonhousehotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1416","Kilmore Hotel","https://www.hotelkilmore.ie/","kilmorehotel",NULL,NULL,NULL,"2025","9","55","856",NULL,NULL
+"1417","The Morrison Hotel","https://www.morrisonhotel.ie/","themorrisonhotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1418","Grand Canal Hotel","https://www.grandcanalhotel.ie/en/","grandcanalhotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1419","Bridge House Hotel","https://www.bridgehousehoteltullamore.ie/","bridgehousehotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1420","McWilliam Park Hotel","https://www.mcwilliampark.ie/","mcwilliamparkhotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1421","Baker Tilly Ireland","https://www.bakertilly.ie/","bakertillyireland",NULL,NULL,NULL,"2025","14","69",NULL,NULL,NULL
+"1422","Global Ireland","https://global.com/ie/","globalireland",NULL,NULL,NULL,"2025","14","73",NULL,NULL,NULL
+"1423","MCD Productions","https://www.mcd.ie/","mcdproductions",NULL,NULL,NULL,"2025","19","90",NULL,NULL,NULL
+"1424","Dalcassian Restaurants","https://dalcassian.ie/","dalcassianrestaurants","McDonald's Sligo & Letterkenny","info@dalcassian.ie",NULL,"2023","9","56",NULL,NULL,NULL
+"1425","The Q Café Company","https://www.qcafe.ie/","theqcafecompany",NULL,"info@qcafe.ie",NULL,"2022","9","56",NULL,NULL,NULL
+"1426","Limerick Leader","https://www.limerickleader.ie/","limerickleader","Formpress Publishing Ltd",NULL,NULL,"2025","10","58",NULL,NULL,NULL
+"1427","Irish Dog Foods","https://irishdogfoods.com/","irishdogfoods",NULL,NULL,NULL,"2024","3","10",NULL,NULL,NULL
+"1428","Bank of Montreal","https://capitalmarkets.bmo.com/","bankofmontreal",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1429","Ocuco","https://www.ocuco.com/","ocuco",NULL,"info@ocuco.com",NULL,"2024","11","62",NULL,NULL,NULL
+"1430","Intact Software","https://www.intactsoftware.com/","intactsoftware",NULL,NULL,NULL,"2025","11","61",NULL,NULL,NULL
+"1431","Broadridge Ireland","https://www.broadridge.com/","broadridgeireland",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1432","Tandem Project Management","https://www.tandempm.ie/","tandemprojectmanagement",NULL,NULL,NULL,"2025","14","70",NULL,NULL,NULL
+"1433","Openmind Networks","https://www.openmindnetworks.com/","openmindnetworks",NULL,NULL,NULL,"2025","11","61",NULL,NULL,NULL
+"1434","Avery Dennison Ireland","https://www.averydennison.com","averydennisonireland",NULL,NULL,NULL,"2025","3","22",NULL,NULL,NULL
+"1435","Arthur Cox (The Company - including partners)","https://www.arthurcox.com/","arthurcoxcompanyinclpartners",NULL,NULL,NULL,"2022","14","69","42",NULL,NULL
+"1436","Arthur Cox (The Company - excluding partners)","https://www.arthurcox.com/","arthurcoxcompanyexclpartners",NULL,NULL,NULL,"2022","14","69","42",NULL,NULL
+"1437","Arthur Cox (all legal entities)","https://www.arthurcox.com/wp-content/uploads/2023/12/Gender-Pay-Gap-Report-2023-FINAL.pdf","arthurcoxalllegalentities",NULL,NULL,NULL,"2022","14","69","42",NULL,NULL
+"1438","DXC Technology","https://dxc.com/","dxctechnology",NULL,NULL,NULL,"2025","11","62",NULL,NULL,NULL
+"1439","Mountain Warehouse","https://www.mountainwarehouse.com/eu/roi-gender-pay-gap/","mountainwarehouse",NULL,NULL,NULL,"2025","7","47",NULL,NULL,NULL
+"1440","Pelco","https://www.pelco.ie/","pelco",NULL,"info@pelcoltd.ie",NULL,"2024","7","47",NULL,NULL,NULL
+"1441","International Irish Trading Corporation (IITC)","https://iitc.ie/","iitc",NULL,NULL,NULL,"2024","7","47",NULL,NULL,NULL
+"1442","Fivetran Data Pipeline","https://www.fivetran.com/","fivetrandatapipeline",NULL,NULL,NULL,"2025","11","63",NULL,NULL,NULL
+"1443","Frank Keane MG","https://www.frankkeanemg.ie/","frankkeanemg",NULL,NULL,NULL,"2025","7","47","1390",NULL,NULL
+"1444","TINE Ireland","https://www.tine.no/ireland","tineireland",NULL,NULL,NULL,"2025","3","10",NULL,NULL,NULL
+"1445","Azets Ireland","https://www.azets.com/en-ie","azetsireland",NULL,NULL,NULL,"2025","14","69",NULL,NULL,NULL
+"1446","Lir Chocolates","https://www.lirchocolates.com/","lirchocolates","Zertus UK&I",NULL,NULL,"2025","3","10",NULL,NULL,NULL
+"1447","Crossell","https://www.crossell.ie/","crossell",NULL,NULL,NULL,"2025","14","73",NULL,NULL,NULL
+"1448","Victoria's Secret","http://www.victoriassecret.ie/","victoriassecret","Intimate Apparel Retail Ireland",NULL,NULL,"2025","7","46",NULL,NULL,NULL
+"1449","KMK Metals Recycling","https://www.kmk.ie/","kmkmetalsrecycling",NULL,NULL,NULL,"2025","5","38",NULL,NULL,NULL
+"1450","MSL Motor Group","https://www.msl.ie/","mslmotorgroup",NULL,"customercareteam@msl.ie",NULL,"2024","7","47",NULL,NULL,NULL
+"1451","Toyota Ireland","https://www.toyota.ie/","toyotaireland",NULL,NULL,NULL,"2025","7","47",NULL,NULL,NULL
+"1452","Conlon & Son","https://www.conlanandsonsbmw.ie/","conlonson",NULL,NULL,NULL,"2025","7","47",NULL,NULL,NULL
+"1453","Motorola","https://www.motorolasolutions.com/","motorola",NULL,NULL,NULL,"2025","11","63",NULL,NULL,NULL
+"1454","Collins Aerospace (all legal entities)","https://www.rtx.com/collinsaerospace/who-we-are/about-us/global/europe/ireland","collinsaerospace",NULL,NULL,NULL,"2025","3","30","1454",NULL,NULL
+"1455","Collins Aerospace Ireland","https://www.rtx.com/collinsaerospace/who-we-are/about-us/global/europe/ireland","collinsaerospaceireland",NULL,NULL,NULL,"2025","3","30","1454",NULL,NULL
+"1456","Shannon Aircraft Motor Works","https://www.rtx.com/collinsaerospace/who-we-are/about-us/global/europe/ireland","shannonaircraftmotorworks","Hamilton Sundstrand Shannon",NULL,NULL,"2025","3","33","1454",NULL,NULL
+"1457","Ask Acorn","https://askacorn.ie/","askacorn","Acorn Brokerage Limited",NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1458","ASL Airlines","https://www.aslairlines.ie/","aslairlines",NULL,"info@aslairlines.ie",NULL,"2022","15","77",NULL,NULL,NULL
+"1459","LKQ Euro Car Parts","https://www.eurocarparts.com/","lkqeurocarparts",NULL,"custservice.ie@eurocarparts.com",NULL,"2022","7","47",NULL,NULL,NULL
+"1460","Chill Insurance","https://www.chill.ie/","chillinsurance",NULL,"info@chill.ie, care@chill.ie",NULL,"2023","12","65",NULL,NULL,NULL
+"1461","Redclick","https://www.redclick.ie/","redclick",NULL,"info@redclick.ie",NULL,"2024","12","65",NULL,NULL,NULL
+"1462","Kirby Engineering & Construction","https://www.kirbygroup.com/","kirbyengineeringconstruction",NULL,"info@kirbygroup.com",NULL,"2022","6","41",NULL,NULL,NULL
+"1463","Astreya","https://astreya.com/","astreya",NULL,NULL,NULL,"2025","11","63",NULL,NULL,NULL
+"1464","Ricoh","https://www.ricoh.ie/","ricoh",NULL,NULL,NULL,"2025","7","46",NULL,NULL,NULL
+"1465","Irish Farmers Association","https://www.ifa.ie/","irishfarmersassociation",NULL,NULL,NULL,"2025","20","94",NULL,NULL,NULL
+"1466","Waterways Ireland","https://www.waterwaysireland.org/","waterwaysireland",NULL,NULL,NULL,"2024","6","42",NULL,NULL,NULL
+"1467","Irish Cattle Breeding Federation","https://www.icbf.com/","irishcattlebreedingfederation",NULL,NULL,NULL,"2025","1","1",NULL,NULL,NULL
+"1468","Ogier Shared Services","https://www.ogier.com/","ogiersharedservices",NULL,NULL,NULL,"2025","14","69",NULL,NULL,NULL
+"1469","Journal Media","https://www.j-media.ie/","journalmedia",NULL,NULL,NULL,"2025","10","60",NULL,NULL,NULL
+"1470","Prodieco","https://www.prodieco.com/","prodieco",NULL,NULL,NULL,"2024","3","28",NULL,NULL,NULL
+"1471","MathWorks","https://www.mathworks.com/","mathworks",NULL,NULL,NULL,"2025","11","62",NULL,NULL,NULL
+"1472","Roscommon Leader Partnership","https://www.rosleaderpartnership.ie/","roscommonleaderpartnership",NULL,NULL,NULL,"2025","18","88",NULL,NULL,NULL
+"1473","Clare Tourism Development","https://www.cliffsofmoher.ie/","claretourismdevelopment",NULL,NULL,NULL,"2025","15","79",NULL,NULL,NULL
+"1474","IAC Group","https://iac.aero/","iacgroup","IAC Group",NULL,NULL,"2025","8","52","1474",NULL,NULL
+"1475","BNP Paribas","https://www.bnpparibas.ie/","bnpparibas",NULL,NULL,NULL,"2024","12","64",NULL,NULL,NULL
+"1476","Zinkworks","https://www.zinkworks.com/","zinkworks",NULL,NULL,NULL,"2025","11","63",NULL,NULL,NULL
+"1477","Mergon","https://mergon.com/","mergon",NULL,NULL,NULL,"2022","3","22",NULL,NULL,NULL
+"1478","Statkraft","https://www.statkraft.ie/","statkraft",NULL,NULL,NULL,"2025","4","35",NULL,NULL,NULL
+"1479","Wilson Hartnell","https://www.wilsonhartnell.ie/","wilsonhartnell",NULL,NULL,NULL,"2025","14","73",NULL,NULL,NULL
+"1481","DCC Management Services","https://www.dcc.ie/","dccmanagementservices",NULL,NULL,NULL,"2025","4","35",NULL,NULL,NULL
+"1482","Datalex","https://www.datalex.com/","datalex",NULL,NULL,NULL,"2025","11","62",NULL,NULL,NULL
+"1483","Orona MidWestern","https://www.orona-group.com/","oronamidwestern",NULL,NULL,NULL,"2025","3","28",NULL,NULL,NULL
+"1484","Emerson","https://www.emerson.com/","emerson",NULL,NULL,NULL,"2025","3","28",NULL,NULL,NULL
+"1485","Informatica","https://www.informatica.com/","informatica",NULL,NULL,NULL,"2025","11","63",NULL,NULL,NULL
+"1486","Nordex Energy","https://www.nordex-online.com/","nordexenergy",NULL,NULL,NULL,"2025","3","28",NULL,NULL,NULL
+"1487","Hannover Re","https://www.hannover-re.com/","hannoverre",NULL,NULL,NULL,"2025","12","65",NULL,NULL,NULL
+"1488","Certas Energy","https://www.certasenergyretail.eu/","certasenergy",NULL,NULL,NULL,"2025","7","46",NULL,NULL,NULL
+"1489","Sika Ireland","https://irl.sika.com/","sikaireland",NULL,NULL,NULL,"2025","3","20",NULL,NULL,NULL
+"1490","Carbon Group","https://www.carbon.ie/","carbongroup",NULL,NULL,NULL,"2025","3","20",NULL,NULL,NULL
+"1491","Estée Lauder","https://www.elcompanies.com/en/","esteelauder",NULL,"mediarequests.emea@estee.com",NULL,"2022","3","20",NULL,NULL,NULL
+"1492","McCormack Farms","https://mccormackfarms.ie/","mccormackfarms",NULL,NULL,NULL,"2025","1","1",NULL,NULL,NULL
+"1493","Serosep","https://www.serosep.com/","serosep",NULL,NULL,NULL,"2025","3","32",NULL,NULL,NULL
+"1494","Educational Research Centre","https://www.erc.ie/","educationalresearchcentre",NULL,NULL,NULL,"2025","14","72",NULL,NULL,NULL
+"1495","MedGen Healthcare","https://www.medgen.ie/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkdQamc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e630c2d717ede930c5a7c0d42de54e0ca2925c86/MEDGEN%20HEALTHCARE%20IRELAND%20LIMITED%20-%20Gender%20Pay%20Gap%20Report%202025.pdf","medgenhealthcare",NULL,NULL,NULL,"2025","15","78",NULL,NULL,NULL
+"1496","Brightwater Group","https://www.brightwater.ie/","brightwatergroup",NULL,NULL,NULL,"2025","15","78",NULL,NULL,NULL
+"1497","Ravenport Resort","https://www.ravenportresort.ie/","ravenportresort",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1498","Donegal Local Development CLG","https://dldc.org/","donegallocaldevelopmentclg",NULL,NULL,NULL,"2025","18","88",NULL,NULL,NULL
+"1499","Cornmarket","https://www.cornmarket.ie/","cornmarket",NULL,NULL,NULL,"2022","12","66",NULL,NULL,NULL
+"1500","TG4","https://www.tg4.ie/","tg4",NULL,NULL,NULL,"2025","10","60",NULL,NULL,NULL
+"1501","Ice House Hotel","https://www.icehousehotel.ie","icehousehotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1502","Springfield Hotel Leixlip","https://springfieldhotel.ie/","springfieldhotelleixlip",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1503","The Maritime Hotel","https://www.themaritime.ie/","themaritimehotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1504","Buswells Hotel","https://www.buswells.ie/","buswellshotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1505","Druid's Glen","https://www.druidsglenresort.com/","druidsglen",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1506","Bellinter House","https://www.bellinterhouse.com/","bellinterhouse",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1507","Villa Rose Hotel","https://www.villarose.ie/","villarosehotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1508","Jackson Hotel","https://www.jacksonshotel.ie/","jacksonhotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1509","Anner Hotel","https://www.annerhotel.ie/","annerhotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1510","Dinn Ri Hotel","https://dinnri.com/","dinnrihotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1511","Mespil Hotel","https://www.mespilhotel.com/","mespilhotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1512","Bennett Construction","https://bennettconstruction.ie/","bennettconstruction",NULL,NULL,NULL,"2025","6","41",NULL,NULL,NULL
+"1513","Avolon","https://www.avolon.aero/","avolon",NULL,NULL,NULL,"2024","12","64",NULL,NULL,NULL
+"1514","Barnardos","https://www.barnardos.ie/","barnardos",NULL,"info@barnardos.ie",NULL,"2022","18","88",NULL,NULL,NULL
+"1515","BCD MascoGroup","https://www.bcd.ie/","bcdmascogroup",NULL,NULL,NULL,"2024","3","28",NULL,NULL,NULL
+"1516","BCMGlobal","https://www.bcmglobal.com/","bcmglobal",NULL,NULL,NULL,"2022","12","66",NULL,NULL,NULL
+"1517","Anord Mardix","https://anordmardix.com/","anordmardix",NULL,"hr.ie@anordmardix.com",NULL,"2022","3","27",NULL,NULL,NULL
+"1518","Irish Express Cargo","https://flex.com/","irishexpresscargo",NULL,NULL,NULL,"2024","8","52","727",NULL,NULL
+"1519","Atlantic Aviation Group Hangar 1","https://www.atlanticaviation.ie/","atlanticaviationgrouphangar1",NULL,"info@atlanticaviation.ie",NULL,"2023","8","52","1519",NULL,NULL
+"1520","Atlantic Aviation Group Hangar 2","https://www.atlanticaviation.ie/","atlanticaviationgrouphangar2",NULL,"info@atlanticaviation.ie",NULL,"2023","8","52","1519",NULL,NULL
+"1521","Global","https://global.com/","global",NULL,NULL,NULL,"2025","10","60",NULL,NULL,NULL
+"1522","Boulder Media","https://bouldermedia.tv/","bouldermedia",NULL,NULL,NULL,"2024","10","59",NULL,NULL,NULL
+"1523","Bright Software","https://brightsg.com/","brightsoftware",NULL,NULL,NULL,"2024","11","62",NULL,NULL,NULL
+"1524","Orsted","https://orsted.ie/","orsted",NULL,NULL,NULL,"2025","4","35",NULL,NULL,NULL
+"1525","GEM Construction","https://gemconstruction.ie/","gemconstruction",NULL,NULL,NULL,"2025","6","41",NULL,NULL,NULL
+"1526","Arlo","https://www.arlo.com/","arlo",NULL,NULL,NULL,"2025","15","80",NULL,NULL,NULL
+"1527","Women's Aid","https://www.womensaid.ie/","womensaid",NULL,NULL,NULL,"2025","20","94",NULL,NULL,NULL
+"1528","Retail inMotion","https://www.retailinmotion.com/","retailinmotion",NULL,NULL,NULL,"2024","7","47",NULL,NULL,NULL
+"1529","An Cosán","https://www.ancosan.ie/","ancosan",NULL,NULL,NULL,"2025","17","85",NULL,NULL,NULL
+"1530","Stella Cinema","https://www.stellacinemas.ie/","stellacinema",NULL,NULL,NULL,"2025","10","59",NULL,NULL,NULL
+"1531","SoftCo","https://softco.com/","softco",NULL,NULL,NULL,"2025","11","62",NULL,NULL,NULL
+"1532","Newpark Hotel Kilkenny","https://www.newparkhotelkilkenny.com/","newparkhotelkilkenny",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1533","CHEP Irish Branch","https://www.chep.com/","chepirishbranch",NULL,NULL,NULL,"2025","15","77",NULL,NULL,NULL
+"1534","Irish Hospice Foundation","https://hospicefoundation.ie/","irishhospicefoundation",NULL,NULL,NULL,"2025","18","88",NULL,NULL,NULL
+"1535","FIRE1","https://fire1foundry.com/","fire1",NULL,NULL,NULL,"2025","3","32",NULL,NULL,NULL
+"1536","Irish National Teacher's Organisation","https://www.into.ie/","into","INTO","generalinfo@into.ie",NULL,"2025","20","94",NULL,NULL,NULL
+"1537","Fire Steakhouse & Bar","https://www.firesteakhouse.ie/","firesteakhousebar",NULL,NULL,NULL,"2025","9","56",NULL,NULL,NULL
+"1538","Irish National Stud ","https://irishnationalstud.ie/","irishnationalstud",NULL,NULL,NULL,"2025","19","91",NULL,NULL,NULL
+"1539","Gill Education","https://www.gilleducation.ie/","gilleducation",NULL,NULL,NULL,"2025","10","58",NULL,NULL,NULL
+"1540","Gino's Gelato","https://ginosgelato.com/","ginosgelato",NULL,NULL,NULL,"2025","9","56",NULL,NULL,NULL
+"1541","Jack and Jill Children's Foundation","https://www.jackandjill.ie/","jackandjillchildrensfoundation",NULL,NULL,NULL,"2025","18","87",NULL,NULL,NULL
+"1542","Whites of Wexford","https://www.whitesofwexford.com/","whitesofwexford",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1543","Clearstream Fund Services","https://www.clearstream.com/","clearstreamfundservices",NULL,NULL,NULL,"2025","12","66",NULL,NULL,NULL
+"1544","OpenText","https://www.opentext.com/","opentext",NULL,"publicrelations@opentext.com",NULL,"2024","11","63",NULL,NULL,NULL
+"1545","CAE Parc Aviation","https://www.cae.com/civil-aviation/locations/cae-dublin/","caeparcaviation",NULL,NULL,NULL,"2024","8","52",NULL,NULL,NULL
+"1546","CDB Aviation","https://www.cdbaviation.aero/","cdbaviation",NULL,NULL,NULL,"2025","15","77",NULL,NULL,NULL
+"1547","Clancy Construction","https://clancy.ie/","clancyconstruction",NULL,NULL,NULL,"2024","6","41",NULL,NULL,NULL
+"1548","3D Personnel","https://www.3dpersonnel.com/","3dpersonnel",NULL,NULL,NULL,"2022","15","78",NULL,NULL,NULL
+"1549","MMD Construction","https://www.mmd.ie/wp-content/uploads/2025/11/Gender-Pay-Report-2024.pdf","mmdconstruction",NULL,"info@mmd.ie",NULL,"2024","6","41",NULL,NULL,NULL
+"1550","CNP Santander","https://www.cnpsantander.com/","cnpsantander",NULL,NULL,NULL,"2025","12","65",NULL,NULL,NULL
+"1551","HCLTech Information Systems","https://www.hcltech.com/","hcltechinformationsystems",NULL,NULL,NULL,"2025","11","63",NULL,NULL,NULL
+"1552","Capitalflow","https://capitalflow.ie/","capitalflow",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1553","Genesis Aircraft Services","https://www.genesis.aero/","genesisaircraftservices",NULL,NULL,NULL,"2025","8","52",NULL,NULL,NULL
+"1554","Kerlogue Nursing Home","https://kerloguenursinghome.com/","kerloguenursinghome",NULL,NULL,NULL,"2025","18","87",NULL,NULL,NULL
+"1555","Oracle Sovereign","https://www.oracle.com/","oraclesovereign",NULL,NULL,NULL,"2025","11","63","630",NULL,NULL
+"1556","Cantwell Electrical Engineering","https://cantwell.ie/","cantwellelectricalengineering",NULL,NULL,NULL,"2025","6","43",NULL,NULL,NULL
+"1557","Ireland West Airport","https://www.irelandwestairport.com/","irelandwestairport",NULL,"info@irelandwestairport.com",NULL,"2024","8","51",NULL,NULL,NULL
+"1558","VetPartners Ireland","https://www.vetpartners.ie/","vetpartnersireland",NULL,NULL,NULL,"2025","14","75",NULL,NULL,NULL
+"1559","Ray Whelan Waste Management","https://www.raywhelan.ie/","raywhelanwastemanagement",NULL,NULL,NULL,"2025","5","38",NULL,NULL,NULL
+"1560","Maratime Area Regulatory Authority","https://www.maritimeregulator.ie/","maratimearearegulatoryauthority",NULL,NULL,NULL,"2025","16","84",NULL,NULL,NULL
+"1561","Apple Operations Ltd.","https://www.apple.com/ie/","appleoperationsltd",NULL,NULL,NULL,"2025","11","62","30",NULL,NULL
+"1562","Aramark Property Services","https://www.aramark.ie/","aramarkpropertyservices",NULL,NULL,NULL,"2025","15","81","37",NULL,NULL
+"1563","Viatel Ireland","https://www.viatel.com/","viatelireland",NULL,NULL,NULL,"2025","11","61","829",NULL,NULL
+"1564","Digiweb","https://www.viatel.com/","digiweb",NULL,NULL,NULL,"2025","11","61","829",NULL,NULL
+"1565","Viatel Technology Ltd","https://www.viatel.com/","viateltechnologyltd",NULL,NULL,NULL,"2025","11","61","829",NULL,NULL
+"1566","WSP Ireland","https://www.wsp.com/","wspireland",NULL,NULL,NULL,"2025","14","71",NULL,NULL,NULL
+"1567","DNG","https://www.dng.ie/","dng",NULL,NULL,NULL,"2025","13","68",NULL,NULL,NULL
+"1568","Lisney","https://lisney.com/","lisney",NULL,NULL,NULL,"2025","13","68",NULL,NULL,NULL
+"1569","Knight Frank","https://www.knightfrank.ie/","knightfrank",NULL,NULL,NULL,"2025","13","68",NULL,NULL,NULL
+"1570","2K Games","https://2k.com/","2kgames",NULL,NULL,NULL,"2025","10","58",NULL,NULL,NULL
+"1571","Macquarie","https://www.macquarie.com/","macquarie",NULL,NULL,NULL,"2025","12","66",NULL,NULL,NULL
+"1572","Progress Software","https://www.progress.com/","progresssoftware",NULL,NULL,NULL,"2025","11","62",NULL,NULL,NULL
+"1573","Halfords","https://www.halfordscompany.com/","halfords",NULL,NULL,NULL,"2022","7","47",NULL,NULL,NULL
+"1574","Pandora","https://pandoragroup.com/","pandora",NULL,NULL,NULL,"2024","7","47",NULL,NULL,NULL
+"1575","Moroney Electrical Contractors","https://www.moroneyelectrical.ie/wp-content/uploads/2025/11/Moroney-Electrical-Gender-Pay-Gap-Report.pdf","moroneyelectricalcontractors",NULL,NULL,NULL,"2025","6","43",NULL,NULL,NULL
+"1576","Forcepoint Ireland","https://www.forcepoint.com/","forcepointireland",NULL,NULL,NULL,"2025","11","62",NULL,NULL,NULL
+"1577","Office of the Ombudsman","https://ombudsman.ie/","officeoftheombudsman",NULL,NULL,NULL,"2025","16","84",NULL,NULL,NULL
+"1578","Trócaire","https://www.trocaire.org/","trocaire",NULL,NULL,NULL,"2024","18","88",NULL,NULL,NULL
+"1579","Injuries Resolution Board","https://www.injuries.ie/","injuriesresolutionboard",NULL,NULL,NULL,"2025","16","84",NULL,NULL,NULL
+"1580","Newcourt Retirement Fund Managers","https://nrfm.ie/","newcourtretirementfundmanagers",NULL,NULL,NULL,"2025","12","65",NULL,NULL,NULL
+"1581","Strategic Placement Group","https://strategicplacement.ie/","strategicplacementgroup",NULL,NULL,NULL,"2025","15","78",NULL,NULL,NULL
+"1582","Harris Group","https://harrisgroup.ie/","harrisgroup",NULL,NULL,NULL,"2025","7","47",NULL,NULL,NULL
+"1583","Dell Bank","https://www.delltechnologies.com/","dellbank",NULL,NULL,NULL,"2025","12","64","115",NULL,NULL
+"1584","DeCare","https://decare.ie/","decare",NULL,NULL,NULL,"2025","12","65",NULL,NULL,NULL
+"1585","CubeMatch","https://cubematch.com/","cubematch",NULL,NULL,NULL,"2025","14","70",NULL,NULL,NULL
+"1586","Irish Pharmacy Union - Butterfield House","https://ipu.ie/","irishpharmacyunionbutterfieldhouse",NULL,NULL,NULL,"2025","20","94","1586",NULL,NULL
+"1587","Irish Pharmacy Union - Professional Academy","https://ipuacademy.ie/","irishpharmacyunionprofessionalacademy",NULL,NULL,NULL,"2025","17","85","1586",NULL,NULL
+"1588","Onnec Ireland","https://www.onnecgroup.com/","onnecireland",NULL,NULL,NULL,"2025","11","63",NULL,NULL,NULL
+"1589","Enel X","https://www.enelx.com/","enelx",NULL,NULL,NULL,"2025","4","35",NULL,NULL,NULL
+"1590","GoTo","https://www.goto.com/","goto",NULL,NULL,NULL,"2025","11","62",NULL,NULL,NULL
+"1591","Howth Castle","https://howthcastle.ie/","howthcastle",NULL,NULL,NULL,"2025","19","91",NULL,NULL,NULL
+"1592","Cafico","https://www.caficointernational.com/","cafico",NULL,NULL,NULL,"2025","12","66",NULL,NULL,NULL
+"1593","ICTS Ireland","https://www.icts.ie/","ictsireland",NULL,NULL,NULL,"2023","15","80",NULL,NULL,NULL
+"1594","Gallagher Insurance Brokers","https://www.ajg.ie/","gallagherinsurancebrokers",NULL,NULL,NULL,"2025","12","65",NULL,NULL,NULL
+"1595","Powercomm","https://www.powercomm.ie/","powercomm",NULL,NULL,NULL,"2024","6","42",NULL,NULL,NULL
+"1596","Rhomberg Sersa Rail Group","https://ireland.rhomberg-sersa.com","rhombergsersarailgroup",NULL,NULL,NULL,"2025","6","42",NULL,NULL,NULL
+"1597","Johnstown Estate","https://thejohnstownestate.com/","johnstownestate",NULL,NULL,NULL,"2022","9","55",NULL,NULL,NULL
+"1598","Irish Heritage Trust","https://irishheritagetrust.ie/","irishheritagetrust",NULL,NULL,NULL,"2025","19","91",NULL,NULL,NULL
+"1599","Sean Stafford & Son","https://staffordbakeries.ie/","seanstaffordson",NULL,NULL,NULL,"2025","3","10","734",NULL,NULL
+"1600","Royal Institute of the Architects of Ireland","https://www.riai.ie/","riai","RIAI",NULL,NULL,"2025","20","94",NULL,NULL,NULL
+"1601","Coinbase","https://www.coinbase.com/","coinbase",NULL,NULL,NULL,"2025","12","66",NULL,NULL,NULL
+"1602","The G Hotel","https://www.theghotel.ie/","theghotel","Niche Hotels",NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1603","NYX Hotel","https://www.leonardo-hotels.com/dublin/nyx-hotel-dublin-portobello","nyxhotel","Rockyvale",NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1604","PennEngineering Portfolio","https://www.pemnet.com/eu/","pennengineeringportfolio",NULL,NULL,NULL,"2022","3","25",NULL,NULL,NULL
+"1605","GP Payments Acquiring International GmbH","https://www.globalpayments.com/","gppaymentsacquiringinternationalgmbh",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1606","Fitzgerald Power","https://fitzgeraldpower.ie/","fitzgeraldpower",NULL,NULL,NULL,"2025","14","69",NULL,NULL,NULL
+"1607","Enva","https://enva.com","enva",NULL,NULL,NULL,"2024","5","36",NULL,NULL,NULL
+"1608","Xocean","https://xocean.com/","xocean",NULL,NULL,NULL,"2025","11","63",NULL,NULL,NULL
+"1609","Körber Pharma Software","https://www.koerber-pharma.com/en/","krberpharmasoftware",NULL,NULL,NULL,"2025","3","28",NULL,NULL,NULL
+"1610","Higher Education Authority","https://hea.ie/","highereducationauthority",NULL,NULL,NULL,"2025","16","84",NULL,NULL,NULL
+"1611","3Olympia Theatre","https://www.3olympia.ie/","3olympiatheatre",NULL,NULL,NULL,"2025","19","90",NULL,NULL,NULL
+"1612","Kinsale Hotel & Spa","https://www.kinsalehotelandspa.ie/","kinsalehotelspa",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1613","Ballymaloe Foods","https://ballymaloefoods.ie/","ballymaloefoods",NULL,NULL,NULL,"2025","3","10",NULL,NULL,NULL
+"1614","Independent Irish Health Foods","https://iihealthfoods.com/","independentirishhealthfoods",NULL,NULL,NULL,"2025","7","46",NULL,NULL,NULL
+"1615","Oakpark Foods","https://oakparkfoods.ie/","oakparkfoods",NULL,NULL,NULL,"2024","3","10",NULL,NULL,NULL
+"1616","Sumitomo Mitsui Trust","https://www.sumitrustgas.com/","sumitomomitsuitrust",NULL,NULL,NULL,"2024","12","64",NULL,NULL,NULL
+"1617","Cinders Shoe Heaven","https://cinders.ie/","cindersshoeheaven",NULL,NULL,NULL,"2025","7","47",NULL,NULL,NULL
+"1618","Culligan Water Ireland","https://www.culligan.ie/","culliganwaterireland",NULL,NULL,NULL,"2025","7","46",NULL,NULL,NULL
+"1619","Equifax","https://www.equifax.com/","equifax",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1620","Hevac Group","https://www.hevac.ie/","hevacgroup",NULL,NULL,NULL,"2025","3","33",NULL,NULL,NULL
+"1621","KSN Energy","https://www.ksn.ie/","ksnenergy",NULL,NULL,NULL,"2025","4","35",NULL,NULL,NULL
+"1622","Woodford Dolmen Hotel","https://www.woodforddolmenhotel.ie/","woodforddolmenhotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1623","Portakabin","https://www.portakabin.com/","portakabin",NULL,NULL,NULL,"2025","6","41",NULL,NULL,NULL
+"1624","Perigord Group","https://perigordgroup.ie/","perigordgroup",NULL,NULL,NULL,"2025","14","74",NULL,NULL,NULL
+"1625","Fieldfisher LLP","https://www.fieldfisher.com/en-ie/locations/ireland","fieldfisherllp",NULL,NULL,NULL,"2025","14","69",NULL,NULL,NULL
+"1626","Activ8 Solar Energies","https://www.activ8energies.com/","activ8solarenergies",NULL,NULL,NULL,"2024","6","43",NULL,NULL,NULL
+"1627","KarePlus (Wexford & South East)","https://kareplus.ie/","karepluswexfordsoutheast",NULL,NULL,NULL,"2025","18","88",NULL,NULL,NULL
+"1628","Gym + Coffee","https://gympluscoffee.com/","gympluscoffee",NULL,NULL,NULL,"2025","7","47",NULL,NULL,NULL
+"1629","McSwiggans (Palomar)","https://www.mcswiggans.ie/","mcswigganspalomar",NULL,NULL,NULL,"2025","9","56",NULL,NULL,NULL
+"1630","Quinn Downes","https://www.quinndownes.com/","quinndownes",NULL,NULL,NULL,"2025","6","43",NULL,NULL,NULL
+"1631","National Advocacy Service for People with Disabilities","https://www.patientadvocacyservice.ie/wp-content/uploads/2025/11/2025_Nov_NAS_GenderPayGapReport-2.pdf","nationaladvocacyserviceforpeoplewithdisabilities",NULL,NULL,NULL,"2025","16","84",NULL,NULL,NULL
+"1632","Crown Quarter","https://www.crownquarter.com/","crownquarter",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
+"1633","Dublin Street Parking Services","https://dsps.ie/","dublinstreetparkingservices",NULL,NULL,NULL,"2025","8","52",NULL,NULL,NULL
+"1634","Avonmore Electrical","https://www.avonmore-electrical.com/","avonmoreelectrical",NULL,NULL,NULL,"2025","3","33",NULL,NULL,NULL
+"1635","Combilift","https://combilift.com/","combilift",NULL,NULL,NULL,"2022","3","28",NULL,NULL,NULL
+"1636","Mulrines","https://www.mulrines.ie/","mulrines",NULL,NULL,NULL,"2025","3","11",NULL,NULL,NULL
+"1637","Viotas","https://viotas.com/","viotas",NULL,NULL,NULL,"2025","11","62",NULL,NULL,NULL
+"1638","Shutterstock","https://www.shutterstock.com/","shutterstock",NULL,NULL,NULL,"2025","14","74",NULL,NULL,NULL
+"1639","Instantor","https://www.instantor.ie/","instantor",NULL,NULL,NULL,"2025","7","46",NULL,NULL,NULL
+"1640","Sandvik","https://www.home.sandvik/","sandvik",NULL,NULL,NULL,"2024","3","28",NULL,NULL,NULL
+"1641","Abbey Capital","https://www.abbeycapital.com/","abbeycapital",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1642","Foot Locker","https://www.footlocker.ie/","footlocker",NULL,NULL,NULL,"2025","7","47",NULL,NULL,NULL
+"1643","CFM Group","https://cfmgroup.ie/","cfmgroup",NULL,NULL,NULL,"2025","12","65",NULL,NULL,NULL
+"1644","SEI","https://www.seic.com/","sei",NULL,NULL,NULL,"2022","12","66",NULL,NULL,NULL
+"1645","Royal London Insurance","https://www.royallondon.ie/","royallondoninsurance",NULL,NULL,NULL,"2024","12","65",NULL,NULL,NULL
+"1646","Java Republic","https://www.javarepublic.com/","javarepublic",NULL,NULL,NULL,"2025","7","46",NULL,NULL,NULL
+"1647","Onetouch Health","https://www.onetouchhealth.net/","onetouchhealth",NULL,NULL,NULL,"2025","11","62",NULL,NULL,NULL
+"1648","Ballymore Properties","https://www.ballymoregroup.com/","ballymoreproperties",NULL,NULL,NULL,"2025","6","41",NULL,NULL,NULL
+"1649","International Aerospace Coatings","https://iac.aero/","internationalaerospacecoatings",NULL,NULL,NULL,"2025","3","20","1474",NULL,NULL
+"1650","Eirtech Aviation Services","https://www.eirtechaviation.ie/","eirtechaviationservices",NULL,NULL,NULL,"2025","8","52","1474",NULL,NULL
+"1651","Shaws Department Stores","https://shaws.ie/","shawsdepartmentstores",NULL,NULL,NULL,"2025","7","47",NULL,NULL,NULL
+"1652","Fairstone Ireland","https://www.fairstone.ie/","fairstoneireland",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1653","Kingsbridge Healthcare Group","https://kingsbridgeprivatehospital.com/","kingsbridgehealthcaregroup",NULL,NULL,NULL,"2025","18","86",NULL,NULL,NULL
+"1654","Carraig Donn","https://www.carraigdonn.com/","carraigdonn",NULL,NULL,NULL,"2023","7","47",NULL,NULL,NULL
+"1655","Togher Supermarkets","http://ryangroup.ie/","toghersupermarkets",NULL,NULL,NULL,"2025","7","47",NULL,NULL,NULL
+"1656","Verve","https://verveliveagency.com/","verve",NULL,NULL,NULL,"2025","14","73",NULL,NULL,NULL
+"1657","Staunton Foods","https://stauntonfoods.ie/","stauntonfoods",NULL,NULL,NULL,"2025","3","10",NULL,NULL,NULL
+"1658","The Culinary Food Group","https://www.theculinaryfoodgroup.com/","theculinaryfoodgroup",NULL,NULL,NULL,"2024","3","10",NULL,NULL,NULL
