@@ -775,7 +775,7 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "891","Derrycourt Cleaning Specialists","https://www.derrycourt.ie/","derrycourtcleaningspecialists",NULL,NULL,NULL,"2022","15","81",NULL,NULL,NULL
 "892","CPM Ireland","https://www.cpm-int.com","cpmireland",NULL,"info@cpmire.com",NULL,"2022","14","70",NULL,NULL,NULL
 "893","ComReg","https://www.comreg.ie","comreg",NULL,NULL,NULL,"2024","16","84",NULL,"1",NULL
-"894","International Financial Data Services","https://ifdsgroup.com","internationalfinancialdataservices",NULL,"vcugliari@ifdsgroup.com",NULL,"2024","1","1",NULL,NULL,NULL
+"894","International Financial Data Services","https://ifdsgroup.com","internationalfinancialdataservices","IFDS","vcugliari@ifdsgroup.com",NULL,"2024","12","66","1704",NULL,NULL
 "895","DFDS - Logistics Contracts","https://www.dfds.com/en","dfds",NULL,NULL,NULL,"2024","8","50",NULL,NULL,NULL
 "896","Moog Ireland","https://www.moog.com","moogireland",NULL,"info.ireland@moog.com",NULL,"2024","3","26",NULL,NULL,NULL
 "897","National Broadband Ireland","https://nbi.ie","nationalbroadbandireland",NULL,NULL,NULL,"2024","11","61",NULL,NULL,NULL
@@ -920,7 +920,7 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "1037","Alchemy Telco Solutions","https://www.wearealchemy.com","alchemytelcosolutions",NULL,NULL,NULL,"2025","11","61",NULL,NULL,NULL
 "1038","Highfield Healthcare","https://highfieldhealthcare.ie","highfieldhealthcare",NULL,NULL,NULL,"2024","18","86",NULL,NULL,NULL
 "1039","Business in the Community","https://bitc.ie","businessinthecommunity",NULL,NULL,NULL,"2025","20","94",NULL,NULL,NULL
-"1040","MSS Building Services","mssltd.ie","mssbuildingservices",NULL,NULL,NULL,"2025","14","71",NULL,NULL,NULL
+"1040","MSS Building Services","https://mssltd.ie","mssbuildingservices",NULL,NULL,NULL,"2025","14","71",NULL,NULL,NULL
 "1041","Apex Fire","https://www.apexfire.ie","apexfire",NULL,NULL,NULL,"2025","15","80",NULL,NULL,NULL
 "1042","The Gate Theatre","https://gatetheatre.ie","thegatetheatre",NULL,NULL,NULL,"2025","19","90",NULL,NULL,NULL
 "1043","An Chúirt Hotel","https://www.anchuirthotel.com","anchuirthotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
@@ -1002,7 +1002,7 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "1124","East Coast Bakehouse","https://eastcoastbakehouse.com/","eastcoastbakehouse",NULL,NULL,NULL,"2025","7","46",NULL,NULL,NULL
 "1125","Garland Consultancy","https://www.garlandconsultancy.com/","garlandconsultancy",NULL,NULL,NULL,"2025","14","70",NULL,NULL,NULL
 "1126","Phonewatch","https://www.phonewatch.ie/","phonewatch",NULL,NULL,NULL,"2025","15","80",NULL,NULL,NULL
-"1127","Actons Hotel Kinsale","https://www.actonshotelkinsale.com/","actonshotelkinsale",NULL,NULL,NULL,"2025","1","1",NULL,NULL,NULL
+"1127","Actons Hotel Kinsale","https://www.actonshotelkinsale.com/","actonshotelkinsale",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
 "1128","Unijobs","https://unijobs.ie/","unijobs",NULL,"info@unijobs.ie",NULL,"2023","15","78",NULL,NULL,NULL
 "1129","Threshold","https://threshold.ie/","threshold",NULL,NULL,NULL,"2025","18","88",NULL,NULL,NULL
 "1130","Crown Paints","https://about.crownpaints.com/","crownpaints",NULL,NULL,NULL,"2025","3","32",NULL,NULL,NULL
@@ -1159,7 +1159,7 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "1281","Gallivan Murphy Insurance Brokers","https://www.gmib.ie/","gmib","GMIB","info@gmib.ie",NULL,"2025","12","65",NULL,NULL,NULL
 "1282","Munster Bovine","https://www.munsterbovine.ie/","munsterbovine",NULL,NULL,NULL,"2025","14","75",NULL,NULL,NULL
 "1283","PV Generation","https://pvgeneration.ie/","pvgeneration",NULL,NULL,NULL,"2025","6","43",NULL,NULL,NULL
-"1284","Fexco","https://www.fexco.com/","fexco",NULL,NULL,NULL,"2022","1","1",NULL,NULL,NULL
+"1284","Fexco","https://www.fexco.com/","fexco",NULL,NULL,NULL,"2022","12","64",NULL,NULL,NULL
 "1285","Talbot Hotel Clonmel","https://www.talbothotelclonmel.ie/","talbothotelclonmel",NULL,NULL,NULL,"2025","9","55","1068",NULL,NULL
 "1286","Caregivers Ireland","https://caregiversireland.ie/","caregiversireland",NULL,NULL,NULL,"2022","18","88",NULL,NULL,NULL
 "1287","Tennant & Ruttle","https://www.tandr.ie/","tennantruttle",NULL,NULL,NULL,"2025","8","52",NULL,NULL,NULL
@@ -1576,3 +1576,24 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "1699","Camfil","https://www.camfil.com/","camfil",NULL,NULL,NULL,"2025","3","32",NULL,NULL,NULL
 "1700","Reed Specialist REcruitment","https://www.reedglobal.ie/","reedspecialistrecruitment",NULL,NULL,NULL,"2025","15","78",NULL,NULL,NULL
 "1701","Lambert Smith Hampton","https://www.lsh.ie/","lambertsmithhampton",NULL,NULL,NULL,"2024","13","68",NULL,NULL,NULL
+"1702","Ralvale Ltd","https://www.thebuckleycollection.ie/","ralvaleltd",NULL,NULL,NULL,"2025","9","56",NULL,NULL,NULL
+"1703","Stewarts Care","https://www.stewartscare.ie/","stewartscare",NULL,NULL,NULL,"2022","18","87",NULL,NULL,NULL
+"1704","SS&C Wealth & Insurance","https://www.ssctech.com/","sscwealthinsurance",NULL,NULL,NULL,"2023","12","65","1704",NULL,NULL
+"1705","SS&C Financial Services","https://www.ssctech.com/","sscfinancialservices",NULL,NULL,NULL,"2025","12","64","1704",NULL,NULL
+"1706","Waters Technologies","https://www.waters.com/nextgen/ie/en.html","waterstechnologies",NULL,NULL,NULL,"2022","3","28",NULL,NULL,NULL
+"1707","Vitalograph","https://vitalograph.com/","vitalograph",NULL,NULL,NULL,"2023","3","32",NULL,NULL,NULL
+"1708","Grifols","https://www.grifols.com/","grifols",NULL,NULL,NULL,"2022","3","21",NULL,NULL,NULL
+"1709","City Wonders","https://citywonders.com/","citywonders",NULL,NULL,NULL,"2025","15","79",NULL,NULL,NULL
+"1710","Cityswift","https://www.cityswift.com/","cityswift",NULL,NULL,NULL,"2025","8","49",NULL,NULL,NULL
+"1711","Coffeey","https://www.coffeygroup.com/","coffeey",NULL,NULL,NULL,"2025","6","42",NULL,NULL,NULL
+"1712","Commissioners of Irish Lights","https://www.irishlights.ie/","commissionersofirishlights",NULL,NULL,NULL,"2025","16","84",NULL,NULL,NULL
+"1713","Compass Informatics","https://compass.ie/","compassinformatics",NULL,NULL,NULL,"2025","11","63",NULL,NULL,NULL
+"1714","CoolPlanet","https://www.coolplanet.io","coolplanet",NULL,NULL,NULL,"2025","14","70",NULL,NULL,NULL
+"1715","Croom Medical","https://croommedical.com/","croommedical",NULL,NULL,NULL,"2025","3","32",NULL,NULL,NULL
+"1716","Crosscare","https://crosscare.ie/","crosscare",NULL,NULL,NULL,"2025","18","87",NULL,NULL,NULL
+"1717","Cubic3","https://www.cubic3.com/","cubic3",NULL,NULL,NULL,"2024","11","62",NULL,NULL,NULL
+"1718","Caceis Bank Ireland Branch","https://www.caceis.com/","caceisbank",NULL,NULL,NULL,"2024","12","64","1718",NULL,NULL
+"1719","Caceis Ireland","https://www.caceis.com/","caceisireland",NULL,NULL,NULL,"2025","12","64","1718",NULL,NULL
+"1720","Chime","https://www.chime.ie/","chime",NULL,NULL,NULL,"2025","18","88",NULL,NULL,NULL
+"1721","Dillon Eustace","https://www.dilloneustace.com/","dilloneustace",NULL,NULL,NULL,"2025","14","69",NULL,NULL,NULL
+"1722","Ding","https://www.ding.com/","ding",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
