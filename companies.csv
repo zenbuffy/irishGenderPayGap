@@ -72,7 +72,7 @@
 "71","Boston Scientific","https://www.bostonscientific.com/en-EU/home.html","bostonscientific",NULL,"customerservice.uk@bsci.com",NULL,"2022","3","32",NULL,NULL,NULL
 "72","Britvic Ireland","http://www.britvic.com/","britvic",NULL,"pressoffice@britvic.com",NULL,"2022","3","11",NULL,NULL,NULL
 "73","Brown Thomas Arnotts","https://www.arnotts.ie/store/","brownthomasarnotts",NULL,"onlinecustomerservices@brownthomas.ie",NULL,"2022","7","47",NULL,NULL,NULL
-"74","BT Communications Ireland Ltd","https://www.btireland.com/","bt",NULL,"nicole.chesser@bt.com, priscilla.oregan@bt.com",NULL,"2022","11","61",NULL,NULL,NULL
+"74","BT Communications Ireland Ltd","https://www.btireland.com/","bt","Enet Communications","nicole.chesser@bt.com, priscilla.oregan@bt.com",NULL,"2022","11","61",NULL,NULL,NULL
 "75","BWG Foods","https://www.bwg.ie/","bwgfoods",NULL,"info@bwg.ie",NULL,"2022","7","46",NULL,NULL,NULL
 "76","C&C Group Plc (all legal entities)","https://candcgroupplc.com/","ccgroup",NULL,"Consumer.Relations@candcgroup.ie",NULL,"2022","3","11","76",NULL,NULL
 "77","Cairn Homes","https://www.cairnhomes.com/","cairnhomes",NULL,"customercare@cairnhomes.com",NULL,"2022","6","41",NULL,NULL,NULL
@@ -1260,7 +1260,7 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "1382","Welocalize","https://www.welocalize.com/","welocalize",NULL,NULL,NULL,"2025","11","63",NULL,NULL,NULL
 "1383","Giraffe Childcare","https://www.giraffe.ie/","giraffechildcare",NULL,"info@giraffe.ie, careers@giraffe.ie",NULL,"2024","18","88",NULL,NULL,NULL
 "1384","Co-operative Housing Ireland","https://www.cooperativehousing.ie/","cooperativehousingireland",NULL,NULL,NULL,"2025","15","77",NULL,NULL,NULL
-"1385","Eirgen","https://www.eirgen.com/","eirgen",NULL,NULL,NULL,"2025","3","21",NULL,NULL,NULL
+"1385","Eirgen Pharma","https://www.eirgen.com/","eirgenpharma",NULL,NULL,NULL,"2025","3","21",NULL,NULL,NULL
 "1386","The Brazen Head","https://brazenhead.com/","thebrazenhead",NULL,NULL,NULL,"2025","9","56",NULL,NULL,NULL
 "1387","Four Seasons Carlingford","https://www.4seasonshotelcarlingford.ie/","fourseasonscarlingford",NULL,NULL,NULL,"2025","9","55","1387",NULL,NULL
 "1388","Close Brothers Motor Finance","https://www.closemotorfinance.ie/","closebrothersmotorfinance",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
@@ -1597,3 +1597,14 @@ and Training Board","https://www.ddletb.ie/home-page-new/","ddletb",NULL,"info@d
 "1720","Chime","https://www.chime.ie/","chime",NULL,NULL,NULL,"2025","18","88",NULL,NULL,NULL
 "1721","Dillon Eustace","https://www.dilloneustace.com/","dilloneustace",NULL,NULL,NULL,"2025","14","69",NULL,NULL,NULL
 "1722","Ding","https://www.ding.com/","ding",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1723","Distilled","https://www.distilled.ie/","distilled",NULL,NULL,NULL,"2025","14","73",NULL,NULL,NULL
+"1724","Dromone Engineering","https://dromone.com/","dromoneengineering",NULL,NULL,NULL,"2025","3","28",NULL,NULL,NULL
+"1725","ElectroRoute Market Access","https://electroroute.com/","electroroutemarketaccess",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1726","Speed Fibre Group","https://www.speedfibregroup.ie/","speedfibregroup",NULL,NULL,NULL,"2025","11","61",NULL,NULL,NULL
+"1727","Engine Lease Finance","https://elfc.com/","engineleasefinance",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1728","Exertis Ireland","https://www.exertis.ie/","exertisireland",NULL,NULL,NULL,"2024","7","46",NULL,NULL,NULL
+"1729","Fideuram Asset Management ","https://www.fideuramassetmanagement.ie/","fideuramassetmanagement",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1730","Fineco Asset Management","https://finecoassetmanagement.com/","finecoassetmanagement",NULL,NULL,NULL,"2025","12","64",NULL,NULL,NULL
+"1731","Flair Showers","https://flairshowers.com/","flairshowers",NULL,NULL,NULL,"2025","7","46",NULL,NULL,NULL
+"1732","Flipdish","https://www.flipdish.com/","flipdish",NULL,NULL,NULL,"2025","11","62",NULL,NULL,NULL
+"1733","Clanard Court Hotel","https://www.clanardcourt.ie/","clanardcourthotel",NULL,NULL,NULL,"2025","9","55",NULL,NULL,NULL
