@@ -10,7 +10,7 @@
 AA,https://www.theaa.ie/,"Financial and Insurance Activities",L,65,https://www.theaa.ie/wp-content/uploads/2022/12/2022-AA-Ireland-Gender-Pay-Gap-Report_External-Final-Dec-2022-2.pdf,2022,6,16,-36,-51,-39,2,17,14,76,80,28,37,53,47,24,76,19,81,27,73,31,69
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Abbott Ireland",https://www.ie.abbott/homepage.html,Manufacturing,C,21,https://www.ie.abbott/content/dam/corp/abbott/en-ie/documents/pdf/Gender-Gap-Infographic-Nov2022-CP-Abbott-Ireland.pdf,2022,11.9,7,20.9,5.3,-18.3,-17.9,5.8,0,78,77.9,55.4,50.3,50.1,49.9,49.9,50.1,47.88,52.2,36,64,,
+"Abbott Ireland",https://www.ie.abbott/homepage.html,Manufacturing,C,21,https://www.ie.abbott/content/dam/corp/abbott/en-ie/documents/pdf/Gender-Gap-Infographic-Nov2022-CP-Abbott-Ireland.pdf,2022,11.9,7,20.9,5.3,-18.3,-17.9,5.8,0,78,77.9,55.4,50.3,50.1,49.9,49.9,50.1,47.8,52.2,36,64,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Abbott Ireland (all legal entities)",https://www.ie.abbott/homepage.html,Manufacturing,C,21,https://www.ie.abbott/content/dam/corp/abbott/en-ie/documents/pdf/Gender-Gap-Infographic-Nov2022-CP-Abbott-Ireland.pdf,2022,12.2,7.7,23.2,5.7,-22,-19.3,4.7,-2.3,72.9,75.9,57.2,51.9,51.3,48.7,52,48,48.9,51.1,37.9,62.1,,
@@ -31,7 +31,7 @@ AA,https://www.theaa.ie/,"Financial and Insurance Activities",L,65,https://www.t
 ABM,https://abmireland.com/,"Administrative and Support Service Activities",O,81,https://web.archive.org/web/20240104225058/https://www.abmireland.com/wp-content/uploads/2023/03/Momentum-Support-An-ABM-Company-Gender-Pay-Gap-Report-2022-Reg-No-IE091300-v3-1.pdf,2022,3.9,1.7,23.1,-17.3,0.2,1.8,,,2.8,3.7,0.9,1.2,77,23,69.1,30.9,64.5,35.5,64,36,68.67,31.33
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"ABP Food Group: ABP Ireland",https://www.abpireland.com/,Manufacturing,C,10,https://web.archive.org/web/20230403123714/https://www.abpireland.com/wp-content/uploads/2022/12/ABP-Ireland-GenderPayGap-Final-Report.pdf,2022,18.4,8.3,81.7,0,,,,,83,86.7,0,0,31.3,68.7,26.1,73.9,13.4,86.8,17,83,,
+"ABP Food Group: ABP Ireland",https://www.abpireland.com/,Manufacturing,C,10,https://web.archive.org/web/20230403123714/https://www.abpireland.com/wp-content/uploads/2022/12/ABP-Ireland-GenderPayGap-Final-Report.pdf,2022,18.4,8.3,81.7,0,,,,,83,86.7,0,0,31.3,68.7,26.1,73.9,13.4,86.6,17,83,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "ABP Food Group: C&D Foods",https://cdfoods.com/,Manufacturing,C,10,https://web.archive.org/web/20240113132645/https://cdfoods.com/wp-content/uploads/2023/12/CD-GenderPayGap-Final-Report-2022.pdf,2022,20.4,0,71.4,0,,,,,93,93.1,0,0,57.6,42.4,21,79,44.9,55.1,33.3,66.7,,
@@ -70,7 +70,7 @@ Aecom,https://aecom.com/ie/,Construction,F,43,https://publications.aecom.com/med
 "Aer Lingus (all legal entities)",https://www.aerlingus.com/html/en-US/home.html,"Transportation and Storage",H,51,https://www.aerlingus.com/media/images/content/AerLingusGenderPayGapReport.pdf,2022,30.5,14.1,79.4,15.7,41,3.5,2.2,1.1,58.1,14.7,1.5,4.7,40.1,59.9,63.7,36.3,52.8,47.2,20.3,79.7,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Aer Lingus Ireland",https://www.aerlingus.com/html/en-US/home.html,"Transportation and Storage",H,51,https://www.aerlingus.com/media/images/content/AerLingusGenderPayGapReport.pdf,2022,0.6,-12.8,53.9,-2.2,-9.4,-9.7,2.2,1.1,56.8,21.5,0.9,1.5,42.4,57.6,51.5,48.5,66,33,39.4,60.6,,
+"Aer Lingus Ireland",https://www.aerlingus.com/html/en-US/home.html,"Transportation and Storage",H,51,https://www.aerlingus.com/media/images/content/AerLingusGenderPayGapReport.pdf,2022,0.6,-12.8,53.9,-2.2,-9.4,-9.7,2.2,1.1,56.8,21.5,0.9,1.5,42.4,57.6,51.5,48.5,66,34,39.4,60.6,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Aer Lingus Ltd",https://www.aerlingus.com,"Transportation and Storage",H,51,https://www.aerlingus.com/media/images/content/AerLingusGenderPayGapReport.pdf,2022,38.4,23.5,90.9,30.4,48.8,22.9,,,59.7,9.5,2.2,7.1,46.5,53.5,57.4,42.6,41.4,58.6,11.2,88.8,,
@@ -142,7 +142,7 @@ Alexion,https://alexion.com/worldwide/Ireland,Manufacturing,C,21,https://alexion
 "Aon Ireland (all legal entities)",https://www.aon.com/ireland/default.jsp,"Financial and Insurance Activities",L,65,https://www.aon.com/getmedia/2ead2c41-0026-43b5-ba73-d39cd809d868/Aon-Ireland-Gender-Pay-Gap-Report-2022-(web).pdf,2022,28.3,27.8,64.2,50.9,-0.5,-49.3,5.2,-28.8,86.1,85.3,93.2,94.6,69,31,59.6,40.4,52.5,47.5,26.6,73.4,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Aon Ireland Limited",https://www.aon.com/ireland/default.jsp,"Financial and Insurance Activities",L,65,https://www.aon.com/getmedia/2ead2c41-0026-43b5-ba73-d39cd809d868/Aon-Ireland-Gender-Pay-Gap-Report-2022-(web).pdf,2022,39.5,35.9,64.6,59.4,-188.2,-51.1,-15.2,-16.8,87,92,91.9,93.4,76,24,70.2,29.7,44.6,55.4,25.3,74.7,,
+"Aon Ireland Limited",https://www.aon.com/ireland/default.jsp,"Financial and Insurance Activities",L,65,https://www.aon.com/getmedia/2ead2c41-0026-43b5-ba73-d39cd809d868/Aon-Ireland-Gender-Pay-Gap-Report-2022-(web).pdf,2022,39.5,35.9,64.6,59.4,-188.2,-51.1,-15.2,-16.8,87,92,91.9,93.4,76,24,70.3,29.7,44.6,55.4,25.3,74.7,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Apple Distribution International",https://www.apple.com/ie/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,62,https://www.apple.com/ie/legal/more-resources/docs/ie-gender-pay-gap-report-2022.pdf,2022,0,3,-8,0,-97,-94,7,0,83,88,100,100,49,51,44,56,43,57,45,55,,
@@ -154,7 +154,7 @@ Alexion,https://alexion.com/worldwide/Ireland,Manufacturing,C,21,https://alexion
 "Apple Operations Europe",https://www.apple.com/ie/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,62,https://www.apple.com/ie/legal/more-resources/docs/ie-gender-pay-gap-report-2022.pdf,2022,16,8,27,1,-3,2,4,0,88,93,100,100,26,74,43,57,35,65,25,75,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-Applegreen,https://applegreenstores.com/,"Wholesale and Retail Trade",G,47,https://applegreenstores.com/wp-content/uploads/2022/12/AG_Gender-Pay-Gap_2022.pdf,2022,7.8,0.86,57.84,50,1.4,1.3,,,25,20,2.8,2.6,63,37,58,42,47,53,42,57,,
+Applegreen,https://applegreenstores.com/,"Wholesale and Retail Trade",G,47,https://applegreenstores.com/wp-content/uploads/2022/12/AG_Gender-Pay-Gap_2022.pdf,2022,7.8,0.86,57.84,50,1.4,1.3,,,25,20,2.8,2.6,63,37,58,42,47,53,43,57,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Applus Car Testing Services Ltd. (Fortnightly) ",https://www.applus.com/global/en/,"Other Service Activities",T,95,https://web.archive.org/web/20230403220707/https://www.ncts.ie/media/4erdbbf1/gender_pay_gap_report_2022.pdf,2022,-0.3,-4.9,-203.9,-214.2,0,0,,,0,0,0,0,0,100,25,75,50,50,25,75,,
@@ -190,7 +190,7 @@ Arcadis,https://www.dpsgroupglobal.com/,"Professional, Scientific, and Technical
 Ardmac,https://www.ardmac.com/,Construction,F,43,https://www.ardmac.com/report-on-the-gender-pay-gap-at-ardmac/,2022,12,1.9,24,32,,,,,80,44,0,0,,,,,,,,,12,88
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-Argos,https://www.argos.co.uk/features/republic-of-ireland,"Wholesale and Retail Trade",G,47,https://www.about.sainsburys.co.uk/~/media/Files/S/Sainsburys/documents/roi-pay-gap-2021-22.pdf,2022,2.83,1.45,13.51,2.96,0.33,-4.43,10.8,-0.08,86.83,82.09,0.3,0.37,52.32,47.68,60.93,39.07,53.33,46.67,53.33,44.67,,
+Argos,https://www.argos.co.uk/features/republic-of-ireland,"Wholesale and Retail Trade",G,47,https://www.about.sainsburys.co.uk/~/media/Files/S/Sainsburys/documents/roi-pay-gap-2021-22.pdf,2022,2.83,1.45,13.51,2.96,0.33,-4.43,10.8,-0.08,86.83,82.09,0.3,0.37,52.32,47.68,60.93,39.07,53.33,46.67,55.33,44.67,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 Arrabawn,https://arrabawn.ie/,Manufacturing,C,10,https://arrabawn.ie/wp-content/uploads/2022/12/Arrabawn-Gender-Pay-Gap-2022.12.pdf,2022,8.9,6.2,88.9,100,-35.8,-63.9,-3.9,2.1,38,64,2.1,7.2,25,75,17,83,21,79,12,88,18.5,81.5
@@ -256,7 +256,7 @@ Aviva,https://www.aviva.ie/,"Financial and Insurance Activities",L,65,https://st
 "BAM Ireland: Building",https://www.bamireland.ie/,Construction,F,42,https://www.bamireland.ie/wp-content/uploads/2022/12/BAM-Ireland-Gender-Pay-Gap-Report-2022.pdf,2022,38.69,40.99,48.5,61.8,7.02,-6.57,-0.27,-5.26,29.5,43.8,100,79.6,29.25,70.75,19.81,80.19,3.77,96.23,4.72,95.28,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"BAM Ireland: Civil",https://www.bamireland.ie/,Construction,F,42,https://www.bamireland.ie/wp-content/uploads/2022/12/BAM-Ireland-Gender-Pay-Gap-Report-2022.pdf,2022,29.2,29.7,22,35.2,12.1,20.98,29.02,-24.79,25,42.4,98.5,73.4,50,50,38.64,63.16,21.43,78.57,12.28,87.72,,
+"BAM Ireland: Civil",https://www.bamireland.ie/,Construction,F,42,https://www.bamireland.ie/wp-content/uploads/2022/12/BAM-Ireland-Gender-Pay-Gap-Report-2022.pdf,2022,29.2,29.7,22,35.2,12.1,20.98,29.02,-24.79,25,42.4,98.5,73.4,50,50,36.84,63.16,21.43,78.57,12.28,87.72,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Bank of America",https://www.bankofamerica.com/,"Financial and Insurance Activities",L,64,https://about.bankofamerica.com/content/dam/about/report-center/gpgr/2022/UK-Gender-Pay-Report-2022.pdf,2022,19,20,32,26,35,48,,,61,67,95,95,51,49,49,51,30,70,35,65,,
@@ -409,7 +409,7 @@ CarTrawler,https://corporate.cartrawler.com/en-gb/,"Telecommunication, Computer 
 "Castlemartyr Resort",https://www.castlemartyrresort.ie/,"Accommodation and Food Service Activities",I,55,https://www.castlemartyrresort.ie/wp-content/uploads/2023/07/Gender-Pay-Gap-Report-2022-CMR.pdf,2022,12.73,2.75,,,-2.83,-1.28,0,0,0,0,2.21,3.45,61.29,38.71,60,40,46.67,53.33,35.71,64.29,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Cavan and Monaghan Education and Training Board",https://www.cmetb.ie/,Education,Q,85,https://www.cmetb.ie/wp-content/uploads/2023/01/CMETB-Gender-Pay-Gap-Report-2022.pdf,2022,6.54,5.69,,,-13.88,6.5,,,,,,,51.45,48.55,50.18,49.82,47.57,52.43,52.44,46.56,74,26
+"Cavan and Monaghan Education and Training Board",https://www.cmetb.ie/,Education,Q,85,https://www.cmetb.ie/wp-content/uploads/2023/01/CMETB-Gender-Pay-Gap-Report-2022.pdf,2022,6.54,5.69,,,-13.88,6.5,,,,,,,51.45,48.55,50.18,49.82,47.57,52.43,52.44,47.56,74,26
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Cavan County Council",https://www.cavancoco.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.cavancoco.ie/news/2022/ccc-gender-pay-gap-report-2022.pdf,2022,2.01,-8.31,,,-12.94,-10.5,19.94,25.64,,,,,34.62,65.38,28.46,71.54,45.74,54.26,40.77,59.23,38,62
@@ -559,7 +559,7 @@ Davy,https://www.davy.ie/,"Financial and Insurance Activities",L,66,https://www.
 Dealz,https://www.dealz.ie/,"Wholesale and Retail Trade",G,47,https://www.dealz.ie/great-ideas/wp-content/uploads/2023/02/ROI-Gender-Pay-Gap-Report-2022.pdf,2022,8.17,-120.17,6.46,-304.2,11.8,24.5,8,14.9,8.21,12.52,0.28,1.96,70,30,74,26,67,33,42,58,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Dell Technologies Ireland: Dell Products",https://www.dell.com/en-ie,Manufacturing,C,26,https://www.delltechnologies.com/asset/en-ie/solutions/business-solutions/briefs-summaries/gender-pay-gap-report-ireland-2021-22.pdf,2022,15,9.1,33.1,14.3,49.5,45.9,2.44,0.7,90.2,94.4,92,95.5,42.3,57.5,34.6,65.4,31.9,68.1,27.8,72.2,67,33
+"Dell Technologies Ireland: Dell Products",https://www.dell.com/en-ie,Manufacturing,C,26,https://www.delltechnologies.com/asset/en-ie/solutions/business-solutions/briefs-summaries/gender-pay-gap-report-ireland-2021-22.pdf,2022,15,9.1,33.1,14.3,49.5,45.9,2.44,0.7,90.2,94.4,92,95.5,42.3,57.7,34.6,65.4,31.9,68.1,27.8,72.2,67,33
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Dell Technologies Ireland: EMC International ",https://www.dell.com/en-ie,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,63,https://www.delltechnologies.com/asset/en-ie/solutions/business-solutions/briefs-summaries/gender-pay-gap-report-ireland-2021-22.pdf,2022,11.4,11.7,25.6,26.8,-154.7,-122.6,-4.3,-23.1,94.3,96.3,93.9,96.9,42.3,57.7,30.3,69.7,26.5,73.5,25.4,74.6,67,33
@@ -745,10 +745,10 @@ Elverys,https://www.elverys.ie/,"Wholesale and Retail Trade",G,47,https://web.ar
 Entain,https://www.entaingroup.com/,"Arts, Sports and Recreation",S,92,https://www.entaingroup.com/media/ztrfmuma/entain-roi-gender-pay-gap-2022-final.pdf,2022,-2.2,-2.4,-33,5.9,,,,,43.2,36.2,0,0,66,34,59,41,56,44,63,37,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Enterprise Ireland",https://www.enterprise-ireland.com/en/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.enterprise-ireland.com/en/Publications/Reports-Published-Strategies/Gender-Pay-Gap-Report-2022.pdf,2022,18,25,,,-10,-8,28,4,,,,,66.8,33.12,76.47,23.53,52.98,47.02,38.64,61.54,59,41
+"Enterprise Ireland",https://www.enterprise-ireland.com/en/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.enterprise-ireland.com/en/Publications/Reports-Published-Strategies/Gender-Pay-Gap-Report-2022.pdf,2022,18,25,,,-10,-8,28,4,,,,,66.88,33.12,76.47,23.53,52.98,47.02,38.46,61.54,59,41
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Enterprise Rent-A-Car",https://www.enterprise.ie/en/home.html,"Administrative and Support Service Activities",O,77,https://www.enterprise.ie/content/dam/eu-brand/eu-pdfs/ireland/GPG%20Ireland_2022.pdf,2022,27,26,65.5,45.5,-62.8,-87.7,9.6,-1.1,65.1,51,33.7,34.1,29.6,70.4,45.7,55.43,22.9,77.1,16.9,83.1,,
+"Enterprise Rent-A-Car",https://www.enterprise.ie/en/home.html,"Administrative and Support Service Activities",O,77,https://www.enterprise.ie/content/dam/eu-brand/eu-pdfs/ireland/GPG%20Ireland_2022.pdf,2022,27,26,65.5,45.5,-62.8,-87.7,9.6,-1.1,65.1,51,33.7,34.1,29.6,70.4,45.7,54.3,22.9,77.1,16.9,83.1,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "EPS Water",https://epswater.ie/,"Water Supply, Sewerage, Waste Management and Remediation Activities",E,36,https://epswater.ie/wp-content/uploads/2023/01/EPS-Gender-Pay-Gap-Report_2022.pdf,2022,23.25,13.52,18,28,14.7,18.9,,,0,0,0,0,,,,,,,,,13.5,86.5
@@ -787,7 +787,7 @@ ESW,https://esw.com/,"Wholesale and Retail Trade",G,47,https://esw.com/wp-conten
 "Failte Ireland",https://www.failteireland.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.failteireland.ie/FailteIreland/media/WebsiteStructure/Documents/tourism-careers/Failte-Ireland-Gender-Pay-Gap-Report-Dec-2022.pdf,2022,11.3,13.2,-59.3,0,49.2,52,-0.8,-36.6,4,2.8,0,0,80,20,81,19,76,24,69,31,76,24
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Family Carers Ireland",https://familycarers.ie/,"Human Health and Social Work Activities",R,88,https://familycarers.ie/media/2874/family-carers-ireland-gender-pay-gap-report-2022.pdf,2022,8.31,7.3,,,1.39,3.3,,,,,,,90.7,9.93,90.78,9.22,89.37,10.63,82.27,17.73,,
+"Family Carers Ireland",https://familycarers.ie/,"Human Health and Social Work Activities",R,88,https://familycarers.ie/media/2874/family-carers-ireland-gender-pay-gap-report-2022.pdf,2022,8.31,7.3,,,1.39,3.3,,,,,,,90.07,9.93,90.78,9.22,89.37,10.63,82.27,17.73,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 Fannin,https://www.fannin.eu/,"Wholesale and Retail Trade",G,46,https://www.fannin.eu/wp-content/uploads/2024/12/Gender-Pay-Gap-Report-2022_Fannin-FINAL-1.docx?x94192,2022,24.4,19.15,75.91,43.83,0.13,-28,-21.07,-16.38,61,74,31,27,36,64,58,42,40,60,31,69,41,59
@@ -1474,7 +1474,7 @@ Nandos,https://www.nandos.ie/,"Accommodation and Food Service Activities",I,56,h
 "National Rehabilitation Hospital",https://www.nrh.ie/,"Human Health and Social Work Activities",R,86,https://www.nrh.ie/wp-content/uploads/2024/03/Final-NRH-Gender-Pay-Gap-Report-2022-01.24.pdf,2022,-8.29,-3.39,,,-42.07,-29.53,,,,,,,76.34,23.66,88.17,11.83,84.95,15.05,87.1,12.9,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"National Shared Services Office",https://nsso.gov.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://prod-nsso-assets.s3.amazonaws.com/documents/Gender_Pay_Gap_Report_v3.pdf,2022,0.35,-7.56,,,-4.86,9.84,7.95,0,,,,,62.87,37.18,63.41,36.59,73.85,26.15,69.15,30.85,67,33
+"National Shared Services Office",https://nsso.gov.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://prod-nsso-assets.s3.amazonaws.com/documents/Gender_Pay_Gap_Report_v3.pdf,2022,0.35,-7.56,,,-4.86,9.84,7.95,0,,,,,62.87,37.13,63.41,36.59,73.85,26.15,69.15,30.85,67,33
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "National Transport Authority",https://www.nationaltransport.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.nationaltransport.ie/wp-content/uploads/2022/12/Gender-Pay-Gap.pdf,2022,3.78,1.91,,,-33.99,-81.18,,,,,,,45,55,30,70,32,68,31,69,35,65
@@ -1906,7 +1906,7 @@ Teleflex,https://www.teleflex.com/,"Human Health and Social Work Activities",R,8
 TikTok,https://www.tiktok.com/en/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,62,https://newsroom.tiktok.com/en-ie/gpg-study-2022,2022,5,1.4,-3.4,-0.7,,,6.1,6.1,87.3,87.7,100,100,51.3,48.7,50.1,49.9,46.2,53.8,49.8,50.2,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Tipperary County Council",https://www.tipperarycoco.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.tipperarycoco.ie/sites/default/files/2022-12/Gender%20Pay%20Gap%20Report%202022.pdf,2022,0.08,-5.36,,,-4.49,0.91,3.48,-6.13,0,0,0,0.12,38.49,61.51,28.62,71.38,34.49,65.61,41.51,58.49,39,61
+"Tipperary County Council",https://www.tipperarycoco.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.tipperarycoco.ie/sites/default/files/2022-12/Gender%20Pay%20Gap%20Report%202022.pdf,2022,0.08,-5.36,,,-4.49,0.91,3.48,-6.13,0,0,0,0.12,38.49,61.51,28.62,71.38,34.49,65.51,41.51,58.49,39,61
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Tipperary Education and Training Board",https://tipperary.etb.ie,Education,Q,85,https://tipperary.etb.ie/wp-content/uploads/2023/01/ETB-Gender-pay-gap-statement-2022-English-Version.docx,2022,10.59,0.91,,,22.9,-3.2,5.6,9.26,,,,,48.12,51.88,47.9,52.1,55.62,44.38,43.47,56.53,67,33
@@ -2053,7 +2053,7 @@ Vertiv,https://www.vertiv.com/,Manufacturing,C,26,https://www.vertiv.com/4a53d4/
 "Westmeath County Council",https://www.westmeathcoco.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.westmeathcoco.ie/en/media/WCCGenderPayGapReport2022.pdf,2022,1.28,-5.35,,,-3.29,-2.79,0.93,-3.12,,,,,32.86,67.14,35.71,64.29,43.57,56.43,38.57,61.43,38,62
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Wexford County Council",https://www.wexfordcoco.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.wexfordcoco.ie/sites/default/files/content/Gender-Pay-Gap-Report-2022.docx,2022,-0.41,4.24,,,4.6,5.86,21.25,18.54,,,,,44.68,55.32,24.05,75.95,40.95,59.05,45.53,54.57,,
+"Wexford County Council",https://www.wexfordcoco.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.wexfordcoco.ie/sites/default/files/content/Gender-Pay-Gap-Report-2022.docx,2022,-0.41,4.24,,,4.6,5.86,21.25,18.54,,,,,44.68,55.32,24.05,75.95,40.95,59.05,45.53,54.47,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Wicklow County Council",https://www.wicklow.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.wicklow.ie/Portals/0/adam/Documents/UmfUG-Z2C0GU23lJyQo5Iw/Link/Wicklow%20County%20Council%20Gender%20Pay%20Gap%20Report%202022.pdf,2022,-1.88,-4.62,,,-4.63,-2.88,5.26,1.18,0,0,0.59,1.68,53.69,46.31,22.22,77.78,40.87,59.13,48.77,51.23,42,58
@@ -2158,7 +2158,7 @@ Abtran,https://www.abtran.com/,"Administrative and Support Service Activities",O
 "Accenture Global Solutions",https://www.accenture.com/ie-en,"Professional, Scientific, and Technical Activities",N,70,https://www.accenture.com/ie-en/about/inclusion-diversity/ireland-gender-pay-gap-2023,2023,9.34,9.9,27.83,18.38,35.09,44.61,18.44,31.5,90,89,89,94,62,38,55,45,52,48,46,54,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Accenture Limited",https://www.accenture.com/ie-en/,"Professional, Scientific, and Technical Activities",N,70,https://www.accenture.com/ie-en/about/inclusion-diversity/ireland-gender-pay-gap-2023,2023,10.46,2.22,18.32,12.45,34.84,17.29,-0.25,12.45,85,85,79,76,54,46,48,53,49,51,45,55,,
+"Accenture Limited",https://www.accenture.com/ie-en/,"Professional, Scientific, and Technical Activities",N,70,https://www.accenture.com/ie-en/about/inclusion-diversity/ireland-gender-pay-gap-2023,2023,10.46,2.22,18.32,12.45,34.84,17.29,-0.25,12.45,85,85,79,76,54,46,48,52,49,51,45,55,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 Actavo,https://actavo.com/,Construction,F,43,https://actavo.com/images/uploads/general/Actavo_Group_Limited_Gender_Pay_Gap_Report_2023.pdf,2023,6.3,13.9,7.6,-83.3,,,,,45.7,37.2,0,0,,,,,,,,,12,88
@@ -2533,7 +2533,7 @@ Carbery,https://www.carbery.com/,Manufacturing,C,10,https://www.carbery.com/wp-c
 CarTrawler,https://corporate.cartrawler.com/en-gb/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,62,https://corporate.cartrawler.com/wp-content/uploads/2023/12/Gender-Pay-Gap-Report-2023.pdf,2023,18,19,21,22,-3,19,-70,-57,86,89,82,86,69,31,56,44,40,60,31,69,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Castleknock Hotel",https://www.castleknockhotel.com/,"Accommodation and Food Service Activities",I,55,https://web.archive.org/web/20240326121741/https://www.castleknockhotel.com/cmsFiles/castleknock_hotel_-_gender_pay_report_2023.pdf,2023,14,3,56,20,7,2,,,3.6,5.2,0,1,57,43,59,41,53,48,44,56,53,47
+"Castleknock Hotel",https://www.castleknockhotel.com/,"Accommodation and Food Service Activities",I,55,https://web.archive.org/web/20240326121741/https://www.castleknockhotel.com/cmsFiles/castleknock_hotel_-_gender_pay_report_2023.pdf,2023,14,3,56,20,7,2,,,3.6,5.2,0,1,57,43,59,41,53,47,44,56,53,47
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Castlemartyr Resort",https://www.castlemartyrresort.ie/,"Accommodation and Food Service Activities",I,55,https://www.castlemartyrresort.ie/wp-content/uploads/2024/03/Gender-Pay-Gap-Report-2023-CMR-004.pdf,2023,8.06,4,61.04,33.33,-3.27,0,0,0,6.67,12.41,0.67,3.65,50,50,46.67,53.33,30,70,40,60,,
@@ -2784,7 +2784,7 @@ Depaul,https://ie.depaulcharity.org/,"Human Health and Social Work Activities",R
 "Diageo Ireland",https://www.diageo.com/en,Manufacturing,C,11,http://hznnewdiageobackend-prd-593574270.eu-west-1.elb.amazonaws.com/media/a2jhztf4/roi_diageo_genderpaygap_fy23.pdf,2023,5.4,10.3,-0.8,6.7,-13.6,8.4,1.3,19.1,79.4,88.1,100,100,56.8,43.2,40.9,59.1,32.5,67.5,46.1,53.9,44.1,55.9
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Diageo Republic of Ireland (all entities)",https://www.diageo.com/en,Manufacturing,C,32,http://hznnewdiageobackend-prd-593574270.eu-west-1.elb.amazonaws.com/media/a2jhztf4/roi_diageo_genderpaygap_fy23.pdf,2023,2.9,11.5,-4.6,-3,-85.7,-69.4,-2.2,16.5,74.7,83.5,100,100,49,51,44.4,55.6,35.8,64.2,41.6,58.5,42.7,57.3
+"Diageo Republic of Ireland (all entities)",https://www.diageo.com/en,Manufacturing,C,32,http://hznnewdiageobackend-prd-593574270.eu-west-1.elb.amazonaws.com/media/a2jhztf4/roi_diageo_genderpaygap_fy23.pdf,2023,2.9,11.5,-4.6,-3,-85.7,-69.4,-2.2,16.5,74.7,83.5,100,100,49,51,44.4,55.6,35.8,64.2,41.6,58.4,42.7,57.3
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 Diligent,https://www.diligent.com/,"Administrative and Support Service Activities",O,82,https://www.diligent.com/legal/gender-pay-report,2023,5,-4,33,14,,,31,42,79,87,86,76,56,44,52,48,65,35,50,50,,
@@ -2863,7 +2863,7 @@ eBay,http://www.ebay.ie/,"Financial and Insurance Activities",L,64,https://stati
 "Ei Electronics",https://www.eielectronics.ie/,Manufacturing,C,26,https://www.eielectronics.ie/gender-pay-gap-analysis-at-ei-electronics-2023/,2023,25.4,1.3,21.4,7.8,0.4,0.1,0.2,0,99.8,98.5,74.3,70.4,62,38,65,35,65,35,40,60,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-Eir,https://www.eir.ie/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,61,https://www.eir.ie/opencms/export/sites/default/.content/pdf/eir-2023-Gender-Pay-Gap-Report.pdf,2023,5.51,19.27,-40.69,-84.64,4.01,8.22,-2.49,1.66,88.45,84.7,28.24,51.2,34.34,65.66,22.33,77.67,13.94,86.08,18.93,81.07,22.36,77.64
+Eir,https://www.eir.ie/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,61,https://www.eir.ie/opencms/export/sites/default/.content/pdf/eir-2023-Gender-Pay-Gap-Report.pdf,2023,5.51,19.27,-40.69,-84.64,4.01,8.22,-2.49,1.66,88.45,84.7,28.24,51.2,34.34,65.66,22.33,77.67,13.94,86.06,18.93,81.07,22.36,77.64
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 EirGrid,https://www.eirgrid.ie/,"Electricity, Gas, Steam, and Air Conditioning Supply",D,35,https://cms.eirgrid.ie/sites/default/files/publications/2023%20EirGrid%20Gender%20Pay%20Gap%20Report.pdf,2023,10.3,8.9,19.4,15.9,-2.6,13,,,87,81,24,38,44,56,33,67,27,73,30,70,33,67
@@ -2878,7 +2878,7 @@ Elavon,https://www.elavon.ie/,"Financial and Insurance Activities",L,64,https://
 "Eli Lilly: Kinsale",https://www.lilly.com/,Manufacturing,C,21,https://assets.ctfassets.net/r4uhiiu7kbc1/ADIeIiO5aezZdEvAHDdNI/fbb72c7bdfb6ca9814228713b87de94b/IE_Gender_Pay_Gap_December2023_PP-MG-IE-0086.pdf,2023,10,9.2,1,21.8,4,8.4,15.1,12.3,64,58,91,97,59,41,41,59,35,65,27,73,40,60
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-Elverys,https://www.elverys.ie/,"Wholesale and Retail Trade",G,47,https://web.archive.org/web/20240123223902/https://www.elverys.ie/medias/Gender-Pay-Gap-Report-Dec-2023.pdf?context=bWFzdGVyfHJvb3R8MzI4MjY3fGFwcGxpY2F0aW9uL3BkZnxhRFk1TDJnNVlTOHhNVGMzT0RJM01UQTRORFUzTkM5SFpXNWtaWElnVUdGNUlFZGhjQ0JTWlhCdmNuUWdSR1ZqSURJd01qTXVjR1JtfGI3Nzk0ZDU2Y2I3YTQ0ZmJkMGU2ZmI4MDk2M2ZmNTdhODgxOTA0MjYxN2FhMzM5NGJmYmQxZjJlY2EzNGUxYzE&attachment=true,2023,0.33,2.28,1.94,0,-3.81,-2.06,,,1.56,1.79,0.78,2.81,43.4,56.7,46.91,53.09,58.25,41.75,49.48,50.52,46,54
+Elverys,https://www.elverys.ie/,"Wholesale and Retail Trade",G,47,https://web.archive.org/web/20240123223902/https://www.elverys.ie/medias/Gender-Pay-Gap-Report-Dec-2023.pdf?context=bWFzdGVyfHJvb3R8MzI4MjY3fGFwcGxpY2F0aW9uL3BkZnxhRFk1TDJnNVlTOHhNVGMzT0RJM01UQTRORFUzTkM5SFpXNWtaWElnVUdGNUlFZGhjQ0JTWlhCdmNuUWdSR1ZqSURJd01qTXVjR1JtfGI3Nzk0ZDU2Y2I3YTQ0ZmJkMGU2ZmI4MDk2M2ZmNTdhODgxOTA0MjYxN2FhMzM5NGJmYmQxZjJlY2EzNGUxYzE&attachment=true,2023,0.33,2.28,1.94,0,-3.81,-2.06,,,1.56,1.79,0.78,2.81,43.3,56.7,46.91,53.09,58.25,41.75,49.48,50.52,46,54
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Embecta Ireland",https://www.embecta.com/,Manufacturing,C,32,https://investors.embecta.com/static-files/8f71e528-12e8-408b-9ee0-4fc2bc1a0477,2023,4.3,4.4,-7.7,,,,16.7,19.1,91.1,92.9,93.1,97.4,33.1,66.9,13.8,86.2,11.5,88.5,19.1,80.9,19,81
@@ -2977,7 +2977,7 @@ Firstsource,https://www.firstsource.com/,"Administrative and Support Service Act
 Flogas,https://www.flogas.ie/,"Electricity, Gas, Steam, and Air Conditioning Supply",D,35,https://www.flogas.ie/assets/uploads/2023%20Gender%20Pay%20Gap%20Report%20final.pdf,2023,23.3,22.1,38.4,8.6,-11.5,-38.6,41.1,29.1,80.1,91.4,82.4,92.6,26.7,73.3,51.4,48.6,20,80,37.3,62.7,45,55
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Flutter (Head Office)",https://www.flutter.com/,"Arts, Sports and Recreation",S,92,https://www.flutter.com/media/h5ohywqp/flutter-irish-gender-pay-gap-report-2023.pdf,2023,3.9,3.5,9.5,3.5,-32.7,-9.8,13.3,1.1,91,92.5,94,94.4,31.1,68.9,31.4,68.6,27.6,72.3,28,72,29.5,70.5
+"Flutter (Head Office)",https://www.flutter.com/,"Arts, Sports and Recreation",S,92,https://www.flutter.com/media/h5ohywqp/flutter-irish-gender-pay-gap-report-2023.pdf,2023,3.9,3.5,9.5,3.5,-32.7,-9.8,13.3,1.1,91,92.5,94,94.4,31.1,68.9,31.4,68.6,27.6,72.4,28,72,29.5,70.5
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Flutter (Retail)",https://www.flutter.com/,"Arts, Sports and Recreation",S,92,https://www.flutter.com/media/h5ohywqp/flutter-irish-gender-pay-gap-report-2023.pdf,2023,-4.3,-4.4,-13.3,-9.6,-2.8,-2.5,-28.7,-25.8,89.2,80.7,82.8,79.5,57.3,42.7,59.9,40.1,67.2,32.8,67.5,32.5,62,36
@@ -3046,7 +3046,7 @@ Glanbia,https://www.glanbia.com/,Manufacturing,C,10,https://www.glanbia.com/site
 Glenveagh,https://glenveagh.ie/,Construction,F,41,https://glenveagh.ie/download/2023-GPG-Report,2023,29.2,8.5,66.6,26.5,,,-43,-57.1,76,64,72.1,50.9,27,73,35,65,30,70,20,80,28,72
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Global Shares",https://www.globalshares.com/ie/,"Financial and Insurance Activities",L,66,https://www.jpmorgan.com/content/dam/jpmorgan/documents/global/disclosures/nov23-ireland-gender-pay-gap-report.pdf,2023,11.89,6.69,74.95,5.78,-91.17,-86.71,29.7,-28.33,86.86,77.63,77.71,72.81,40.59,59.41,52.48,47.52,51.59,48.51,29,71,,
+"Global Shares",https://www.globalshares.com/ie/,"Financial and Insurance Activities",L,66,https://www.jpmorgan.com/content/dam/jpmorgan/documents/global/disclosures/nov23-ireland-gender-pay-gap-report.pdf,2023,11.89,6.69,74.95,5.78,-91.17,-86.71,29.7,-28.33,86.86,77.63,77.71,72.81,40.59,59.41,52.48,47.52,51.49,48.51,29,71,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Go-Ahead Ireland",https://www.goaheadireland.ie/,"Transportation and Storage",H,49,https://images-goaheadireland.passenger-website.com/downloads/Gender%20Pay%20Gap%20Report%202023.pdf,2023,-0.96,6.32,-81.72,0,0.93,0.93,100,100,100,100,0,0,13.33,86.67,12.37,87.63,5.67,94.33,9.23,90.77,,
@@ -3223,6 +3223,9 @@ Intercom,https://www.intercom.com/,"Telecommunication, Computer Programming, Con
 "Irish Examiner and Echo ",https://www.irishexaminer.com/,"Publishing, Broadcasting, and Content Production and Distribution Activites",J,58,https://red.irishexaminer.com/cms_media/module_ob/1/878_1_866_1_The_Irish_Examiner_Group_Pay_Report_2024.pdf,2023,12,13.68,-40.14,0,15.08,14.16,7.92,10.44,82.83,90.48,1.05,5.98,63,37,45,55,30,70,38,62,44,56
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
+"Irish Express Cargo",https://flex.com/,"Transportation and Storage",H,52,https://flex.com/downloads/ireland-express-cargo-gender-pay-gap-report-2024,2023,-10.1,-11.22,6.07,0,,,,,100,100,6.67,3.72,7.27,92.73,12,88,16.95,83.05,18.52,81.48,,
+<br />
+<b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Irish HomeCare",https://irishhomecare.ie/,"Human Health and Social Work Activities",R,86,https://irishhomecare.ie/wp-content/uploads/2024/12/Gender-Pay-Gap-Report-2022.pdf,2023,24,4,81,14,0,2,,,79,75,79,75,96,4,95,5,95,5,93,7,95,5
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
@@ -3289,7 +3292,7 @@ Intercom,https://www.intercom.com/,"Telecommunication, Computer Programming, Con
 "John Sisk and Son",https://www.johnsiskandson.com/,Construction,F,41,https://www.johnsiskandson.com/uploads/pdf/Gender-Pay-Gap-Report-2023-IRL.pdf,2023,11.87,19.64,18.66,0,-67.34,-115.36,-13.6,-0.94,69.84,72.24,13.76,49.55,20.14,79.86,22.74,77.26,10.63,89.37,9.97,90.03,16,84
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Johnson & Johnson Vision Care",https://jnjvisionpro.co.uk/,Manufacturing,C,32,https://jnj.co.uk/ireland-gender-pay-gap-report-2023,2023,3.67,11.4,-1.65,17.01,,,-11.53,-2.96,84.56,84.23,95.22,93.74,22.1,77.9,19.2,80.8,10.3,89.7,15.2,84.9,,
+"Johnson & Johnson Vision Care",https://jnjvisionpro.co.uk/,Manufacturing,C,32,https://jnj.co.uk/ireland-gender-pay-gap-report-2023,2023,3.67,11.4,-1.65,17.01,,,-11.53,-2.96,84.56,84.23,95.22,93.74,22.1,77.9,19.2,80.8,10.3,89.7,15.2,84.8,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Johnson Controls: Silent-Aire",https://www.silent-aire.com/,Manufacturing,C,28,https://www.johnsoncontrols.co.uk/-/media/jci/be/united-kingdom/gpg/hq2312001_gender-pay-gap-reporting-2023-rev1.pdf,2023,-10.1,-9.8,39,21.9,,,,,10.7,89.3,10.7,89.3,2.4,97.6,6,94,6,94,7.1,92.9,,
@@ -3337,7 +3340,7 @@ Kellanova,https://www.kellanova.com/us/en/home.html,Manufacturing,C,10,https://w
 "Kepak McCarren Meats",https://www.kepak.com/,Manufacturing,C,10,https://www.kepak.com/assets/2023-kepak-GPGR-IRL.pdf,2023,4.46,3.25,28.8,46.51,,,,,85,94,0,0,31,69,37,63,26,74,24,76,30,70
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Kerry County Council",https://www.kerrycoco.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.kerrycoco.ie/wp-content/uploads/2023/12/Kerry-County-Council-Gender-Pay-Gap-Report-2023.pdf,2023,-1.86,-5.97,,,-19.45,-11.62,0.48,-0.55,0,0,0.21,0.97,29.55,70.45,8.71,91.29,57.52,42.28,31.4,68.6,32,68
+"Kerry County Council",https://www.kerrycoco.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.kerrycoco.ie/wp-content/uploads/2023/12/Kerry-County-Council-Gender-Pay-Gap-Report-2023.pdf,2023,-1.86,-5.97,,,-19.45,-11.62,0.48,-0.55,0,0,0.21,0.97,29.55,70.45,8.71,91.29,57.52,42.48,31.4,68.6,32,68
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Kerry Education and Training Board",https://www.kerryetb.ie/,Education,Q,85,https://kerryetb.ie/wp-content/uploads/2024/02/Kerry-ETB-Gender-pay-gap-statement-2023-English-Version.pdf,2023,1.9,-3.08,,,7.56,0.04,,,,,,,48.98,51.02,51.02,48.98,49.95,50.05,50.92,49.08,66.25,33.75
@@ -3529,7 +3532,7 @@ Manpower,https://www.manpower.ie/,"Administrative and Support Service Activities
 "Mediahuis Ireland",https://www.mediahuis.ie/,"Publishing, Broadcasting, and Content Production and Distribution Activites",J,58,https://www.mediahuis.ie/app/uploads/2023/12/GPG-Report-2023.pdf,2023,20.6,23.8,36.7,0,25.6,33.6,29.5,35.6,82,87,100,100,53,47,40,60,37,63,24,76,39,61
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-Medtronic,https://www.medtronic.com/en-ie/our-company/medtronic-ireland.html,"Human Health and Social Work Activities",R,86,https://www.medtronic.com/content/dam/medtronic-wide/public/western-europe/employee-support-services/communications/gender-pay-gap-report-fy23-ie-en.pdf,2023,9,4,22,20,0,1,6,25,98,97,64,70,54,48,48,52,49,51,41,59,,
+Medtronic,https://www.medtronic.com/en-ie/our-company/medtronic-ireland.html,"Human Health and Social Work Activities",R,86,https://www.medtronic.com/content/dam/medtronic-wide/public/western-europe/employee-support-services/communications/gender-pay-gap-report-fy23-ie-en.pdf,2023,9,4,22,20,0,1,6,25,98,97,64,70,52,48,48,52,49,51,41,59,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 Mercer,https://www.mercer.com/en-ie/,"Financial and Insurance Activities",L,65,https://www.mercer.com/assets/ie/en_ie/shared-assets/local/attachments/pdf-HR-Mercer-Ireland-Gender-Pay-Gap-Report-2023.pdf,2023,32.6,25.2,58.4,33.2,66.5,6.2,75.7,-12,90.3,89.3,93.6,95.2,58.1,41.9,58.8,41.2,49.4,50.6,35.3,64.7,,
@@ -3742,7 +3745,7 @@ Personio,https://www.personio.com/,"Telecommunication, Computer Programming, Con
 "Pfizer Ireland (all legal entities)",https://www.pfizer.ie/,Manufacturing,C,21,https://www.pfizer.ie/files/Pfizer-Ireland-Gender-Paygap-Report-2023.pdf,2023,10.5,8.3,8.6,-5.8,,,,,92.9,93.4,91.1,93,48.5,51.5,41,59,40.7,59.3,30.6,69.4,40,60
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Pfizer Ireland Pharmaceuticals",https://www.pfizer.ie/,Manufacturing,C,21,https://www.pfizer.ie/files/Pfizer-Ireland-Gender-Paygap-Report-2023.pdf,2023,8.9,7.9,5.1,-6.2,-14,-26,12.7,1.5,91.9,92.2,90.4,91.9,50.1,49.9,40.3,59.7,36.2,63.2,32.1,67.9,39.7,60.3
+"Pfizer Ireland Pharmaceuticals",https://www.pfizer.ie/,Manufacturing,C,21,https://www.pfizer.ie/files/Pfizer-Ireland-Gender-Paygap-Report-2023.pdf,2023,8.9,7.9,5.1,-6.2,-14,-26,12.7,1.5,91.9,92.2,90.4,91.9,50.1,49.9,40.3,59.7,36.2,63.8,32.1,67.9,39.7,60.3
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Pfizer Manufacturing Ireland",https://www.pfizer.ie,Manufacturing,C,21,https://www.pfizer.ie/files/Pfizer-Ireland-Gender-Paygap-Report-2023.pdf,2023,16.1,17.6,15.3,6.8,,,-9.7,-14.3,99.4,99,93.1,96.8,47.2,52.8,51.7,48.3,17.4,82.6,19.1,80.9,33.8,66.2
@@ -4030,7 +4033,7 @@ Stryker,https://www.stryker.com/index.html,"Publishing, Broadcasting, and Conten
 Teagasc,https://www.teagasc.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.teagasc.ie/media/website/about/our-organisation/gender-and-equality/Gender-Pay-Gap_TeagascReport2023.pdf,2023,11,18,,,3,1,0.1,2,,,,,41,59,49,51,34,66,25,75,40,60
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Technological University Dublin",https://tudublin.ie/,Education,Q,85,https://www.tudublin.ie/media/website/explore/about-the-university/gender-pay-gap/Gender-Pay-Gap-Report-2023-FINALv1.pdf,2023,12.68,15.05,,,5.68,0,19.84,18.68,,,,,54.99,45.01,54.59,45.41,42.4,57.6,36.63,63.67,47,53
+"Technological University Dublin",https://tudublin.ie/,Education,Q,85,https://www.tudublin.ie/media/website/explore/about-the-university/gender-pay-gap/Gender-Pay-Gap-Report-2023-FINALv1.pdf,2023,12.68,15.05,,,5.68,0,19.84,18.68,,,,,54.99,45.01,54.59,45.41,42.4,57.6,36.63,63.37,47,53
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Technological University of the Shannon",https://tus.ie/,Education,Q,85,https://tus.ie/app/uploads/ProfessionalServices/EDI/TUS-Gender-Pay-Gap-Report-2023-Final.pdf,2023,9.7,9.7,,,18.2,13.4,-4.3,-6.6,,,,,57,43,58,42,51,49,44,56,52,48
@@ -4078,7 +4081,7 @@ Teleflex,https://www.teleflex.com/,"Human Health and Social Work Activities",R,8
 "ThermoFisher Scientific",https://jobs.thermofisher.com/global/en/ireland,Manufacturing,C,32,https://corporate.thermofisher.com/content/dam/tfcorpsite/documents/corporate-social-responsibility/Ireland%20Gender%20Pay%20Gap%20Report%202023.pdf,2023,33.6,35.4,18.1,24.6,-21.3,-22.7,41.8,63.5,86.9,95.8,87.6,94.7,52,48,40,60,10,90,5,95,27,73
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Three Ireland",https://www.three.ie/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,61,https://www.three.ie/pdfs/legal/gender-pay-gap-report-2023.pdf,2023,26.5,27.5,51.3,30,-3,-0.2,-4.2,-7.7,93.7,95.9,70.9,75.4,56.3,43.7,60.6,39.4,45,54.9,29.7,70.3,,
+"Three Ireland",https://www.three.ie/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,61,https://www.three.ie/pdfs/legal/gender-pay-gap-report-2023.pdf,2023,26.5,27.5,51.3,30,-3,-0.2,-4.2,-7.7,93.7,95.9,70.9,75.4,56.3,43.7,60.6,39.4,45.1,54.9,29.7,70.3,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 TikTok,https://www.tiktok.com/en/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,62,https://newsroom.tiktok.com/en-ie/ie-2023-gender-pay-gap-report,2023,2.6,-0.6,-2.9,-2.3,,,,,95.8,94.5,100,100,49,51,48.6,51.4,51.9,48.1,49.5,50.5,,
@@ -4546,7 +4549,7 @@ Arrabawn,https://arrabawn.ie/,Manufacturing,C,10,https://arrabawn.ie/wp-content/
 "Arthur Cox (The Firm - including partners)",https://www.arthurcox.com/,"Professional, Scientific, and Technical Activities",N,69,https://www.arthurcox.com/wp-content/uploads/2024/12/Gender-Pay-Gap-Report-2024.pdf,2024,57,58,72,47,,,,,86,85,52,46,,,,,,,,,67,33
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-Arup,https://www.arup.com/,"Professional, Scientific, and Technical Activities",N,66,https://www.arup.com/globalassets/downloads/corporate-documents/local-policies/ireland-gender-pay-gap-report-2024.pdf,2024,16.6,22.2,25.3,25.3,2.6,11.4,16.6,-0.9,99.7,99.6,41.2,58.8,48.4,51.2,53,47,34.5,65.5,27.4,72.6,,
+Arup,https://www.arup.com/,"Professional, Scientific, and Technical Activities",N,66,https://www.arup.com/globalassets/downloads/corporate-documents/local-policies/ireland-gender-pay-gap-report-2024.pdf,2024,16.6,22.2,25.3,25.3,2.6,11.4,16.6,-0.9,99.7,99.6,41.2,58.8,48.8,51.2,53,47,34.5,65.5,27.4,72.6,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "ARYZTA Bakeries Ireland",https://aryzta.ie/,"Wholesale and Retail Trade",G,46,https://aryzta.ie/wp-content/uploads/2024/12/GPG-2024-FINAL-1.pdf,2024,12.4,21.9,-26.7,-121,-24.9,18.5,-46.5,-10.9,37,68,1,1,49,51,37,63,24,76,24,76,33.6,66.4
@@ -4780,7 +4783,7 @@ Cadence,https://www.cadence.com/en_US/home.html,Manufacturing,C,26,https://www.c
 "Canada Life Group Services",https://www.canadalife.com/,"Professional, Scientific, and Technical Activities",N,70,https://assets-eu-01.kc-usercontent.com/ffd8d21b-ebd4-0151-55d5-297335c8f50f/97e6b8ac-26db-4009-af8b-6544b2a5db34/ILA%2019348%20%28NPI%2012-24%29-M8.pdf,2024,20.3,17.1,49.2,26.2,32.4,54.1,-6,-3.4,93.4,90.5,20,21.5,52.08,47.92,43.52,56.48,34.72,65.28,35.75,64.25,41,59
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Cantor Fitzgerald",https://cantorfitzgerald.ie/,"Financial and Insurance Activities",L,64,https://cantorfitzgerald.ie/wp-content/uploads/2024/12/Cantor-Fitzgerald-Ireland-Gender-Pay-Gap-Report-2024.pdf,2024,40.06,40.41,61.11,66.62,,,-0.95,-1.71,81.25,78.1,41.25,46.72,49.09,50.91,50,50,33.33,67.67,16.67,83.33,37,63
+"Cantor Fitzgerald",https://cantorfitzgerald.ie/,"Financial and Insurance Activities",L,64,https://cantorfitzgerald.ie/wp-content/uploads/2024/12/Cantor-Fitzgerald-Ireland-Gender-Pay-Gap-Report-2024.pdf,2024,40.06,40.41,61.11,66.62,,,-0.95,-1.71,81.25,78.1,41.25,46.72,49.09,50.91,50,50,33.33,66.67,16.67,83.33,37,63
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 Capita,https://www.capita.com/,"Professional, Scientific, and Technical Activities",N,70,https://www.capita.com/sites/g/files/nginej291/files/2024-12/gender-and-ethnicity-pay-gap-report-2024.pdf,2024,9.9,1.7,9.6,-7.4,33.2,2.5,-9.1,-100,17.2,16.1,0.7,1.1,64.8,35.2,60.1,39.9,62.2,37.8,52.6,47.4,59.9,40.1
@@ -5287,16 +5290,16 @@ Elverys,https://www.elverys.ie/,"Wholesale and Retail Trade",G,47,https://cdn.sh
 "Enable Ireland",https://enableireland.ie/,"Human Health and Social Work Activities",R,88,https://enableireland.ie/sites/default/files/publication/EI%20Gender%20Pay%20Gap%20Report%202024.pdf,2024,-4.98,-14.08,,,-12.14,-12.65,,,,,,,79.8,20.2,83.7,16.3,89.16,10.84,85.93,14.07,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-Energia,https://www.energia.ie/home,"Electricity, Gas, Steam, and Air Conditioning Supply",D,35,https://energiagroup.com/globalassets/sustainability-section/gender-pay-gap-reports/gender_pay_gap_report_2024.pdf,2024,27,20.6,48.1,30.4,,,,,94.7,94.9,,,49.5,51,52.9,47.1,47.8,52.2,28.3,71.1,45,55
+Energia,https://www.energia.ie/home,"Electricity, Gas, Steam, and Air Conditioning Supply",D,35,https://energiagroup.com/globalassets/sustainability-section/gender-pay-gap-reports/gender_pay_gap_report_2024.pdf,2024,27,20.6,48.1,30.4,,,,,94.7,94.9,,,49.5,51,52.9,47.1,47.8,52.2,28.3,71.7,45,55
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-Entain,https://www.entaingroup.com/,"Arts, Sports and Recreation",S,92,https://www.entaingroup.com/media/4hvnyiuv/entain-roi-gender-pay-gap-2024.pdf,2024,-1.2,-0.9,1.3,-7.8,-7.1,-4.4,,,90.6,88.1,5.6,4.3,65,37,60,40,61,39,75,25,,
+Entain,https://www.entaingroup.com/,"Arts, Sports and Recreation",S,92,https://www.entaingroup.com/media/4hvnyiuv/entain-roi-gender-pay-gap-2024.pdf,2024,-1.2,-0.9,1.3,-7.8,-7.1,-4.4,,,90.6,88.1,5.6,4.3,63,37,60,40,61,39,75,25,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Enterprise Ireland",https://www.enterprise-ireland.com/en/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.enterprise-ireland.com/documents/final-ei-gender-pay-gap-report-2024-en-148062.pdf,2024,15,22,,,13,24,10,0,,,,,65,35,72,28,55,45,41,59,58,42
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Enterprise Rent-A-Car",https://www.enterprise.ie/en/home.html,"Administrative and Support Service Activities",O,77,https://www.enterprise.ie/content/dam/eu-brand/eu-pdfs/ireland/GPG-Ireland-2024-Final.pdf,2024,18.1,5.2,40.9,-53.4,-38.3,-26.2,1.2,0.6,64.4,63.4,32.6,33.7,29.1,70.9,44.1,55.89,27.5,72.5,31.1,68.9,,
+"Enterprise Rent-A-Car",https://www.enterprise.ie/en/home.html,"Administrative and Support Service Activities",O,77,https://www.enterprise.ie/content/dam/eu-brand/eu-pdfs/ireland/GPG-Ireland-2024-Final.pdf,2024,18.1,5.2,40.9,-53.4,-38.3,-26.2,1.2,0.6,64.4,63.4,32.6,33.7,29.1,70.9,44.1,55.9,27.5,72.5,31.1,68.9,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 Enva,https://enva.com,"Water Supply, Sewerage, Waste Management and Remediation Activities",E,36,https://enva.com/media/q4oo1wwn/gender-pay-gap-report-2024-ireland.pdf,2024,-2.75,-4.92,18.38,10.93,47.6,49.1,20.5,10.13,80.25,88.21,21,25,19.11,80.89,28.67,71.33,30,70,32.76,67.24,,
@@ -5479,7 +5482,7 @@ Glanbia,https://www.glanbia.com/,Manufacturing,C,10,https://www.glanbia.com/site
 "Glanmore Foods",https://glanmorefoods.ie/,Manufacturing,C,10,https://glanmorefoods.ie/media/q2ci2vor/genderpaygap_glanmore_v6.pdf,2024,22.3,5.4,-3,0,6.64,11.24,2.07,5.24,0,0,0,0,100,0,82,18,65,35,66,34,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-Glanua,https://glanua.com/,"Water Supply, Sewerage, Waste Management and Remediation Activities",E,39,https://glanua.com/wp-content/uploads/2025/01/Glanua-gender-pay-gap-report-2024.pdf,2024,9.1,9.6,19.6,0,-3,8.9,22.6,0,86.4,87.3,33.9,52.3,29.9,70.1,10.2,89.8,12.2,87.7,12,88,16,84
+Glanua,https://glanua.com/,"Water Supply, Sewerage, Waste Management and Remediation Activities",E,39,https://glanua.com/wp-content/uploads/2025/01/Glanua-gender-pay-gap-report-2024.pdf,2024,9.1,9.6,19.6,0,-3,8.9,22.6,0,86.4,87.3,33.9,52.3,27.3,72.7,9.1,90.9,9.1,90.9,9.1,90.9,16,84
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "GlaxoSmithKline Dungarvan",https://www.gsk.com/en-gb/locations/ireland/,Manufacturing,C,21,https://www.haleon.com/content/dam/haleon/corporate/documents/our-impact/gender-pay-gap/2024-Ireland-gender-pay-gap-report-accessible.pdf.downloadasset.pdf,2024,11.9,8.7,10,7.6,,,0.6,4.6,97.5,99.3,93.8,95.9,51,49,34,66,33,67,22,78,,
@@ -5512,7 +5515,7 @@ Glenveagh,https://glenveagh.ie/,Construction,F,41,https://glenveagh.ie/download/
 "Goodbody Stockbrokers",https://www.goodbody.ie/,"Financial and Insurance Activities",L,66,https://goodbody.ie/documents/Goodbody_Gender-Pay-Gap-Report-2024.pdf,2024,41.48,46.62,95.41,62.5,37.39,47.61,-13.61,0,2.58,3.2,78.71,59.82,55.32,44.68,63.83,36.17,31.18,68.82,15.05,84.95,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Google Cloud EMEA Limited",https://cloud.google.com/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,62,https://kstatic.googleusercontent.com/files/7315e2857820c98ec40c70273e3c8deda9fdbdb3e02f7086d9304b55f89511bdc226c723d7b3d06cb0af2db536b9a3d886af64bc04c24bb6efbee37b52f22e14,2024,19,16,22,24,,,,,100,100,100,100,55,45,46,53,33,67,30,70,,
+"Google Cloud EMEA Limited",https://cloud.google.com/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,62,https://kstatic.googleusercontent.com/files/7315e2857820c98ec40c70273e3c8deda9fdbdb3e02f7086d9304b55f89511bdc226c723d7b3d06cb0af2db536b9a3d886af64bc04c24bb6efbee37b52f22e14,2024,19,16,22,24,,,,,100,100,100,100,55,45,46,54,33,67,30,70,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Google Ireland Limited",https://about.google/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,62,https://kstatic.googleusercontent.com/files/7315e2857820c98ec40c70273e3c8deda9fdbdb3e02f7086d9304b55f89511bdc226c723d7b3d06cb0af2db536b9a3d886af64bc04c24bb6efbee37b52f22e14,2024,6,8,14,14,0,-2,60,9,100,100,100,99,52,48,51,49,43,57,42,58,,
@@ -5617,7 +5620,7 @@ Hollister,https://www.hollister.ie/en-ie,"Wholesale and Retail Trade",G,47,https
 "Home Instead",https://www.homeinstead.ie/,"Human Health and Social Work Activities",R,86,https://web.archive.org/web/20250221105645/https://www.homeinstead.ie/home-instead-gender-pay-gap-report-2024,2024,1.66,0.87,11.5,0,,,,,5.5,5.3,0,0,86.71,13.29,83.43,16.57,87.38,12.62,89.79,10.21,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Home Store + More",https://www.homestoreandmore.ie/homepage.html,"Wholesale and Retail Trade",G,47,https://www.homestoreandmore.ie/on/demandware.static/-/Sites-master/default/dw6b410c82/instructions/safety-labels/HSM%20Gender%20pay%20gap%20report_2024.pdf?$staticlink$,2024,14,2,56,72,-2,-1,21,-6,76,72,10,12,49,51,54,47,50,50,58,42,56,44
+"Home Store + More",https://www.homestoreandmore.ie/homepage.html,"Wholesale and Retail Trade",G,47,https://www.homestoreandmore.ie/on/demandware.static/-/Sites-master/default/dw6b410c82/instructions/safety-labels/HSM%20Gender%20pay%20gap%20report_2024.pdf?$staticlink$,2024,14,2,56,72,-2,-1,21,-6,76,72,10,12,49,51,53,47,50,50,58,42,56,44
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Horizon Theraputics",https://www.amgen.ie,"Professional, Scientific, and Technical Activities",N,72,https://www.amgen.ie/-/media/Themes/CorporateAffairs/Redesign/Amgen-ie/Amgen-ie/Documents/report/Horizon-Therapeutics---Amgen---Gender-Pay-Gap-R_Eimear-Rigby.pdf,2024,15,5.5,19.4,6.2,,,20.9,24.7,98.3,98.3,100,100,49.2,50.8,54.2,45.8,59.3,40.7,39,61,,
@@ -5747,9 +5750,6 @@ Intercom,https://www.intercom.com/,"Telecommunication, Computer Programming, Con
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Irish Examiner and Echo ",https://www.irishexaminer.com/,"Publishing, Broadcasting, and Content Production and Distribution Activites",J,58,https://red.irishexaminer.com/cms_media/module_ob/1/878_1_866_1_The_Irish_Examiner_Group_Pay_Report_2024.pdf,2024,4.69,11.82,-64.18,0,23.25,13.14,11.66,12.07,96.08,96.85,0.98,5.51,67,33,42,58,33,67,35,65,45,55
-<br />
-<b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Irish Express Cargo",https://flex.com/,"Transportation and Storage",H,52,https://flex.com/downloads/ireland-express-cargo-gender-pay-gap-report-2024,2024,-10.1,-11.22,6.07,0,,,,,100,100,6.67,3.72,7.27,92.73,12,88,16.95,83.05,19.52,81.48,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Irish HomeCare",https://irishhomecare.ie/,"Human Health and Social Work Activities",R,86,https://irishhomecare.ie/wp-content/uploads/2024/12/Gender-Pay-Gap-Report-2024.pdf,2024,21,-3,91,0,-5,-5,,,85,70,85,70,90,10,97,3,96,4,93,7,94,6
@@ -5914,7 +5914,7 @@ Kostal,https://www.kostal.com/en-gb/,Manufacturing,C,26,https://web.archive.org/
 "KSG Catering",https://www.ksg.ie/,"Accommodation and Food Service Activities",I,56,https://www.ksg.ie/_files/ugd/6e6166_8a93239998894c0b9a545d35f37b3511.pdf,2024,4.4,,,,,,,,,,,,,,,,,,,,48.5,51.5
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-Kyndryl,https://www.kyndryl.com/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,62,https://www.kyndryl.com/content/dam/kyndrylprogram/doc/en/2024/gender-pay-gap-report-ireland.pdf,2024,20.99,16.08,44.42,2.68,,,,,95.92,100,100,99.36,30.77,69.23,27.45,72.55,25.53,76.47,13.73,86.27,,
+Kyndryl,https://www.kyndryl.com/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,62,https://www.kyndryl.com/content/dam/kyndrylprogram/doc/en/2024/gender-pay-gap-report-ireland.pdf,2024,20.99,16.08,44.42,2.68,,,,,95.92,100,100,99.36,30.77,69.23,27.45,72.55,23.53,76.47,13.73,86.27,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Kyte Powertech Limited",https://www.kytepowertech.com/,Manufacturing,C,26,https://www.kytepowertech.com/wp-content/uploads/2024/12/Kyte-GPG-02.12.24.2024.pptx-1.pdf,2024,8.29,5.89,38.47,1.54,34.27,23.28,1.25,-10.62,58,63,26,13,31,69,22,78,15,85,12,88,,
@@ -5965,7 +5965,7 @@ Lidl,https://www.lidl.ie/,"Wholesale and Retail Trade",G,47,https://www.lidl.ie/
 "Lifestyle Sports",https://www.lifestylesports.com/ie/,"Wholesale and Retail Trade",G,47,https://www.lifestylesports.com/on/demandware.static/-/Library-Sites-LSSSharedLibrary/default/dw229ccf37/024-careers/career-mobile/gender-pay-gap-pdf-min.pdf,2024,-8.12,-2.32,-98.7,-9.92,-0.45,-0.53,0,0,39.21,44.82,4.09,1.87,52.48,47.52,54.23,45.77,56.56,43.44,65.01,43.99,62,38
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Liffey Meats",https://liffeymeats.ie/,Manufacturing,C,10,https://liffeymeats.ie/gender-pay-gap-2024/,2024,12.79,10.45,52.1,34.93,,,,,33.33,18.97,0,0,21.61,78.39,23.12,76.87,22.16,77.84,23.29,76.71,22.5,77.5
+"Liffey Meats",https://liffeymeats.ie/,Manufacturing,C,10,https://liffeymeats.ie/wp-content/uploads/2025/09/liffeymeats-ie-gender-pay-gap-2024-.pdf,2024,12.79,10.45,52.1,34.93,,,,,33.33,18.97,0,0,21.61,78.39,23.12,76.87,22.16,77.84,23.29,76.71,22.5,77.5
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Lily O'Brien's",https://lilyobriens.ie/,Manufacturing,C,10,https://lilyobriens.ie/media/wysiwyg/Gender_Pay_Gap_Report_2024.pdf,2024,0,1,,,,,,,,,,,,,,,,,,,52,48
@@ -6382,7 +6382,7 @@ Petstop,https://www.petstop.ie/,"Wholesale and Retail Trade",G,47,https://www.pe
 "PFH Technology Group",https://www.pfh.ie/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,62,https://www.pfh.ie/wp-content/uploads/2024/12/Gender-Pay-Gap-Report-2024-V4-final-SM1_compressed.pdf,2024,7.06,1.55,3.56,0,-39.3,-115.77,3.75,1.66,73.91,73.63,60.14,58,22.02,77.98,20.96,79.04,16.77,83.23,22.75,77.25,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Pfizer Ireland (all legal entities)",https://www.pfizer.ie/,Manufacturing,C,21,https://www.pfizer.ie/files/SO3218-Pfizer-Irish-Gender-Paygap-Report-2024.pdf,2024,10.8,10.4,6.9,4.9,,,,,95.7,97.1,92,94.4,47.1,52.9,41.4,58.6,37.6,62.4,30.99,69.1,40,60
+"Pfizer Ireland (all legal entities)",https://www.pfizer.ie/,Manufacturing,C,21,https://www.pfizer.ie/files/SO3218-Pfizer-Irish-Gender-Paygap-Report-2024.pdf,2024,10.8,10.4,6.9,4.9,,,,,95.7,97.1,92,94.4,47.1,52.9,41.4,58.6,37.6,62.4,30.9,69.1,40,60
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Pfizer Ireland Pharmaceuticals",https://www.pfizer.ie/,Manufacturing,C,21,https://www.pfizer.ie/files/SO3218-Pfizer-Irish-Gender-Paygap-Report-2024.pdf,2024,8.5,7.7,0.2,-0.2,-9.6,-4.9,0.5,0.5,95.2,96.9,90.3,93.3,53.9,46.1,40.5,59.5,35.9,64.1,31.6,68.4,40.4,59.6
@@ -6493,7 +6493,7 @@ Respond,https://www.respond.ie/,"Human Health and Social Work Activities",R,88,h
 "River Island",https://www.riverisland.com/ie,"Wholesale and Retail Trade",G,47,https://images.riverisland.com/image/upload/v1735644257/River%20Island%20Gender%20Pay%20Gap%20Report%202024.pdf,2024,-0.7,2.4,,,,,,,,,,,80.5,19.5,81.3,18.8,81.1,18.9,78.1,21.9,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Road Safety Authority",https://www.rsa.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.rsa.ie/docs/default-source/about/2024-gender-report.pdf?sfvrsn=8b4d8eed_5/,2024,7.05,10.32,,,12.75,24.87,18.92,30.56,,,,,61.4,36.6,45.8,54.2,34.5,65.5,41.4,58.6,45.9,54.1
+"Road Safety Authority",https://www.rsa.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.rsa.ie/docs/default-source/about/2024-gender-report.pdf?sfvrsn=8b4d8eed_5/,2024,7.05,10.32,,,12.75,24.87,18.92,30.56,,,,,61.4,38.6,45.8,54.2,34.5,65.5,41.4,58.6,45.9,54.1
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Rochestown Park Hotel",https://www.rochestownpark.com/,"Accommodation and Food Service Activities",I,55,https://www.rochestownpark.com/cmsFiles/gender_pay_gap_report_rph_december_2024_.pdf,2024,16.78,1.52,40.21,-100,1.95,-2.82,0,0,5.11,11.47,0,0,55.38,44.62,59.38,40.63,67.19,32.81,31.25,68.75,,
@@ -6502,7 +6502,7 @@ Respond,https://www.respond.ie/,"Human Health and Social Work Activities",R,88,h
 "Roscommon County Council",https://www.roscommoncoco.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.roscommoncoco.ie/coco/en/download-it/corporate-affairs1/corporate-affairs-publications/publications/gender-pay-gap-december-2024.pdf,2024,-1.42,-14.9,,,-1.33,-3.17,6.56,32.04,,,,,34.15,65.85,16.39,83.61,59.35,40.65,39.02,60.98,37,63
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Roughan & O'Donovan",https://www.rod.ie/,"Professional, Scientific, and Technical Activities",N,71,https://www.rod.ie/sites/default/files/2024-12/ROD%20Ltd%20Gender%20Pay%20Gap%20Ireland%20Report%202024.pdf,2024,34,26,95,0,39,45,41,48,80,86,0,7,56,44,30,70,27,71,9,91,31,69
+"Roughan & O'Donovan",https://www.rod.ie/,"Professional, Scientific, and Technical Activities",N,71,https://www.rod.ie/sites/default/files/2024-12/ROD%20Ltd%20Gender%20Pay%20Gap%20Ireland%20Report%202024.pdf,2024,34,26,95,0,39,45,41,48,80,86,0,7,56,44,30,70,29,71,9,91,31,69
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Royal College of Surgeons Ireland",https://www.rcsi.com/dublin/,Education,Q,85,https://web.archive.org/web/20250101223101/https://www.rcsi.com/-/media/feature/media/download-document/inc/edi/rcsi-gender-pay-gap-report-2024.pdf,2024,16.4,14.5,44,37,40.1,32.9,7.4,-0.2,21,19,0,0,70,30,68,32,71,29,55,45,67,33
@@ -6595,7 +6595,7 @@ ServiceNow,https://www.servicenow.com/,"Telecommunication, Computer Programming,
 Servier,https://servier.ie/,Manufacturing,C,21,https://servier.ie/wp-content/uploads/sites/9/2024/12/Gender-Pay-Gap-Report-2024-OFF.pdf,2024,7,1.8,-11.5,-7.6,-17.1,-39.5,-3,-3.1,91,93,94,96,26,74,44,56,32,68,40,60,35,65
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"SGS Ireland",https://www.sgs.com/en-ie,"Professional, Scientific, and Technical Activities",N,71,https://www.sgs.com/-/media/sgscorp/documents/corporate/brochures/sgs-hr-gender-pay-gap-report-2024-en.cdn.en-IE.pdf,2024,12,25,44,59,-34,0,4,2,69,65,100,100,64,36,56,44,49,52,43,57,53,47
+"SGS Ireland",https://www.sgs.com/en-ie,"Professional, Scientific, and Technical Activities",N,71,https://www.sgs.com/-/media/sgscorp/documents/corporate/brochures/sgs-hr-gender-pay-gap-report-2024-en.cdn.en-IE.pdf,2024,12,25,44,59,-34,0,4,2,69,65,100,100,64,36,56,44,48,52,43,57,53,47
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Sherry FitzGerald",https://www.sherryfitz.ie/,"Real Estate Activites",M,68,https://www.sherryfitz.ie/media/structured_content/file_link/SherryFitzGeraldGenderPayReport2024.pdf,2024,27,23,3,14,-15,0.63,-27,-44,47,53,0,0,65,35,68,32,63,37,46,54,61,39
@@ -6619,7 +6619,7 @@ SIPTU,https://www.siptu.ie/,"Other Service Activities",T,94,https://www.siptu.ie
 Sky,https://www.sky.com/ie,"Publishing, Broadcasting, and Content Production and Distribution Activites",J,60,https://assets.contentstack.io/v3/assets/bltdc2476c7b6b194dd/blt09e3d77f7145990f/ROI%20Gender%20Pay%20Gap%20Report%202024.pdf,2024,-6,-2.9,19,33.4,-25.9,-2.5,,,90.8,94.7,80.5,82,38.3,61.7,41,59,39.8,60.2,44.3,55.7,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Slieve Russell Hotel",https://www.slieverussell.ie/,"Accommodation and Food Service Activities",I,55,https://www.slieverussell.ie/wp-content/uploads/2025/04/Slieve-Russell-Hotel-Gender-Pay-Gap-Report-2024.pdf,2024,5.59,1.73,47.13,-29.1,9.82,-4.7,,,7.62,5.58,3.12,2.76,59.5,40.5,66.67,33.33,56,44,48.57,51.42,50.67,40.33
+"Slieve Russell Hotel",https://www.slieverussell.ie/,"Accommodation and Food Service Activities",I,55,https://www.slieverussell.ie/wp-content/uploads/2025/04/Slieve-Russell-Hotel-Gender-Pay-Gap-Report-2024.pdf,2024,5.59,1.73,47.13,-29.1,9.82,-4.7,,,7.62,5.58,3.12,2.76,59.5,40.5,66.67,33.33,56,44,48.57,51.43,50.67,40.33
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Sligo County Council",https://www.sligococo.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.sligococo.ie/News/2024GenderPayGapReport/Gender%20Pay%20Gap%20Report%20for%202024.pdf,2024,-0.01,-17.01,,,-15.83,-7.93,-11.01,-8.12,,,,,32.79,67.21,35.25,64.75,56.2,43.8,35.15,68.85,39,61
@@ -6640,7 +6640,7 @@ Sky,https://www.sky.com/ie,"Publishing, Broadcasting, and Content Production and
 "Society of St. Vincent de Paul",https://www.svp.ie/,"Other Service Activities",T,94,https://www.svp.ie/wp-content/uploads/2024/12/SVP-GPG-report-2024.pdf,2024,1.2,-13.5,,,-0.8,-0.9,3.2,0.6,0,0,66.2,55.8,66.7,33.3,59.4,40.6,79.5,20.5,68.4,31.6,68.5,31.5
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-Sodexo,https://ie.sodexo.com/home.html,"Wholesale and Retail Trade",G,46,https://edge.sitecorecloud.io/sodexofrance1-sodexocorpsites-prod-e74c/media/Project/Sodexo-Corp/Europe/IE/Media/PDFs/Social-impact/ireland-gender-pay-report-2024.pdf,2024,11.95,11.57,7.79,0,5.91,3.45,-1.15,-0.19,7.16,8.92,1.81,2.97,57,42,60,40,56,44,37,63,,
+Sodexo,https://ie.sodexo.com/home.html,"Wholesale and Retail Trade",G,46,https://edge.sitecorecloud.io/sodexofrance1-sodexocorpsites-prod-e74c/media/Project/Sodexo-Corp/Europe/IE/Media/PDFs/Social-impact/ireland-gender-pay-report-2024.pdf,2024,11.95,11.57,7.79,0,5.91,3.45,-1.15,-0.19,7.16,8.92,1.81,2.97,57,43,60,40,56,44,37,63,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 SolarWinds,https://www.solarwinds.com/legal/solarwinds-irish-gender-pay-gap-report,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,62,https://assets.contentstack.io/v3/assets/blt28ff6c4a2cf43126/blt885f4febf9dc087d/6814cfe5c4a3773ce71a6f05/SWI_Irish_Gender_Pay_Gap_Report.pdf.pdf,2024,18.73,18.5,40.12,46.19,,,,,88.37,93.04,83.72,83.48,54,46,48,52,34,66,35.29,64.71,43,57
@@ -6757,13 +6757,13 @@ Supermacs,https://supermacs.ie/,"Accommodation and Food Service Activities",I,56
 "Tallaght University Hospital",https://www.tuh.ie/,"Human Health and Social Work Activities",R,86,https://www.tuh.ie/About-us/Pay-Gap-Report-2024.pdf,2024,21.7,4.1,,,21.4,-7.6,30.2,31.6,,,,,72.1,27.9,80.6,19.4,80.7,19.3,65.9,34.1,75,25
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Tata Consultancy Services",https://www.tcs.com/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,62,https://www.tcs.com/content/dam/global-tcs/en/pdfs/who-we-are/worldwide/ireland-gender-pay-report/Gender-Pay-Gap-Report-Ireland-2024.pdf,2024,6,6.5,5.5,-1.3,-27.9,-4.4,0.6,-0.1,87,91,82,78,42,57,36,64,34,66,31,69,37,63
+"Tata Consultancy Services",https://www.tcs.com/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,62,https://www.tcs.com/content/dam/global-tcs/en/pdfs/who-we-are/worldwide/ireland-gender-pay-report/Gender-Pay-Gap-Report-Ireland-2024.pdf,2024,6,6.5,5.5,-1.3,-27.9,-4.4,0.6,-0.1,87,91,82,78,43,57,36,64,34,66,31,69,37,63
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Tayto Snacks",https://taytosnacks.ie/,Manufacturing,C,10,https://taytosnacks.ie/wp-content/uploads/2024/12/Tayto-2024-Gender-Pay-Report-FINAL.pdf,2024,4.79,4.22,41.62,22.75,,,,,92.86,96.97,8.73,22.94,43.88,56.12,30.69,69.31,31.17,68.83,25,75,35.29,64.71
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"TCP Homecare",https://www.tcp.ie/,"Human Health and Social Work Activities",R,86,https://issuu.com/united-drug/docs/2024_gpg_report_phx_ireland,2024,-4.31,-11.05,24.19,0,,,,,86.02,95,66.7,86.2,83.02,16.98,81.13,18.87,90.47,9.26,94.34,5.66,,
+"TCP Homecare",https://www.tcp.ie/,"Human Health and Social Work Activities",R,86,https://issuu.com/united-drug/docs/2024_gpg_report_phx_ireland,2024,-4.31,-11.05,24.19,0,,,,,86.02,95,66.7,86.2,83.02,16.98,81.13,18.87,90.74,9.26,94.34,5.66,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 Teagasc,https://www.teagasc.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.teagasc.ie/media/website/about/our-organisation/gender-and-equality/Teagasc-Gender-Pay-Gap-Report-2024.pdf,2024,14,15,,,2,17,17,-6,,,,,60,40,45,55,24,76,21,79,42,58
@@ -6835,7 +6835,7 @@ Teleflex,https://www.teleflex.com/,"Human Health and Social Work Activities",R,8
 "The Law Society of Ireland",https://www.lawsociety.ie,"Other Service Activities",T,94,https://www.lawsociety.ie/globalassets/documents/about-us/gender-pay-gap-report-2025.pdf,2024,10.51,11.2,69.04,69.04,-63.09,-81.45,,,0.61,1.2,0.61,1.2,61,39,76,24,74,26,54,46,66,34
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"The Office of the Attorney General",https://www.gov.ie/en/organisation/office-of-the-attorney-general/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.gov.ie/pdf/?file=https://assets.gov.ie/315534/556c1bbb-753f-4ced-a68c-14fa11d7010c.pdf#page=null,2024,5.48,0.31,,,27.5,23.8,,,,,,,68.3,31.7,51.2,48.4,58.5,41.5,61,39,62.5,37.5
+"The Office of the Attorney General",https://www.gov.ie/en/organisation/office-of-the-attorney-general/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.gov.ie/pdf/?file=https://assets.gov.ie/315534/556c1bbb-753f-4ced-a68c-14fa11d7010c.pdf#page=null,2024,5.48,0.31,,,27.5,23.8,,,,,,,68.3,31.7,51.2,48.8,58.5,41.5,61,39,62.5,37.5
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "The Plaza Group",https://www.plazagroup.ie,"Wholesale and Retail Trade",G,47,https://www.plazagroup.ie/wp-content/uploads/2025/01/Plaza-Group-Gender-Pay-Gap.pdf,2024,9,1,34,62,3,-2,,,18,15,0,0,50,50,54,46,48,52,41,59,,
@@ -7072,7 +7072,7 @@ Vitalograph,https://vitalograph.com/,Manufacturing,C,32,https://vitalograph.com/
 "Waterford and Wexford Education and Training Board",https://www.wwetb.ie/,Education,Q,85,https://www.wwetb.ie/wp-content/uploads/2025/01/WWETB-Gender-Paygap-Report-2024.docx,2024,3.33,-3.59,,,1.33,-0.21,0,0,,,,,49.6,50.4,50.11,49.89,51.01,48.99,49.13,50.87,67.43,32.57
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Waterford City & County Council",https://www.waterfordcouncil.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://waterfordcouncil.ie/app/uploads/2024/12/Gender-Pay-Gap-Report-2024.pdf,2024,2.58,-5.48,,,-2.25,24.18,3.13,-0.12,0,0,0.28,0.88,45.59,54.51,7.69,92.31,49.42,50.58,35.63,64.37,35,65
+"Waterford City & County Council",https://www.waterfordcouncil.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://waterfordcouncil.ie/app/uploads/2024/12/Gender-Pay-Gap-Report-2024.pdf,2024,2.58,-5.48,,,-2.25,24.18,3.13,-0.12,0,0,0.28,0.88,45.59,54.41,7.69,92.31,49.42,50.58,35.63,64.37,35,65
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Waters Technologies",https://www.waters.com/nextgen/ie/en.html,Manufacturing,C,28,https://s205.q4cdn.com/962852172/files/doc_downloads/HR_Ireland_Wexford_GenderGap_2024.pdf,2024,13.3,0.4,24.6,34.7,53.4,55.1,5,0.7,69.6,75.7,90.6,95.5,43,57,47.5,52.5,51.5,48.5,37.6,62.4,,
@@ -7123,7 +7123,7 @@ Workday,https://www.workday.com/,"Telecommunication, Computer Programming, Consu
 Workhuman,https://www.workhuman.com/,"Professional, Scientific, and Technical Activities",N,70,https://www.workhuman.com/gender-pay-gap-report/dublin-2024/,2024,21,25,17,16,22,39,-52,-60,100,100,88,91,60,40,55,45,38,62,30,70,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"WP Engine",https://wpengine.com/ie/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,63,https://wpengine.com/ie/ireland-pay-gap/,2024,-15,3,-34,29,,,,,57,44,70,87,25,76,48,53,30,71,36.7,64.3,34,66
+"WP Engine",https://wpengine.com/ie/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,63,https://wpengine.com/ie/ireland-pay-gap/,2024,-15,3,-34,29,,,,,57,44,70,87,25,76,48,53,30,71,36,64.3,34,66
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "WuXi Biologics",https://www.wuxibiologics.com/,Manufacturing,C,21,https://www.wuxibiologics.com/wp-content/uploads/WuXi-Biologics_Gender-Pay-Gap-Report_December-2024_Final.pdf,2024,15.9,14.4,28.6,-1.3,,,,,81.5,83.3,76.4,75.6,55.6,44.4,41,59,29.9,70.1,23.6,76.4,37.5,62.5
@@ -7696,7 +7696,7 @@ Boeing,https://www.boeing.co.uk/,"Administrative and Support Service Activities"
 "Boliden Tara Mines",https://www.boliden.com/operations/mines/boliden-tara,"Mining and Quarrying",B,7,https://www.boliden.com/4adc56/globalassets/operations/mines/tara/gender-pay-gap-report-2025-final_v2.pdf,2025,18,27,,,,,5,,60.98,25.77,100,100,26,74,8.08,91.92,3,97,4.04,95.96,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Bon Secours",https://www.bonsecours.ie/,"Human Health and Social Work Activities",R,86,https://www.bonsecours.ie/uploads/general/Bon-Secours-Gender-Pay-Gap-Report-2025.pdf,2025,11.6,-8.69,,,12.64,-28.47,12.86,-0.03,65.24,34.76,1.77,3.08,80.775,19.25,78.24,21.76,89.05,10.95,77.79,22.21,81.7,18.3
+"Bon Secours",https://www.bonsecours.ie/,"Human Health and Social Work Activities",R,86,https://www.bonsecours.ie/uploads/general/Bon-Secours-Gender-Pay-Gap-Report-2025.pdf,2025,11.6,-8.69,,,12.64,-28.47,12.86,-0.03,65.24,34.76,1.77,3.08,80.75,19.25,78.24,21.76,89.05,10.95,77.79,22.21,81.7,18.3
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 Bookstation,https://bookstation.ie/,"Wholesale and Retail Trade",G,47,https://cdn.shopify.com/s/files/1/0939/6181/4281/files/Callistoy_LTD_TA_Bookstation_Gender_Pay_Gap_Report_2025.pdf?v=1758891567,2025,12.34,3.95,1.95,0,-3.12,-0.93,,,90,10,65,35,83,17,92,8,94,6,76,24,,
@@ -7741,7 +7741,7 @@ Breedon,https://www.breedongroup.com/,"Mining and Quarrying",B,8,https://www.bre
 "Britvic Ireland",http://www.britvic.com/,Manufacturing,C,11,https://www.britvic.com/media/gjpfcdbv/britvic-ireland-gender-pay-gap-report-2025.pdf,2025,-3.6,12.7,-27.7,-19.9,43.8,24,14.3,6.9,75.9,60.8,75.9,81.2,,,,,,,,,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Broadridge Ireland",https://www.broadridge.com/,"Financial and Insurance Activities",L,64,https://www.broadridge.com/_assets/pdf/broadridge-ireland-gender-pay-gap-statement-2024.pdf,2025,10.81,18.26,19.1,37.64,,,,,91.3,92.6,84.3,80.9,46.94,53.06,64.6,35.4,83.3,16.67,67.35,32.65,34.5,65.5
+"Broadridge Ireland",https://www.broadridge.com/,"Financial and Insurance Activities",L,64,https://www.broadridge.com/_assets/pdf/broadridge-ireland-gender-pay-gap-statement-2024.pdf,2025,10.81,18.26,19.1,37.64,,,,,91.3,92.6,84.3,80.9,46.94,53.06,64.6,35.4,83.33,16.67,67.35,32.65,34.5,65.5
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Brooks Hotel",https://www.brookshotel.ie/en/,"Accommodation and Food Service Activities",I,55,https://www.mhlhotelcollection.com/files/hotel/downloads/Gender_Pay_Gap_Report_-_Brooks_25.pdf,2025,-8.71,0.86,7.27,0,-8.1,-5.7,-9.37,-18.47,20,27.27,,,,,,,,,,,,
@@ -7768,7 +7768,7 @@ Breedon,https://www.breedongroup.com/,"Mining and Quarrying",B,8,https://www.bre
 "Burnside Autocyl",https://burnsideautocyl.com/,Manufacturing,C,28,https://burnsideautocyl.com/wp-content/uploads/2025/09/Gender-Pay-Gap-Report-2025.pdf,2025,-11.9,-3.9,,,,,,,,,,,7,93,7,93,6,94,12,88,8,92
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Bus Eireann",https://www.buseireann.ie/,"Transportation and Storage",H,49,https://assets-us-01.kc-usercontent.com/db136e73-39a4-0017-c8cc-5f063ce7fc95/91d13d1e-b5e2-4b1e-8f09-2c0c6e5eac99/BE_GenderPayGap_Report_2025%20_V2.pdf,2025,-9.7,-3.1,9.3,0,3.5,8.2,4.2,2.7,12,40,6,12.2,14,86,7,93,2,96,22,78,,
+"Bus Eireann",https://www.buseireann.ie/,"Transportation and Storage",H,49,https://assets-us-01.kc-usercontent.com/db136e73-39a4-0017-c8cc-5f063ce7fc95/91d13d1e-b5e2-4b1e-8f09-2c0c6e5eac99/BE_GenderPayGap_Report_2025%20_V2.pdf,2025,-9.7,-3.1,9.3,0,3.5,8.2,4.2,2.7,12,40,6,12.2,14,86,7,93,2,98,22,78,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Business in the Community",https://bitc.ie,"Other Service Activities",T,94,https://bitc.ie/wp-content/uploads/2025/11/BITCI-Gender-Pay-Report-2025.pdf,2025,15.4,10.1,,,-39.5,-43.6,,,,,,,80,20,70,30,60,40,55,45,86,14
@@ -7879,7 +7879,7 @@ CareBright,https://www.carebright.ie/,"Human Health and Social Work Activities",
 "Carrolls Irish Gifts",https://carrollsirishgifts.com,"Wholesale and Retail Trade",G,47,https://carrollsirishgifts.com/pages/gender-pay-gap-report,2025,8.6,0,29.32,-17.39,-19.8,0,,,79,87,,,62,38,57,43,35,65,68,32,55,45
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-CarTrawler,https://corporate.cartrawler.com/en-gb/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,62,https://corporate.cartrawler.com/wp-content/uploads/2025/11/Gender-Pay-Gap-Report-2025-.pdf,2025,7,11,-285,0,,,,,93,91,89,86,57,42,40,60,48,52,35,65,,
+CarTrawler,https://corporate.cartrawler.com/en-gb/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,62,https://corporate.cartrawler.com/wp-content/uploads/2025/11/Gender-Pay-Gap-Report-2025-.pdf,2025,7,11,-285,0,,,,,93,91,89,86,57,43,40,60,48,52,35,65,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Cavan and Monaghan Education and Training Board",https://www.cmetb.ie/,Education,Q,85,https://www.cmetb.ie/wp-content/uploads/2025/11/CMETB-Gender-Pay-Gap-Report-2025.pdf,2025,6.02,6.68,,,8.54,4.57,,,,,,,50.11,49.89,50.55,49.45,49.75,50.25,49.25,50.75,75,25
@@ -8062,7 +8062,7 @@ Cognizant,https://www.cognizant.com/uk/en,"Telecommunication, Computer Programmi
 Coillte,https://www.coillte.ie/,"Agriculture, Forestry, and Fishing",A,2,https://www.coillte.ie/wp-content/uploads/2025/11/COILLTE-Gender-Pay-Gap-Report-2025.pdf,2025,-8.68,-6,8.02,9.73,-57.82,-62.47,-48.21,-3.65,77.93,68.94,100,100,16.24,83.76,38.79,61.21,37.61,62.39,31.62,68.38,31,69
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Coimisiún na Meán",https://www.cnam.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.cnam.ie/app/uploads/2025/11/Gender-Pay-Gap-Report-2025-ENG.pdf,2025,5.5,8.4,,,-50.57,-41.83,-9.49,-12.62,,,,,72.22,27.78,62.64,36.36,69.09,30.91,65.45,34.55,67.6,32.4
+"Coimisiún na Meán",https://www.cnam.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.cnam.ie/app/uploads/2025/11/Gender-Pay-Gap-Report-2025-ENG.pdf,2025,5.5,8.4,,,-50.57,-41.83,-9.49,-12.62,,,,,72.22,27.78,63.64,36.36,69.09,30.91,65.45,34.55,67.6,32.4
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 Coinbase,https://www.coinbase.com/,"Financial and Insurance Activities",L,66,https://www.coinbase.com/en-gb/legal/ireland/paygap,2025,44.5,17.6,55.3,4.3,,,,,79.3,82.4,74.1,82.4,48.5,51.5,48.5,51.5,42.4,57.6,36.4,63.6,,
@@ -8128,7 +8128,7 @@ CoolPlanet,https://www.coolplanet.io,"Professional, Scientific, and Technical Ac
 "Cork City Council",https://www.corkcity.ie/en/,"Public Administration and Defence, Compulsory Social Security",P,84,https://publications.corkcity.ie/view/630522452/,2025,4.07,-6.94,,,-10,-20.44,7.87,5.48,,,,,48.69,51.31,19.52,80.48,48.46,51.54,28.03,71.97,36,64
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Cork County Council",https://www.corkcoco.ie/en,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.corkcoco.ie/sites/default/files/2025-11/gender-pay-gap-report-2025.pdf,2025,0.28,-10.44,,,-3.62,-3.74,20.71,3.27,,,,,42.12,57.88,12.98,87.02,57.86,42.12,38.26,61.74,38,62
+"Cork County Council",https://www.corkcoco.ie/en,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.corkcoco.ie/sites/default/files/2025-11/gender-pay-gap-report-2025.pdf,2025,0.28,-10.44,,,-3.62,-3.74,20.71,3.27,,,,,42.12,57.88,12.98,87.02,57.86,42.14,38.26,61.74,38,62
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Cork Education and Training Board",https://www.corketb.ie/,Education,Q,85,https://www.corketb.ie/wp-content/uploads/2025/11/ETB-Gender-pay-gap-statement-2025-English.pdf,2025,9.54,4.21,,,9.68,2.78,,,,,,,49.33,40.67,49.43,50.57,50.18,49.82,51.18,48.82,70.67,29.33
@@ -8191,7 +8191,7 @@ CubeMatch,https://cubematch.com/,"Professional, Scientific, and Technical Activi
 Cubic3,https://www.cubic3.com/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,62,https://www.cubic3.com/wp-content/uploads/2025/11/GPG-2025.pdf,2025,21,18,50,0,,,,,10,11,,,43,57,41,59,26,74,24,76,34,66
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Culligan Water Ireland",https://www.culligan.ie/,"Wholesale and Retail Trade",G,46,https://www.culligan.ie/wp-content/uploads/2025/07/Culligan-Ireland-Gender-Pay-Gap-Report-2025.pdf,2025,-9.79,-13.64,31.57,-772.3,19.33,19.33,0,0,53,34,25,27.47,20,80,16.13,83.67,25.81,74.19,41.9,58.06,26,74
+"Culligan Water Ireland",https://www.culligan.ie/,"Wholesale and Retail Trade",G,46,https://www.culligan.ie/wp-content/uploads/2025/07/Culligan-Ireland-Gender-Pay-Gap-Report-2025.pdf,2025,-9.79,-13.64,31.57,-772.3,19.33,19.33,0,0,53,34,25,27.47,20,80,16.13,83.87,25.81,74.19,41.94,58.06,26,74
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Currys Ireland Ltd",https://www.currys.ie/,"Wholesale and Retail Trade",G,47,https://www.currysplc.com/media/rw0ckd21/roigenderpayreport2025.pdf,2025,-2.3,0.7,-2.2,20,-0.8,-0.4,,,99.5,99.4,100,100,37.2,62.8,37.7,62.3,31.5,68.5,33.1,66.9,,
@@ -8354,7 +8354,7 @@ Diligent,https://www.diligent.com/,"Administrative and Support Service Activitie
 "Dillon Eustace",https://www.dilloneustace.com/,"Professional, Scientific, and Technical Activities",N,69,https://www.dilloneustace.com/f/220868/x/b89d699a5b/gender-pay-gap-report-2025-01.pdf,2025,-3.26,25,8,29,,,-15.45,-4,,,100,100,60,40,72,28,63,37,58,42,64,36
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Dimon Walsh Hospitality",https://lilyandwild.ie/,"Accommodation and Food Service Activities",I,56,https://lilyandwild.ie/wp-content/uploads/Dimond-Walsh-Hospitality-Ltd-Gender-Pay-Gap-report-2025.pdf,2025,16.77,15.91,100,100,9.38,3.85,0,0,0,5.13,2.17,2.56,52.17,47.38,77.27,22.73,54.55,45.45,40.91,59.09,,
+"Dimon Walsh Hospitality",https://lilyandwild.ie/,"Accommodation and Food Service Activities",I,56,https://lilyandwild.ie/wp-content/uploads/Dimond-Walsh-Hospitality-Ltd-Gender-Pay-Gap-report-2025.pdf,2025,16.77,15.91,100,100,9.38,3.85,0,0,0,5.13,2.17,2.56,52.17,47.83,77.27,22.73,54.55,45.45,40.91,59.09,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 Ding,https://www.ding.com/,"Financial and Insurance Activities",L,64,https://company.ding.com/Ding\'s%20Gender%20Pay%20Gap%20Report%202025.pdf,2025,37,41,54,50,,,,,78,96,81,96,65,35,43,57,36,64,14,86,,
@@ -8384,7 +8384,7 @@ DOCOsoft,https://docosoft.com/wp-content/uploads/2025/11/Gender-Pay-Gap-Report-I
 Dominos,https://www.dominos.ie/,"Accommodation and Food Service Activities",I,56,https://investors.dominos.co.uk/sites/default/files/attachments/pdf/roi-2025-gender-pay-report.pdf,2025,-88.56,-57.09,-138.07,-459.92,,,,,50,82.69,75,88,7.14,92.86,0,100,0,100,21.43,78.57,7,93
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Donegal County Council",https://www.donegalcoco.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.donegalcoco.ie/media/1hdfrtdg/donegal-county-council-gender-pay-gap-report-2025.pdf,2025,0.94,-14.04,,,-15.96,-17.61,6.99,9.25,,,,,34.52,65.48,17.1,82.9,40.32,59.68,36.12,63.87,32,68
+"Donegal County Council",https://www.donegalcoco.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.donegalcoco.ie/media/1hdfrtdg/donegal-county-council-gender-pay-gap-report-2025.pdf,2025,0.94,-14.04,,,-15.96,-17.61,6.99,9.25,,,,,34.52,65.48,17.1,82.9,40.32,59.68,36.13,63.87,32,68
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Donegal Education and Training Board",https://www.donegaletb.ie/,Education,Q,85,https://drive.google.com/file/d/1YdxbFY8en4YAWOexWwsw1aAmaEGbfATY/preview?rm=minimal,2025,4.77,4.94,,,2.48,1.66,,,,,,,49.5,50.5,49.82,50.18,48.96,51.04,51.23,48.77,70.17,29.83
@@ -8649,7 +8649,7 @@ Fenero,https://www.fenero.ie/,"Professional, Scientific, and Technical Activitie
 Fexco,https://www.fexco.com/,"Financial and Insurance Activities",L,64,https://www.fexco.com/wp-content/uploads/2025/12/Fexco-Ireland-GPG-2025-Report.pdf,2025,34,31,58,55,-6,-8,-11,-15,94,88,46,44,58,42,74,26,57,43,38,62,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"ffh Management Services",https://ffh.ie/,"Financial and Insurance Activities",L,64,https://ffh.ie/wp-content/uploads/2025/11/Gender-Pay-Gap-Report-2025-ffh-Management-Services-Dublin.pdf,2025,3.78,-7.63,40.5,-21.97,,,,,69.23,77.27,74.36,77.27,38.1,61.9,55,45,52.38,47.62,42.68,57.14,,
+"ffh Management Services",https://ffh.ie/,"Financial and Insurance Activities",L,64,https://ffh.ie/wp-content/uploads/2025/11/Gender-Pay-Gap-Report-2025-ffh-Management-Services-Dublin.pdf,2025,3.78,-7.63,40.5,-21.97,,,,,69.23,77.27,74.36,77.27,38.1,61.9,55,45,52.38,47.62,42.86,57.14,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Fidelity International",https://www.fidelityinternational.com/,"Financial and Insurance Activities",L,64,https://www.fidelityinternational.com/static/fidelity-international/media/international/PDF/download-material/ireland-gender-pay-gap-report.pdf,2025,12.7,19.5,14.2,13.9,,,42,4.3,88.9,89.7,86,84.3,51.5,48.5,43.9,56.1,44.4,55.6,33.7,66.3,43,57
@@ -8727,7 +8727,7 @@ Flogas,https://www.flogas.ie/,"Electricity, Gas, Steam, and Air Conditioning Sup
 "Flutter (Head Office)",https://www.flutter.com/,"Arts, Sports and Recreation",S,92,https://flutter.com/media/msdgktmk/flutter-irish-gender-pay-gap-report-2025.pdf,2025,1.1,0.5,-0.2,5.1,-158.3,-19.3,-6.5,-0.5,88.3,91.8,88.8,90.1,33.1,66.9,31.8,68.2,33,67,30.8,69.2,32.2,67.8
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-Flyefit,https://www.flyefit.ie/wp-content/uploads/2025/12/GENDER-PAY-REPORT-2025.pdf,"Arts, Sports and Recreation",S,93,https://www.flyefit.ie/wp-content/uploads/2025/12/GENDER-PAY-REPORT-2025.pdf,2025,1.98,-0.32,0,-21,-23.4,-4.29,0,0,62.2,72.53,,,37.74,62.26,21.57,78.43,35.85,64.15,23.23,76.47,,
+Flyefit,https://www.flyefit.ie/wp-content/uploads/2025/12/GENDER-PAY-REPORT-2025.pdf,"Arts, Sports and Recreation",S,93,https://www.flyefit.ie/wp-content/uploads/2025/12/GENDER-PAY-REPORT-2025.pdf,2025,1.98,-0.32,0,-21,-23.4,-4.29,0,0,62.2,72.53,,,37.74,62.26,21.57,78.43,35.85,64.15,23.53,76.47,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 Flynn,https://www.flynnmc.com/,Construction,F,41,https://www.flynnmc.com/content/files/Gender-Pay-Gap-Report-2024-25.pdf,2025,23,28,27,9,,,,,100,100,61,51,29,71,19,81,6,94,9,91,16,84
@@ -8994,7 +8994,7 @@ Halfords,https://www.halfordscompany.com/,"Wholesale and Retail Trade",G,47,http
 "Health Products Regulatory Authority",https://www.hpra.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://assets.hpra.ie/data/docs/default-source/corporate/gender-pay-gap-report-2025.pdf?sfvrsn=490d7b8b_2,2025,2.51,3.46,,,-78.52,-75.24,-0.93,1.6,,,,,,,,,,,,,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Health Service Executive",https://www.hse.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.hse.ie/eng/services/publications/human-resources/hse-gpg-report-2025.pdf,2025,15.9,0.5,,,13.4,-13.1,25.3,26,,,,,76.7,23.2,80,20,82.9,17.1,73.1,26.9,,
+"Health Service Executive",https://www.hse.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.hse.ie/eng/services/publications/human-resources/hse-gpg-report-2025.pdf,2025,15.9,0.5,,,13.4,-13.1,25.3,26,,,,,76.7,23.3,80,20,82.9,17.1,73.1,26.9,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Health Services Staffs Credit Union",https://www.hsscu.ie/,"Financial and Insurance Activities",L,64,https://www.hsscu.ie/wp-content/uploads/2025/11/Gender-Pay-Report-2025-HSSCU.pdf,2025,5.07,-9.35,17.36,13.33,-85.44,-90.78,,,86.3,90,,,64.52,35.48,53.33,46.67,66.67,33.33,54.84,45.16,59.84,40.16
@@ -9003,7 +9003,7 @@ Halfords,https://www.halfordscompany.com/,"Wholesale and Retail Trade",G,47,http
 HEAnet,https://www.heanet.ie/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,61,https://www.heanet.ie/wp-content/uploads/2025/12/Heanet-Gender-Pay-Gap-Report-Final.pdf,2025,12.3,11.6,23,0,2.5,11.6,21.6,23.1,93,90,93,93,46,54,50,50,39,61,24,76,40,60
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Heat Merchants Group",https://www.heatmerchants.ie/,"Wholesale and Retail Trade",G,46,https://www.heatmerchants.ie/media/documents/HMGGenderPayGapReport%2025.pdf,2025,2.78,-2.63,-14.52,6.29,-12.8,-9.63,0,0,89.33,89.94,8,23.8,22.89,77.19,19.28,80.72,27.71,72.29,20.73,79.27,23,77
+"Heat Merchants Group",https://www.heatmerchants.ie/,"Wholesale and Retail Trade",G,46,https://www.heatmerchants.ie/media/documents/HMGGenderPayGapReport%2025.pdf,2025,2.78,-2.63,-14.52,6.29,-12.8,-9.63,0,0,89.33,89.94,8,23.8,22.89157,77.10843,19.27711,80.72289,27.71084,72.28916,20.73171,79.26829,23,77
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Heineken Ireland",https://www.heinekenireland.ie/,Manufacturing,C,11,https://www.heinekenireland.ie/sites/heineken-ireland/files/2025-11/gender-pay-gap-report-2025.pdf,2025,-0.09,2.28,-2.88,-7.83,,,14.03,20.1,95,93,78,78,53,47,25,75,31,69,34,66,,
@@ -9129,7 +9129,7 @@ Ice,https://www.ice.com/index,"Financial and Insurance Activities",L,66,https://
 Identigen,https://www.identigen.com/yes,"Professional, Scientific, and Technical Activities",N,71,https://msd-ireland.com/wp-content/uploads/sites/67/2025/11/MSD_GPG_2025_.pdf,2025,21.87,26.55,35.88,33.82,,,,,100,96,100,100,73.33,26.67,64.29,35.71,57.14,42.86,33.33,66.67,56.9,43.1
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"IKEA Ireland",https://www.ikea.com/ie/en/,"Wholesale and Retail Trade",G,47,https://www.ikea.com/ie/en/files/pdf/c8/9b/c89bead5/ikea-2025-ireland-gender-pay-final.pdf,2025,1.63,3.16,,,1.02,2.82,,,,,,,62.58,37.42,64.1,35.9,50.32,49.68,52.31,46.79,57.56,42.44
+"IKEA Ireland",https://www.ikea.com/ie/en/,"Wholesale and Retail Trade",G,47,https://www.ikea.com/ie/en/files/pdf/c8/9b/c89bead5/ikea-2025-ireland-gender-pay-final.pdf,2025,1.63,3.16,,,1.02,2.82,,,,,,,62.58,37.42,64.1,35.9,50.32,49.68,53.21,46.79,57.56,42.44
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 Indaver,https://indaver.com/,"Agriculture, Forestry, and Fishing",A,1,https://indaver.com/fileadmin/indaver/Documents/IE/Indaver_Gender_Pay_Gap_Report_November_2025.pdf,2025,2.18,-1.41,-16,6,,,,,89,88,14,18,18,82,24,76,26,74,18,82,21,79
@@ -9174,10 +9174,10 @@ Instantor,https://www.instantor.ie/,"Wholesale and Retail Trade",G,46,https://ww
 "Integer Holdings",https://www.integer.net/home/default.aspx,Manufacturing,C,32,https://s24.q4cdn.com/416143379/files/doc_downloads/2025/11/Ireland-Pay-Gap-2024-2025-Final.pdf,2025,8.4,6.4,,,,,,,93,89,56,53,46,54,49,51,42,58,31,69,42,58
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Intel Ireland (Overall)",https://www.intel.ie/content/www/ie/en/company-overview/intel-in-ireland.html,Manufacturing,C,26,https://www.intel.ie/content/dam/www/central-libraries/us/en/documents/2025-11/2025-ireland-gender-report-final-final.pdf,2025,10.1,8.3,21.3,5.4,40.8,40.8,13.8,1.9,97.7,98.9,96.1,94.13,17,82.4,21.3,78.7,12.8,87.2,14.6,85.5,,
+"Intel Ireland (Overall)",https://www.intel.ie/content/www/ie/en/company-overview/intel-in-ireland.html,Manufacturing,C,26,https://www.intel.ie/content/dam/www/central-libraries/us/en/documents/2025-11/2025-ireland-gender-report-final-final.pdf,2025,10.1,8.3,21.3,5.4,40.8,40.8,13.8,1.9,97.7,98.9,96.1,94.13,17.7,82.4,21.3,78.7,12.8,87.2,14.6,85.5,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Intel Ireland Limited",https://www.intel.ie/content/www/ie/en/company-overview/intel-in-ireland.html,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,62,https://www.intel.ie/content/dam/www/central-libraries/us/en/documents/2025-11/2025-ireland-gender-report-final-final.pdf,2025,5,6.8,9.4,4,67.4,67.4,8.5,0.7,97.4,98.9,95.64,94.55,16.5,83.5,20.2,79.8,12.3,87.7,15.2,84.9,,
+"Intel Ireland Limited",https://www.intel.ie/content/www/ie/en/company-overview/intel-in-ireland.html,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,62,https://www.intel.ie/content/dam/www/central-libraries/us/en/documents/2025-11/2025-ireland-gender-report-final-final.pdf,2025,5,6.8,9.4,4,67.4,67.4,8.5,0.7,97.4,98.9,95.64,94.55,16.5,83.5,20.2,79.8,12.3,87.7,15.1,84.9,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Intel R&D Ireland Limited",https://www.intel.ie/content/www/ie/en/company-overview/intel-in-ireland.html,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,62,https://www.intel.ie/content/dam/www/central-libraries/us/en/documents/2025-11/2025-ireland-gender-report-final-final.pdf,2025,30.6,24.9,52.5,43.8,,,5.17,5.81,99.1,99.3,98.2,91.59,36.9,63.1,18.4,81.6,19.2,80.9,4.3,95.7,,
@@ -9279,7 +9279,7 @@ IQ-EQ,https://iqeq.com/,"Telecommunication, Computer Programming, Consulting, Co
 "Irish Life Group (all legal entities)",https://www.irishlife.ie/,"Financial and Insurance Activities",L,65,https://assets-eu-01.kc-usercontent.com/ffd8d21b-ebd4-0151-55d5-297335c8f50f/f0f2fbc9-6bf1-474f-900b-e6d33d1064c9/ILG%20Gender%20Pay%20Gap%20Report%202025.pdf,2025,18.6,11.3,47.6,22.9,2.2,-17.7,-1.8,-20.1,94.7,93.8,55.8,56.6,60.33,39.67,56.46,43.54,56.67,43.33,43.04,56.96,54.11,45.89
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Irish Life Group Services",https://www.irishlife.ie/,"Administrative and Support Service Activities",O,82,https://assets-eu-01.kc-usercontent.com/ffd8d21b-ebd4-0151-55d5-297335c8f50f/f0f2fbc9-6bf1-474f-900b-e6d33d1064c9/ILG%20Gender%20Pay%20Gap%20Report%202025.pdf,2025,11.1,2.8,35.3,1,34.1,45.2,-5.9,-13.2,92.5,89.3,60.7,64.2,60.55,39.45,59.09,40.91,56.36,43.63,53.64,46.36,57,43
+"Irish Life Group Services",https://www.irishlife.ie/,"Administrative and Support Service Activities",O,82,https://assets-eu-01.kc-usercontent.com/ffd8d21b-ebd4-0151-55d5-297335c8f50f/f0f2fbc9-6bf1-474f-900b-e6d33d1064c9/ILG%20Gender%20Pay%20Gap%20Report%202025.pdf,2025,11.1,2.8,35.3,1,34.1,45.2,-5.9,-13.2,92.5,89.3,60.7,64.2,60.55,39.45,59.09,40.91,56.36,43.64,53.64,46.36,57,43
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Irish Management Institute (IMI)",https://www.imi.ie/,Education,Q,85,https://www.imi.ie/wp-content/uploads/2025/11/IMI-Gender-Pay-Gap-Report-Nov-2025.pdf,2025,-0.94,4.27,,,23.61,29.06,35.97,53.56,,,29.7,20,75,25,60,40,67,33,67,33,,
@@ -9468,7 +9468,7 @@ Kellanova,https://www.kellanova.com/us/en/home.html,Manufacturing,C,10,https://w
 "Kilkenny County Council",https://www.kilkennycoco.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.kilkennycoco.ie/eng/publications/council_publications/gender-pay-gap-report-for-2025.pdf,2025,-1.19,-8.93,,,-16.19,-6.7,-0.08,10.35,,,,,44.33,55.67,13.37,86.63,37.44,62.56,45.81,54.19,35,65
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Kilkenny Leader Partnership",https://cklp.ie,"Human Health and Social Work Activities",R,88,https://cklp.ie/wp-content/uploads/Summary-for-Gender-Pay-gap-report.pdf,2025,13.4,-2.02,,,,,,,,,,,75,25,56.25,43.75,87.25,12.5,52.94,47.08,67,33
+"Kilkenny Leader Partnership",https://cklp.ie,"Human Health and Social Work Activities",R,88,https://cklp.ie/wp-content/uploads/Summary-for-Gender-Pay-gap-report.pdf,2025,13.4,-2.02,,,,,,,,,,,75,25,56.25,43.75,87.25,12.5,52.94,47.06,67,33
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Kilkenny River Court Hotel",https://www.rivercourthotel.com,"Accommodation and Food Service Activities",I,55,https://www.rivercourthotel.com/cmsFiles/kilkenny_river_court_hotel_-gender_pay_gap_report_2025-compressed.pdf,2025,3.35,1.65,42.13,42.13,0.81,2.48,12.54,9.51,1.43,3.57,0,0,47.8,52.2,66.7,33.3,56.3,43.8,48.6,51.4,55.6,44.4
@@ -9486,7 +9486,7 @@ Kellanova,https://www.kellanova.com/us/en/home.html,Manufacturing,C,10,https://w
 "Kingsbridge Healthcare Group",https://kingsbridgeprivatehospital.com/,"Human Health and Social Work Activities",R,86,https://kingsbridgeprivatehospital.com/wp-content/uploads/2025/12/Gender-Pay-Report.pdf,2025,0.8,-27.4,,,9,-2.6,,,1.4,0,,,70,30,83,17,96,4,65,35,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Kingspan Limited",https://www.kingspan.com/ie/en/,Construction,F,43,https://www.kingspan.com/content/dam/kingspan/kgm/kgr-gender-pay-gap-report-december-2025-en.pdf,2025,4.31,-1.8,,,22,8,,,56,42,43,34,28,72,18,84,21,79,26,74,23,77
+"Kingspan Limited",https://www.kingspan.com/ie/en/,Construction,F,43,https://www.kingspan.com/content/dam/kingspan/kgm/kgr-gender-pay-gap-report-december-2025-en.pdf,2025,4.31,-1.8,,,22,8,,,56,42,43,34,28,72,16,84,21,79,26,74,23,77
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Kinsale Hotel & Spa",https://www.kinsalehotelandspa.ie/,"Accommodation and Food Service Activities",I,55,https://www.kinsalehotelandspa.ie/wp-content/uploads/pdf/Gender-Pay-Report-2025.pdf,2025,11.29,0.2,11.73,0,,,,,,,,,55,45,66,34,78,22,42,58,,
@@ -9588,7 +9588,7 @@ Lidl,https://www.lidl.ie/,"Wholesale and Retail Trade",G,47,https://www.lidl.ie/
 "Limerick and Clare Education and Training Board",https://lcetb.ie,Education,Q,85,https://lcetb.ie/wp-content/uploads/2025/11/Gender-Pay-Gap-Report-2025.pdf,2025,4.87,1.16,,,7.24,2.61,,,,,,,49.11,50.89,50.37,49.63,50.31,49.69,48.8,51.2,68.31,31.49
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Limerick City & County Council",https://www.limerick.ie/council,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.limerick.ie/sites/default/files/media/documents/2025-11/gender-pay-gap-report-for-2025.pdf,2025,2.93,-5.02,,,-6.16,-4.13,21.59,26.05,,,0,0.23,45.14,54.86,33.78,66.22,52.62,48.38,38.81,61.19,42,58
+"Limerick City & County Council",https://www.limerick.ie/council,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.limerick.ie/sites/default/files/media/documents/2025-11/gender-pay-gap-report-for-2025.pdf,2025,2.93,-5.02,,,-6.16,-4.13,21.59,26.05,,,0,0.23,45.14,54.86,33.78,66.22,51.62,48.38,38.81,61.19,42,58
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Limerick Leader",https://www.limerickleader.ie/,"Publishing, Broadcasting, and Content Production and Distribution Activites",J,58,https://www.limerickleader.ie/news/gender-pay-gap/1965091/gender-pay-gap-report-2025.html,2025,18.73,19.02,67.63,0,-40.17,-56.59,,,15.9,4,3.2,1.3,70.6,29.4,51.4,48.6,35.3,64.7,25.7,74.3,,
@@ -9699,7 +9699,7 @@ Manpower,https://www.manpower.ie/,"Administrative and Support Service Activities
 "Mason Hayes & Curran (incl. partners)",https://www.mhc.ie/,"Professional, Scientific, and Technical Activities",N,69,https://www.mhc.ie/uploads/documents/Gender-Pay-Gap-Report-2025.pdf,2025,51,33,41,57,21,30,,,68,59,60,55,70,30,77,23,58,42,44,56,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Mastercard Ireland",https://www.mastercard.ie/en-ie.html,"Administrative and Support Service Activities",O,82,https://www.mastercard.ie/content/dam/public/mastercardcom/eu/ie/vision/Other/ireland-gende-pay-gap-2025.pdf,2025,1,9,16.5,15.6,,,0,0,87.5,89.3,90.2,93.2,30.3,69.7,24.1,75.9,36.4,63.6,34.4,65.7,,
+"Mastercard Ireland",https://www.mastercard.ie/en-ie.html,"Administrative and Support Service Activities",O,82,https://www.mastercard.ie/content/dam/public/mastercardcom/eu/ie/vision/Other/ireland-gende-pay-gap-2025.pdf,2025,1,9,16.5,15.6,,,0,0,87.5,89.3,90.2,93.2,34.3,65.7,36.4,63.6,24.1,75.9,30.3,69.7,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Mater Misericordiae University Hospital",https://www.mater.ie/,"Human Health and Social Work Activities",R,86,https://assets.mater.ie/media/documents/Gender_Pay_Gap_Report_20242025_External_Final.pdf,2025,28.58,7.88,,,25.03,8.35,20.63,14.37,,,,,77.08,22.92,78.03,21.97,78.31,21.69,62.77,37.23,,
@@ -9879,7 +9879,7 @@ MOWI,https://mowi.com/ie/,"Agriculture, Forestry, and Fishing",A,3,https://mowi.
 MSD,https://msd-ireland.com/,Manufacturing,C,21,https://msd-ireland.com/wp-content/uploads/sites/67/2025/11/MSD_GPG_2025_.pdf,2025,8.38,9.23,1.68,0.99,39.75,14.23,12.73,16.17,94.18,94.92,100,100,50.47,49.53,45.08,54.92,35.23,64.77,34.89,65.11,41.41,58.59
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"MSD International",https://msd-ireland.com/,Manufacturing,C,21,https://msd-ireland.com/wp-content/uploads/sites/67/2025/11/MSD_GPG_2025_.pdf,2025,9.2,10.12,4.5,0.57,,,,,93.82,94.82,100,100,49.66,50.34,44.01,55.99,34.28,65.72,34.26,67.54,40.1,59.9
+"MSD International",https://msd-ireland.com/,Manufacturing,C,21,https://msd-ireland.com/wp-content/uploads/sites/67/2025/11/MSD_GPG_2025_.pdf,2025,9.2,10.12,4.5,0.57,,,,,93.82,94.82,100,100,49.66,50.34,44.01,55.99,34.28,65.72,32.46,67.54,40.1,59.9
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "MSD Ireland Human Health",https://msd-ireland.com/,Manufacturing,C,21,https://msd-ireland.com/wp-content/uploads/sites/67/2025/11/MSD_GPG_2025_.pdf,2025,6.75,8.22,8.21,19.93,,,,,97.5,89.19,100,100,82.76,17.24,65.52,34.48,65.52,34.48,60,40,68.38,31.62
@@ -9897,7 +9897,7 @@ MSD,https://msd-ireland.com/,Manufacturing,C,21,https://msd-ireland.com/wp-conte
 "Muiriosa Foundation",https://www.muiriosa.ie/,"Human Health and Social Work Activities",R,88,https://www.muiriosa.ie/wp-content/uploads/Muiriosa-Foundation-Gender-Pay-Gap-Report-2025.pdf,2025,-0.1,0.4,,,1.41,2.28,-6.9,-1.15,,,,,77.23,22.77,73.3,26.7,72.44,27.56,76.44,23.56,75,25
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-Mulrines,https://www.mulrines.ie/,Manufacturing,C,11,https://www.mulrines.ie/wp-content/uploads/2025/09/Mulrines-Gender-Pay-Gap-Report-2025-080925.pdf,2025,7.4,-7.2,5.4,14.4,,,,,4.8,2.5,,,15.2,84.4,0,100,17,82.6,13,87,,
+Mulrines,https://www.mulrines.ie/,Manufacturing,C,11,https://www.mulrines.ie/wp-content/uploads/2025/09/Mulrines-Gender-Pay-Gap-Report-2025-080925.pdf,2025,7.4,-7.2,5.4,14.4,,,,,4.8,2.5,,,15.2,84.4,0,100,17.4,82.6,13,87,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Multi Packaging Solutions Limerick",https://www.westrock.com/company/multi-packaging-solutions,Manufacturing,C,17,https://www.smurfitkappa.com/-/m/files/policies/ie/smurfit-kappa-gender-pay-gap-report-ireland.pdf?rev=cf6bb8ed0ce9425cbdda13c935571d62,2025,20.3,22.5,,,,,,,0,4,78,94,54.8,45.2,26.7,73.3,10,90,12.9,87.1,,
@@ -9909,7 +9909,7 @@ Mulrines,https://www.mulrines.ie/,Manufacturing,C,11,https://www.mulrines.ie/wp-
 "Munster Bovine",https://www.munsterbovine.ie/,"Professional, Scientific, and Technical Activities",N,75,https://www.munsterbovine.ie/media/u1lfr3bd/munster-bovine-gender-pay-report-2025.pdf,2025,13,12,8,0,0.04,-24.4,-11.6,-22.9,83.3,97.7,8.3,27.3,55,45,65,35,15,85,45,55,45,55
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Munster Rugby",https://www.munsterrugby.ie/,"Arts, Sports and Recreation",S,93,https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2025/11/14113842/Gender-Pay-Gap-report_14_11_25.pdf,2025,35,14,-114,-77,,,-28,-22,13,11,0,26,33,66,43,57,24,76,10,90,27,73
+"Munster Rugby",https://www.munsterrugby.ie/,"Arts, Sports and Recreation",S,93,https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2025/11/14113842/Gender-Pay-Gap-report_14_11_25.pdf,2025,35,14,-114,-77,,,-28,-22,13,11,0,26,33,67,43,57,24,76,10,90,27,73
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Munster Technological University",https://www.mtu.ie/,Education,Q,85,https://www.mtu.ie/media/mtu-website/governance/policies-and-publications/equality-diversity-and-inclusion-edi/MTU-Gender-Pay-Gap-Report-2025.pdf,2025,6.5,8.2,,,12.3,30.2,-0.9,1.4,,,,,56,44,54,46,49,51,47,53,51,49
@@ -9996,7 +9996,7 @@ NetApp,https://www.netapp.com/,"Telecommunication, Computer Programming, Consult
 "New Ireland Assurance",https://www.newireland.ie/,"Financial and Insurance Activities",L,66,https://www.newireland.ie/view-document/107945-New_Ireland_GPG_Report_2025.pdf,2025,20,15.3,59.1,24.6,-25.6,-11.3,5.2,0.9,91.7,90.6,34.2,35.3,63,37,62.4,37.6,56.9,43.1,40,60,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Newbrook Nursing Home",https://newbrooknursinghome.ie/,"Human Health and Social Work Activities",R,87,https://newbrooknursinghome.ie/wp-content/uploads/2025/11/2025-GPGR-Report-Results.pdf,2025,1.24,-1.21,-25.8,-8.64,4.63,-1.96,,,87.44,87.21,,,78.86,23.14,85.95,14.05,81.82,18.18,84.3,15.7,,
+"Newbrook Nursing Home",https://newbrooknursinghome.ie/,"Human Health and Social Work Activities",R,87,https://newbrooknursinghome.ie/wp-content/uploads/2025/11/2025-GPGR-Report-Results.pdf,2025,1.24,-1.21,-25.8,-8.64,4.63,-1.96,,,87.44,87.21,,,76.86,23.14,85.95,14.05,81.82,18.18,84.3,15.7,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Newcourt Retirement Fund Managers",https://nrfm.ie/,"Financial and Insurance Activities",L,65,https://nrfm.ie/wp-content/uploads/2025/11/NRFM-Gender-Pay-Gap.pdf,2025,47.48,12.82,77.88,0,22.31,18.87,,,3.7,11.11,7.41,3.7,62,38,50,50,50,50,38,62,,
@@ -10068,7 +10068,7 @@ NOVAS,https://www.novas.ie/,"Human Health and Social Work Activities",R,88,https
 "O'Callaghan Collection",https://www.ocallaghancollection.com/,"Accommodation and Food Service Activities",I,55,https://www.ocallaghancollection.com/blog/gpg2025/,2025,4,1,,,6,,0,-4,,,,,55,45,45,55,44,56,47,53,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Oakpark Foods",https://oakparkfoods.ie/,Manufacturing,C,10,https://oakparkfoods.ie/wp-content/uploads/2025/12/Oakpark-Gender-Pay-Gap-Report-2025.pdf,2025,12.37,5.12,6.56,-6,,,,,100,100,1.47,2.59,41.5,58.5,20.6,79,40,60,20,80,37,63
+"Oakpark Foods",https://oakparkfoods.ie/,Manufacturing,C,10,https://oakparkfoods.ie/wp-content/uploads/2025/12/Oakpark-Gender-Pay-Gap-Report-2025.pdf,2025,12.37,5.12,6.56,-6,,,,,100,100,1.47,2.59,41.5,58.5,20.6,79.4,40,60,20,80,37,63
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Odaios Foods",https://www.odaios-foods.com/,"Wholesale and Retail Trade",G,46,https://a.storyblok.com/f/182791/x/e60e105f7d/gender-pay-gap-report-odaios-foods.pdf,2025,12.75,-14.46,-11.33,-120,8.04,-15.3,,,77.78,89.53,13.33,22.09,31.25,68.75,24.24,75.76,51.52,48.48,30.3,69.7,34.35,65.65
@@ -10083,7 +10083,7 @@ Odeon,https://www.odeoncinemasgroup.com/,"Publishing, Broadcasting, and Content 
 "Office of Public Works: Established Staff",https://www.gov.ie/en/organisation/office-of-public-works/,"Public Administration and Defence, Compulsory Social Security",P,84,https://assets.gov.ie/static/documents/01f05767/OPW_Gender_Pay_Gap_Report_2025_to_publish_28.11.pdf,2025,15.23,15.98,,,,,-0.35,0,,,,,64.04,35.96,57.35,42.65,42.49,57.51,33.58,66.42,49.69,50.31
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Office of Public Works: State industrial Staff",https://www.gov.ie/en/organisation/office-of-public-works/,"Public Administration and Defence, Compulsory Social Security",P,84,https://assets.gov.ie/static/documents/01f05767/OPW_Gender_Pay_Gap_Report_2025_to_publish_28.11.pdf,2025,10.67,11.66,,,,,0.55,1.61,,,,,16.35,83.64,10.45,89.55,11.94,88.06,15.99,84.01,25,75
+"Office of Public Works: State industrial Staff",https://www.gov.ie/en/organisation/office-of-public-works/,"Public Administration and Defence, Compulsory Social Security",P,84,https://assets.gov.ie/static/documents/01f05767/OPW_Gender_Pay_Gap_Report_2025_to_publish_28.11.pdf,2025,10.67,11.66,,,,,0.55,1.61,,,,,16.36,83.64,10.45,89.55,11.94,88.06,15.99,84.01,25,75
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Office of the Ombudsman",https://ombudsman.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://ombudsman.ie/pdf/?file=https://assets.ombudsman.ie/media/285586/07e84901-742c-4066-b98d-2ba0cc3740d9.pdf#page=null,2025,-3.97,-19.84,,,,,,,,,,,55,45,47.5,52.5,52.5,47.5,57.5,42.5,53,47
@@ -10755,7 +10755,7 @@ Stryker,https://www.stryker.com/index.html,"Publishing, Broadcasting, and Conten
 "Sun Life",https://www.sunlife.ie/en/,"Financial and Insurance Activities",L,66,https://www.sunlife.ie/content/dam/sunlife/regional/ireland/documents/sun-life-gender-pay-gap-report-2025.pdf,2025,10,13,26,24,-32,-20,,,94,90,90,90,45,55,51,49,39,61,36,64,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Sunbeam House Services",https://sunbeam.ie/,"Human Health and Social Work Activities",R,87,https://sunbeam.ie/wp-content/uploads/2025/12/SHS-GPG-2025.pdf,2025,2.13,0.69,,,6.68,8.32,,,,,,,73.35,24.65,84.4,15.6,79.43,20.57,76.6,23.4,,
+"Sunbeam House Services",https://sunbeam.ie/,"Human Health and Social Work Activities",R,87,https://sunbeam.ie/wp-content/uploads/2025/12/SHS-GPG-2025.pdf,2025,2.13,0.69,,,6.68,8.32,,,,,,,75.35,24.65,84.4,15.6,79.43,20.57,76.6,23.4,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 Superdrug,https://www.superdrug.com/,"Wholesale and Retail Trade",G,47,https://media.superdrug.com/medias/sys_master/root/hf8/h65/13129451470878/ROI-SuperdrugGenderPayGapRepport2025/ROI-SuperdrugGenderPayGapRepport2025.pdf,2025,18,4.6,65.7,82.6,2.3,1.7,1.3,1.8,58,56,0,4,95,5,90,10,79,21,80,20,86,14
@@ -11034,7 +11034,7 @@ Trenmor,https://www.linesight.com/,"Professional, Scientific, and Technical Acti
 "Trinity College Dublin",https://www.tcd.ie/,Education,Q,85,https://www.tcd.ie/hr/gender-pay-gap/tcd-gender-pay-gap-report-2025.pdf,2025,7.49,7.5,,,3.25,0,0.5,12.1,,,0.26,0.39,62,38,59,41,58,42,53,47,58,42
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"Tritech Electrical",https://tritech.ie/,Construction,F,41,https://tritech.ie/wp-content/uploads/2026/01/Gender-Pay-Gap-Report-2025.pdf,2025,30,16,83,50,,,,,60,43,0,18,20.5,79.5,28,72,2.4,97.56,12.2,87.8,,
+"Tritech Electrical",https://tritech.ie/,Construction,F,41,https://tritech.ie/wp-content/uploads/2026/01/Gender-Pay-Gap-Report-2025.pdf,2025,30,16,83,50,,,,,60,43,0,18,20.5,79.5,28,72,2.44,97.56,12.2,87.8,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Tritech Engineering",https://tritech.ie/,Construction,F,41,https://tritech.ie/wp-content/uploads/2026/01/Gender-Pay-Gap-Report-2025.pdf,2025,17,28.8,13.8,0,,,,,76,55,16.67,20.45,20.5,79.5,28,72,2.44,97.56,12.2,87.8,,
@@ -11283,7 +11283,7 @@ Welocalize,https://www.welocalize.com/,"Telecommunication, Computer Programming,
 "Whites of Wexford",https://www.whitesofwexford.com/,"Accommodation and Food Service Activities",I,55,https://www.whitesofwexford.com/cmsFiles/whites_of_wexford_-_gender_pay_gap_report_2025_compressed.pdf,2025,4.43,1.9,,,-0.42,-0.43,,,,,,,69.1,31,70.7,29.3,73.3,26.7,56.1,43.9,67.3,32.7
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-WHSmith,https://www.whsmithplc.co.uk/,"Wholesale and Retail Trade",G,47,https://www.whsmithplc.co.uk/~/media/Files/W/WH-Smith/documents/investors/result-report-presentation/gender-pay-gap/ireland-gender-pay-gap-november-25.pdf,2025,-1.6,-4.01,40.67,57.68,-1.85,-1.91,,,19.67,25,0,0.86,35.39,64.41,51.67,48.33,56.67,43.33,61.02,38.98,,
+WHSmith,https://www.whsmithplc.co.uk/,"Wholesale and Retail Trade",G,47,https://www.whsmithplc.co.uk/~/media/Files/W/WH-Smith/documents/investors/result-report-presentation/gender-pay-gap/ireland-gender-pay-gap-november-25.pdf,2025,-1.6,-4.01,40.67,57.68,-1.85,-1.91,,,19.67,25,0,0.86,35.59,64.41,51.67,48.33,56.67,43.33,61.02,38.98,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "Wicklow County Council",https://www.wicklow.ie/,"Public Administration and Defence, Compulsory Social Security",P,84,https://www.wicklow.ie/Portals/0/Documents/HR/Gender%20Pay%20Gap%20Report%202025/Wicklow%20County%20Council%20Gender%20Pay%20Gap%20Report%202025.pdf,2025,-1.52,-2.76,,,-1.89,-2.76,-1.07,2.55,,,0,0.39,42.86,57.14,20.89,79.11,45.54,54.46,48.66,51.34,57,43
@@ -11319,7 +11319,7 @@ Workday,https://www.workday.com/,"Telecommunication, Computer Programming, Consu
 Workhuman,https://www.workhuman.com/,"Professional, Scientific, and Technical Activities",N,70,https://www.workhuman.com/gender-pay-gap-report/dublin-2025/,2025,23,27,20,22,67,67,-24,-11,100,100,89,95,55,45,60,40,30,70,29,71,,
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
-"World Rugby Ireland",https://www.world.rugby/?lang=en,"Arts, Sports and Recreation",S,93,https://resources.worldrugby-rims.pulselive.com/worldrugby/document/2025/11/27/a6cbe436-c81e-4201-90f2-05b521bf0011/2025-WR_HR_Gender-Pay-Gap_2025_V4.pdf,2025,25.7,18.25,38.23,15.24,,,,,90.38,100,86,87,66.18,31.82,68.18,31.82,54.55,45.45,45.45,54.55,59,41
+"World Rugby Ireland",https://www.world.rugby/?lang=en,"Arts, Sports and Recreation",S,93,https://resources.worldrugby-rims.pulselive.com/worldrugby/document/2025/11/27/a6cbe436-c81e-4201-90f2-05b521bf0011/2025-WR_HR_Gender-Pay-Gap_2025_V4.pdf,2025,25.7,18.25,38.23,15.24,,,,,90.38,100,86,87,68.18,31.82,68.18,31.82,54.55,45.45,45.45,54.55,59,41
 <br />
 <b>Warning</b>:  Undefined array key "companies_grouping" in <b>/home/u120637812/domains/paygap.ie/public_html/gpgPrivate/downloads.php</b> on line <b>170</b><br />
 "WP Engine",https://wpengine.com/ie/,"Telecommunication, Computer Programming, Consulting, Computing Infrastructure and Other Information Service Activities",K,63,https://wpengine.com/ie/2025-ireland-pay-gap/,2025,8.9,14.2,-5.5,12.6,,,,,61.6,55.3,100,98.3,31.1,68.9,47.7,52.3,36.4,63.6,22.7,77.3,,
