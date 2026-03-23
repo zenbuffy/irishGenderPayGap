@@ -61,7 +61,7 @@ companies_ID,companies_name,companies_site,companies_slug,companies_othername,co
 60,"Becton Dickinson: ClearStream Technologies Limited",https://www.bd.com/en-us,clearstreamtechnologies,,,,2022,11,62,59,,"H91 N12C",250810,Galway
 61,"Bidvest Noonan",https://bidvestnoonan.ie/,bidvestnoonan,,info@bidvestnoonan.com,,2022,15,81,,,D02,459859,Dublin
 62,BioMarin,https://www.biomarin.com/,biomarin,,media@bmrn.com,,2022,3,21,,,D02,388809,Dublin
-63,"Blackrock Clinic",https://www.blackrockhealth.com/,blackrockclinic,,,,2022,18,86,,,T12,87523,Cork
+63,"Blackrock Clinic",https://www.blackrockhealth.com/,blackrockclinic,,,,2022,18,86,,7,T12,87523,Cork
 64,"BMS (BMS Ireland)",https://www.bms.com/ie,bms,,,,2022,3,21,64,,X91,15797,Waterford
 65,"BMS (Swords Laboratories Ireland)",https://www.bms.com/ie,swordslaboratories,,,,2022,3,21,64,,T12,60709,Cork
 66,"BNY Mellon: Fund Services DAC",https://www.bnymellon.com/ie/en.html,bnymellonfundservices,,,,2022,12,66,66,,D02,218007,Dublin
@@ -181,7 +181,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 177,"Freshways Food Company",https://freshwaysfoodco.ie/,freshwaysfoodcompany,,sales@freshways.ie,,2022,3,10,,,D11,532235,Dublin
 178,"Galco Group",https://galco.ie/,galcogroup,,dublin@galco.ie,,2022,3,25,,,D12,24695,Dublin
 179,"Galway City Council",https://www.galwaycity.ie/,galwaycitycouncil,,customerservice@galwaycity.ie,,2022,16,84,,3,"H91 X4K8",,Galway
-180,"Galway Clinic",https://www.blackrockhealth.com/,galwayclinic,,,,2022,18,86,,,H91,,Galway
+180,"Galway Clinic",https://www.blackrockhealth.com/,galwayclinic,,,,2022,18,86,,7,H91,,Galway
 181,"Galway County Council",https://www.galway.ie/en/,galwaycoco,,customerservices@galwaycoco.ie,,2022,16,84,,3,"H91 H6KX",,Galway
 182,"Gas Networks Ireland",https://www.gasnetworks.ie/,gasnetworksireland,,networksinfo@gasnetworks.ie,,2022,4,35,,1,T12,555744,Cork
 183,"GE Healthcare Ireland",https://www.gehealthcare.co.uk/,gehealthcare,,Privacy.GEHC@ge.com,,2022,16,84,,1,V94,166586,Limerick
@@ -206,7 +206,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 202,"HedgeServ Ireland",https://www.hedgeserv.com/,hedgeserv,,info@hedgeserv.com,,2022,12,64,,,D02,451010,Dublin
 203,"Heineken Ireland",https://www.heinekenireland.ie/,heineken,,info@heineken.ie,,2022,3,11,,,V94,90921,Limerick
 204,"Henry J Lyons",https://henryjlyons.com/,henryjlyons,,info@henryjlyons.com,,2022,14,71,,,T12,,Cork
-205,"Hermitage Clinic",https://www.blackrockhealth.com/,hermitageclinic,,,,2022,18,86,,,D20,395700,Dublin
+205,"Hermitage Clinic",https://www.blackrockhealth.com/,hermitageclinic,,,,2022,18,86,,7,D20,395700,Dublin
 206,"Hewlett Packard - HP Galway",https://www.hp.com/ie-en/home.html,hpgalway,,,,2022,11,62,207,,D02,361933,Dublin
 207,"Hewlett Packard - HPE Ireland",https://www.hp.com/ie-en/home.html,hpe,,,,2022,11,62,207,,W23,556434,Kildare
 208,"Health Information and Quality Authority",https://www.hiqa.ie/,hiqa,HIQA,info@hiqa.ie,,2022,16,84,,1,T12,,Cork
@@ -427,9 +427,9 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 539,"Atlantic Technological University",https://www.gmit.ie/,atu,"Galway-Mayo Institute of Technology (GMIT)",edi@atu.ie,,2022,17,85,,4,"F23 X853",,Mayo
 540,"Axa Insurance",https://www.axa.ie/,axainsurance,,,,2022,12,65,,,D18,136155,Dublin
 541,"B&Q Ireland",https://www.diy.ie/,bandq,,,,2022,7,47,,,D02,156844,Dublin
-542,"Beacon Hospital",https://www.beaconhospital.ie/,beaconhospital,,,,2022,18,86,,,D18,400975,Dublin
+542,"Beacon Hospital",https://www.beaconhospital.ie/,beaconhospital,,,,2022,18,86,,7,D18,400975,Dublin
 543,"BOC Gases Ireland",https://www.boconline.ie/en/index.html,bocgases,,,,2022,3,20,,,D02,8982,Dublin
-544,"Bon Secours",https://www.bonsecours.ie/,bonsecours,,dublininfo@bonsecours.ie,,2022,18,86,,,T12,471554,Cork
+544,"Bon Secours",https://www.bonsecours.ie/,bonsecours,,dublininfo@bonsecours.ie,,2022,18,86,,7,T12,471554,Cork
 545,Boots,https://www.boots.ie/,boots,,,,2022,7,47,,,D24,363449,Dublin
 546,"Boyle Sports",https://www.boylesports.com/,boylesports,,,,2022,19,92,,,A92,479244,Louth
 547,"Brothers of Charity",https://www.brothersofcharity.ie/,brothersofcharity,Corlann,,,2022,20,94,,1,H91,344780,Galway
@@ -528,7 +528,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 642,"SSP Ireland",https://www.foodtravelexperts.com/,sspireland,,,,2022,9,56,,,K56,,Dublin
 643,"St Michael's House",https://www.smh.ie,stmichaelshouse,,info@smh.ie,,2022,18,88,,1,V95,27628,Clare
 644,"St Patrick's Mental Health Services",https://www.stpatricks.ie/,stpatsmentalhealth,,,,2022,18,86,,,H91,,Galway
-645,"St Vincent's Private Hospital",https://svph.ie/,stvincentsprivate,,financedepartment@svph.ie,,2022,18,86,,,D01,7606,Dublin
+645,"St Vincent's Private Hospital",https://svph.ie/,stvincentsprivate,,financedepartment@svph.ie,,2022,18,86,,7,D01,7606,Dublin
 646,"St John's Hospital Limerick",https://www.stjohnshospital.ie/,stjohnslimerick,,info@stjohnshospital.ie,,2022,18,86,,5,V94,,Limerick
 647,"Standard Life",https://www.standardlife.ie/,standardlife,,,,2022,12,65,,,D02,905495,Dublin
 648,"Standard Life Assets & Employee Services",https://www.standardlife.ie/,standardlifeassets,"Phoenix Group Management Services PGMS",,,2022,12,65,,,D01,342705,Dublin
@@ -597,10 +597,10 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 712,"Rochestown Park Hotel",https://www.rochestownpark.com/,rochestownparkhotel,,,,2022,9,55,,,T12,,Cork
 713,"Slieve Russell Hotel",https://www.slieverussell.ie/,slieverussellhotel,,enquiries@slieverussell.ie,,2022,9,55,,,F92,120282,Donegal
 714,"Carton House",https://www.cartonhouse.com/,cartonhouse,,cartonhouse.reception@fairmont.com,,2022,9,55,,,"W23 TD98",,Kildare
-715,"UPMC Ireland (all entities)",https://upmc.ie/,upmcireland,,,,2022,18,86,715,,,,
-716,"UPMC Whitfield Hospital",https://upmc.ie,upmcwhitfieldhospital,,,,2022,18,86,715,,T12,406431,Cork
-717,"UPMC Aut Even Hospital",https://upmc.ie,upmcautevenhospital,,,,2022,18,86,715,,D02HH30,351113,Dublin
-718,"UPMC Kildare Hospital",https://upmc.ie,upmckildarehospital,,,,2022,18,86,715,,V92,98117,Kerry
+715,"UPMC Ireland (all entities)",https://upmc.ie/,upmcireland,,,,2022,18,86,715,7,,,
+716,"UPMC Whitfield Hospital",https://upmc.ie,upmcwhitfieldhospital,,,,2022,18,86,715,7,T12,406431,Cork
+717,"UPMC Aut Even Hospital",https://upmc.ie,upmcautevenhospital,,,,2022,18,86,715,7,D02HH30,351113,Dublin
+718,"UPMC Kildare Hospital",https://upmc.ie,upmckildarehospital,,,,2022,18,86,715,7,V92,98117,Kerry
 719,Mitie,https://mitie.ie/,mitie,,info@mitie.com,,2022,15,81,,,D18,472704,Dublin
 720,Pieta,https://www.pieta.ie,pieta,,"info@pieta.ie,comms@pieta.ie",,2022,18,88,,,D24,405780,Dublin
 721,"PVH Ireland",https://www.pvh.com/,pvhireland,,Careers@pvh.com,,2022,7,47,,,D02,448945,Dublin
@@ -743,8 +743,8 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 859,ServiceNow,https://www.servicenow.com/,servicenow,,,,2022,11,62,,,D02,549967,Dublin
 860,MKO,https://mkoireland.ie/,mko,,info@mkoireland.ie,,2024,14,70,,,"H91 VW84",,Galway
 861,"IVC Evidensia",https://www.ivcevidensia.ie/,ivcevidensia,,,,2022,14,75,,,T23,,Cork
-862,"Charter Medical Private Hospital",https://www.cmph.ie/,chartermedicalprivatehospital,,,,2024,18,86,,,"V95 TF24",636510,Clare
-863,"Clontarf Hospital",https://www.ioh.ie/,clontarfhospital,,"hr@ioh.ie, pa@ioh.ie ",,2024,18,86,,,D03,,Dublin
+862,"Charter Medical Private Hospital",https://www.cmph.ie/,chartermedicalprivatehospital,,,,2024,18,86,,7,"V95 TF24",636510,Clare
+863,"Clontarf Hospital",https://www.ioh.ie/,clontarfhospital,,"hr@ioh.ie, pa@ioh.ie ",,2024,18,86,,5,D03,,Dublin
 864,"Woodlands House Hotel",https://www.woodlands-hotel.ie/,woodlandshousehotel,,hello@woodlands-hotel.ie,,2024,9,55,,,V94F1P9,,Limerick
 865,"Director of Public Prosecutions",https://www.dppireland.ie/,directorofpublicprosecutions,,,,2024,16,84,,1,D07,,Dublin
 866,GAA,https://www.gaa.ie/,gaa,,info@gaa.ie,,2024,19,93,,,D01,,Dublin
@@ -830,7 +830,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 947,"Diageo Ireland",https://www.diageo.com/en,diageoireland,,,,2022,3,11,136,,D06P2T7,900038,Dublin
 948,"VHI Healthcare DAC",https://www1.vhi.ie/,vhihealthcaredac,,,,2024,12,65,392,,D01,527604,Dublin
 949,"VHI Insurance DAC",https://www1.vhi.ie/,vhiinsurancedac,,,,2024,12,65,392,,D01,527606,Dublin
-950,"VHI Health & Wellbeing DAC",https://www1.vhi.ie/,vhihealthwellbeingdac,,,,2024,18,86,392,,"P75 W242",531499,Cork
+950,"VHI Health & Wellbeing DAC",https://www1.vhi.ie/,vhihealthwellbeingdac,,,,2024,18,86,392,7,"P75 W242",531499,Cork
 951,"VHI Group Services DAC",https://www1.vhi.ie/,vhigroupservicesdac,,,,2024,14,70,392,,D01,538110,Dublin
 952,"Matheson: Matheson LLP (excluding partners)",https://www.matheson.com/,mathesonmathesonllpexcludingpartners,,,,2022,14,69,269,,H91,676004,Galway
 953,"Matheson: Support Services (excluding partners)",https://www.matheson.com/about-us/matheson-in-house-network,mathesonsupportservicesexcludingpartners,,,,2022,14,69,269,,D02,109335,Dublin
@@ -962,7 +962,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1080,"Scotiabank Ireland",https://www.scotiabank.com/global/en/global-site.html,scotiabankireland,,,,2025,12,64,,,D02,30350,Dublin
 1081,"National Disability Authority",https://nda.ie,nationaldisabilityauthority,,,,2025,16,84,,,"D04 E409",,Dublin
 1082,"Indigo Telecom Group",https://www.indigotg.com/,indigotelecomgroup,,,,2025,11,61,,,"A96 R2Y1",,Dublin
-1083,"Advant Medical Moulding",https://www.advantmedical.com/wp-content/uploads/2025/11/Gender-Pay-Gap-Report-2025.pdf,advantmedicalmoulding,,,,2024,3,32,,,N91,207297,Westmeath
+1083,"Advant Medical Moulding",https://www.advantmedical.com/,advantmedicalmoulding,,,,2024,3,32,,,N91,207297,Westmeath
 1084,"Core Building",https://corebuild.ie/,corebuilding,,,,2025,7,46,,,D02,541540,Dublin
 1085,Italicatessen,https://www.italicatessen.ie/,italicatessen,,,,2025,7,46,289,,T12,359195,Cork
 1086,"Connected Health",https://connected-health.ie/,connectedhealth,,,,2024,18,86,,,D02,630316,Dublin
@@ -1221,7 +1221,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1343,"Pownall & Hampson",https://www.pownallandhampson.com/,pownallhampson,,,,2025,3,32,,,D05,618942,Dublin
 1344,Siemens,https://www.siemens.com/ie/en.html,siemens,,,,2025,3,27,,,D02,7347,Dublin
 1345,"Great National Hotel Balina",https://www.hotelballina.ie/,greatnationalhotelbalina,,,,2025,9,55,1345,,F26,,Mayo
-1346,"Jaguar Land Rover (JLR)",https://www.jlr.com/,jaguarlandroverjlr,,,,2025,7,47,,,D02,608696,Dublin
+1346,"Jaguar Land Rover (JLR)",https://www.jlr.com/,jaguarlandroverjlr,,,,2023,7,47,,,D02,608696,Dublin
 1347,ProStrategy,https://www.prostrategy.ie/,prostrategy,,,,2025,14,70,,,T12,106508,Cork
 1348,SOTI,https://soti.net/,soti,,,,2025,11,62,,,,617473,
 1349,Millenium,https://www.mlp.com/,millenium,,,,2025,12,66,,,D02,,Dublin
@@ -1660,3 +1660,12 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1784,"Griffith College",https://www.griffith.ie/,griffithcollege,,,,2025,17,85,,,"D08 V04N",,
 1785,GridBeyond,https://gridbeyond.com,gridbeyond,,,,2025,11,62,,,"D24 KX6Y",,
 1786,"Golden Bake",https://www.golden-bake.com/,goldenbake,,,,2025,3,10,,,"D17 CP26",,
+1787,Garwyn,https://davies-group.com/,garwyn,Davies,,,2025,14,66,1787,,"D12 W702",,
+1788,Thornton,https://davies-group.com/,thornton,Davies,,,2025,14,66,1787,,"D12 W702",,
+1789,"Automated Industrial Robotics Shannon",https://industrialrobotics.com,automatedindustrialroboticsshannon,AIR,,,2025,3,28,,,"V14 V963",,
+1790,"Galway Centre for Independent Living",https://gcil.ie/,galwaycentreforindependentliving,,,,2025,18,88,,,"H91 X4VR",,
+1791,"Kylemore Abbey",https://www.kylemoreabbey.com/,kylemoreabbey,,,,2025,19,91,,,"H91 VR90",,
+1792,"Noel Group",https://noelgroup.ie/,noelgroup,,,,2025,15,78,,,"D09 PF99",,
+1793,"Excel Recruitment",https://www.excelrecruitment.com/,excelrecruitment,,,,2025,15,78,,,"D07 DH99",,
+1794,Netwatch,https://netwatchsystem.com,netwatch,,,,2024,15,80,,,"R93 YD43",,
+1795,"Schorman Cleaning",https://schormancleaning.ie/,schormancleaning,,,,2025,15,81,,,"A96 CC81",,
