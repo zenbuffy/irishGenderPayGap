@@ -121,7 +121,7 @@ companies_ID,companies_name,companies_site,companies_slug,companies_othername,co
 120,"Department of Education",https://www.gov.ie/en/organisation/department-of-education/,depteducation,,info@education.gov.ie,,2022,16,84,,2,"D01 RC96",,Dublin,179,D01RC96
 121,"Department of Enterprise, Trade and Employment",https://enterprise.gov.ie/en/,deptenterprise,,info@enterprise.gov.ie,,2022,16,84,,2,"D02 TD30",,Dublin,677,D02TD30
 122,"Department of Finance",https://www.gov.ie/en/organisation/department-of-finance/,deptfinance,,webmaster@finance.gov.ie,,2022,16,84,,2,"D02 R583",,Dublin,100,D02R583
-123,"Department of Foreign Affairs",https://www.dfa.ie/,deptforeignaffairs,,press.office@dfa.ie,,2022,16,84,,2,"D02 VY53",,Dublin,,
+123,"Department of Foreign Affairs",https://www.dfa.ie/,deptforeignaffairs,,press.office@dfa.ie,,2022,16,84,,2,"D02 VY53",,Dublin,878,D02DX45
 124,"Department of Health",https://www.gov.ie/en/organisation/department-of-health/,depthealth,,"customerservices@health.gov.ie, ministers_office@health.gov.ie",,2022,16,84,,2,"D02 XW14",,Dublin,788,D02XW14
 125,"Department of Housing, Local Government and Heritage",https://www.gov.ie/en/organisation/department-of-housing-local-government-and-heritage/,depthousingheritage,,"qcsofficer@housing.gov.ie, press@housing.gov.ie, minister@housing.gov.ie, John.McGee@housing.gov.ie",,2022,16,84,,2,"D01 W6X0",,Dublin,94,D01W6X0
 126,"Department of Justice and the
@@ -1722,7 +1722,6 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1850,"Tapped & Lost Lane",https://www.tappeddublin.com/,tappedlostlane,Noyfield,info@tappeddublin.com,,2025,9,55,,,"D02 RP20",,,,
 1852,"IPL Schoeller",https://www.iplschoeller.com/,iplschoeller,"One51 Group Services Ltd",,,2025,3,22,,,"D02 NY63",,,,
 1854,"Amber Oil",https://www.amberoil.ie/,amberoil,,info@amberoil.ie,,2023,7,46,,,"P61 AX03",,,,
-1855,"Amber petroleum ltd",,amberpetroleumltd,,,,0,0,0,,,,,,,
 1856,"Swan Net Gundry",https://sng.ie/,swannetgundry,SNG,info@sng.ie,,2025,3,13,,,"F94 VF22",,,,
 1858,"Kapp & Peterson",https://www.peterson.ie/,kapppeterson,,info@peterson.ie,,2025,3,16,,,"A94 HX50",,,,
 1859,"Turner & Townsend",https://www.turnerandtownsend.com/,turnertownsend,,ireland@turnerandtownsend.com,,2024,14,71,,,"D02 VK70",,,,
@@ -1960,3 +1959,8 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 2091,"Whitewater Group H2O Limited.",,whitewater-group-h2o-limited,,,,2025,5,0,,,,,,669,W91TK7N
 2092,"Windmill Group",,windmill-group,,,,2025,18,0,,,,,,282,P51NH6X
 2093,"Irish Prison Service (all legal entities)",,irish-prison-service-all-legal-entities,,,,2022,16,0,228,,,,,838,N39A308
+2095,Vistatec,https://www.vistatec.com/,vistatec,,privacy@vistatec.com,,2025,14,74,,,"D08 T2TX",,,,
+2096,"Hanley Calibration",https://hanleycalibration.com/,hanleycalibration,,,,2024,14,71,,,"T45 X962",,,,
+2097,"Ryan Hanley",https://ryanhanley.ie/,ryanhanley,Stantec,,,2025,1,1,,,"H91 P3KH",,,,
+2098,"Danann Air",,danann-air,,,,2025,3,0,,,,,,,
+2099,"HPC Sales Limited",,hpc-sales-limited,,,,2025,7,0,,,,,,,
