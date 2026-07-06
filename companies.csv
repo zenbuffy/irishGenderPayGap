@@ -18,7 +18,7 @@ companies_ID,companies_name,companies_site,companies_slug,companies_othername,co
 17,"Airbnb Ireland UC",https://www.airbnb.ie/,airbnb,,press-ie@airbnb.com,,2022,9,55,,,D01,511825,Dublin,,
 18,"Alcon Ireland",https://www.alcon.com/,alcon,,,,2022,3,32,,,"T12 NX4A",381537,Cork,,
 19,"ALDI Ireland",https://www.aldi.ie/,aldi,,Recruitment@aldi.ie,,2022,7,47,,,T12,294035,Cork,,
-20,"Alliance Medical",https://www.alliancemedical.ie/,alliancemedical,,,,2022,18,86,,,V94,741329,Limerick,329,V94FHX7
+20,"Alliance Medical",https://www.alliancemedical.ie/,alliancemedical,,,,2022,18,86,,,V94FHX7,741329,Limerick,329,V94FHX7
 21,"Allianz Ireland",https://www.allianz.ie/,allianz,,,,2022,12,65,,,D04,900658,Dublin,,
 22,"Amazon Data Services Ireland Ltd",https://www.amazon.co.uk/,amazondsi,,,,2022,11,63,22,,D04,390566,Dublin,,
 23,"Amazon Development Centre Ireland Ltd ",https://www.amazon.co.uk/,amazondci,,,,2022,11,62,22,,D04,566018,Dublin,,
@@ -26,7 +26,7 @@ companies_ID,companies_name,companies_site,companies_slug,companies_othername,co
 25,"Amundi Ireland",https://www.amundi.ie/retail,amundi,,,,2022,12,66,,,D24,287793,Dublin,,
 26,"An Garda Síochána: Garda Members",https://garda.ie/en/,gardamembers,,pressoffice@garda.ie,,2022,16,84,26,1,"D08 HN3X",,Dublin,,
 27,"An Garda Síochána: Garda Staff",https://garda.ie/en/,gardastaff,,pressoffice@garda.ie,,2022,16,84,26,1,"D08 HN3X",,Dublin,,
-28,"An Post",https://www.anpost.com/,anpost,,Pressoffice@anpost.ie,,2022,16,84,,1,A63,98788,Wicklow,504,D01F5P2
+28,"An Post",https://www.anpost.com/,anpost,,Pressoffice@anpost.ie,,2022,16,84,,1,D01F5P2,98788,Wicklow,504,D01F5P2
 29,"Aon Ireland (all legal entities)",https://www.aon.com/ireland/default.jsp,aon,,requests@aon.ie,,2022,12,65,29,,D02VR98,,Dublin,,
 30,"Apple Ireland (all legal entities)",https://www.apple.com/ie/,apple,,contactus.ie@euro.apple.com,,2022,11,62,30,,"T23 YK84",,Cork,,
 31,Applegreen,https://applegreenstores.com/,applegreen,,"info@applegreen.ie, applegreen@sweartaker.ie",,2022,7,47,,,D12,491702,Dublin,,
@@ -38,7 +38,7 @@ companies_ID,companies_name,companies_site,companies_slug,companies_othername,co
 37,"Aramark: Avoca Handweavers Shops Limited",https://www.avoca.com/en,avoca,,noss-erin@aramark.com,,2022,7,47,37,,D13,46106,Dublin,,
 38,"Aramark: Campbell Catering Limited",https://northerneurope.aramark.com/ie/home,campbellcatering,,noss-erin@aramark.com,,2022,9,56,37,,D01,128403,Dublin,,
 39,"Aramark: Vector Workplace and Facility Management Limited",https://northerneurope.aramark.com/ie/home,vector,,noss-erin@aramark.com,,2022,15,81,37,,"D02 AV82",315777,Dublin,,
-40,Ardmac,https://www.ardmac.com/,ardmac,,info@ardmac.com,,2022,6,43,,,T12,193848,Cork,779,K67Y2P7
+40,Ardmac,https://www.ardmac.com/,ardmac,,info@ardmac.com,,2022,6,43,,,K67Y2P7,193848,Cork,779,K67Y2P7
 41,Arrabawn,https://arrabawn.ie/,arrabawn,ArraTipp,info@arrabawn.ie,,2022,3,10,,,H91,468897,Galway,,
 42,"Arthur Cox (The Firm - including partners)",https://www.arthurcox.com/,arthurcox,,mail@arthurcox.com,,2022,14,69,42,,"D02 T380",,Dublin,,
 43,Arup,https://www.arup.com/,arup,,europe-press@arup.com,,2022,14,66,,,V94,90803,Limerick,,
@@ -56,7 +56,7 @@ companies_ID,companies_name,companies_site,companies_slug,companies_othername,co
 55,"Barclays Bank Ireland Plc",https://privatebank.barclays.com/,barclaysbank,,dublincustomerservice@barclays.com,,2022,12,64,,,D02,902014,Dublin,,
 56,"Baxter Healthcare Ireland",https://www.baxterhealthcare.ie/,baxterhealthcare,,Compton_reception@baxter.com,,2022,3,32,56,,D02,902075,Dublin,,
 57,"BDO Ireland",https://www.bdo.ie/,bdo,,info@bdo.ie,,2022,12,64,,,"D02 Y754",,Dublin,,
-58,"Beckman Coulter Ireland Inc",https://www.beckman.com/contact-us/ireland,beckmancoulter,,"diversityandinclusion@beckman.com, media@beckman.com",,2022,3,21,,,V95,501471,Clare,434,V94PP63
+58,"Beckman Coulter Ireland Inc",https://www.beckman.com/contact-us/ireland,beckmancoulter,,"diversityandinclusion@beckman.com, media@beckman.com",,2022,3,21,,,V94PP63,501471,Clare,434,V94PP63
 59,"Becton Dickinson Research Centre Ireland Limited",https://www.bd.com/en-us,bectondickinson,,BDUK_customerservice@bd.com,,2022,14,72,59,,D01,193081,Dublin,,
 60,"Becton Dickinson: ClearStream Technologies Limited",https://www.bd.com/en-us,clearstreamtechnologies,,,,2022,11,62,59,,"H91 N12C",250810,Galway,,
 61,"Bidvest Noonan",https://bidvestnoonan.ie/,bidvestnoonan,,info@bidvestnoonan.com,,2022,15,81,,,D02,459859,Dublin,,
@@ -82,8 +82,8 @@ companies_ID,companies_name,companies_site,companies_slug,companies_othername,co
 81,CarTrawler,https://corporate.cartrawler.com/en-gb/,cartrawler,,webmaster@cartrawler.com,,2022,11,62,,,"D14 R7V2",,Dublin,,
 82,"Cavan County Council",https://www.cavancoco.ie/,cavancoco,,info@cavancoco.ie,,2022,16,84,,3,"H12 R6V2",,Cavan,,
 83,"Center Parcs Ireland",https://www.centerparcs.ie/,centerparcs,,,,2022,9,55,,,D02,554787,Dublin,,
-84,"Central Bank of Ireland",https://www.centralbank.ie/,centralbankofireland,,enquiries@centralbank.ie,,2022,12,64,,1,D12,,Dublin,215,D01F7X3
-85,"Central Statistics Office",https://www.cso.ie/en/index.html,cso,CSO,information@cso.ie,,2022,16,84,,1,T12,,Cork,291,T12X00E
+84,"Central Bank of Ireland",https://www.centralbank.ie/,centralbankofireland,,enquiries@centralbank.ie,,2022,12,64,,1,D01F7X3,,Dublin,215,D01F7X3
+85,"Central Statistics Office",https://www.cso.ie/en/index.html,cso,CSO,information@cso.ie,,2022,16,84,,1,T12X00E,,Cork,291,T12X00E
 86,"Chadwicks Group",https://chadwicksgroup.ie/,chadwicksgroup,,customercare@chadwicks.ie,,2022,7,46,,,D24,3510,Dublin,,
 87,"Chief State Solicitors Office",https://www.gov.ie/en/organisation/chief-state-solicitors-office/,csso,,contact@csso.gov.ie,,2022,16,84,,1,D07,,Dublin,,
 88,"Children's Health Ireland",https://www.childrenshealthireland.ie/,childrenshealthireland,,press.office@childrenshealthireland.ie,,2022,16,84,,1,D12,,Dublin,,
@@ -92,7 +92,7 @@ companies_ID,companies_name,companies_site,companies_slug,companies_othername,co
 91,Cisco,https://www.cisco.com/,cisco,,,,2022,11,61,,,W23,60063,Kildare,,
 92,"Citco Fund Services (Ireland) Limited",https://www.citco.com/,citco,,citco-ireland@citco.com,,2022,12,64,92,,T12,282013,Cork,,
 93,"Citibank Europe Plc Ireland",https://www.citigroup.com/global/about-us/global-presence/ireland,citibank,"CEP Ireland",,,2022,12,64,93,,H91A6RF,132781,Galway,,
-94,"Clare County Council",https://www.clarecoco.ie/,clarecoco,,customerservices@clarecoco.ie,,2022,16,84,,3,"V95 DXP2",,Clare,141,V95DXP2
+94,"Clare County Council",https://www.clarecoco.ie/,clarecoco,,customerservices@clarecoco.ie,,2022,16,84,,3,V95DXP2,,Clare,141,V95DXP2
 95,"Coca Cola Ireland",https://www.coca-cola.com/ie/en,cocacola,,gbmedia@coca-cola.com,,2022,3,11,,,D06,1809,Dublin,,
 96,Cognizant,https://www.cognizant.com/uk/en,cognizant,,inquiry@cognizant.com,,2022,11,62,,,D02,358105,Dublin,,
 97,Coillte,https://www.coillte.ie/,coillte,,info@coillte.ie,,2022,1,2,,1,"A63 DN25",,Wicklow,,
@@ -102,8 +102,8 @@ companies_ID,companies_name,companies_site,companies_slug,companies_othername,co
 101,"Cork City Council",https://www.corkcity.ie/en/,corkcitycouncil,,foi@corkcity.ie,,2022,16,84,,3,"T12 T997",,Cork,,
 102,"Cork County Council",https://www.corkcoco.ie/en,corkcoco,,customercare@corkcoco.ie,,2022,16,84,,3,"T12 R2NC",,Cork,,
 103,"Corrib Oil",https://corriboil.com/,corriboil,,info@corriboil.com,,2022,7,47,,,"F12 KF89",117390,Mayo,,
-104,"CPL:  Computer Placement Limited",https://www.cpl.com/ie,cpl,,info@cpl.ie,,2022,15,78,104,,T12,156852,Cork,442,D04X4C9
-105,"CPL:  Flexible Talent Workforce",https://www.cpl.com/ie,cplftw,,info@cpl.ie,,2022,15,78,104,,H91,,Galway,499,D04X4C9
+104,"CPL:  Computer Placement Limited",https://www.cpl.com/ie,cpl,,info@cpl.ie,,2022,15,78,104,,D04X4C9,156852,Cork,442,D04X4C9
+105,"CPL:  Flexible Talent Workforce",https://www.cpl.com/ie,cplftw,,info@cpl.ie,,2022,15,78,104,,D04X4C9,,Galway,499,D04X4C9
 106,"Creganna Medical Ireland Limited",https://www.te.com/usa-en/products/brands/creganna.html,creganna,,,,2022,3,32,,,H91,616341,Galway,,
 107,"CRH: CRH Group Services Limited",https://www.crh.com/,crhgroupservices,,,,2022,3,23,89,,D20,26948,Dublin,,
 108,"CRH: Irish Cement",https://www.irishcement.ie/,crhirishcement,,nfo@irishcement.ie,,2022,3,23,89,,H91,9212,Galway,,
@@ -115,37 +115,37 @@ companies_ID,companies_name,companies_site,companies_slug,companies_othername,co
 114,Davy,https://www.davy.ie/,davy,,,,2022,12,66,54,,D02,533779,Dublin,,
 115,"Dell Technologies Ireland: Dell Products",https://www.dell.com/en-ie,dellproducts,,,,2022,3,26,115,,D08,191034,Dublin,,
 116,"Dell Technologies Ireland: EMC International ",https://www.dell.com/en-ie,emcinternational,,,,2022,11,63,115,,D02,464031,Dublin,,
-117,"Deloitte Ireland (excluding partners)",https://www2.deloitte.com/ie/en.html,deloitte,,info@deloitte.ie,,2022,14,70,,,D02,637013,Dublin,366,D02AY28
+117,"Deloitte Ireland (excluding partners)",https://www2.deloitte.com/ie/en.html,deloitte,,info@deloitte.ie,,2022,14,70,,,D02AY28,637013,Dublin,366,D02AY28
 118,"Dental Care Ireland",https://www.dentalcareireland.ie/,dentalcareireland,,info@dentalcareireland.ie,,2022,18,86,,,H18,305884,Monaghan,,
-119,"Department of Agriculture, Food & Marine",https://www.gov.ie/en/organisation/department-of-agriculture-food-and-the-marine/,deptagrifoodmarine,,info@agriculture.gov.ie,,2022,16,84,,2,"D02 WK12",,Dublin,137,D02WK12
-120,"Department of Education",https://www.gov.ie/en/organisation/department-of-education/,depteducation,,info@education.gov.ie,,2022,16,84,,2,"D01 RC96",,Dublin,179,D01RC96
-121,"Department of Enterprise, Trade and Employment",https://enterprise.gov.ie/en/,deptenterprise,,info@enterprise.gov.ie,,2022,16,84,,2,"D02 TD30",,Dublin,677,D02TD30
-122,"Department of Finance",https://www.gov.ie/en/organisation/department-of-finance/,deptfinance,,webmaster@finance.gov.ie,,2022,16,84,,2,"D02 R583",,Dublin,100,D02R583
-123,"Department of Foreign Affairs",https://www.dfa.ie/,deptforeignaffairs,,press.office@dfa.ie,,2022,16,84,,2,"D02 VY53",,Dublin,878,D02DX45
-124,"Department of Health",https://www.gov.ie/en/organisation/department-of-health/,depthealth,,"customerservices@health.gov.ie, ministers_office@health.gov.ie",,2022,16,84,,2,"D02 XW14",,Dublin,788,D02XW14
-125,"Department of Housing, Local Government and Heritage",https://www.gov.ie/en/organisation/department-of-housing-local-government-and-heritage/,depthousingheritage,,"qcsofficer@housing.gov.ie, press@housing.gov.ie, minister@housing.gov.ie, John.McGee@housing.gov.ie",,2022,16,84,,2,"D01 W6X0",,Dublin,94,D01W6X0
+119,"Department of Agriculture, Food & Marine",https://www.gov.ie/en/organisation/department-of-agriculture-food-and-the-marine/,deptagrifoodmarine,,info@agriculture.gov.ie,,2022,16,84,,2,D02WK12,,Dublin,137,D02WK12
+120,"Department of Education",https://www.gov.ie/en/organisation/department-of-education/,depteducation,,info@education.gov.ie,,2022,16,84,,2,D01RC96,,Dublin,179,D01RC96
+121,"Department of Enterprise, Trade and Employment",https://enterprise.gov.ie/en/,deptenterprise,,info@enterprise.gov.ie,,2022,16,84,,2,D02TD30,,Dublin,677,D02TD30
+122,"Department of Finance",https://www.gov.ie/en/organisation/department-of-finance/,deptfinance,,webmaster@finance.gov.ie,,2022,16,84,,2,D02R583,,Dublin,100,D02R583
+123,"Department of Foreign Affairs",https://www.dfa.ie/,deptforeignaffairs,,press.office@dfa.ie,,2022,16,84,,2,D02DX45,,Dublin,878,D02DX45
+124,"Department of Health",https://www.gov.ie/en/organisation/department-of-health/,depthealth,,"customerservices@health.gov.ie, ministers_office@health.gov.ie",,2022,16,84,,2,D02XW14,,Dublin,788,D02XW14
+125,"Department of Housing, Local Government and Heritage",https://www.gov.ie/en/organisation/department-of-housing-local-government-and-heritage/,depthousingheritage,,"qcsofficer@housing.gov.ie, press@housing.gov.ie, minister@housing.gov.ie, John.McGee@housing.gov.ie",,2022,16,84,,2,D01W6X0,,Dublin,94,D01W6X0
 126,"Department of Justice and the
 Probation Service: Probation Service",https://www.gov.ie/en/organisation/department-of-justice/,dojprobationservice,,psinfo@probation.ie,2023,2022,16,84,127,2,"D07 WT27",,Dublin,,
 127,"Department of Justice and the
-Probation Service: the Department",https://www.gov.ie/en/organisation/department-of-justice/,doj,"Department of Justice, Home Affairs and Migration","pressoffice@justice.ie, info@justice.ie",,2022,16,84,127,2,"D02 HK52",,Dublin,450,D02HK52
-128,"Department of Public Expenditure and Reform",https://www.gov.ie/en/organisation/department-of-public-expenditure-and-reform/,deptpublicexpenditure,,"pressoffice@per.gov.ie, Minister@per.gov.ie",,2022,16,84,,2,"D02 R583",,Dublin,182,D02R583
-129,"Department of Social Protection",https://www.gov.ie/en/organisation/department-of-social-protection/,deasp,,info@welfare.ie,,2022,16,84,,2,"D01 WY03",,Dublin,123,D01WY03
-130,"Department of the Environment, Climate and Communications",https://www.gov.ie/en/organisation/department-of-the-environment-climate-and-communications/,deptenvironment,,customer.service@decc.gov.ie,,2022,16,84,,2,"D04 K7X4",,Dublin,782,D04K7X4
-131,"Department of the Taoiseach",https://www.gov.ie/en/organisation/department-of-the-taoiseach/,depttaoiseach,,"taoiseach@taoiseach.gov.ie, press.office@taoiseach.gov.ie, webmaster@taoiseach.gov.ie",,2022,16,84,,2,"D02 R583",,Dublin,778,D02R583
-132,"Department of Tourism, Culture, Arts, Gaeltacht, Sport and Media",https://www.gov.ie/en/organisation/department-of-tourism-culture-arts-gaeltacht-sport-and-media/,depttourism,,"press.office@tcagsm.gov.ie, ministers.office@tcagsm.gov.ie",,2022,16,84,,2,"D02 R5Y3",,Dublin,91,D02R5Y3
-133,"Department of Transport",https://www.gov.ie/en/organisation/department-of-transport/,depttransport,,info@transport.gov.ie,,2022,16,84,,2,"D02 TR60",,Dublin,124,D02TR60
+Probation Service: the Department",https://www.gov.ie/en/organisation/department-of-justice/,doj,"Department of Justice, Home Affairs and Migration","pressoffice@justice.ie, info@justice.ie",,2022,16,84,127,2,D02HK52,,Dublin,450,D02HK52
+128,"Department of Public Expenditure and Reform",https://www.gov.ie/en/organisation/department-of-public-expenditure-and-reform/,deptpublicexpenditure,,"pressoffice@per.gov.ie, Minister@per.gov.ie",,2022,16,84,,2,D02R583,,Dublin,182,D02R583
+129,"Department of Social Protection",https://www.gov.ie/en/organisation/department-of-social-protection/,deasp,,info@welfare.ie,,2022,16,84,,2,D01WY03,,Dublin,123,D01WY03
+130,"Department of the Environment, Climate and Communications",https://www.gov.ie/en/organisation/department-of-the-environment-climate-and-communications/,deptenvironment,,customer.service@decc.gov.ie,,2022,16,84,,2,D04K7X4,,Dublin,782,D04K7X4
+131,"Department of the Taoiseach",https://www.gov.ie/en/organisation/department-of-the-taoiseach/,depttaoiseach,,"taoiseach@taoiseach.gov.ie, press.office@taoiseach.gov.ie, webmaster@taoiseach.gov.ie",,2022,16,84,,2,D02R583,,Dublin,778,D02R583
+132,"Department of Tourism, Culture, Arts, Gaeltacht, Sport and Media",https://www.gov.ie/en/organisation/department-of-tourism-culture-arts-gaeltacht-sport-and-media/,depttourism,,"press.office@tcagsm.gov.ie, ministers.office@tcagsm.gov.ie",,2022,16,84,,2,D02R5Y3,,Dublin,91,D02R5Y3
+133,"Department of Transport",https://www.gov.ie/en/organisation/department-of-transport/,depttransport,,info@transport.gov.ie,,2022,16,84,,2,D02TR60,,Dublin,124,D02TR60
 134,Depaul,https://ie.depaulcharity.org/,depaul,,depaul@depaulcharity.net,,2022,18,88,,,D08,357828,Dublin,,
-135,"DHL Express Ireland",https://www.dhl.com/ie-en/home.html,dhl,,,,2022,8,52,,,D07,106091,Dublin,389,K67YY36
+135,"DHL Express Ireland",https://www.dhl.com/ie-en/home.html,dhl,,,,2022,8,52,,,K67YY36,106091,Dublin,389,K67YY36
 136,"Diageo Republic of Ireland (all legal entities)",https://www.diageo.com/en,diageo,,,,2022,3,32,136,,"D08 X20N",,Dublin,,
 137,"Donegal County Council",https://www.donegalcoco.ie/,donegalcoco,,info@donegalcoco.ie,,2022,16,84,,3,"F93 Y622",,Donegal,,
 138,"Doyle Collection",https://www.doylecollection.com/,doylecollection,,,,2022,9,55,,,D04,,Dublin,,
 139,Arcadis,https://www.dpsgroupglobal.com/,arcadisdpsgroup,"DPS Group",,,2022,14,71,,,D02,340154,Dublin,,
 140,"Dublin and Dun Laoghaire Education
 and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie, webmaster@ddletb.ie",,2022,17,85,,6,D02,,Dublin,,
-141,"Dublin Bus",https://www.dublinbus.ie/home,dublinbus,,customercomment@dublinbus.ie,,2022,8,49,,,D02,,Dublin,358,D01RX04
+141,"Dublin Bus",https://www.dublinbus.ie/home,dublinbus,,customercomment@dublinbus.ie,,2022,8,49,,,D01RX04,,Dublin,358,D01RX04
 142,"Dublin Business School",https://www.dbs.ie/,dublinbusinessschool,,careerservices@dbs.ie,,2022,17,85,,,D12,171193,Dublin,,
-143,"Dublin City Council",https://www.dublincity.ie/residential,dublincitycouncil,,customerservices@dublincity.ie,,2022,16,84,,3,"D08 RF3F",,Dublin,847,D08RF3F
-144,"Dún Laoghaire-Rathdown County Council",http://www.dlrcoco.ie/,dlrcoco,,info@dlrcoco.ie,,2022,16,84,,3,"A96 K6C9",,Dublin,861,A96K6C9
+143,"Dublin City Council",https://www.dublincity.ie/residential,dublincitycouncil,,customerservices@dublincity.ie,,2022,16,84,,3,D08RF3F,,Dublin,847,D08RF3F
+144,"Dún Laoghaire-Rathdown County Council",http://www.dlrcoco.ie/,dlrcoco,,info@dlrcoco.ie,,2022,16,84,,3,A96K6C9,,Dublin,861,A96K6C9
 145,"Dundalk Institute of Technology",https://www.dkit.ie/,dundalkit,,info@dkit.ie,,2022,17,85,,4,A91,,Louth,,
 146,"Dunnes Stores",https://www.dunnesstores.com/,dunnesstores,,,,2022,7,47,,,"D02 RX86",,Dublin,,
 147,"EA Ireland Ltd",https://www.ea.com/,ea,,info@eaireland.com,,2022,11,62,,,H91,483375,Galway,,
@@ -165,12 +165,12 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 161,"Expleo Technology Ireland",https://expleo.com/global/en/,expleo,,,,2022,11,62,,,D08,307763,Dublin,,
 162,"EY Ireland (excluding partners)",https://www.ey.com/en_ie,ey,,,,2022,14,69,162,,T12,,Cork,,
 163,"Failte Ireland",https://www.failteireland.ie/,failte,,CustomerSupport@failteireland.ie,,2022,16,84,,1,D02,,Dublin,,
-164,"Family Carers Ireland",https://familycarers.ie/,familycarersireland,,careline@familycarers.ie,,2022,18,88,,,R35,572819,Offaly,307,R35PW50
+164,"Family Carers Ireland",https://familycarers.ie/,familycarersireland,,careline@familycarers.ie,,2022,18,88,,,R35PW50,572819,Offaly,307,R35PW50
 165,FBD,https://www.fbd.ie/,fbd,,info@fbd.ie,,2022,12,65,,,D15WY6A,140134,Dublin,,
-166,"Fenergo Limited",https://www.fenergo.com/,fenergolimited,,"marketing@fenergo.com, support@fenergo.com",,2022,12,66,,,A92H286,461382,Louth,609,D01V8Y6
-167,"Fidelity International",https://www.fidelityinternational.com/,fidelityinternational,,,,2022,12,64,,,"D02 VK65",,Dublin,372,D02VK65CO
+166,"Fenergo Limited",https://www.fenergo.com/,fenergolimited,,"marketing@fenergo.com, support@fenergo.com",,2022,12,66,,,D01V8Y6,461382,Louth,609,D01V8Y6
+167,"Fidelity International",https://www.fidelityinternational.com/,fidelityinternational,,,,2022,12,64,,,D02VK65CO,,Dublin,372,D02VK65CO
 168,"Fidelity Investments Ireland (all legal entities)",https://www.fidelityinvestments.ie/,fidelityinvestments,,,,2022,12,66,,,D24,,Dublin,,
-169,"FINEOS Ireland",https://www.fineos.com/,fineos,,,,2022,11,62,,,D02,205721,Dublin,461,D03FT97
+169,"FINEOS Ireland",https://www.fineos.com/,fineos,,,,2022,11,62,,,D03FT97,205721,Dublin,461,D03FT97
 170,"Fingal County Council",https://www.fingal.ie/,fingalcoco,,customercareunit@fingal.ie,,2022,16,84,,3,"D15 W638",,Dublin,,
 171,"First Derivatives",https://fdtechnologies.com/,fdtechnologies,"now KX Analytics",,,2022,12,64,,,D04,745886,Dublin,,
 172,"Fiserv Ireland",https://www.fiserv.com/en.html,fiserv,,,,2022,12,64,172,,D02,782360,Dublin,,
@@ -180,10 +180,10 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 176,Foróige,https://www.foroige.ie/,foroige,,info@foroige.ie,,2022,18,88,,,D12,,Dublin,,
 177,"Freshways Food Company",https://freshwaysfoodco.ie/,freshwaysfoodcompany,,sales@freshways.ie,,2022,3,10,,,D11,532235,Dublin,,
 178,"Galco Group",https://galco.ie/,galcogroup,,dublin@galco.ie,,2022,3,25,,,D12,24695,Dublin,,
-179,"Galway City Council",https://www.galwaycity.ie/,galwaycitycouncil,,customerservice@galwaycity.ie,,2022,16,84,,3,"H91 X4K8",,Galway,864,H91X4K8
+179,"Galway City Council",https://www.galwaycity.ie/,galwaycitycouncil,,customerservice@galwaycity.ie,,2022,16,84,,3,H91X4K8,,Galway,864,H91X4K8
 180,"Galway Clinic",https://www.blackrockhealth.com/,galwayclinic,,,,2022,18,86,,7,H91,,Galway,,
 181,"Galway County Council",https://www.galway.ie/en/,galwaycoco,,customerservices@galwaycoco.ie,,2022,16,84,,3,"H91 H6KX",,Galway,,
-182,"Gas Networks Ireland",https://www.gasnetworks.ie/,gasnetworksireland,,networksinfo@gasnetworks.ie,,2022,4,35,,1,T12,555744,Cork,601,T12RX96
+182,"Gas Networks Ireland",https://www.gasnetworks.ie/,gasnetworksireland,,networksinfo@gasnetworks.ie,,2022,4,35,,1,T12RX96,555744,Cork,601,T12RX96
 183,"GE Healthcare Ireland",https://www.gehealthcare.co.uk/,gehealthcare,,Privacy.GEHC@ge.com,,2022,16,84,,1,V94,166586,Limerick,,
 184,"General Motors IT Services (Ireland) Ltd",https://www.gm.com/,generalmotors,,,,2022,11,62,,,D12,595594,Dublin,,
 185,Glanbia,https://www.glanbia.com/,glanbia,,,,2022,3,10,,,D05,129933,Dublin,,
@@ -200,8 +200,8 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 196,"Haleon (all legal entities)",https://www.haleon.com/,haleon,,,,2022,3,21,196,,C15,24797,Meath,,
 197,"Harry Corry Interiors",https://www.harrycorry.com/,harrycorry,,enquiries@harrycorry.com,,2022,7,47,,,A92,908416,Louth,,
 198,"Hays Specialist Recruitment Ireland Limited",https://www.hays.ie/,hays,,customerserviceireland@hays.com,,2022,15,78,,,H91,252320,Galway,,
-199,"Health Products Regulatory Authority",https://www.hpra.ie/,hpra,HPRA,info@hpra.ie,,2022,16,84,,1,D02,,Dublin,223,D02XP77
-200,"Health Service Executive",https://www.hse.ie/,hse,HSE,,,2022,16,84,,1,"D08 W2A8",,Dublin,495,D08W2A8
+199,"Health Products Regulatory Authority",https://www.hpra.ie/,hpra,HPRA,info@hpra.ie,,2022,16,84,,1,D02XP77,,Dublin,223,D02XP77
+200,"Health Service Executive",https://www.hse.ie/,hse,HSE,,,2022,16,84,,1,D08W2A8,,Dublin,495,D08W2A8
 201,"Heat Merchants Group",https://www.heatmerchants.ie/,heatmerchantsgroup,,enquiries@heatmerchants.ie,,2022,7,46,,,"D24 VY89",,Dublin,,
 202,"HedgeServ Ireland",https://www.hedgeserv.com/,hedgeserv,,info@hedgeserv.com,,2022,12,64,,,D02,451010,Dublin,,
 203,"Heineken Ireland",https://www.heinekenireland.ie/,heineken,,info@heineken.ie,,2022,3,11,,,V94,90921,Limerick,,
@@ -209,9 +209,9 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 205,"Hermitage Clinic",https://www.blackrockhealth.com/,hermitageclinic,,,,2022,18,86,,7,D20,395700,Dublin,,
 206,"Hewlett Packard - HP Galway",https://www.hp.com/ie-en/home.html,hpgalway,,,,2022,11,62,207,,D02,361933,Dublin,,
 207,"Hewlett Packard - HPE Ireland",https://www.hp.com/ie-en/home.html,hpe,,,,2022,11,62,207,,W23,556434,Kildare,,
-208,"Health Information and Quality Authority",https://www.hiqa.ie/,hiqa,HIQA,info@hiqa.ie,,2022,16,84,,1,T12,,Cork,111,T12Y2XT
+208,"Health Information and Quality Authority",https://www.hiqa.ie/,hiqa,HIQA,info@hiqa.ie,,2022,16,84,,1,T12Y2XT,,Cork,111,T12Y2XT
 209,"Horse Racing Ireland",https://www.hri.ie/,horseracingireland,,info@hri.ie,,2022,19,93,,1,R56,,Kildare,,
-210,"Houses of the Oireachtas Service",https://www.oireachtas.ie/,housesoireachtas,,info@oireachtas.ie,,2022,16,84,,1,D02,,Dublin,168,D02XR20
+210,"Houses of the Oireachtas Service",https://www.oireachtas.ie/,housesoireachtas,,info@oireachtas.ie,,2022,16,84,,1,D02XR20,,Dublin,168,D02XR20
 211,"HSBC Ireland (all legal entities)",https://www.hsbc.ie/,hsbc,,,,2022,12,64,,,"D02 P820",,Dublin,,
 212,HubSpot,https://www.hubspot.com/,hubspot,,,,2022,11,62,,,D02,515723,Dublin,,
 213,IADT,https://iadt.ie/,iadt,,info@iadt.ie,,2022,17,85,,4,"A96 KH79",,Dublin,,
@@ -219,7 +219,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 215,Ibec,https://www.ibec.ie/,ibec,,info@ibec.ie,,2022,20,94,,,X91,8706,Waterford,,
 216,IBM,https://www.ibm.com/uk-en,ibm,,ibmenquire@ie.ibm.com,,2022,11,62,,,"W91 W20V",16226,Kildare,,
 217,"ICON Clinical Research Limited (Ireland)",https://www.iconplc.com/,icon,,,,2022,14,72,,,W23,201978,Kildare,,
-218,"IDA Ireland",https://www.idaireland.com/,ida,,idaireland@ida.ie,,2022,16,84,,1,"D02 FX65",,Dublin,569,D02FX65
+218,"IDA Ireland",https://www.idaireland.com/,ida,,idaireland@ida.ie,,2022,16,84,,1,D02FX65,,Dublin,569,D02FX65
 219,"IKEA Ireland",https://www.ikea.com/ie/en/,ikea,,,,2022,7,47,,,D02,400143,Dublin,,
 220,"Indeed Ireland Operations Ltd",https://ie.indeed.com/about,indeed,,,,2022,11,62,,,D02,508192,Dublin,,
 221,"Infosys BPM",https://www.infosysbpm.com/,infosysbpm,,,,2022,14,69,,,D24,907632,Dublin,,
@@ -230,34 +230,34 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 226,"Irish Distillers (all legal entities)",https://www.irishdistillers.ie/,irishdistillers,,info@irishdistillers.ie,,2022,3,11,226,,"D04 W9H6",,Dublin,,
 227,"Irish Life Group (all legal entities)",https://www.irishlife.ie/,irishlifegroup,,customerservice@irishlife.ie,,2022,12,65,227,,"D01 V5Y2",,Dublin,,
 228,"Irish Prison Service: Civilian Grades",https://www.irishprisons.ie/,ipscivilian,,info@irishprisons.ie,,2022,16,84,228,1,"N39 A308",,Longford,,
-229,"Irish Prison Service: Prison Grades",https://www.irishprisons.ie/,ipsprison,,info@irishprisons.ie,,2022,16,84,228,1,"N39 A308",,Longford,838,N39A308
-230,"Uisce Éireann",https://www.water.ie/,irishwater,"Irish Water",customerservice@water.ie,,2022,5,36,,,D01,530363,Dublin,160,D01NP86
+229,"Irish Prison Service: Prison Grades",https://www.irishprisons.ie/,ipsprison,,info@irishprisons.ie,,2022,16,84,228,1,N39A308,,Longford,838,N39A308
+230,"Uisce Éireann",https://www.water.ie/,irishwater,"Irish Water",customerservice@water.ie,,2022,5,36,,,D01NP86,530363,Dublin,160,D01NP86
 231,"Irish Wheelchair Association",https://www.iwa.ie/,irishwheelchairassociation,,info@iwa.ie,,2022,18,88,,1,D03,,Dublin,,
 232,"ISS Facility Services Ireland",https://www.issworld.com/en-ie,issfacility,,sales@ie.issworld.com,,2022,15,81,,,"D24 DCW0",,Dublin,,
 233,"Jabil Ireland",https://www.jabil.com/,jabil,,,,2022,3,26,,,D01,795001,Dublin,,
 234,"Jacobs (All legal entities)",https://www.jacobs.com/,jacobs,,,,2022,6,42,234,,D04,902681,Dublin,,
 235,"JD Sports Fashion",https://www.jdsports.ie/,jdsports,,,,2022,7,47,,,"D02 KF20",,Dublin,,
 236,"JLL Services Ireland",https://www.jll.ie/,jll,,,,2022,13,68,236,,D02,,Dublin,,
-237,"John Paul Construction",https://www.johnpaul.ie/,johnpaulconstruction,,info@johnpaul.ie,,2022,6,41,,,D18,361432,Dublin,488,D18C9C5
+237,"John Paul Construction",https://www.johnpaul.ie/,johnpaulconstruction,,info@johnpaul.ie,,2022,6,41,,,D18C9C5,361432,Dublin,488,D18C9C5
 238,"John Sisk and Son",https://www.johnsiskandson.com/,johnsiskandson,,T.Byrne@sisk.ie,,2022,6,41,238,,D22,621775,Dublin,,
 239,"JPMSE Dublin Branch",https://www.jpmorgan.com/global,jpmsedublin,,,,2022,12,64,782,,D02,909645,Dublin,,
 240,"KBC Bank Ireland",https://www.kbc.com/en/kbc-ireland.html,kbcbank,,,2024,2022,12,64,,,D02,904213,Dublin,,
-241,Kellanova,https://www.kellanova.com/us/en/home.html,kellanova,"Kellogg Europe Trading Ltd",,,2022,3,10,,,D02,387390,Dublin,387,K67X4X5
+241,Kellanova,https://www.kellanova.com/us/en/home.html,kellanova,"Kellogg Europe Trading Ltd",,,2022,3,10,,,K67X4X5,387390,Dublin,387,K67X4X5
 242,"Kelly Services (IRE) Limited",https://www.kellyservices.ie/,kellyservices,,info@kellyservices.ie,,2022,15,78,,,"T12 A33W",,Cork,,
 243,"Kerry County Council",https://www.kerrycoco.ie/,kerrycoco,,info@kerrycoco.ie,,2022,16,84,,3,"V92 H7VT",,Kerry,,
 244,"Kerry Group",https://www.kerry.com/,kerrygroup,,emeakerrycentre@kerry.com,,2022,3,10,,,V92,,Kerry,,
 245,"Keywords International Ltd. (Dublin Studio)",https://www.keywordsstudios.com/en/,keywordsinternational,,privacy@keywordsstudios.com,,2022,11,62,,,H18,286266,Monaghan,,
 246,"Kildare County Council",https://kildarecoco.ie/,kildarecoco,,customerservice@kildarecoco.ie,,2022,16,84,,3,"W91 X77F",,Kildare,,
-247,"Kilkenny County Council",https://www.kilkennycoco.ie/,kilkennycoco,,info@kilkennycoco.ie,,2022,16,84,,3,"R95 A39T",,Kilkenny,229,R95A39T
+247,"Kilkenny County Council",https://www.kilkennycoco.ie/,kilkennycoco,,info@kilkennycoco.ie,,2022,16,84,,3,R95A39T,,Kilkenny,229,R95A39T
 248,"Kilsaran Concrete",https://www.kilsaran.ie/,kilsaranconcrete,,info@kilsaran.ie,,2022,3,23,248,,D03,23927,Dublin,,
-249,"Kingspan Limited",https://www.kingspan.com/ie/en/,kingspan,,,,2022,6,43,,,D12,40188,Dublin,289,A82XY31
+249,"Kingspan Limited",https://www.kingspan.com/ie/en/,kingspan,,,,2022,6,43,,,A82XY31,40188,Dublin,289,A82XY31
 250,"KPMG (excluding partners)",https://kpmg.com/ie/en/home.html,kpmg,,info@kpmg.ie,,2022,14,71,,,V94,39058,Limerick,,
 251,"Kyte Powertech Limited",https://www.kytepowertech.com/,kytepowertech,,,,2022,3,26,,,H12,57687,Cavan,,
 252,L'Oreal,https://www.loreal.com/en/uki/,loreal,,UKconsumeradvice@loreal.com,,2022,7,46,,,D02,901549,Dublin,,
 253,"Lakeland Dairies",https://lakelanddairies.com/,lakelanddairies,,info@lakelanddairies.com,,2022,3,10,,,H12,639269,Cavan,,
 254,"Laois County Council",https://laois.ie/,laoiscoco,,corpaffairs@laoiscoco.ie,,2022,16,84,,3,"R32 EHP9",,Laois,,
 255,"Laya Healthcare",https://www.layahealthcare.ie/,layahealthcare,,info@layahealthcare.ie,,2022,12,65,,,F92,242048,Donegal,,
-256,"Legal Aid Board",https://www.legalaidboard.ie/,legalaidboard,,info@legalaidboard.ie,,2022,14,69,,1,A91,,Louth,797,V23RD36
+256,"Legal Aid Board",https://www.legalaidboard.ie/,legalaidboard,,info@legalaidboard.ie,,2022,14,69,,1,V23RD36,,Louth,797,V23RD36
 257,"Leitrim County Council",https://www.leitrimcoco.ie/,leitrimcoco,,customerservices@leitrimcoco.ie,,2022,16,84,,3,"N41 PF67",,Leitrim,,
 258,Lidl,https://www.lidl.ie/,lidl,,pr@lidl.ie,,2022,7,47,,,D24,904141,Dublin,,
 259,"Limerick City & County Council",https://www.limerick.ie/council,limerickcitycoco,,customerservices@limerick.ie,,2022,16,84,,3,"V94 EH90",,Limerick,,
@@ -272,11 +272,11 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 268,"Mastercard Ireland",https://www.mastercard.ie/en-ie.html,mastercard,,,,2022,15,82,,,D18,499963,Dublin,,
 269,"Matheson: Matheson LLP (including partners)",https://www.matheson.com/,mathesonllp,,dublin@matheson.com,,2022,14,69,269,,H91,676004,Galway,,
 270,"Matheson: Support Services (including partners)",https://www.matheson.com/about-us/matheson-in-house-network,mathesonsupportservices,,dublin@matheson.com,,2022,14,69,269,,D02,109335,Dublin,,
-271,"Maynooth University",https://www.maynoothuniversity.ie/,maynoothuniversity,,"web@mu.ie, communications@mu.ie",,2022,17,85,,4,"W23 F2H6",,Kildare,502,W23X04D
+271,"Maynooth University",https://www.maynoothuniversity.ie/,maynoothuniversity,,"web@mu.ie, communications@mu.ie",,2022,17,85,,4,W23X04D,,Kildare,502,W23X04D
 272,"Mayo County Council",https://www.mayo.ie/,mayococo,,info@mayo.ie,,2022,16,84,,3,"F12 V126",,Mayo,,
 273,"McCann Fitzgerald (excluding partners)",https://www.mccannfitzgerald.com/,mccannfitzgerald,,inquiries@mccannfitzgerald.com,,2022,14,69,,,D02,,Dublin,,
 274,"McKesson Ireland (acquired by Phoenix Group)",https://mckessoncork.ie/,mckesson,,receptionirl@mckesson.com,2022,2022,3,21,,,"D17 N603",,Dublin,,
-275,"Meath County Council",https://www.meath.ie/,meathcoco,,customerservice@meathcoco.ie,,2022,16,84,,3,"C15 Y291",,Meath,299,C15Y291
+275,"Meath County Council",https://www.meath.ie/,meathcoco,,customerservice@meathcoco.ie,,2022,16,84,,3,C15Y291,,Meath,299,C15Y291
 276,"Mediahuis Ireland",https://www.mediahuis.ie/,mediahuis,,info@mediahuis.ie,,2022,10,58,,,D05,153066,Dublin,,
 277,Medtronic,https://www.medtronic.com/en-ie/our-company/medtronic-ireland.html,medtronic,,,,2022,18,86,,,D02,275799,Dublin,,
 278,"Merck Millipore",https://www.merckmillipore.com/IE/en,merckmillipore,,"eoin.weldon@merckgroup.com, IEcustomerservice@millipore.com",,2022,3,35,,,K36N527,451973,Dublin,,
@@ -286,23 +286,23 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 282,"Meta Ireland (all legal entities)",https://about.meta.com/,meta,,press@meta.com,,2022,11,62,282,,"D04 H0C9",,Dublin,,
 283,"Microsoft (all legal entities)",https://www.microsoft.com/en-ie,microsoft,,,,2022,11,62,283,,"D18 P521",,Dublin,,
 284,ABM,https://abmireland.com/,abm,"Momentum Support",,,2022,15,81,,,F23,91300,Mayo,,
-285,"Monaghan County Council",https://monaghan.ie/,monaghancoco,,info@monaghancoco.ie,,2022,16,84,,3,"H18 YT50",,Monaghan,207,H18YT50
+285,"Monaghan County Council",https://monaghan.ie/,monaghancoco,,info@monaghancoco.ie,,2022,16,84,,3,H18YT50,,Monaghan,207,H18YT50
 286,MSD,https://msd-ireland.com/,msd,,info@msd.ie,,2022,3,21,286,,E34,906390,Tipperary,,
 287,"MUFG Investor Services Ireland",https://www.mufg-investorservices.com/,mufg,,,,2022,12,64,,,D02,384000,Dublin,,
 288,"Munster Technological University",https://www.mtu.ie/,mtu,MTU,"infoCork@mtu.ie,infoKerry@mtu.ie",,2022,17,85,,4,"T12 P928",,Cork,,
 289,"Musgrave: Cedarglade",https://www.musgravegroup.com/,musgravecedarglade,,group@musgrave.ie,,2022,7,46,289,,T12,526688,Cork,,
 290,"Musgrave: Musgrave Limited",https://www.musgravegroup.com/,musgravelimited,,group@musgrave.ie,,2022,7,46,289,,T12,1776,Cork,,
 291,"Musgrave: Musgrave Operating Partners Ireland (MOPI) ",https://www.musgravegroup.com/,mopi,,group@musgrave.ie,,2022,7,46,289,,T12,501275,Cork,,
-292,Nandos,https://www.nandos.ie/,nandos,,,,2022,9,56,,,D04,451340,Dublin,718,DO4XN32
+292,Nandos,https://www.nandos.ie/,nandos,,,,2022,9,56,,,DO4XN32,451340,Dublin,718,DO4XN32
 293,"National Co-operative Farm Relief Services Limited (FRS Network)",https://www.frsnetwork.ie/frs-network/,frscoop,,,,2022,20,94,,,"E53 EV90",,Tipperary,,
 294,"National College of Ireland",https://www.ncirl.ie/,ncirl,,info@ncirl.ie,,2022,17,85,,4,D02PR84,134303,Dublin,,
-295,"National Shared Services Office",https://nsso.gov.ie/,nsso,,hrcontact@nsso.gov.ie,,2022,16,84,,1,"D04 A9P2",,Dublin,851,D02EF85
+295,"National Shared Services Office",https://nsso.gov.ie/,nsso,,hrcontact@nsso.gov.ie,,2022,16,84,,1,D02EF85,,Dublin,851,D02EF85
 296,"National Transport Authority",https://www.nationaltransport.ie/,nta,,info@nationaltransport.ie,,2022,16,84,,1,N91,,Westmeath,,
-297,"National Treasury Management Agency",https://www.ntma.ie/,ntma,NTMA,info@ntma.ie,,2022,16,84,,1,D01,,Dublin,108,D01A9T8
+297,"National Treasury Management Agency",https://www.ntma.ie/,ntma,NTMA,info@ntma.ie,,2022,16,84,,1,D01A9T8,,Dublin,108,D01A9T8
 298,"Vision Ireland",https://vi.ie/,visionireland,NCBI,communications@vi.ie,,2022,18,88,,,D09,527864,Dublin,,
 299,"New Ireland Assurance",https://www.newireland.ie/,newirelandassurance,,info@newireland.ie,,2022,12,66,54,,D04,,Dublin,,
 300,"Northern Trust",https://www.northerntrust.com/europe/home,northerntrust,,info@ntrs.com,,2022,12,66,,,F92,322077,Donegal,,
-301,"Novartis: Novartis Ireland Limited",https://www.novartis.com/,novartis,,info.dublin@novartis.com,,2022,3,21,,,"H12 K727",11931,Cavan,278,D04A9N6
+301,"Novartis: Novartis Ireland Limited",https://www.novartis.com/,novartis,,info.dublin@novartis.com,,2022,3,21,,,D04A9N6,11931,Cavan,278,D04A9N6
 303,"Nua Healthcare Services",https://www.nuahealthcare.ie/,nuahealthcare,,info@nuahealthcare.ie,,2022,18,86,,,W23,389274,Kildare,,
 304,"Offaly County Council",https://www.offaly.ie/,offalycoco,,customerservices@offalycoco.ie,,2022,16,84,,3,"R35 F893",,Offaly,,
 305,"Office of Public Works: Established Staff",https://www.gov.ie/en/organisation/office-of-public-works/,opwestablishedstaff,,info@opw.ie,,2022,16,84,305,1,C15,,Meath,,
@@ -316,12 +316,12 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 313,"Peter Mark",https://www.petermark.ie/,petermark,,enquiries@petermark.ie,,2022,20,96,,,"D01 TH72",515750,Dublin,,
 314,"Pfizer Ireland (all legal entities)",https://www.pfizer.ie/,pfizer,,mediaqueriesireland@pfizer.com,,2022,3,21,314,,"D04 K7N3",,Dublin,,
 315,"PJ Hegarty & Sons",https://www.pjhegarty.ie/,pjhegartysons,,pjhdublin@pjhegarty.ie,,2022,6,41,,,V94,,Limerick,,
-316,"PM Group",https://www.pmgroup-global.com/,pmgroup,,,,2022,14,74,,,D24,452049,Dublin,554,D24XFW2
+316,"PM Group",https://www.pmgroup-global.com/,pmgroup,,,,2022,14,74,,,D24XFW2,452049,Dublin,554,D24XFW2
 317,"PrepayPower Limited",https://www.prepaypower.ie/,prepaypower,,customer.care@prepaypower.ie,,2022,4,35,,,D18R9C7,467144,Dublin,,
-318,PricewaterhouseCoopers,https://www.pwc.ie/,pwc,PwC,info@pwc.ie,,2022,12,64,,,D02,288095,Dublin,592,D01X9R7
+318,PricewaterhouseCoopers,https://www.pwc.ie/,pwc,PwC,info@pwc.ie,,2022,12,64,,,D01X9R7,288095,Dublin,592,D01X9R7
 319,Primark,https://www.primark.com/en-ie,primark,Penneys,,,2022,7,47,,,T12,47371,Cork,,
 320,"Tailte Éireann NSSO",https://www.tailte.ie/,tailteeireann,"Property Registration Authority",customer.services@tailte.ie,,2022,16,84,,1,D07,,Dublin,,
-321,"Public Appointments Service",https://www.publicjobs.ie/en/,pas,PAS,info@publicjobs.ie,,2022,16,84,,1,"D01 C7W6",,Dublin,639,D01C7W6
+321,"Public Appointments Service",https://www.publicjobs.ie/en/,pas,PAS,info@publicjobs.ie,,2022,16,84,,1,D01C7W6,,Dublin,639,D01C7W6
 322,Regeneron,https://www.regeneron.ie/,regeneron,,Info.Ireland@regeneron.com,,2022,14,72,,,K34V585,519550,Dublin,,
 323,Rehab,https://rehab.ie/,rehab,,info@rehab.ie,,2022,18,88,,,D02,14800,Dublin,,
 324,Respond,https://www.respond.ie/,respond,,info@respond.ie,,2022,18,88,,,D02,90576,Dublin,,
@@ -331,8 +331,8 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 328,"Royal Victoria Eye and Ear Hospital",https://www.rveeh.ie/,royalvictoriaeyeandear,,QualityandSafety@rveeh.ie,,2022,18,86,,5,D02,514473,Dublin,,
 329,"RPS Group Limited",https://www.rpsgroup.com/,rpsgroup,,websiteteam@rpsgroup.com,,2022,14,70,,,"P25 WK13",91911,Cork,,
 330,"Road Safety Authority",https://www.rsa.ie/,rsa,RSA,info@rsa.ie,,2022,16,84,,1,"F26 V6E4",,Mayo,,
-331,"Intact Insurance",https://www.rsagroup.ie/,rsainsurance,"formerly RSA Insurance",info@ie.rsagroup.com,,2022,12,65,,,D02,148094,Dublin,414,D16FC92
-332,RTE,https://www.rte.ie/,rte,,info@rte.ie,,2022,10,60,,,D04,364909,Dublin,312,D04P297
+331,"Intact Insurance",https://www.rsagroup.ie/,rsainsurance,"formerly RSA Insurance",info@ie.rsagroup.com,,2022,12,65,,,D16FC92,148094,Dublin,414,D16FC92
+332,RTE,https://www.rte.ie/,rte,,info@rte.ie,,2022,10,60,,,D04P297,364909,Dublin,312,D04P297
 333,Ryanair,https://www.ryanair.com/ie/en,ryanair,,customerqueries@ryanair.com,,2022,8,51,,,T12,104547,Cork,,
 334,"Salesforce Ireland",https://www.salesforce.com/,salesforce,,,,2022,11,62,,,"D01 W2Y3",,Dublin,,
 335,"Sanofi: Genzyme Ireland Ltd",https://www.sanofi.ie/,sanofigenzyme,,IEinformation@sanofi.com,,2022,3,21,,,D18,316537,Dublin,,
@@ -368,10 +368,10 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 365,"The Defence Organisation: Civil Servant Employees",https://www.gov.ie/en/organisation/department-of-defence/,defenceorgcivilservant,,info@defence.ie,,2022,16,84,365,1,W12,,Kildare,,
 366,"The Defence Organisation: Civilian Employees",https://www.gov.ie/en/organisation/department-of-defence/,defenceorgcivilian,,info@defence.ie,,2022,16,84,365,1,W12,,Kildare,,
 367,"The Defence Organisation: Defence Forces",https://www.gov.ie/en/organisation/department-of-defence/,defenceorgdefenceforces,,info@defence.ie,,2022,16,84,365,1,W12,,Kildare,,
-368,"Department of Children, Equality, Disability, Integration and Youth",https://www.gov.ie/en/organisation/department-of-children-equality-disability-integration-and-youth/,deptchildrenequality,,"contact@equality.gov.ie, minister@equality.gov.ie",,2022,16,84,,2,"D02 XW14",,Dublin,79,D02XW14
-369,"The Environmental Protection Agency",https://www.epa.ie/,epa,,info@epa.ie,,2022,16,84,,1,"Y35 W821",,Wexford,175,Y35W821
+368,"Department of Children, Equality, Disability, Integration and Youth",https://www.gov.ie/en/organisation/department-of-children-equality-disability-integration-and-youth/,deptchildrenequality,,"contact@equality.gov.ie, minister@equality.gov.ie",,2022,16,84,,2,D02XW14,,Dublin,79,D02XW14
+369,"The Environmental Protection Agency",https://www.epa.ie/,epa,,info@epa.ie,,2022,16,84,,1,Y35W821,,Wexford,175,Y35W821
 370,"The Irish Times",https://www.irishtimes.com/,theirishtimes,,"hrdept@irishtimes.com, enquiries@irishtimes.com",,2022,10,58,,,C15,2514,Meath,,
-371,"The Revenue Commissioners",https://www.revenue.ie/,revenuecommissioners,,,,2022,16,84,,1,D02,,Dublin,139,D02YF98
+371,"The Revenue Commissioners",https://www.revenue.ie/,revenuecommissioners,,,,2022,16,84,,1,D02YF98,,Dublin,139,D02YF98
 372,TikTok,https://www.tiktok.com/en/,tiktok,,,,2022,11,62,,,D02,635755,Dublin,,
 373,"Tipperary County Council",https://www.tipperarycoco.ie/,tipperarycoco,,customerservices@tipperarycoco.ie,,2022,16,84,,3,E91N512,,Tipperary,242,E91N512
 374,Tirlán,https://www.tirlan.com/,tirlan,"Glanbia Ireland",,,2022,3,10,,,R95,501098,Kilkenny,,
@@ -387,16 +387,16 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 384,"Uniphar: Uniphar Wholesale Limited",https://www.uniphar.ie/,unipharwholesale,,info@uniphar.ie,,2022,7,46,1213,,D02,37511,Dublin,,
 385,"University College Cork ",https://www.ucc.ie/,ucc,UCC,,,2022,17,85,,4,"T12 K8AF",,Cork,,
 386,"University College Dublin",https://www.ucd.ie/,ucd,UCD,communications@ucd.ie,,2022,17,85,,4,"D04 V1W8",,Dublin,,
-387,"University of Limerick",https://www.ul.ie/,ul,,reception@ul.ie,,2022,17,85,,4,"V94 T9PX",,Limerick,468,V94T9PX
+387,"University of Limerick",https://www.ul.ie/,ul,,reception@ul.ie,,2022,17,85,,4,V94T9PX,,Limerick,468,V94T9PX
 388,"Utmost International Ireland",https://utmostinternational.com/,utmost,,CCSFrontoffice@utmost.ie,,2022,12,66,,,D02,529604,Dublin,,
 389,"Valeo Foods",https://valeofoods.ie/,valeofoods,,info@valeofoods.com,,2022,7,46,,,D11,141059,Dublin,,
 390,Veolia,https://www.veolia.ie/,veolia,,,,2022,4,35,,,X91,314060,Waterford,,
-391,"Version 1",https://www.version1.com/,versionone,,info@version1.com,,2022,11,62,,,D01,532721,Dublin,345,D01F5P8
-392,"VHI (all legal entities)",https://www1.vhi.ie/,vhi,,info@vhi.ie,,2022,12,65,392,,"D01 DX77",,Dublin,645,D01DX77
+391,"Version 1",https://www.version1.com/,versionone,,info@version1.com,,2022,11,62,,,D01F5P8,532721,Dublin,345,D01F5P8
+392,"VHI (all legal entities)",https://www1.vhi.ie/,vhi,,info@vhi.ie,,2022,12,65,392,,D01DX77,,Dublin,645,D01DX77
 393,"VMware Broadcom",https://www.vmware.com/,vmware,Broadcom,,,2022,11,62,,,D02,657011,Dublin,,
 394,"Vodafone Ireland Group (all legal entities)",https://n.vodafone.ie/en.html,vodafone,,,,2022,11,61,394,,"D18 FK72",,Dublin,,
 395,"Waterford City & County Council",https://www.waterfordcouncil.ie/,waterfordcitycoco,,"contact@waterfordcouncil.ie, website@waterfordcouncil.ie",,2022,16,84,,3,"X91 XH42",,Waterford,,
-396,"Westmeath County Council",https://www.westmeathcoco.ie/,westmeathcoco,,Secretar@westmeathcoco.ie,,2022,16,84,,3,"N91 FH4N",,Westmeath,920,N91Fh4N
+396,"Westmeath County Council",https://www.westmeathcoco.ie/,westmeathcoco,,Secretar@westmeathcoco.ie,,2022,16,84,,3,N91Fh4N,,Westmeath,920,N91Fh4N
 397,"Wexford County Council",https://www.wexfordcoco.ie/,wexfordcoco,,customerservice@wexfordcoco.ie,,2022,16,84,,3,"Y35 WY93",,Wexford,,
 398,"Wicklow County Council",https://www.wicklow.ie/,wicklowcoco,,CustomerService@wicklowcoco.ie,,2022,16,84,,3,"A67 FW96",,Wicklow,,
 399,"William Fry (excluding partners)",https://www.williamfry.com/,williamfry,,recruit@williamfry.com,,2022,14,69,,,D02,347619,Dublin,,
@@ -408,7 +408,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 405,Zendesk,https://www.zendesk.com/,zendesk,,peopleandplaces@zendesk.com,,2022,15,82,,,D02,519184,Dublin,,
 406,"Zoetis Belgium S.A. (Irish Branch) ",https://www.zoetis.com/,zoetisbelgium,,,,2022,14,75,,,D18,908417,Dublin,,
 407,"Zurich (all legal entities)",https://www.zurich.ie/,zurich,,,,2022,12,65,407,,"A94 KX54",,Dublin,,
-520,"Department of Further and Higher Education, Research, Innovation and Science",https://www.gov.ie/en/organisation/department-of-higher-education-innovation-and-science/,deptfurthereducation,,,,2022,16,84,,2,"D02 DR67",,Dublin,89,D02DR67
+520,"Department of Further and Higher Education, Research, Innovation and Science",https://www.gov.ie/en/organisation/department-of-higher-education-innovation-and-science/,deptfurthereducation,,,,2022,16,84,,2,D02DR67,,Dublin,89,D02DR67
 521,"Irish Rugby Football Union",https://www.irishrugby.ie/,irfu,IRFU,,,2022,19,93,,,"D04 F720",,Dublin,,
 522,Alexion,https://alexion.com/worldwide/Ireland,alexion,,,,2022,3,21,522,,,528477,,,
 523,"Flutter (Retail)",https://www.flutter.com/,flutterretail,,,,2022,19,92,174,,D04,769877,Dublin,,
@@ -426,14 +426,14 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 538,Argos,https://www.argos.co.uk/features/republic-of-ireland,argos,,,2023,2022,7,47,,,"A82 CT95",176927,Meath,,
 539,"Atlantic Technological University",https://www.gmit.ie/,atu,"Galway-Mayo Institute of Technology (GMIT)",edi@atu.ie,,2022,17,85,,4,"F23 X853",,Mayo,,
 540,"Axa Insurance",https://www.axa.ie/,axainsurance,,,,2022,12,65,,,D18,136155,Dublin,,
-541,"B&Q Ireland",https://www.diy.ie/,bandq,,,,2022,7,47,,,D02,156844,Dublin,688,D02A342
+541,"B&Q Ireland",https://www.diy.ie/,bandq,,,,2022,7,47,,,D02A342,156844,Dublin,688,D02A342
 542,"Beacon Hospital",https://www.beaconhospital.ie/,beaconhospital,,,,2022,18,86,,7,D18,400975,Dublin,,
 543,"BOC Gases Ireland",https://www.boconline.ie/en/index.html,bocgases,,,,2022,3,20,,,D02,8982,Dublin,,
 544,"Bon Secours",https://www.bonsecours.ie/,bonsecours,,dublininfo@bonsecours.ie,,2022,18,86,,7,T12,471554,Cork,,
 545,Boots,https://www.boots.ie/,boots,,,,2022,7,47,,,D24,363449,Dublin,,
 546,"Boyle Sports",https://www.boylesports.com/,boylesports,,,,2022,19,92,,,A92,479244,Louth,,
-547,"Brothers of Charity",https://www.brothersofcharity.ie/,brothersofcharity,Corlann,,,2022,20,94,,1,H91,344780,Galway,789,H91K2E9
-548,"Bus Eireann",https://www.buseireann.ie/,buseireann,,,,2022,8,49,,1,A63,119570,Wicklow,579,DO7X2AE
+547,"Brothers of Charity",https://www.brothersofcharity.ie/,brothersofcharity,Corlann,,,2022,20,94,,1,H91K2E9,344780,Galway,789,H91K2E9
+548,"Bus Eireann",https://www.buseireann.ie/,buseireann,,,,2022,8,49,,1,DO7X2AE,119570,Wicklow,579,DO7X2AE
 549,"Cappagh National Orthopaedic Hospital",https://nohc.ie/,cappaghnational,,"feedback@nohc.ie, sharon@bannerton.ie, comms@nohc.ie",,2022,18,86,,5,D11,396993,Dublin,,
 551,"ARYZTA Bakeries Ireland",https://aryzta.ie/,aryztabi,,,,2022,7,46,44,,A63,228001,Wicklow,,
 552,"Louth and Meath Education and Training Board",https://www.lmetb.ie/,lmetb,,,,2022,17,85,,6,A92,,Louth,,
@@ -445,7 +445,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 558,"Cavan and Monaghan Education and Training Board",https://www.cmetb.ie/,cmetb,,,,2022,17,85,,6,H12,,Cavan,,
 559,"Central Remedial Clinic",https://www.crc.ie/,crc,,,,2022,18,86,,1,T12,14880,Cork,,
 560,"Cheshire Ireland",https://www.cheshire.ie/,cheshireireland,,,,2022,18,88,,,D24,20165,Dublin,,
-561,Concentrix,https://jobs.concentrix.com/global/en/country-page-ireland,concentrix,,recruitment@concentrix.com,,2022,11,62,,,"W91 V8X9",442890,Kildare,410,D02Y754
+561,Concentrix,https://jobs.concentrix.com/global/en/country-page-ireland,concentrix,,recruitment@concentrix.com,,2022,11,62,,,D02Y754,442890,Kildare,410,D02Y754
 562,Horizons,https://www.cope-foundation.ie/,copefoundation,"Cope Foundation",headoffice@horizonscork.ie,,2022,18,88,,1,T12,17844,Cork,,
 563,"Core Media",https://www.onecore.ie/,coremedia,,info@onecore.ie,,2022,14,73,,,D02,507996,Dublin,,
 564,"Cork Education and Training Board",https://www.corketb.ie/,cetb,,,,2022,17,85,,6,T12,,Cork,,
@@ -457,9 +457,9 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 570,"Dornan Engineering",https://www.dornan.ie/,dornanengineering,,reception@dornangroup.com,,2022,6,41,,,T12,212757,Cork,,
 571,"Ei Electronics",https://www.eielectronics.ie/,eielectronics,,"customerservice@eielectronics.ie, hr@eielectronics.ie",,2022,3,26,,,V14,,Clare,,
 572,Elverys,https://www.elverys.ie/,elverys,,online@elverys.ie,,2022,7,47,,,D03XT26,98841,Dublin,,
-573,"Enable Ireland",https://enableireland.ie/,enableireland,,hello@enableireland.ie,,2022,18,88,,1,D11,,Dublin,162,D11VX82
+573,"Enable Ireland",https://enableireland.ie/,enableireland,,hello@enableireland.ie,,2022,18,88,,1,D11VX82,,Dublin,162,D11VX82
 574,"EPS Water",https://epswater.ie/,epswater,,info@epswater.com,,2022,5,36,,,"P51 AC94",,Cork,,
-575,"Ergo Group",https://www.ergogroup.ie/,ergogroup,,,,2022,11,62,,,"D03 R6C6",,Dublin,357,D03R6C6
+575,"Ergo Group",https://www.ergogroup.ie/,ergogroup,,,,2022,11,62,,,D03R6C6,,Dublin,357,D03R6C6
 576,Essilor,https://www.essilor.com/ie-en/,essilor,,,,2022,15,82,576,,A63,907088,Wicklow,,
 577,"Europcar Mobility Group",https://europcar-mobility-group.com/,europcar,,,,2022,15,77,,,"D09 F1P0",,Dublin,,
 578,Firstsource,https://www.firstsource.com/,firstsource,,dataprivacy@firstsource.com,,2022,15,82,,,D02,503736,Dublin,,
@@ -470,7 +470,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 583,Henkel,https://www.henkel.com/,henkel,,,,2022,3,20,,,D24,904804,Dublin,,
 584,Hertz,https://www.hertz.ie/rentacar/reservation/,hertz,,,,2022,15,77,,,D01,195643,Dublin,,
 585,Hollister,https://www.hollister.ie/en-ie,hollister,,,,2022,7,47,,,R32,115142,Laois,,
-586,"Home Store + More",https://www.homestoreandmore.ie/homepage.html,homestoremore,,info@homestoreandmore.ie,,2022,7,47,,,D12,,Dublin,710,D12ECR9
+586,"Home Store + More",https://www.homestoreandmore.ie/homepage.html,homestoremore,,info@homestoreandmore.ie,,2022,7,47,,,D12ECR9,,Dublin,710,D12ECR9
 587,Insomnia,https://www.insomnia.ie,insomnia,,info@insomnia.ie,,2022,9,56,,,D08,805183,Dublin,,
 588,"Integer Holdings",https://www.integer.net/home/default.aspx,integerholdings,,,,2022,3,32,,,"Y34 H312",,Wexford,,
 589,Intercom,https://www.intercom.com/,intercom,,,,2022,11,62,,,D02,538158,Dublin,,
@@ -518,7 +518,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 632,"Pepsico: Portfolio Concentrate Solutions",https://www.pepsico.com/,pepsicopcs,,,,2022,3,10,631,,D02,609414,Dublin,,
 633,"PFH Technology Group",https://www.pfh.ie/,pfh,,,,2022,11,62,,,T12,415827,Cork,,
 634,"Pinewood Healthcare",https://pinewood.ie/,pinewoodhealthcare,,,,2022,3,21,,,"D12 K6C5",,Dublin,,
-635,Pobal,https://www.pobal.ie/,pobal,,,,2022,16,84,,1,T12,194360,Cork,731,D04EY84
+635,Pobal,https://www.pobal.ie/,pobal,,,,2022,16,84,,1,D04EY84,194360,Cork,731,D04EY84
 636,"Red Hat",https://www.redhat.com/en,redhat,,,,2022,11,62,,,R95,304873,Kilkenny,,
 637,"Rotunda Hospital",https://rotunda.ie/,rotundahospital,,foi@rotunda.ie,,2022,18,86,,5,D01,,Dublin,,
 638,"Saint John of God Community Services",https://sjogcommunityservices.ie/,sjogcommunityservices,,company.secretary@sjog.ie,,2022,18,87,,1,A92,19545,Louth,,
@@ -537,7 +537,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 651,"Suir Engineering",https://suireng.ie/,suirengineering,,,,2022,6,41,,,H12,100425,Cavan,,
 652,"Sulzer Pumps",https://www.sulzer.com/,sulzerpumps,,privacy@sulzer.com,,2022,3,28,,,T12,39900,Cork,,
 653,"SIG Susquehanna International Group",https://sig.com/,sig,,recruiting@sig.com,,2022,12,64,,,"D01 T6T0",,Dublin,,
-654,Teleflex,https://www.teleflex.com/,teleflex,,,,2022,18,86,,,N91,648540,Westmeath,90,N37EC90
+654,Teleflex,https://www.teleflex.com/,teleflex,,,,2022,18,86,,,N37EC90,648540,Westmeath,90,N37EC90
 655,"TELUS International",https://www.telusinternational.com/,telusinternational,,,,2022,11,62,,,D01,669282,Dublin,,
 656,"Teva Pharmaceuticals",https://www.teva.ie/,tevapharmaceuticals,,info@teva.ie,,2022,3,21,,,X91,,Waterford,,
 657,"ThermoFisher Scientific",https://jobs.thermofisher.com/global/en/ireland,thermofisher,,fsie.sales@thermofisher.com,,2022,3,32,,,D01,792248,Dublin,,
@@ -558,7 +558,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 672,"Royal College of Surgeons Ireland",https://www.rcsi.com/dublin/,rcsi,RCSI,"recruitment@rcsi.ie, communications@rcsi.ie, info@rcsi.ie",,2022,17,85,,4,D02,,Dublin,,
 673,Pinterest,https://www.pinterest.com/,pinterest,,,,2022,11,62,,,D04,536944,Dublin,,
 674,"TLI Group",https://www.tli.ie/,tligroup,,,,2022,6,41,,,D02,318301,Dublin,,
-675,"Sustainable Energy Authority of Ireland",https://www.seai.ie/,seai,SEAI,,,2022,16,84,,1,H91,,Galway,180,D02FX65
+675,"Sustainable Energy Authority of Ireland",https://www.seai.ie/,seai,SEAI,,,2022,16,84,,1,D02FX65,,Galway,180,D02FX65
 676,Flogas,https://www.flogas.ie/,flogas,,,,2022,4,35,,,D18,34870,Dublin,,
 677,Energia,https://www.energia.ie/home,energia,," contact@energiagroup.com",,2023,4,35,677,,D15,,Dublin,,
 678,Woodies,https://www.woodies.ie/,woodies,,,,2022,7,47,,,D16,88957,Dublin,,
@@ -570,7 +570,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 685,Entain,https://www.entaingroup.com/,entain,,,,2022,19,92,,,"D22 CR92",,Dublin,,
 686,"Circet Networks Ireland",https://www.circet.ie/,circet,,recruitment@kncircet.ie,,2022,11,61,686,,A92,303841,Louth,,
 687,"Beauparc Panda Waste",https://beauparc.ie/,beauparcpandawaste,,contact@beauparc.ie,,2022,5,38,,,D24,605063,Dublin,,
-688,Capita,https://www.capita.com/,capita,,,,2022,14,70,,,T12,660257,Cork,790,P85YH98
+688,Capita,https://www.capita.com/,capita,,,,2022,14,70,,,P85YH98,660257,Cork,790,P85YH98
 689,"Harvey Norman",https://www.harveynorman.ie/,harveynorman,,jobs@ie.harveynorman.com,,2022,7,47,,,"D22 PY91",362610,Dublin,,
 690,"Keelings Logistics",https://www.keelings.com/,keelingslogistics,,customercare@keelings.com,,2022,8,52,1183,,D04,274328,Dublin,,
 691,"Keelings Farms",https://www.keelings.com/,keelingsfarms,,customercare@keelings.com,,2022,1,1,1183,,D02,355153,Dublin,,
@@ -644,7 +644,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 759,"Lily O'Brien's",https://lilyobriens.ie/,lilyobriens,,weborders@lilyobriens.ie,,2024,3,10,,,W23,538211,Kildare,,
 760,"The Shannon Airport Group",https://snnairportgroup.ie/,shannonairportgroup,,,,2024,8,51,,,V14,,Clare,,
 761,"Gheel Autism Services",https://www.gheel.ie/,gheelautismservices,,,,2024,18,88,,,C15,53565,Meath,,
-762,"National Standards Authority of Ireland",https://www.nsai.ie/,nsai,NSAI,,,2024,16,84,,1,D09,,Dublin,254,D09A0E4
+762,"National Standards Authority of Ireland",https://www.nsai.ie/,nsai,NSAI,,,2024,16,84,,1,D09A0E4,,Dublin,254,D09A0E4
 763,"Dawn Farms",https://www.dawnfarms.ie/,dawnfarms,,info@dawnfarms.ie,,2024,3,10,,,"T12 KR23",102545,Cork,,
 764,"Secure All Security Group",https://secureall.ie/,secureallsecuritygroup,,,,2024,15,80,,,H91,,Galway,,
 765,"Nostra Ireland",https://www.nostra.ie/,nostraireland,,,,2024,11,62,,,D02,430981,Dublin,,
@@ -660,13 +660,13 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 775,BearingPoint,https://www.bearingpoint.com/en-ie/,bearingpoint,,,,2024,14,70,,,D04KC56,489298,Dublin,,
 776,"Brand Max ",https://www.brandmax.com/,brandmax,"Frasers Group",data.protection@frasers.group,,2022,7,47,,,D02,799365,Dublin,,
 777,"RSM Ireland",https://www.rsm.global/ireland,rsmireland,,,,2024,14,69,,,D02,506769,Dublin,,
-778,"Data Protection Commission",https://www.dataprotection.ie/,dataprotectioncommission,,,,2024,16,84,,1,D02,,Dublin,384,D02X963
-779,"Chartered Accountants Ireland",https://www.charteredaccountants.ie/,charteredaccountantsireland,,,,2024,20,94,,,D02,469828,Dublin,351,D02YN40
+778,"Data Protection Commission",https://www.dataprotection.ie/,dataprotectioncommission,,,,2024,16,84,,1,D02X963,,Dublin,384,D02X963
+779,"Chartered Accountants Ireland",https://www.charteredaccountants.ie/,charteredaccountantsireland,,,,2024,20,94,,,D02YN40,469828,Dublin,351,D02YN40
 780,"The Housing Agency",https://www.housingagency.ie/,thehousingagency,,,,2024,16,84,,1,D02,,Dublin,,
 781,"Coimisiún na Meán",https://www.cnam.ie/,coimisiunnamean,,,,2024,16,84,,1,D04,,Dublin,,
 782,"J.P. Morgan Hedge Fund Services",https://www.jpmorgan.com/,jpmorganhedgefund,,,,2024,12,64,782,,"D02 C934",315706,Dublin,,
 783,"Bauer Media Audio",https://bauermedia.ie/,bauermediaaudio,,,,2024,10,60,,,D14,162034,Dublin,,
-784,"The Office of the Attorney General",https://www.gov.ie/en/organisation/office-of-the-attorney-general/,attorneygeneral,,,,2024,16,84,,1,D02,,Dublin,189,D02R583
+784,"The Office of the Attorney General",https://www.gov.ie/en/organisation/office-of-the-attorney-general/,attorneygeneral,,,,2024,16,84,,1,D02R583,,Dublin,189,D02R583
 785,"Glanmore Foods",https://glanmorefoods.ie/,glanmorefoods,,,,2024,3,10,,,D15,355469,Dublin,,
 786,"Avant Money",https://www.avantmoney.ie/,avantmoney,,,,2022,12,64,,,D02,910258,Dublin,,
 787,"Verizon Services",https://www.verizon.com/business,verizonservices,,,,2024,11,61,1215,,D03,549688,Dublin,,
@@ -695,7 +695,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 810,"Kerrygold Park Butter Packing",https://www.ornua.com/our-locations/kerrygold-park/,kerrygoldparkbutterpacking,,,,2024,3,10,,,D02,545049,Dublin,,
 811,"Primeline Logistics",https://primeline.ie/,primelinelogistics,,,,2022,8,52,,,Y35,313922,Wexford,,
 812,"Merchants Quay Ireland",https://mqi.ie,merchantsquayireland,,info@mqi.ie,,2024,18,88,,,D02,176421,Dublin,,
-813,"An Coimisiún Pleanála",https://www.pleanala.ie/,ancoimisiunpleanala,"An Bord Pleanála",,,2024,16,84,,1,"D01 V902",,Dublin,574,D01V902
+813,"An Coimisiún Pleanála",https://www.pleanala.ie/,ancoimisiunpleanala,"An Bord Pleanála",,,2024,16,84,,1,D01V902,,Dublin,574,D01V902
 814,"FRS Recruitment",https://www.frsrecruitment.com/,frsrecruitment,,info@frsrecruitment.com,,2022,15,78,,,"D02 R978",,Dublin,,
 815,"Dublin Port",https://www.dublinport.ie/,dublinport,,,,2024,8,50,,1,D02,,Dublin,,
 816,"Web Summit",https://websummit.com/,websummit,,,,2024,15,82,,,D06,489864,Dublin,,
@@ -710,12 +710,12 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 825,"Regatta Ireland",https://www.regatta.com/ie/,regattaireland,," dataprotection@Regatta.com",,2022,7,47,,,T12,529127,Cork,,
 826,Logitech,https://www.logitech.com/en-eu,logitech,,,,2022,3,26,,,D01,135248,Dublin,,
 827,"Affidea Diagnostics",https://www.affidea.ie/,affideadiagnostics,,oana.dumitroiu@affidea.com,,2022,18,86,,,D12,452897,Dublin,,
-828,"The Alzheimer Society of Ireland",https://alzheimer.ie/,thealzheimersocietyofireland,,,,2022,18,88,,,D02,102700,Dublin,164,A94N8Y0
+828,"The Alzheimer Society of Ireland",https://alzheimer.ie/,thealzheimersocietyofireland,,,,2022,18,88,,,A94N8Y0,102700,Dublin,164,A94N8Y0
 829,"Viatel Technology Group",https://www.viatel.com/,viateltechnologygroup,,,,2022,11,62,829,,D12,512402,Dublin,,
 830,"Deutsche Bank",https://country.db.com/ireland/index?language_id=1&kid=ireland.redirect-en.shortcut,deutschebank,,,,2024,12,64,,,D02,906119,Dublin,,
 831,"Peninsula Business Services",https://www.peninsulagrouplimited.com/ie/,peninsulabusinessservices,,,,2024,14,69,,,D03,908355,Dublin,,
 832,"St. Hilda's Services",https://www.sthildas.ie/,sthildasservices,,,,2024,18,87,,,D07,369210,Dublin,,
-833,"Port of Cork",https://www.portofcork.ie/,portofcork,,"info@portofcork.ie, communications@portofcork.ie",,2024,8,50,,,D02,262368,Dublin,614,T23YNT9
+833,"Port of Cork",https://www.portofcork.ie/,portofcork,,"info@portofcork.ie, communications@portofcork.ie",,2024,8,50,,,T23YNT9,262368,Dublin,614,T23YNT9
 834,Aircoach,https://www.aircoach.ie/,aircoach,,info@aircoach.ie,,2024,8,49,,,F23,300725,Mayo,,
 835,"Cork Simon Community",https://www.corksimon.ie/,corksimoncommunity,,ursula.galvin@corksimon.ie,,2024,18,88,,,D02,42511,Dublin,,
 836,"Dunboyne Castle Hotel",https://www.dunboynecastlehotel.com/,dunboynecastlehotel,,,,2024,9,55,,,A86,,Meath,,
@@ -726,7 +726,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 841,"UCD Campus Sport & Leisure",https://www.ucd.ie/studentcentre/newsopportunities/ucd_csl_ltd_gender_pay_report_2024/,ucdcampussportleisure,,,,2024,19,93,,,D04,512243,Dublin,,
 842,"National College of Art & Design",https://www.ncad.ie/,ncad,NCAD,information@ncad.ie,,2022,17,85,,4,D08,,Dublin,,
 843,"The Workman's Club",https://theworkmansclub.com/,theworkmansclub,,,,2024,19,90,,,D08,483710,Dublin,,
-844,"Department of Rural and Community Development",https://www.gov.ie/en/organisation/department-of-rural-and-community-development/?referrer=/,deptruralcommunitydevelopment,,,,2024,16,84,,2,"D02 EF85",,Dublin,729,D02EF85
+844,"Department of Rural and Community Development",https://www.gov.ie/en/organisation/department-of-rural-and-community-development/?referrer=/,deptruralcommunitydevelopment,,,,2024,16,84,,2,D02EF85,,Dublin,729,D02EF85
 845,"The Heritage Hotel",https://www.theheritage.com/,theheritagehotel,,info@theheritage.com,,2024,9,55,,,D02,348009,Dublin,,
 847,"Essilor - Transitions Optical Limited",https://www.transitions.com/en-ie/,transitionsopticallimited,,,,2024,3,32,576,,D18,210033,Dublin,,
 848,"Essilor - Organic Lens Manufacturing",https://www.essilor.com/ie-en/,organiclensmanufacturing,,,,2024,3,32,576,,V95,689771,Clare,,
@@ -735,7 +735,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 851,"PGIM ",https://www.pgim.com/,pgim,,,,2024,12,64,,,D02,319900,Dublin,,
 852,"Carelon Global Solutions",https://www.carelonglobal.ie/,carelonglobalsolutions,,CarelonPrivacy@carelon.com,,2024,11,62,,,V94,695829,Limerick,,
 853,Cloudera,https://cloudera.com/,cloudera,,,,2024,11,62,,,T12,567383,Cork,,
-854,"Economic & Social Research Institute",https://www.esri.ie/,esri,ESRI,,,2024,14,72,,,E34,18269,Tipperary,625,D02K138
+854,"Economic & Social Research Institute",https://www.esri.ie/,esri,ESRI,,,2024,14,72,,,D02K138,18269,Tipperary,625,D02K138
 855,"SMBC Aviation Capital",https://smbc.aero/,smbcaviationcapital,,,,2024,15,77,,,V92,270775,Kerry,,
 856,"O'Callaghan Collection",https://www.ocallaghancollection.com/,ocallaghancollection,,,,2024,9,55,,,D02,,Dublin,,
 857,"Donnelly Fresh",https://www.donnellyfresh.ie/,donnellyfresh,,"info@donnellyfresh.ie, careers@donnellyfresh.ie",,2024,3,10,,,K67,,Dublin,,
@@ -749,7 +749,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 865,"Director of Public Prosecutions",https://www.dppireland.ie/,directorofpublicprosecutions,,,,2024,16,84,,1,D07,,Dublin,,
 866,GAA,https://www.gaa.ie/,gaa,,info@gaa.ie,,2024,19,93,,,D01,,Dublin,,
 867,Toast,https://careers.toasttab.com/ireland,toast,,,,2024,11,62,,,"P25 WK13",609386,Cork,,
-868,"IPB Insurance",https://ipb.ie,ipbinsurance,,,,2024,12,65,,,R35,7532,Offaly,650,D02P820
+868,"IPB Insurance",https://ipb.ie,ipbinsurance,,,,2024,12,65,,,D02P820,7532,Offaly,650,D02P820
 869,"Loughnane's Family Butchers",https://loughnanes.ie,loughnanesfamilybutchers,,,,2024,3,10,,,H91,515863,Galway,,
 870,"ABB Ireland",https://new.abb.com/ie,abbireland,,,,2024,15,82,,,D02,265676,Dublin,,
 871,Kyndryl,https://www.kyndryl.com/,kyndryl,,,,2024,11,62,,,D15,668675,Dublin,,
@@ -764,7 +764,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 880,"Emeis Ireland",https://emeis.ie/,emeisireland,,"ie.enquiries@emeis.com, recruitment-ireland@emeis.com",,2024,18,87,,,D24,660981,Dublin,,
 881,Folens,https://www.folensgroup.com,folens,,info@folens.ie,,2024,10,58,,,D24,58250,Dublin,,
 882,"Clúid Housing",https://www.cluid.ie,cluidhousing,,,,2022,15,77,,1,T12,,Cork,,
-883,"Itron Management Service",https://na.itron.com/,itronmanagementservice,,support@itron.com,,2024,14,70,,,D02,534741,Dublin,155,D02T380
+883,"Itron Management Service",https://na.itron.com/,itronmanagementservice,,support@itron.com,,2024,14,70,,,D02T380,534741,Dublin,155,D02T380
 884,"Smurfit Westrock",https://www.westrock.com,smurfitwestrock,,,,2024,3,17,345,,D04,607515,Dublin,,
 885,"Hayes Solicitors",https://hayes-solicitors.ie,hayessolicitors,,,,2024,14,69,,,D02,,Dublin,,
 886,Cental,https://www.cental.ie,cental,,,,2024,3,25,,,R93,500708,Carlow,,
@@ -795,7 +795,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 911,"Bunzl Limited",https://www.bunzlireland.ie/,bunzllimited,,info@bunzlireland.ie,,2024,7,46,,,D02,114401,Dublin,,
 912,"Tullow Mushroom Growers",https://coddmushrooms.ie/,tullowmushroomgrowers,,,,2024,1,1,,,R93,455671,Carlow,,
 913,"Bentley Systems",https://www.bentley.com/,bentleysystems,,,,2024,11,62,,,D02,474589,Dublin,,
-914,"Dentsu Ireland",https://www.dentsu.com/ie/en,dentsuireland,,,,2024,14,70,,,H91,104746,Galway,321,D04HE94
+914,"Dentsu Ireland",https://www.dentsu.com/ie/en,dentsuireland,,,,2024,14,70,,,D04HE94,104746,Galway,321,D04HE94
 915,"Fallon & Byrne",https://www.fallonandbyrne.com/,fallonbyrne,,office@fallonandbyrne.com,,2024,9,56,,,D02,393383,Dublin,,
 916,"Cantor Fitzgerald",https://cantorfitzgerald.ie/,cantorfitzgerald,,,,2024,12,64,,,T12,279126,Cork,,
 917,"Freudenberg Medical (Carrick-on-Shannon)",https://www.freudenbergmedical.com,freudenbergmedicalcarrick,,,,2022,3,32,917,,D06,274913,Dublin,,
@@ -828,7 +828,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 945,"Abbott Rapid DX International",https://www.ie.abbott/homepage.html,abbottrapiddx,,,,2022,3,21,4,,"H91 TK33",495964,Galway,,
 946,"Mason, Hayes & Curran (excl. partners)",https://www.mhc.ie/,masonhayescurranexclpartners,,,,2022,14,69,267,,D04,331279,Dublin,,
 947,"Diageo Ireland",https://www.diageo.com/en,diageoireland,,,,2022,3,11,136,,D06P2T7,900038,Dublin,,
-948,"VHI Healthcare DAC",https://www1.vhi.ie/,vhihealthcaredac,,,,2024,12,65,392,,D01,527604,Dublin,645,D01DX77
+948,"VHI Healthcare DAC",https://www1.vhi.ie/,vhihealthcaredac,,,,2024,12,65,392,,D01DX77,527604,Dublin,645,D01DX77
 949,"VHI Insurance DAC",https://www1.vhi.ie/,vhiinsurancedac,,,,2024,12,65,392,,D01,527606,Dublin,,
 950,"VHI Health & Wellbeing DAC",https://www1.vhi.ie/,vhihealthwellbeingdac,,,,2024,18,86,392,7,"P75 W242",531499,Cork,,
 951,"VHI Group Services DAC",https://www1.vhi.ie/,vhigroupservicesdac,,,,2024,14,70,392,,D01,538110,Dublin,,
@@ -892,8 +892,8 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1009,"NFP Ireland",https://www.nfpireland.ie/,nfpireland,,,,2025,12,66,,,A94,415534,Dublin,,
 1010,"Kennco Insurance",https://www.kennco.ie/,kenncoinsurance,,,,2025,12,65,,,D16,,Dublin,,
 1011,"The Chancery Hotel",https://www.thechanceryhotel.ie,thechanceryhotel,,reservations.chancery@shgroup.ie,,2025,9,55,,,D08,,Dublin,,
-1012,"Kilkenny Leader Partnership",https://cklp.ie,kilkennyleaderpartnership,,,,2025,18,88,,,R95,454899,Kilkenny,840,R95X677
-1013,"SOS Kilkenny",https://www.soskilkenny.com,soskilkenny,,,,2023,18,87,,,R95,,Kilkenny,349,R95X685
+1012,"Kilkenny Leader Partnership",https://cklp.ie,kilkennyleaderpartnership,,,,2025,18,88,,,R95X677,454899,Kilkenny,840,R95X677
+1013,"SOS Kilkenny",https://www.soskilkenny.com,soskilkenny,,,,2023,18,87,,,R95X685,,Kilkenny,349,R95X685
 1014,FinTrU,https://www.fintru.com,fintru,,,,2025,14,70,,,F92,702357,Donegal,,
 1015,"Vermillion Energy",https://www.vermilionenergy.com/,vermillionenergy,,,,2025,2,6,,,D09,,Dublin,,
 1016,"Kilkenny River Court Hotel",https://www.rivercourthotel.com,kilkennyrivercourthotel,,,,2025,9,55,,,R95,,Kilkenny,,
@@ -915,7 +915,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1032,"Irving Oil Whitegate Refinery",https://www.irvingoil.com/,irvingoilwhitegaterefinery,,,,2024,3,19,,,T12,16576,Cork,,
 1033,"Carrolls Irish Gifts",https://carrollsirishgifts.com,carrollsirishgifts,,,,2024,7,47,,,A92,547864,Louth,,
 1034,"Blacknight Solutions",https://www.blacknight.com,blacknightsolutions,,,,2025,15,82,,,R93,370845,Carlow,,
-1035,"Competition and Consumer Protection Commission (CCPC)",https://www.ccpc.ie/,ccpc,CCPC,,,2024,16,84,,,D01,,Dublin,270,D01C576
+1035,"Competition and Consumer Protection Commission (CCPC)",https://www.ccpc.ie/,ccpc,CCPC,,,2024,16,84,,,D01C576,,Dublin,270,D01C576
 1036,"Carlow College St. Patrick's",https://carlowcollege.ie/,carlowcollegestpatricks,,,,2025,17,85,,4,R93,,Carlow,,
 1037,"Alchemy Telco Solutions",https://www.wearealchemy.com,alchemytelcosolutions,,,,2025,11,61,,,"R51 V267",595997,Kildare,,
 1038,"Highfield Healthcare",https://highfieldhealthcare.ie,highfieldhealthcare,,,,2024,18,86,,,D09,,Dublin,,
@@ -951,7 +951,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1068,"Talbot Hotel Cork",https://www.talbothotelcork.ie/,talbothotelcork,,,,2025,9,55,1068,,T12,,Cork,,
 1069,"Childhood Matters",https://childhood-matters.ie/,childhoodmatters,,,,2025,18,87,,,T12,363354,Cork,,
 1070,Nourish,https://www.nourish.ie/,nourish,,,,2024,7,47,,,D02,,Dublin,,
-1071,"Carlton Greetings",https://www.ukgreetings.co.uk/brand/carlton-cards/,carltongreetings,,,,2025,7,47,,,"D02 EC96",682769,Dublin,618,D02Y754
+1071,"Carlton Greetings",https://www.ukgreetings.co.uk/brand/carlton-cards/,carltongreetings,,,,2025,7,47,,,D02Y754,682769,Dublin,618,D02Y754
 1072,"TMF Group",https://www.tmf-group.com/,tmfgroup,,,,2025,15,82,,,"D01 K2C5",,Dublin,,
 1073,Wayflyer,https://wayflyer.com/,wayflyer,,,,2025,12,64,,,D01,602786,Dublin,,
 1074,"Talbot Hotel Midleton",https://www.talbothotelmidleton.ie/,talbothotelmidleton,,,,2025,9,55,1068,,P25,,Cork,,
@@ -963,14 +963,14 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1081,"National Disability Authority",https://nda.ie,nationaldisabilityauthority,,,,2025,16,84,,,"D04 E409",,Dublin,,
 1082,"Indigo Telecom Group",https://www.indigotg.com/,indigotelecomgroup,,,,2025,11,61,,,"A96 R2Y1",,Dublin,,
 1083,"Advant Medical Moulding",https://www.advantmedical.com/,advantmedicalmoulding,,,,2024,3,32,,,N91,207297,Westmeath,,
-1084,"Core Building",https://corebuild.ie/,corebuilding,,,,2025,7,46,,,D02,541540,Dublin,156,D22XD28
+1084,"Core Building",https://corebuild.ie/,corebuilding,,,,2025,7,46,,,D22XD28,541540,Dublin,156,D22XD28
 1085,Italicatessen,https://www.italicatessen.ie/,italicatessen,,,,2025,7,46,289,,T12,359195,Cork,,
 1086,"Connected Health",https://connected-health.ie/,connectedhealth,,,,2024,18,86,,,D02,630316,Dublin,,
 1087,3Arena,https://3arena.ie/,3arena,,enquiry@3arena.ie,,2025,19,90,,,"D02 VR66",128549,Dublin,,
 1092,FatFace,http://www.fatface.com/ie/en,fatface,,,,2025,7,47,,,"D16 CF75",,Dublin,,
 1093,"Fleming Medical",https://www.flemingmedical.ie/,flemingmedical,,,,2025,7,46,,,H91,121023,Galway,,
-1094,"Royal National Lifeboat Institution",https://rnli.org/,royalnationallifeboatinstitution,,,,2025,20,94,,,"H91 X782",,Galway,277,K67WA24
-1095,Hostelworld,https://www.hostelworld.com/,hostelworld,,,,2025,15,79,,,D02,337103,Dublin,169,D02AF58
+1094,"Royal National Lifeboat Institution",https://rnli.org/,royalnationallifeboatinstitution,,,,2025,20,94,,,K67WA24,,Galway,277,K67WA24
+1095,Hostelworld,https://www.hostelworld.com/,hostelworld,,,,2025,15,79,,,D02AF58,337103,Dublin,169,D02AF58
 1096,"Dubray Books",https://www.dubraybooks.ie/,dubraybooks,,,,2025,7,47,148,,A63,217561,Wicklow,,
 1097,"The Pensions Authority",https://pensionsauthority.ie,thepensionsauthority,,,,2025,16,84,,,"D02 KX27",,Dublin,,
 1098,"Irish Management Institute (IMI)",https://www.imi.ie/,irishmanagementinstituteimi,,,,2025,17,85,,,D16,,Dublin,,
@@ -990,15 +990,15 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1112,Keelvar,https://www.keelvar.com/,keelvar,,,,2025,11,62,,,D18,651280,Dublin,,
 1113,"Orix Aviation",https://www.orixaviation.com/,orixaviation,,,,2025,15,77,,,V92,170923,Kerry,,
 1114,"Research Ireland",https://www.researchireland.ie,researchireland,,,,2025,14,72,,,"D02 FX65",,Dublin,,
-1115,"Nursing and Midwifery Board",https://www.nmbi.ie/,nursingandmidwiferyboard,,,,2025,20,94,,,"A94 R299",,Dublin,785,A94R299
+1115,"Nursing and Midwifery Board",https://www.nmbi.ie/,nursingandmidwiferyboard,,,,2025,20,94,,,A94R299,,Dublin,785,A94R299
 1116,"Chase Paymentech",https://www.chase.com/business/payments,chasepaymentech,,,,2025,12,64,782,,D02,474128,Dublin,,
-1117,"Irish Human Rights and Equality Commission (IHREC)",https://www.ihrec.ie/,irishhumanrightsandequalitycommissionihrec,,,,2025,16,84,,,D07,,Dublin,85,D07CR20
+1117,"Irish Human Rights and Equality Commission (IHREC)",https://www.ihrec.ie/,irishhumanrightsandequalitycommissionihrec,,,,2025,16,84,,,D07CR20,,Dublin,85,D07CR20
 1118,BlackRock,https://www.blackrock.com/,blackrock,,,,2025,12,64,,,D02,225587,Dublin,,
 1119,"Uber Ireland",https://www.uber.com/,uberireland,,,,2023,8,49,,,,529509,,,
 1120,"Orange Recruitment",https://orangerecruitment.ie/,orangerecruitment,,,,2025,15,78,,,D09,513425,Dublin,,
 1121,"Knock Shrine",https://www.knockshrine.ie,knockshrine,,,,2025,20,94,,,"D02 DX26",125000,Dublin,,
 1122,ePower,https://www.epower.ie/,epower,,,,2025,4,35,,,T12,,Cork,,
-1123,"Best Menswear",https://www.bestmenswear.com/Images/Legal/GenderPayGapReporting2025.pdf?srsltid=AfmBOoqeTEikCf-ZjKFBDOW3TidBxtQcJhTJkb9wIVFoqkpvnGTaO2OV,bestmenswear,,,,2025,7,47,,,"D09 DY74",,Dublin,368,D09DY74
+1123,"Best Menswear",https://www.bestmenswear.com/Images/Legal/GenderPayGapReporting2025.pdf?srsltid=AfmBOoqeTEikCf-ZjKFBDOW3TidBxtQcJhTJkb9wIVFoqkpvnGTaO2OV,bestmenswear,,,,2025,7,47,,,D09DY74,,Dublin,368,D09DY74
 1124,"East Coast Bakehouse",https://eastcoastbakehouse.com/,eastcoastbakehouse,,,,2025,7,46,,,A92,558099,Louth,,
 1125,"Garland Consultancy",https://www.garlandconsultancy.com/,garlandconsultancy,,,,2025,14,70,,,D06,,Dublin,,
 1126,Phonewatch,https://www.phonewatch.ie/,phonewatch,,,,2025,15,80,,,V92,162566,Kerry,,
@@ -1012,7 +1012,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1134,"Accenture Limited",https://www.accenture.com/ie-en/,accenturelimited,,,,2022,14,70,11,,"D02 P638",340745,Dublin,,
 1135,Droga5,https://droga5.ie/,droga5,,,,2025,14,73,11,,D16,236306,Dublin,,
 1136,"Accenture International Ltd.",https://www.accenture.com/ie-en/,accentureinternationalltd,,,,2025,14,70,11,,"D02 P638",620139,Dublin,,
-1137,"Irish Distillers Ltd",https://www.irishdistillers.ie/,irishdistillersltd,,,,2022,3,11,226,,D24HH72,23732,Dublin,506,D04W9H6
+1137,"Irish Distillers Ltd",https://www.irishdistillers.ie/,irishdistillersltd,,,,2022,3,11,226,,D04W9H6,23732,Dublin,506,D04W9H6
 1138,"Irish Distillers International",https://www.irishdistillers.ie/,irishdistillersinternational,,,,2024,3,11,226,,D15,15558,Dublin,,
 1139,"DFDS - Lucey Transport",https://www.dfds.com/,dfdsluceytransport,,,,2025,8,49,,,D02,668171,Dublin,,
 1140,Notion,https://www.notion.com/,notion,,,,2025,11,62,,,D02,678918,Dublin,,
@@ -1025,7 +1025,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1147,Bloomberg,https://www.bloomberg.com/,bloomberg,,,,2025,11,63,,,D02,357324,Dublin,,
 1148,"Abbey Theatre",https://www.abbeytheatre.ie,abbeytheatre,,,,2025,19,90,,,D01,414400,Dublin,,
 1149,"Emerald Cultural Insitute",https://www.eci.ie/,emeraldculturalinsitute,,,,2025,17,85,,,D03,,Dublin,,
-1150,"South Kerry Development Partnership",https://www.southkerry.ie/,southkerrydevelopmentpartnership,,,,2025,18,88,,,H91,191645,Galway,292,V23P981
+1150,"South Kerry Development Partnership",https://www.southkerry.ie/,southkerrydevelopmentpartnership,,,,2025,18,88,,,V23P981,191645,Galway,292,V23P981
 1151,"Levy Ireland",https://levy.ie/,levyireland,,,,2025,9,56,98,,V94,128612,Limerick,,
 1152,"The Bar of Ireland",https://www.lawlibrary.ie/,thebarofireland,,,,2025,14,69,,,"D07 A78X",,Dublin,,
 1153,"AerCap Ireland Ltd",https://www.aercap.com/,aercapirelandltd,,,,2022,8,51,14,,T12,51950,Cork,,
@@ -1035,7 +1035,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1157,"Re:Cycle Reverse Logistics",https://www.aboutamazon.eu/,recyclereverselogistics,,,,2025,8,49,22,,D04,621044,Dublin,,
 1158,"Aon Broking Technology",https://www.aon.com/en/capabilities/risk-transfer,aonbrokingtechnology,,,,2025,12,64,29,,D01,573235,Dublin,,
 1159,"Aviva Direct Ireland",https://www.aviva.ie/,avivadirectireland,,,,2025,12,65,49,,A94X9Y3,374895,Dublin,,
-1160,"Jigsaw (National Centre for Youth Mental Health clg)",https://jigsaw.ie/,jigsawnationalcentreforyouthmentalhealth,,,,2025,18,88,,,D01,,Dublin,274,D02V590
+1160,"Jigsaw (National Centre for Youth Mental Health clg)",https://jigsaw.ie/,jigsawnationalcentreforyouthmentalhealth,,,,2025,18,88,,,D02V590,,Dublin,274,D02V590
 1161,Vantive,https://www.vantive.eu/,vantive,,media@vantive.com,,2024,3,21,56,,F23,746557,Mayo,,
 1162,"CBRE Advisory",https://www.cbre.ie/,cbreadvisory,,,,2024,13,68,957,,F91,316570,Sligo,,
 1163,"CBRE Project Management",https://www.cbre.ie/,cbreprojectmanagement,,,,2025,14,70,957,,D04,446664,Dublin,,
@@ -1093,14 +1093,14 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1215,"Verizon Ireland",https://www.verizon.com/,verizonireland,,,,2025,11,61,1215,,F92,224334,Donegal,,
 1216,"Vodafone Group Services ",https://www.vodafone.ie/,vodafonegroupservices,,,,2025,11,63,394,,D18,413775,Dublin,,
 1217,HEAnet,https://www.heanet.ie/,heanet,,,,2025,11,61,,,D01,,Dublin,,
-1218,"The Stepstone Group Ireland Recruit",https://www.irishjobs.ie/,thestepstonegroupirelandrecruit,,,,2025,15,78,,,C15,260762,Meath,377,D02E0F4
+1218,"The Stepstone Group Ireland Recruit",https://www.irishjobs.ie/,thestepstonegroupirelandrecruit,,,,2025,15,78,,,D02E0F4,260762,Meath,377,D02E0F4
 1219,"Philip Lee LLP",https://www.philiplee.ie/,philipleellp,,,,2025,14,69,,,"D04 C5Y6",,Dublin,,
 1220,"John Sisk & Son International Services",https://sisk.com/,johnsisksoninternationalservices,,,,2025,6,41,238,,D22,621774,Dublin,,
 1221,"Sisk: SGS Management Services",https://sisk.com/,sisksgsmanagementservices,,,,2025,15,82,238,,D02,,Dublin,,
 1222,"Sisk: Vision Built Manufacturing",https://vision-built.com/,siskvisionbuiltmanufacturing,,,,2025,6,43,238,,D24,523593,Dublin,,
 1223,Sensori,https://www.sensorigrp.com/,sensori,,,,2023,15,81,238,,D15,548567,Dublin,,
 1224,Ice,https://www.ice.com/index,ice,,,,2025,12,66,,,"D02 R296",,Dublin,,
-1225,"Financial Services and Pensions Ombudsman",https://fspo.ie/,financialservicesandpensionsombudsman,,,,2025,16,84,,,"D02 VH29",,Dublin,181,D02VH29
+1225,"Financial Services and Pensions Ombudsman",https://fspo.ie/,financialservicesandpensionsombudsman,,,,2025,16,84,,,D02VH29,,Dublin,181,D02VH29
 1226,"Teneo Strategy Ireland",https://www.teneo.com/,teneostrategyireland,,,,2025,14,70,,,D02,92844,Dublin,,
 1227,Fenero,https://www.fenero.ie/,fenero,,,,2025,14,70,,,D15,493351,Dublin,,
 1228,"AbbVie North Dublin",https://www.abbvie.ie/,abbvienorthdublin,"Forest Laboratories",,,2024,3,21,5,,D03W6Y1,403037,Dublin,,
@@ -1110,7 +1110,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1232,"Yuno Energy",https://yunoenergy.ie/,yunoenergy,,,,2023,4,35,,,,467144,,,
 1233,"Monasterevin Motors",https://www.monasterevinmotors.ie/,monasterevinmotors,,,,2025,7,47,,,D01,118517,Dublin,,
 1234,Pluralsight,https://www.pluralsight.com/,pluralsight,,,,2025,11,63,,,D01,614400,Dublin,,
-1235,"Citizens Information Board",https://www.citizensinformationboard.ie/,citizensinformationboard,,,,2025,16,84,,,D02,,Dublin,401,D02VK65
+1235,"Citizens Information Board",https://www.citizensinformationboard.ie/,citizensinformationboard,,,,2025,16,84,,,D02VK65,,Dublin,401,D02VK65
 1236,"Brown Bag Films",https://www.brownbagfilms.com/,brownbagfilms,,,,2022,10,59,,,E34,243929,Tipperary,,
 1237,"Bord Bia",https://www.bordbia.ie/,bordbia,,,,2025,14,73,,,"D04 NV34",,Dublin,,
 1238,"AbbVie Cork",https://www.abbvie.ie/,abbviecork,"Fournier Laboratories",,,2025,3,21,5,,D02X788,345437,Dublin,,
@@ -1154,9 +1154,9 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1276,Aiséirí,https://aiseiri.ie/,aisir,,,,2025,18,86,,,"E21 AW99",506175,Tipperary,,
 1277,Capital,https://www.capitalswitchgear.com/,capital,,,,2025,3,27,,,"D24 WA49",,Dublin,,
 1278,"Finance Ireland",https://www.financeireland.ie/,financeireland,,,,2025,12,64,,,"D04 YN53",,Dublin,,
-1279,"PCO Pharma Group",https://www.pco.ie,pcopharmagroup,,,,2025,7,46,,,A84,,Meath,393,A84WR60
+1279,"PCO Pharma Group",https://www.pco.ie,pcopharmagroup,,,,2025,7,46,,,A84WR60,,Meath,393,A84WR60
 1280,Cygnum,https://cygnum.ie/,cygnum,,info@cygnum.ie,,2025,6,41,,,D02,257747,Dublin,,
-1281,"Gallivan Murphy Insurance Brokers",https://www.gmib.ie/,gmib,GMIB,info@gmib.ie,,2025,12,65,,,V92,358826,Kerry,430,V93NV21
+1281,"Gallivan Murphy Insurance Brokers",https://www.gmib.ie/,gmib,GMIB,info@gmib.ie,,2025,12,65,,,V93NV21,358826,Kerry,430,V93NV21
 1282,"Munster Bovine",https://www.munsterbovine.ie/,munsterbovine,,,,2025,14,75,,,P51,,Cork,,
 1283,"PV Generation",https://pvgeneration.ie/,pvgeneration,,,,2025,6,43,,,H18,571563,Monaghan,,
 1284,Fexco,https://www.fexco.com/,fexco,,,,2022,12,64,,,D11,83934,Dublin,,
@@ -1166,11 +1166,11 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1288,Rockwell,https://www.rockwell.ie/,rockwell,,,,2025,6,43,,,V94,,Limerick,,
 1289,"Trident Hotel",https://www.tridenthotel.com/,tridenthotel,,,,2025,9,55,,,P17,,Cork,,
 1290,"Leinster Rugby",https://www.leinsterrugby.ie/,leinsterrugby,,,,2025,19,93,,,V94,265198,Limerick,,
-1291,"Asana Software",https://asana.com/,asanasoftware,,,,2025,11,62,,,D02,550990,Dublin,265,D02CR67
+1291,"Asana Software",https://asana.com/,asanasoftware,,,,2025,11,62,,,D02CR67,550990,Dublin,265,D02CR67
 1292,"Archdiocese of Dublin",https://dublindiocese.ie/,archdioceseofdublin,,,,2025,20,94,,,"D07 XK85",,Dublin,,
 1293,"Skillnet Ireland",https://www.skillnetireland.ie/,skillnetireland,,,,2025,20,94,,,C15,298694,Meath,,
 1294,"Cabot Financial",https://www.cabotfinancial.ie/,cabotfinancial,,,,2025,12,66,,,R95,144084,Kilkenny,,
-1295,"Member First Credit Union",https://www.mfcu.ie/,memberfirstcreditunion,,,,2025,12,64,,,K67,,Dublin,371,D05FH97
+1295,"Member First Credit Union",https://www.mfcu.ie/,memberfirstcreditunion,,,,2025,12,64,,,D05FH97,,Dublin,371,D05FH97
 1296,"Dolmen Insurance",https://www.dolmen-insurance.ie/,dolmeninsurance,,,,2025,12,65,,,D14,293180,Dublin,,
 1297,"Cara Credit Union",https://www.caracreditunion.ie/,caracreditunion,,,,2025,12,64,,,V92,,Kerry,,
 1298,"Croí Laighean Credit Union",https://www.clcu.ie/,croilaigheancreditunion,,,,2025,12,64,,,R51,,Kildare,,
@@ -1181,12 +1181,12 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1303,"Irish League of Credit Unions",https://www.creditunion.ie/,irishleagueofcreditunions,,,,2025,20,94,,,D02,,Dublin,,
 1304,"Menlo Park Hotel",https://www.menloparkhotel.com/,menloparkhotel,,,,2025,9,55,,,H91,450692,Galway,,
 1305,CeX,https://ie.webuy.com/,cex,,,,2022,7,47,,,D02,489810,Dublin,,
-1306,EisnerAmper,https://eisneramper.ie/,eisneramper,,,,2025,14,69,,,D18,775976,Dublin,199,D18CA22
+1306,EisnerAmper,https://eisneramper.ie/,eisneramper,,,,2025,14,69,,,D18CA22,775976,Dublin,199,D18CA22
 1307,Avista,https://avista.ie/,avista,,info@avistaclg.ie,,2022,18,87,,,D07,527694,Dublin,,
 1308,"Black Shamrock",https://www.black-shamrock.com/,blackshamrock,,,,2025,11,62,,,,571648,,,
 1309,"Mars Capital Finance",https://www.marscapital.ie/,marscapitalfinance,,,,2025,12,64,,,"D16 X8C3",558978,Dublin,,
 1310,"Irish Pensions & Finance",https://ipf.ie/,irishpensionsfinance,,,,2025,12,66,,,C15,468972,Meath,,
-1311,"WPP Media",https://www.wppmedia.com/,wppmedia,,,,2025,14,73,,,H91,178436,Galway,338,D08V0VE
+1311,"WPP Media",https://www.wppmedia.com/,wppmedia,,,,2025,14,73,,,D08V0VE,178436,Galway,338,D08V0VE
 1312,"Canbe Group",https://www.canbe.ie/,canbegroup,,,,2025,9,55,,,D02,295757,Dublin,,
 1313,"Propylon Ireland (RWS)",https://propylon.com/,propylonirelandrws,,,,2025,11,63,,,"D14 DW30",,Dublin,,
 1314,Fyffes,https://www.fyffes.com/,fyffes,,,,2025,3,10,,,C15,73342,Meath,,
@@ -1200,16 +1200,16 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1322,"Lyrath Estate",https://www.lyrath.com/,lyrathestate,,info@lyrath.com,,2024,9,55,,,R95,,Kilkenny,,
 1323,"Cavan Crystal Hotel",https://www.cavancrystalhotel.com/,cavancrystalhotel,,,,2025,9,55,,,D02,548650,Dublin,,
 1324,Chubb,https://www.chubb.com/,chubb,,,,2025,12,65,,,A92,27640,Louth,,
-1325,"World Rugby Ireland",https://www.world.rugby/?lang=en,worldrugbyireland,,,,2025,19,93,,,X91,245000,Waterford,491,D02AE93
+1325,"World Rugby Ireland",https://www.world.rugby/?lang=en,worldrugbyireland,,,,2025,19,93,,,D02AE93,245000,Waterford,491,D02AE93
 1326,Taoglas,https://www.taoglas.com/,taoglas,,,,2025,11,61,,,Y35,390248,Wexford,,
-1327,Tobin,https://www.tobin.ie/,tobin,,,,2024,14,74,,,H91,,Galway,604,H91AXK8
+1327,Tobin,https://www.tobin.ie/,tobin,,,,2024,14,74,,,H91AXK8,,Galway,604,H91AXK8
 1328,"Nestlé Ireland",https://www.nestle.co.uk/,nestle,,,,2025,3,10,,,W23,1614,Kildare,,
 1329,Storyful,https://storyful.com/,storyful,,,,2025,10,60,,,D02,478477,Dublin,,
 1330,"The Grafton",https://www.thegrafton.ie/,thegrafton,,,,2025,9,55,,,"D02 WV05",,Dublin,,
 1331,NetApp,https://www.netapp.com/,netapp,,,,2025,11,63,,,T12,705127,Cork,,
 1332,"GLG Insights",https://glginsights.com/,glginsights,,,,2025,14,73,,,"D02 KF24",,Dublin,,
 1333,M&G,https://www.mandg.com/,mg,,,,2025,12,66,,,"A94 V062",,Dublin,,
-1334,"Residential Tenancies Board",https://rtb.ie/,residentialtenanciesboard,RTB,,,2025,16,84,,,"D02 RR99",,Dublin,566,D02RR99
+1334,"Residential Tenancies Board",https://rtb.ie/,residentialtenanciesboard,RTB,,,2025,16,84,,,D02RR99,,Dublin,566,D02RR99
 1335,"PE Global",https://www.peglobal.net/,peglobal,,,,2025,15,78,,,T12,,Cork,,
 1336,"Blizzard Entertainment Ltd",https://www.activision.com/,blizzardentertainmentltd,,,,2025,11,62,1336,,T12,440929,Cork,,
 1337,"Activision Blizzard Ireland",https://www.activision.com/,activisionblizzardireland,,,,2024,11,62,1336,,D05,240606,Dublin,,
@@ -1219,7 +1219,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1341,Boeing,https://www.boeing.co.uk/,boeing,,,,2025,15,77,,,D02,336505,Dublin,,
 1342,"Nokia Ireland",https://www.nokia.com/,nokiaireland,,,,2025,11,61,,,D12,85214,Dublin,,
 1343,"Pownall & Hampson",https://www.pownallandhampson.com/,pownallhampson,,,,2025,3,32,,,D05,618942,Dublin,,
-1344,Siemens,https://www.siemens.com/ie/en.html,siemens,,,,2025,3,27,1344,,D02,7347,Dublin,252,D11KXN4
+1344,Siemens,https://www.siemens.com/ie/en.html,siemens,,,,2025,3,27,1344,,D11KXN4,7347,Dublin,252,D11KXN4
 1345,"Great National Hotel Balina",https://www.hotelballina.ie/,greatnationalhotelbalina,,,,2025,9,55,1345,,F26,,Mayo,,
 1346,"Jaguar Land Rover (JLR)",https://www.jlr.com/,jaguarlandroverjlr,,,,2023,7,47,,,D02,608696,Dublin,,
 1347,ProStrategy,https://www.prostrategy.ie/,prostrategy,,,,2025,14,70,,,T12,106508,Cork,,
@@ -1253,9 +1253,9 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1375,"TSL Projects",https://tslprojects.com/,tslprojects,,,,2025,6,43,,,W23,501517,Kildare,,
 1376,Teckro,https://teckro.com/,teckro,,,,2025,11,62,,,V94,557751,Limerick,,
 1377,Smarttech247,https://www.smarttech247.com/,smarttech247,,,,2025,11,63,,,"T12 XE1E",,Cork,,
-1378,"Land Development Agency",https://lda.ie/,landdevelopmentagency,,,,2025,16,84,,,D02,710453,Dublin,555,D02VX67
+1378,"Land Development Agency",https://lda.ie/,landdevelopmentagency,,,,2025,16,84,,,D02VX67,710453,Dublin,555,D02VX67
 1379,Securitas,https://www.securitas.ie/,securitas,,customerservice@securitas.ie,,2024,15,80,,,H91,275069,Galway,,
-1380,Fleetwood,https://www.fleetwood.ie/,fleetwood,,,,2025,3,20,,,D02,97123,Dublin,378,A82N267
+1380,Fleetwood,https://www.fleetwood.ie/,fleetwood,,,,2025,3,20,,,A82N267,97123,Dublin,378,A82N267
 1381,"Bellingham Castle",https://www.bellinghamcastle.ie/,bellinghamcastle,,,,2025,9,55,,,"A91 RP44",,Louth,,
 1382,Welocalize,https://www.welocalize.com/,welocalize,,,,2025,11,63,,,D15,258044,Dublin,,
 1383,"Giraffe Childcare",https://www.giraffe.ie/,giraffechildcare,,"info@giraffe.ie, careers@giraffe.ie",,2024,18,88,,,D14,319270,Dublin,,
@@ -1296,7 +1296,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1418,"Grand Canal Hotel",https://www.grandcanalhotel.ie/en/,grandcanalhotel,,,,2025,9,55,,,F92,338278,Donegal,,
 1419,"Bridge House Hotel",https://www.bridgehousehoteltullamore.ie/,bridgehousehotel,,,,2025,9,55,,,A92,155096,Louth,,
 1420,"McWilliam Park Hotel",https://www.mcwilliampark.ie/,mcwilliamparkhotel,,,,2025,9,55,,,"F12 D1W3",,Mayo,,
-1421,"Baker Tilly Ireland",https://www.bakertilly.ie/,bakertillyireland,,,,2025,14,69,,,T12,756040,Cork,230,D01X8H2
+1421,"Baker Tilly Ireland",https://www.bakertilly.ie/,bakertillyireland,,,,2025,14,69,,,D01X8H2,756040,Cork,230,D01X8H2
 1422,"Global Ireland",https://global.com/ie/,globalireland,,,,2025,14,73,,,"D02 A668",229110,Dublin,,
 1423,"MCD Productions",https://www.mcd.ie/,mcdproductions,,,,2025,19,90,,,D02,348378,Dublin,,
 1424,"Dalcassian Restaurants",https://dalcassian.ie/,dalcassianrestaurants,"McDonald's Sligo & Letterkenny",info@dalcassian.ie,,2023,9,56,,,F92,338880,Donegal,,
@@ -1315,7 +1315,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1437,"Arthur Cox (all legal entities)",https://www.arthurcox.com/,arthurcoxalllegalentities,,,,2022,14,69,42,,"D02 T380",,Dublin,,
 1438,"DXC Technology",https://dxc.com/,dxctechnology,,,,2025,11,62,,,"H91 WP08",,Galway,,
 1439,"Mountain Warehouse",https://www.mountainwarehouse.com/eu/roi-gender-pay-gap/,mountainwarehouse,,,,2025,7,47,,,D15,904936,Dublin,,
-1440,Pelco,https://www.pelco.ie/,pelco,,info@pelcoltd.ie,,2024,7,47,,,D15,429744,Dublin,547,D15YY9V
+1440,Pelco,https://www.pelco.ie/,pelco,,info@pelcoltd.ie,,2024,7,47,,,D15YY9V,429744,Dublin,547,D15YY9V
 1441,"International Irish Trading Corporation (IITC)",https://iitc.ie/,iitc,,,,2024,7,47,,,T12,,Cork,,
 1442,"Fivetran Data Pipeline",https://www.fivetran.com/,fivetrandatapipeline,,,,2025,11,63,,,D02,623560,Dublin,,
 1443,"Frank Keane MG",https://www.frankkeanemg.ie/,frankkeanemg,,,,2025,7,47,1390,,D22,,Dublin,,
@@ -1337,7 +1337,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1459,"LKQ Euro Car Parts",https://www.eurocarparts.com/,lkqeurocarparts,,custservice.ie@eurocarparts.com,,2022,7,47,,,"D02 ED70",,Dublin,,
 1460,"Chill Insurance",https://www.chill.ie/,chillinsurance,,"info@chill.ie, care@chill.ie",,2023,12,65,,,D18,506021,Dublin,,
 1461,Redclick,https://www.redclick.ie/,redclick,,info@redclick.ie,,2024,12,65,,,H12,,Cavan,,
-1462,"Kirby Engineering & Construction",https://www.kirbygroup.com/,kirbyengineeringconstruction,,info@kirbygroup.com,,2022,6,41,,,T12,622971,Cork,213,V94NNC4
+1462,"Kirby Engineering & Construction",https://www.kirbygroup.com/,kirbyengineeringconstruction,,info@kirbygroup.com,,2022,6,41,,,V94NNC4,622971,Cork,213,V94NNC4
 1463,Astreya,https://astreya.com/,astreya,,,,2025,11,63,,,D04,481664,Dublin,,
 1464,Ricoh,https://www.ricoh.ie/,ricoh,,,,2025,7,46,,,D08,11971,Dublin,,
 1465,"Irish Farmers Association",https://www.ifa.ie/,irishfarmersassociation,,,,2025,20,94,,,D12,,Dublin,,
@@ -1348,13 +1348,13 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1470,Prodieco,https://www.prodieco.com/,prodieco,,,,2024,3,28,,,D24,498076,Dublin,,
 1471,MathWorks,https://www.mathworks.com/,mathworks,,,,2025,11,62,,,"D03 H6W0",584822,Dublin,,
 1472,"Roscommon Leader Partnership",https://www.rosleaderpartnership.ie/,roscommonleaderpartnership,,,,2025,18,88,,,F42,,Roscommon,,
-1473,"Clare Tourism Development",https://www.cliffsofmoher.ie/,claretourismdevelopment,,,,2025,15,79,,,V95,,Clare,842,V95FX32
+1473,"Clare Tourism Development",https://www.cliffsofmoher.ie/,claretourismdevelopment,,,,2025,15,79,,,V95FX32,,Clare,842,V95FX32
 1474,"IAC Group",https://iac.aero/,iacgroup,"IAC Group",,,2025,8,52,1474,,V14,,Clare,,
 1475,"BNP Paribas",https://www.bnpparibas.ie/,bnpparibas,,,,2024,12,64,,,D18,903258,Dublin,,
 1476,Zinkworks,https://www.zinkworks.com/,zinkworks,,,,2025,11,63,,,"N37 E2P6",,Westmeath,,
 1477,Mergon,https://mergon.com/,mergon,,,,2022,3,22,,,N91,909494,Westmeath,,
 1478,Statkraft,https://www.statkraft.ie/,statkraft,,,,2025,4,35,,,D02DH60,487313,Dublin,,
-1479,"Wilson Hartnell",https://www.wilsonhartnell.ie/,wilsonhartnell,,,,2025,14,73,,,D14,38401,Dublin,403,D02E896
+1479,"Wilson Hartnell",https://www.wilsonhartnell.ie/,wilsonhartnell,,,,2025,14,73,,,D02E896,38401,Dublin,403,D02E896
 1481,"DCC Management Services",https://www.dcc.ie/,dccmanagementservices,,,,2025,4,35,,,D18,385376,Dublin,,
 1482,Datalex,https://www.datalex.com/,datalex,,,,2025,11,62,,,V92,110325,Kerry,,
 1483,"Orona MidWestern",https://www.orona-group.com/,oronamidwestern,,,,2025,3,28,,,D02,90721,Dublin,,
@@ -1365,7 +1365,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1488,"Certas Energy",https://www.certasenergyretail.eu/,certasenergy,,,,2025,7,46,,,A92,656547,Louth,,
 1489,"Sika Ireland",https://irl.sika.com/,sikaireland,,,,2025,3,20,,,D01,223343,Dublin,,
 1490,"Carbon Group",https://www.carbon.ie/,carbongroup,,,,2025,3,20,,,N91,43703,Westmeath,,
-1491,"Estée Lauder",https://www.elcompanies.com/en/,esteelauder,,mediarequests.emea@estee.com,,2022,3,20,,,"D02 HK49",,Dublin,238,D01H104
+1491,"Estée Lauder",https://www.elcompanies.com/en/,esteelauder,,mediarequests.emea@estee.com,,2022,3,20,,,D01H104,,Dublin,238,D01H104
 1492,"McCormack Farms",https://mccormackfarms.ie/,mccormackfarms,,,,2025,1,1,,,D02,140401,Dublin,,
 1493,Serosep,https://www.serosep.com/,serosep,,,,2025,3,32,,,D07,289049,Dublin,,
 1494,"Educational Research Centre",https://www.erc.ie/,educationalresearchcentre,,,,2025,14,72,,,D09,,Dublin,,
@@ -1388,7 +1388,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1511,"Mespil Hotel",https://www.mespilhotel.com/,mespilhotel,,,,2025,9,55,,,D15,190084,Dublin,,
 1512,"Bennett Construction",https://bennettconstruction.ie/,bennettconstruction,,,,2025,6,41,,,D02,253920,Dublin,,
 1513,Avolon,https://www.avolon.aero/,avolon,,,,2024,12,64,,,T12,733199,Cork,,
-1514,Barnardos,https://www.barnardos.ie/,barnardos,,info@barnardos.ie,,2022,18,88,,,F23,141526,Mayo,678,DO8DT63
+1514,Barnardos,https://www.barnardos.ie/,barnardos,,info@barnardos.ie,,2022,18,88,,,DO8DT63,141526,Mayo,678,DO8DT63
 1515,"BCD MascoGroup",https://www.bcd.ie/,bcdmascogroup,,,,2024,3,28,,,T12,719274,Cork,,
 1516,BCMGlobal,https://www.bcmglobal.com/,bcmglobal,,,,2022,12,66,,,E34,315348,Tipperary,,
 1517,"Anord Mardix",https://anordmardix.com/,anordmardix,,hr.ie@anordmardix.com,,2022,3,27,,,D02,30785,Dublin,,
@@ -1399,7 +1399,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1523,"Bright Software",https://brightsg.com/,brightsoftware,,,,2024,11,62,,,D03,714546,Dublin,,
 1524,Orsted,https://orsted.ie/,orsted,,,,2025,4,35,,,T12,455826,Cork,,
 1525,"GEM Construction",https://gemconstruction.ie/,gemconstruction,,,,2025,6,41,,,N39,751520,Longford,,
-1526,Arlo,https://www.arlo.com/,arlo,,,,2025,15,80,,,T12,619037,Cork,93,T12EF21
+1526,Arlo,https://www.arlo.com/,arlo,,,,2025,15,80,,,T12EF21,619037,Cork,93,T12EF21
 1527,"Women's Aid",https://www.womensaid.ie/,womensaid,,,,2025,20,94,,,Y35,58035,Wexford,,
 1528,"Retail inMotion",https://www.retailinmotion.com/,retailinmotion,,,,2024,7,47,,,"D18 DH50",,Dublin,,
 1529,"An Cosán",https://www.ancosan.ie/,ancosan,,,,2025,17,85,,,D02,131383,Dublin,,
@@ -1411,7 +1411,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1535,FIRE1,https://fire1foundry.com/,fire1,,,,2025,3,32,,,D11,,Dublin,,
 1536,"Irish National Teacher's Organisation",https://www.into.ie/,into,INTO,generalinfo@into.ie,,2025,20,94,,,D01,,Dublin,,
 1537,"Fire Steakhouse & Bar",https://www.firesteakhouse.ie/,firesteakhousebar,,,,2025,9,56,,,D02,,Dublin,,
-1538,"Irish National Stud ",https://irishnationalstud.ie/,irishnationalstud,,,,2025,19,91,,,R51,,Kildare,316,R51F973
+1538,"Irish National Stud ",https://irishnationalstud.ie/,irishnationalstud,,,,2025,19,91,,,R51F973,,Kildare,316,R51F973
 1539,"Gill Education",https://www.gilleducation.ie/,gilleducation,,,,2025,10,58,,,"D12 YV96",,Dublin,,
 1540,"Gino's Gelato",https://ginosgelato.com/,ginosgelato,"Gino's Italian Ice Cream",,,2025,9,56,1540,,A63,,Wicklow,,
 1541,"Jack and Jill Children's Foundation",https://www.jackandjill.ie/,jackandjillchildrensfoundation,,,,2025,18,87,,,W91,,Kildare,,
@@ -1452,7 +1452,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1576,"Forcepoint Ireland",https://www.forcepoint.com/,forcepointireland,,,,2025,11,62,,,"R93 YH95",355626,Carlow,,
 1577,"Office of the Ombudsman",https://ombudsman.ie/,officeoftheombudsman,,,,2025,16,84,,,"D02 W773",,Dublin,,
 1578,Trócaire,https://www.trocaire.org/,trocaire,,,,2024,18,88,,,W23,661147,Kildare,,
-1579,"Injuries Resolution Board",https://www.injuries.ie/,injuriesresolutionboard,,,,2025,16,84,,,"D24 PXW0",,Dublin,328,D24PXW0
+1579,"Injuries Resolution Board",https://www.injuries.ie/,injuriesresolutionboard,,,,2025,16,84,,,D24PXW0,,Dublin,328,D24PXW0
 1580,"Newcourt Retirement Fund Managers",https://nrfm.ie/,newcourtretirementfundmanagers,,,,2025,12,65,,,D07,395396,Dublin,,
 1581,"Strategic Placement Group",https://strategicplacement.ie/,strategicplacementgroup,,,,2025,15,78,,,D02,676588,Dublin,,
 1582,"Harris Group",https://harrisgroup.ie/,harrisgroup,,,,2025,7,47,,,"D12 V065",,Dublin,,
@@ -1467,7 +1467,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1591,"Howth Castle",https://howthcastle.ie/,howthcastle,,,,2025,19,91,,,D13,,Dublin,,
 1592,Cafico,https://www.caficointernational.com/,cafico,,,,2025,12,66,,,D02,516970,Dublin,,
 1593,"ICTS Ireland",https://www.icts.ie/,ictsireland,,,,2023,15,80,,,"A82 CT95",579600,Meath,,
-1594,"Gallagher Insurance Brokers",https://www.ajg.ie/,gallagherinsurancebrokers,,,,2025,12,65,,,H91,22380,Galway,426,Y35RR92
+1594,"Gallagher Insurance Brokers",https://www.ajg.ie/,gallagherinsurancebrokers,,,,2025,12,65,,,Y35RR92,22380,Galway,426,Y35RR92
 1595,Powercomm,https://www.powercomm.ie/,powercomm,,,,2024,6,42,,,W23,456154,Kildare,,
 1596,"Rhomberg Sersa Rail Group",https://ireland.rhomberg-sersa.com,rhombergsersarailgroup,,,,2025,6,42,,,W23,643229,Kildare,,
 1597,"Johnstown Estate",https://thejohnstownestate.com/,johnstownestate,,info@thejohnstownestate.com,,2022,9,55,,,A83,,Meath,,
@@ -1479,35 +1479,35 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1603,"NYX Hotel",https://www.leonardo-hotels.com/dublin/nyx-hotel-dublin-portobello,nyxhotel,Rockyvale,,,2025,9,55,,,D09,561774,Dublin,,
 1604,"PennEngineering Portfolio",https://www.pemnet.com/eu/,pennengineeringportfolio,,,,2022,3,25,,,"H91 AHW0",,Galway,,
 1605,"GP Payments Acquiring International GmbH",https://www.globalpayments.com/,gppaymentsacquiringinternationalgmbh,,,,2025,12,64,,,D02,907681,Dublin,,
-1606,"Fitzgerald Power",https://fitzgeraldpower.ie/,fitzgeraldpower,,,,2025,14,69,,,X91,785870,Waterford,505,X91K2WV
+1606,"Fitzgerald Power",https://fitzgeraldpower.ie/,fitzgeraldpower,,,,2025,14,69,,,X91K2WV,785870,Waterford,505,X91K2WV
 1607,Enva,https://enva.com,enva,,,,2024,5,36,,,R95,317186,Kilkenny,,
 1608,Xocean,https://xocean.com/,xocean,,,,2025,11,63,,,A92,599121,Louth,,
 1609,"Körber Pharma Software",https://www.koerber-pharma.com/en/,krberpharmasoftware,,,,2025,3,28,,,D02,909428,Dublin,,
 1610,"Higher Education Authority",https://hea.ie/,highereducationauthority,,,,2025,16,84,,,D04,,Dublin,,
 1611,"3Olympia Theatre",https://www.3olympia.ie/,3olympiatheatre,,info@3olympia.ie,,2025,19,90,,,"A96 T860",348378,Dublin,,
 1612,"Kinsale Hotel & Spa",https://www.kinsalehotelandspa.ie/,kinsalehotelspa,,,,2025,9,55,,,P17,,Cork,,
-1613,"Ballymaloe Foods",https://ballymaloefoods.ie/,ballymaloefoods,,,,2025,3,10,,,"P61 DF83",228216,Cork,88,T45YF62
+1613,"Ballymaloe Foods",https://ballymaloefoods.ie/,ballymaloefoods,,,,2025,3,10,,,T45YF62,228216,Cork,88,T45YF62
 1614,"Independent Irish Health Foods",https://iihealthfoods.com/,independentirishhealthfoods,,,,2025,7,46,,,T12,453814,Cork,,
 1615,"Oakpark Foods",https://oakparkfoods.ie/,oakparkfoods,,,,2024,3,10,,,W23,116358,Kildare,,
 1616,"Sumitomo Mitsui Trust",https://www.sumitrustgas.com/,sumitomomitsuitrust,,,,2024,12,64,,,A63,149545,Wicklow,,
 1617,"Cinders Shoe Heaven",https://cinders.ie/,cindersshoeheaven,,,,2025,7,47,,,X91,166850,Waterford,,
-1618,"Culligan Water Ireland",https://www.culligan.ie/,culliganwaterireland,,,,2025,7,46,,,D02,174027,Dublin,125,D02DK18
+1618,"Culligan Water Ireland",https://www.culligan.ie/,culliganwaterireland,,,,2025,7,46,,,D02DK18,174027,Dublin,125,D02DK18
 1619,Equifax,https://www.equifax.com/,equifax,,,,2025,12,64,,,D18CH52,569745,Dublin,,
 1620,"Hevac Group",https://www.hevac.ie/,hevacgroup,,,,2025,3,33,,,T12,,Cork,,
 1621,"KSN Energy",https://www.ksn.ie/,ksnenergy,,,,2025,4,35,1621,,D04,579991,Dublin,,
-1622,"Woodford Dolmen Hotel",https://www.woodforddolmenhotel.ie/,woodforddolmenhotel,,,,2025,9,55,,,R93,523120,Carlow,611,R93N207
+1622,"Woodford Dolmen Hotel",https://www.woodforddolmenhotel.ie/,woodforddolmenhotel,,,,2025,9,55,,,R93N207,523120,Carlow,611,R93N207
 1623,Portakabin,https://www.portakabin.com/,portakabin,,,,2025,6,41,,,A63,212248,Wicklow,,
 1624,"Perigord Group",https://perigordgroup.ie/,perigordgroup,,,,2025,14,74,1624,,D15,391589,Dublin,,
 1625,"Fieldfisher LLP",https://www.fieldfisher.com/en-ie/locations/ireland,fieldfisherllp,,,,2025,14,69,,,"D04 W2F1",,Dublin,,
 1626,"Activ8 Solar Energies",https://www.activ8energies.com/,activ8solarenergies,,,,2024,6,43,,,H18,764591,Monaghan,,
 1627,"KarePlus (Wexford & South East)",https://kareplus.ie/,karepluswexfordsoutheast,,,,2025,18,88,,,Y35,,Wexford,,
-1628,"Gym + Coffee",https://gympluscoffee.com/,gympluscoffee,,,,2025,7,47,,,D02,589733,Dublin,136,D02AK46
+1628,"Gym + Coffee",https://gympluscoffee.com/,gympluscoffee,,,,2025,7,47,,,D02AK46,589733,Dublin,136,D02AK46
 1629,"McSwiggans (Palomar)",https://www.mcswiggans.ie/,mcswigganspalomar,,,,2025,9,56,,,D06,98438,Dublin,,
 1630,"Quinn Downes",https://www.quinndownes.com/,quinndownes,,,,2025,6,43,,,W23,300646,Kildare,,
 1631,"National Advocacy Service for People with Disabilities",https://www.patientadvocacyservice.ie/wp-content/uploads/2025/11/2025_Nov_NAS_GenderPayGapReport-2.pdf,nationaladvocacyserviceforpeoplewithdisabilities,,,,2025,16,84,,,D08,535779,Dublin,,
 1632,"Crown Quarter",https://www.crownquarter.com/,crownquarter,,,,2025,9,55,,,Y35,,Wexford,,
 1633,"Dublin Street Parking Services",https://dsps.ie/,dublinstreetparkingservices,,,,2025,8,52,,,D01,393009,Dublin,,
-1634,"Avonmore Electrical",https://www.avonmore-electrical.com/,avonmoreelectrical,,,,2025,3,33,,,D12,326561,Dublin,456,P51R206
+1634,"Avonmore Electrical",https://www.avonmore-electrical.com/,avonmoreelectrical,,,,2025,3,33,,,P51R206,326561,Dublin,456,P51R206
 1635,Combilift,https://combilift.com/,combilift,,,,2022,3,28,,,V92,280018,Kerry,,
 1636,Mulrines,https://www.mulrines.ie/,mulrines,,,,2025,3,11,,,D01,149069,Dublin,,
 1637,Viotas,https://viotas.com/,viotas,,,,2025,11,62,,,V94,752479,Limerick,,
@@ -1516,7 +1516,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1640,Sandvik,https://www.home.sandvik/,sandvik,,,,2024,3,28,,,"D02 VR66",354158,Dublin,,
 1641,"Abbey Capital",https://www.abbeycapital.com/,abbeycapital,,,,2025,12,64,,,"D02 VR66",327102,Dublin,,
 1642,"Foot Locker",https://www.footlocker.ie/,footlocker,,,,2025,7,47,,,D01,391370,Dublin,,
-1643,"CFM Group",https://cfmgroup.ie/,cfmgroup,,,,2025,12,65,,,D02,903480,Dublin,447,D6WCF54
+1643,"CFM Group",https://cfmgroup.ie/,cfmgroup,,,,2025,12,65,,,D6WCF54,903480,Dublin,447,D6WCF54
 1644,SEI,https://www.seic.com/,sei,,,,2022,12,66,,,"D02 X9Y6",,Dublin,,
 1645,"Royal London Insurance",https://www.royallondon.ie/,royallondoninsurance,,,,2024,12,65,,,D02,630146,Dublin,,
 1646,"Java Republic",https://www.javarepublic.com/,javarepublic,,,,2025,7,46,,,D15,292407,Dublin,,
@@ -1538,7 +1538,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1662,"Goulding Soil Nutrition",https://www.gouldings.ie/,gouldingsoilnutrition,,,,2025,3,20,,,D02,1418,Dublin,,
 1663,"Odaios Foods",https://www.odaios-foods.com/,odaiosfoods,"J.E. O’Brien and Sons",,,2025,7,46,,,D18,196933,Dublin,,
 1664,CCSL,https://www.ccsl.ie/,ccsl,,,,2024,9,56,,,D02,173128,Dublin,,
-1665,Mallon,https://www.mallontechnology.com/,mallon,,,,2025,11,62,,,"D02 XH98",,Dublin,642,D02XH98
+1665,Mallon,https://www.mallontechnology.com/,mallon,,,,2025,11,62,,,D02XH98,,Dublin,642,D02XH98
 1666,"Engineers Ireland",https://www.engineersireland.ie/,engineersireland,,,,2025,20,94,,,F94,,Donegal,,
 1667,BMD,https://www.bmd.ie/,bmd,,,,2024,14,71,,,D02,537626,Dublin,,
 1668,"Egis Engineering",https://www.egis-group.com/,egisengineering,,,,2025,14,71,,,H12,121649,Cavan,,
@@ -1555,7 +1555,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1679,"Townlink Construction",https://www.townlink.ie/wp-content/uploads/Gender-Pay-Gap-Report.pdf,townlinkconstruction,,,,2025,6,41,,,P25FW92,174203,Cork,,
 1680,"Tritech Engineering",https://tritech.ie/,tritechengineering,,,,2025,6,41,1680,,F92,310747,Donegal,,
 1681,"Tritech Electrical",https://tritech.ie/,tritechelectrical,,,,2025,6,41,1680,,D22,456483,Dublin,,
-1682,"Good Counsel College",https://goodcounselcollege.ie/,goodcounselcollege,,,,2025,17,85,,,Y34,,Wexford,648,Y34R297
+1682,"Good Counsel College",https://goodcounselcollege.ie/,goodcounselcollege,,,,2025,17,85,,,Y34R297,,Wexford,648,Y34R297
 1683,"Murdock Builders Merchants",https://murdockbuildersmerchants.com/,murdockbuildersmerchants,,,,2025,7,46,,,D02,368116,Dublin,,
 1684,"Bakers + Baristas",https://www.bakersbaristas.com/,bakersbaristas,,,,2025,9,56,,,A63,297674,Wicklow,,
 1685,"Brooks Timber & Building Supplies",https://brooksonline.ie/,brookstimberbuildingsupplies,,,,2025,7,46,,,D12,509131,Dublin,,
@@ -1571,8 +1571,8 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1695,"Ipsen Manufacturing",https://www.ipsen.com/uk-ireland/,ipsenmanufacturing,,,,2024,3,21,,,D22,140251,Dublin,,
 1696,Enercon,https://www.enercon.de/en,enercon,,,,2025,3,28,,,D09,907642,Dublin,,
 1697,"Circle Housing",https://circlevha.ie/,circlehousing,,,,2025,15,77,,,D02,,Dublin,,
-1698,"Spectate Ltd",https://www.evokeplc.com/,spectateltd,"Evoke PLC",,,2025,19,92,,,D18,644288,Dublin,415,D18X2P7
-1699,Camfil,https://www.camfil.com/,camfil,,,,2025,3,32,,,T12,86697,Cork,615,D09A2H1
+1698,"Spectate Ltd",https://www.evokeplc.com/,spectateltd,"Evoke PLC",,,2025,19,92,,,D18X2P7,644288,Dublin,415,D18X2P7
+1699,Camfil,https://www.camfil.com/,camfil,,,,2025,3,32,,,D09A2H1,86697,Cork,615,D09A2H1
 1700,"Reed Specialist REcruitment",https://www.reedglobal.ie/,reedspecialistrecruitment,,,,2025,15,78,,,Y35,269016,Wexford,,
 1701,"Lambert Smith Hampton",https://www.lsh.ie/,lambertsmithhampton,,,,2024,13,68,,,"D02 A668",,Dublin,,
 1702,"Ralvale Ltd",https://www.thebuckleycollection.ie/,ralvaleltd,,,,2025,9,56,,,D02,374764,Dublin,,
@@ -1582,13 +1582,13 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1706,"Waters Technologies",https://www.waters.com/nextgen/ie/en.html,waterstechnologies,,,,2022,3,28,,,D22,268908,Dublin,,
 1707,Vitalograph,https://vitalograph.com/,vitalograph,,,,2023,3,32,,,H18,48600,Monaghan,,
 1708,Grifols,https://www.grifols.com/,grifols,,,,2022,3,21,,,D22,519799,Dublin,,
-1709,"City Wonders",https://citywonders.com/,citywonders,,,,2025,15,79,,,D02,426218,Dublin,565,D02EY47
+1709,"City Wonders",https://citywonders.com/,citywonders,,,,2025,15,79,,,D02EY47,426218,Dublin,565,D02EY47
 1710,Cityswift,https://www.cityswift.com/,cityswift,,,,2025,8,49,,,"H91 HE9E",,Galway,,
 1711,"Coffey Group",https://www.coffeygroup.com/,coffey,,,,2025,6,42,,,H91,382121,Galway,,
 1712,"Commissioners of Irish Lights",https://www.irishlights.ie/,commissionersofirishlights,,,,2025,16,84,,,"A96 H500",,Dublin,,
 1713,"Compass Informatics",https://compass.ie/,compassinformatics,,,,2025,11,63,,,D02,263347,Dublin,,
-1714,CoolPlanet,https://www.coolplanet.io,coolplanet,,,,2025,14,70,,,"A98 P3C8",,Wicklow,149,A98W0D0
-1715,"Croom Medical",https://croommedical.com/,croommedical,,,,2025,3,32,,,V35,,Limerick,649,v35yd39
+1714,CoolPlanet,https://www.coolplanet.io,coolplanet,,,,2025,14,70,,,A98W0D0,,Wicklow,149,A98W0D0
+1715,"Croom Medical",https://croommedical.com/,croommedical,,,,2025,3,32,,,v35yd39,,Limerick,649,v35yd39
 1716,Crosscare,https://crosscare.ie/,crosscare,,,,2025,18,87,,,D10,35153,Dublin,,
 1717,Cubic3,https://www.cubic3.com/,cubic3,,,,2024,11,62,,,"D18 Y2C9",,Dublin,,
 1718,"Caceis Bank Ireland Branch",https://www.caceis.com/,caceisbank,,,,2024,12,64,1718,,D02,904970,Dublin,,
@@ -1615,7 +1615,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1739,"The Donkey Sanctuary",https://www.thedonkeysanctuary.ie/,thedonkeysanctuary,,,,2025,20,94,,,"P51 PH29",,Cork,,
 1740,"Grove Farm",https://www.grove.ie/,grovefarm,,,,2024,3,10,,,"H18 AR26",,Monaghan,,
 1741,"Gowan Group",https://www.gowangroup.ie/,gowangroup,,,,2025,7,47,,,D06,,Dublin,,
-1742,"Wogan Build Centre",https://www.wogans.ie/,woganbuildcentre,,,,2025,7,46,,,A92,439371,Louth,467,A92T20W
+1742,"Wogan Build Centre",https://www.wogans.ie/,woganbuildcentre,,,,2025,7,46,,,A92T20W,439371,Louth,467,A92T20W
 1743,"Doran Motors",https://www.doranmotors.ie/,doranmotors,,,,2025,7,47,,,H18,720471,Monaghan,,
 1744,"Kearys Motor Group",https://www.kearys.ie/,kearysmotorgroup,,,,2025,7,47,,,V94,,Limerick,,
 1745,"Johnson & Perrott Motor Group",https://www.jpmg.ie/,johnsonperrottmotorgroup,,,,2024,7,47,,,T12,,Cork,,
@@ -1645,11 +1645,11 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1769,"Marco Beverage Systems",https://marcobeveragesystems.com/,marcobeveragesystems,,,,2025,3,28,,,"D18 H9V6",,Dublin,,
 1770,"Jump Zone",https://jumpzone.ie/,jumpzone,,,,2025,19,93,,,"D18 XE70",,Dublin,,
 1771,Payzone,https://www.payzone.ie/,payzone,,,,2025,14,74,,,"D18 PD83",,Dublin,,
-1772,Bizquip,https://bizquip.ie/,bizquip,,,,2025,7,46,,,"D18 K5Y9",,Dublin,602,D18K5Y9
+1772,Bizquip,https://bizquip.ie/,bizquip,,,,2025,7,46,,,D18K5Y9,,Dublin,602,D18K5Y9
 1773,"United Hardware",https://unitedhardware.ie/,unitedhardware,,,,2025,7,46,,,"D24 KX97",,Dublin,,
 1774,"Zeus Packaging",https://www.zeuspackaging.com/ie/,zeuspackaging,,,,2025,3,17,,,"D24 TD23",,Dublin,,
-1775,"Celtic Linen",https://www.johnsonsireland.ie/,celticlinen,"Johnsons Ireland",,,2022,20,96,1775,,"Y35 Y20F",,Wexford,187,Y35Y20F
-1776,"Millbrook Linen",https://www.johnsonsireland.ie/,millbrooklinen,,,,2025,20,96,1775,,"W91 KXR0",,Kildare,470,W91KXRO
+1775,"Celtic Linen",https://www.johnsonsireland.ie/,celticlinen,"Johnsons Ireland",,,2022,20,96,1775,,Y35Y20F,,Wexford,187,Y35Y20F
+1776,"Millbrook Linen",https://www.johnsonsireland.ie/,millbrooklinen,,,,2025,20,96,1775,,W91KXRO,,Kildare,470,W91KXRO
 1777,"Petrochem Group",https://www.petrochem.ie/,petrochemgroup,,,,2025,7,46,,,"A86 R596",,Meath,,
 1778,AMS,https://www.ams.ie/,ams,"Architectural & Metal Systems",,,2023,3,24,,,"T45 VP40",,Cork,,
 1779,Occupli,https://occupli.com/,occupli,,,,2025,18,86,,,"T45 DK25",,Cork,,
@@ -1659,8 +1659,8 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1783,"Dog's Trust",https://www.dogstrust.ie/,dogstrust,,,,2025,20,94,,,D11,,Dublin,,
 1784,"Griffith College",https://www.griffith.ie/,griffithcollege,,,,2025,17,85,,,"D08 V04N",,Dublin,,
 1785,GridBeyond,https://gridbeyond.com,gridbeyond,,,,2025,11,62,,,"D24 KX6Y",,Dublin,,
-1786,"Golden Bake",https://www.golden-bake.com/,goldenbake,,,,2025,3,10,,,"D17 CP26",,Dublin,273,D17CP26
-1787,Garwyn,https://davies-group.com/,garwyn,Davies,,,2025,14,66,1787,,"D12 W702",,Dublin,318,D12W702
+1786,"Golden Bake",https://www.golden-bake.com/,goldenbake,,,,2025,3,10,,,D17CP26,,Dublin,273,D17CP26
+1787,Garwyn,https://davies-group.com/,garwyn,Davies,,,2025,14,66,1787,,D12W702,,Dublin,318,D12W702
 1788,Thornton,https://davies-group.com/,thornton,Davies,,,2025,14,66,1787,,"D12 W702",,Dublin,,
 1789,"AIR Shannon",https://industrialrobotics.com,airshannon,"Automated Industrial Robotics ",,,2025,3,28,1789,,"V14 V963",,Clare,,
 1790,"Galway Centre for Independent Living",https://gcil.ie/,galwaycentreforindependentliving,,,,2025,18,88,,,"H91 X4VR",,Galway,,
@@ -1704,10 +1704,10 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1828,"West Pharmaceutical Products Waterford",https://www.westpharma.com,westpharmaceuticalproductswaterford,,ireland.hrdublin@westpharma.com,,2022,3,22,1827,,"X91 R9V6",,Waterford,,
 1829,"Institute of Public Administration",https://www.ipa.ie/,ipa,,information@ipa.ie,,2025,17,85,,,"D04 TC62",,Dublin,,
 1830,MD7,https://www.md7.com/,md7,,info@md7.com,,2025,14,70,,,"D02 VK44",,Dublin,,
-1831,"National Treatment Purchase Fund",https://www.ntpf.ie/,ntpf,NTPF,ask@ntpf.ie,,2025,16,84,,,"D02 VX67",,Dublin,281,D02VX67
+1831,"National Treatment Purchase Fund",https://www.ntpf.ie/,ntpf,NTPF,ask@ntpf.ie,,2025,16,84,,,D02VX67,,Dublin,281,D02VX67
 1832,Amtivo,https://amtivo.com/,amtivo,,hello@amtivo.com,,2025,14,71,,,"D12 P8R2",,Dublin,,
 1833,"Irish Pioneer Works",https://www.ipw.ie/,irishpioneerworks,,info@ipw.ie,,2025,3,25,,,"T12 K7XR",,Cork,,
-1834,"Siemens Gamesa",https://www.siemensgamesa.com/global/en/home.html,siemensgamesa,,,,2025,4,35,1344,,"D11 KXN4",,Dublin,285,D11KXN4
+1834,"Siemens Gamesa",https://www.siemensgamesa.com/global/en/home.html,siemensgamesa,,,,2025,4,35,1344,,D11KXN4,,Dublin,285,D11KXN4
 1835,"Tyholland Mushrooms",https://www.monaghan.eu/,tyhollandmushrooms,,info@monaghan-mushrooms.com,,2025,1,1,621,,"H18 FW95",,Monaghan,,
 1836,TEKsystems,https://www.teksystems.com/en/,teksystems,"Allegis Group",,,2025,15,78,,,"D18 Y3X2",,Dublin,,
 1837,"Emerald Airlines",https://www.emeraldairlines.com/,emeraldairlines,,info@emeraldairlines.com,,2022,8,51,,,"K67 XK66",,Dublin,,
@@ -1717,7 +1717,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1841,Whoop,https://www.whoop.com/ie/,whoop,,privacy@whoop.com,,2025,11,62,,,"D02 R296",,Dublin,,
 1842,"Punch Consulting Engineers",https://punchconsulting.com/,punchconsultingengineers,,limerick@punchconsulting.com,,2025,14,71,,,"A96 C7W7",,,,
 1844,TEKenable,https://tekenable.com/,tekenable,,info@tekenable.ie,,2025,11,62,,,"D02 DR98",,,,
-1846,"The Teaching Council",https://www.teachingcouncil.ie/,theteachingcouncil,,info@teachingcouncil.ie,,2025,16,84,,,"W23 Y7X0",,,489,W23Y7X0
+1846,"The Teaching Council",https://www.teachingcouncil.ie/,theteachingcouncil,,info@teachingcouncil.ie,,2025,16,84,,,W23Y7X0,,,489,W23Y7X0
 1848,"Independent Trustee Company",https://www.independent-trustee.com/,independenttrusteecompany,ITC,service@itcgroup.ie,,2025,12,66,,,"D02 VY52",,,,
 1850,"Tapped & Lost Lane",https://www.tappeddublin.com/,tappedlostlane,Noyfield,info@tappeddublin.com,,2025,9,55,,,"D02 RP20",,,,
 1852,"IPL Schoeller",https://www.iplschoeller.com/,iplschoeller,"One51 Group Services Ltd",,,2025,3,22,,,"D02 NY63",,,,
@@ -1727,240 +1727,241 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1859,"Turner & Townsend",https://www.turnerandtownsend.com/,turnertownsend,,ireland@turnerandtownsend.com,,2024,14,71,,,"D02 VK70",,,,
 1860,"Screen Scene",https://screenscene.ie/,screenscene,,info@screenscene.ie,,2025,10,59,,,"D02 KH60",,,,
 1861,"NorDan Vinduer",https://nordan.ie/,nordanvinduer,,info@nordan.ie,,2025,7,46,,,"D12 DY40",,,,
-1862,"Abcon Industrial Products Ltd",https://www.abconireland.com/,abcon-industrial-products,,,,2025,3,0,,,,,,446,H16HY64
-1863,"ABM Aviation UK ltd.",https://www.abmireland.com/industries/airports,abm-aviation-uk,,,,2025,20,0,,,,,,407,W23D9WH
-1864,"ABM Contractors Ltd",https://abmcontractors.com/,abm-contractors-ltd,,,,2025,6,0,,,,,,197,K67TX95
-1865,"Adoption Authority of Ireland",https://aai.gov.ie/en,adoption-authority-of-ireland,,,,2025,16,0,,,,,,551,D04H6F6
-1866,"Air Movement Supplies Ltd",https://amsventilation.com/,air-movement-supplies-ltd,,,,2025,3,0,,,,,,432,D24FP95
-1867,"Airpacks Limited",https://www.kore-system.com/,airpacks-limited,,,,2025,3,0,,,,,,394,A82T291
-1868,"A O Gorman and Co Ltd",,a-o-gorman-and-co,,,,2025,7,0,,,,,,130,A81V389
-1869,"Arboretum Garden Centre",https://www.arboretum.ie/,arboretum-garden-centre,,,,2025,7,0,,,,,,591,R93P9F4
-1870,"Ardboyne Hotel",https://www.ardboynehotel.com/,ardboyne-hotel,,,,2025,9,0,,,,,,293,C15C9YA
-1871,"Ard Ri Marble",https://ardrimarble.com/,ard-ri-marble,,,,2025,7,0,,,,,,735,V92EH6E
-1872,"Arkil (Civil) Ltd",https://www.arkil.ie/services/civil-engineering/,arkil-civil-ltd,,,,2025,6,0,1874,,,,,702,R32DA00
-1873,"Arkil (Fantane) Limited",https://www.arkil.ie/,arkil-fantane-limited,,,,2025,6,0,1874,,,,,501,E41K7K5
-1874,"Arkil Ltd",https://www.arkil.ie/services/civil-engineering/,arkil-ltd,,,,2025,2,0,1874,,,,,608,R51YK27
-1875,"Ashbourne Holdings LTD",,ashbourne-holdings-ltd,"Old Head of Kinsale Golf Links",,,2025,9,0,,,,,,301,P17CX88
-1876,"Aspen Grove",https://www.aspengrovesolutions.com/,aspen-grove,,,,2025,11,0,,,,,,605,V92XO16
-1877,"AssemblyPoint Limited",,assemblypoint-limited,,,,2025,10,0,,,,,,576,T23PPT8
-1878,"AS Watson (Health & Beauty Ireland) Limited",,as-watson-health-beauty-ireland-limited,,,,2025,7,0,,,,,,276,D02R296
-1879,"Athletics Association Of Ireland",https://www.athleticsireland.ie/,athletics-association-of-ireland,,,,2025,19,0,,,,,,846,D09CX26
-1880,"Atlas Copco Ireland Ltd",https://www.atlascopco.com/en-ie,atlas-copco-ireland-ltd,,,,2025,3,0,,,,,,680,D15HR80
-1881,"AXIS UK Services Ltd (Irish branch)",,axis-uk-services-ltd-irish-branch,,,,2025,12,0,,,,,,575,D02T3V7
-1882,"Ball Beverage Packaging Ireland LTD",,ball-beverage-packaging-ireland-ltd,,,,2025,3,0,,,,,,348,X91V62N
-1883,"Ballivor Community Childcare",https://www.crannsupportgroup.ie/giggles/,ballivor-community-childcare,,,,2025,17,0,,,,,,245,C15EH67
-1884,"B & C Contractors Monaghan Ltd",https://bandccontractors.ie/,b-c-contractors-monaghan-ltd,,,,2025,6,0,,,,,,269,A81PN28
-1885,"Bausch + Lomb Ireland",https://www.bausch.com/about-bausch-lomb/locations/,bausch-lomb-ireland,,,,2025,3,0,,,,,,700,X91V383
-1886,"Bellview Clinic Partnership",,bellview-clinic-partnership,,,,2025,20,0,,,,,,178,N91EK7R
-1887,Benning,https://www.benning.de/sbd/IRL/benning-ireland.html,benning,,,,2025,3,0,,,,,,436,Y35F409
-1888,"BHA Construction Ltd",https://bhaconstruction.com/,bha-construction-ltd,,,,2025,6,0,,,,,,342,Y21H728
-1889,"Bord Iascaigh Mhara",https://bim.ie/,bord-iascaigh-mhara,BIM,,,2025,1,0,,,,,,126,A96A621
-1890,"Brooks Retailing Ltd",,brooks-retailing-ltd,,,,2025,7,0,,,,,,627,Y25H404
-1891,"BS&B Safety Systems Limited",https://bsbsystems.com/en/,bsb-safety-systems-limited,,,,2025,3,0,,,,,,386,V94N4V2
-1892,"BSS Subcontractors",https://www.buildstaff.ie/,bss-subcontractors,,,,2025,6,0,,,,,,322,d08k3kd
-1893,"Buttimer Engineering",https://buttimer.com/,buttimer-engineering,,,,2025,6,0,,,,,,391,E21W240
-1894,"Byron Distributors Ltd",,byron-distributors-ltd,,,,2025,7,0,,,,,,859,F42XV09
-1895,"Calgary Trading Co. Limited",,calgary-trading-co-limited,,,,2025,9,0,,,,,,170,X91D622
-1896,"Calgary Trading Co. Limited",,calgary-trading-co-limited,,,,2025,9,0,,,,,,170,X91D622
-1897,"Cape Wrath Hotel Unlimited Company",,cape-wrath-hotel,,,,2025,9,0,,,,,,73,D02WR20
-1898,"Carroll Joinery Manufacturing",,carroll-joinery-manufacturing,,,,2025,3,0,,,,,,340,r95ee70
-1899,"Castle Arch Hotel",https://www.castlearchhotel.com/,castle-arch-hotel,,,,2025,9,0,,,,,,247,C15WD92
-1900,"Celtic Ross Hotel Ltd",https://www.celticrosshotel.com/,celtic-ross-hotel-ltd,,,,2025,9,0,,,,,,306,T12X4YW
-1901,"Charles River Laboratories Ireland Ltd",,charles-river-laboratories-ireland-ltd,,,,2025,14,0,,,,,,203,F26D786
-1902,"Charles River Microbial Solutions",https://www.criver.com/,charles-river-microbial-solutions,,,,2025,14,0,,,,,,204,D24NF21
-1903,"Chevron College Ltd",https://chevrontraining.ie/,chevron-college-ltd,,,,2025,17,0,,,,,,315,Y35WKF7
-1904,CHM,https://chmltd.ie/,chm,,,,2025,6,0,,,,,,423,D24H9PA
-1905,"Clann Mor Residential & Respite CLG",,clann-mor-residential-respite-clg,,,,2024,18,0,,,,,,198,C15P7F2
-1906,"Clarity Recruitment Ventures LTD",,clarity-recruitment-ventures-ltd,"Clarity Locums",,,2024,20,0,,,,,,381,D02DW94
-1907,"CMS Distribution LTD",,cms-distribution-ltd,,,,2025,20,0,,,,,,134,f12td82
-1908,"Cobh General Hospital",,cobh-general-hospital,,,,2025,18,0,,,,,,682,P24AD85
-1909,"Cognex Ireland Limited",,cognex-ireland-limited,,,,2025,3,0,,,,,,295,T23YY24
-1910,"Collinson Insurance Solutions Europe Limoited",,collinson-insurance-solutions-europe-limoited,,,,2025,12,0,,,,,,327,A82E1C6
-1911,"Commissioning Agents Ireland Ltd",,commissioning-agents-ireland-ltd,,,,2025,14,0,,,,,,166,K67F256
-1912,"CommScope EMEA Limited",,commscope-emea-limited,,,,2025,3,0,,,,,,323,A98FY03
-1913,"Cora Systems Limited",,cora-systems-limited,,,,2025,11,0,,,,,,205,N41HK23
-1914,"Cosmetic Creations Ltd",,cosmetic-creations-ltd,,,,2025,3,0,,,,,,239,F12WT21
-1915,"County Kildare Leader Partnership",,county-kildare-leader-partnership,,,,2025,20,0,,,,,,288,R51R588
-1916,"Cricket Ireland",,cricket-ireland,,,,2025,19,0,,,,,,286,K36CD70
-1917,"Abbeyleix manor Hotel",https://www.abbeyleixmanorhotel.com/,abbeyleix-manor-hotel,"Crimhill Ltd",,,2025,9,0,,,,,,97,R32VE24
-1918,"Cru Na Greine Ltd",,cru-na-greine-ltd,,,,2025,7,0,,,,,,272,V93H3VP
-1919,CSG,https://www.csg.ie/,csg,,,,2025,12,0,,,,,,411,V92P6HC
-1920,"Culligan Home Ireland Limited",,culligan-home-ireland-limited,,,,2025,5,0,,,,,,219,D02DK18
-1921,"The Castle Hotel",https://www.castle-hotel.ie/,the-castle-hotel,"Dan Gerard Buckley",,,2024,9,0,,,,,,243,P12X293
-1922,"Daniel Whelan Engineering Works Limited",,daniel-whelan-engineering-works-limited,,,,2025,3,0,,,,,,300,R95XN56
-1923,"Dawnlough Ltd",https://dawnlough.com/,dawnlough-ltd,,,,2025,3,0,,,,,,188,H91YPN7
-1924,"Deluxe Taverns North Ltd",,deluxe-taverns-north-ltd,,,,2025,9,0,,,,,,471,D02DH36
-1925,"Dillons Hotel",,dillons-hotel,,,,2025,9,0,,,,,,443,F92F9DX
-1926,"Dominic O'Connor Ltd",,dominic-oconnor-ltd,,,,2025,6,0,,,,,,212,H62Y880
-1927,"Dromhall Hotel",,dromhall-hotel,,,,2025,9,0,,,,,,559,V93PY80
-1928,"Drummonds Ltd",https://drummonds.ie/,drummonds-ltd,,,,2025,1,0,,,,,,113,D15C789
-1929,Eatdrinkstay.ie,,eatdrinkstayie,,,,2025,9,0,,,,,,347,A98E864
-1930,"EDC Engineering Design Consultants Ltd",,edc-engineering-design-consultants-ltd,,,,2025,14,0,,,,,,253,T23R5TF
-1931,"Elder Nursing Homes Ltd.",,elder-nursing-homes-ltd,,,,2025,18,0,,,,,,76,P25KX56
-1932,"Eliza Care Limited",,eliza-care-limited,,,,2025,18,0,,,,,,142,R42HX70
-1933,"Empower Local Development CLG",,empower-local-development-clg,,,,2025,20,0,,,,,,109,D15K2TX
-1934,"E MURPHY MOTORS LTD",,e-murphy-motors-ltd,,,,2025,7,0,,,,,,596,Y35VAH6
-1935,"Energy Metrics Monitoring & Management",,energy-metrics-monitoring-management,,,,2025,14,0,,,,,,186,V94HT2Y
-1936,"Event Fuel Limited",,event-fuel-limited,FUEL,,,2025,19,0,,,,,,298,D02FW54
-1937,"Excel Industries",,excel-industries,,,,2025,3,0,,,,,,193,D15N704
-1938,Facilitas,,facilitas,,,,2025,15,0,,,,,,192,D09T623
-1939,"Dublin Home Support",,dublin-home-support,"Finglas Home Help/Care Organisation CLG",,,2025,18,0,,,,,,714,D11TD8Y
-1940,"First Ireland Spirits Manufacturing Co.",,first-ireland-spirits-manufacturing-co,,,,2025,3,0,,,,,,92,R32K230
-1941,"First Up SLU",,first-up-slu,,,,2025,6,0,,,,,,570,N37CY58
-1942,"Five Rivers Ireland",,five-rivers-ireland,,,,2025,18,0,,,,,,261,D15YE28
-1943,"Framespace Solutions Limited",,framespace-solutions-limited,,,,2025,6,0,,,,,,398,N39E337
-1944,"Green Isle Foods",,green-isle-foods,,,,2025,3,0,,,,,,260,W91RC85
-1945,"Oxfam Ireland",,oxfam-ireland,,,,2025,22,0,,,,,,303,D04V9Y9
-1946,"Wexford Credit Union Ltd",,wexford-credit-union-ltd,,,,2025,12,0,,,,,,503,Y35XW96
-1947,"Franciscan Province of Ireland",,franciscan-province-of-ireland,,,,2025,21,0,,,,,,616,D08XY19
-1948,"Fresh Start Support Services Limited",,fresh-start-support-services-limited,,,,2025,18,0,,,,,,72,R93X0V9
-1949,"FSW Coatings Ltd.",,fsw-coatings-ltd,,,,2025,3,0,,,,,,374,A82N267
-1950,"Galway Plant And Tool Hire Ltd",,galway-plant-and-tool-hire-ltd,,,,2025,20,0,,,,,,334,D12C791
-1951,"Hitachi Energy Ireland Limited",,hitachi-energy-ireland-limited,,,,2025,3,0,,,,,,620,D22X0Y3
-1952,"Hegarty Demolition Ltd",,hegarty-demolition-ltd,,,,2025,6,0,,,,,,129,D14V4F1
-1953,"Great Southern Killarney",,great-southern-killarney,,,,2025,9,0,,,,,,206,v93r866
-1954,"Galway Rural Development CLG",,galway-rural-development-clg,,,,2024,15,0,,,,,,369,H65KR02
-1955,"Goodman Medical Ireland",,goodman-medical-ireland,,,,2025,3,0,,,,,,210,h91h9ck
-1956,"Greenfield Foods Limited",,greenfield-foods-limited,,,,2025,1,0,,,,,,313,H18YY33
-1957,"Greenhill Fruit Farm Ltd",,greenhill-fruit-farm-ltd,,,,2025,1,0,,,,,,453,Y21T449
-1958,"Hamlet Court Hotel Ltd",,hamlet-court-hotel-ltd,,,,2025,9,0,,,,,,350,A83WC04
-1959,"Harmonics Career Crafting Limited",,harmonics-career-crafting-limited,,,,2025,20,0,,,,,,233,V94RR8D
-1960,"Hayfield Manor Hotel",,hayfield-manor-hotel,,,,2025,9,0,,,,,,263,T12HT97
-1961,"Healthcare Direct",,healthcare-direct,,,,2025,18,0,,,,,,284,V94HT2Y
-1962,"Hilti Fastening Systems",,hilti-fastening-systems,,,,2025,6,0,,,,,,208,D11V96E
-1963,"Hooke & MacDonald Limited",,hooke-macdonald-limited,,,,2025,13,0,,,,,,275,D02AW89
-1964,"Hotel Balor Teoranta",,hotel-balor-teoranta,,,,2025,9,0,,,,,,925,V93PXK3
-1965,"HP Corrigan",,hp-corrigan,,,,2025,7,0,,,,,,439,D04R6Y6
-1966,"i3PT Certification",,i3pt-certification,,,,2025,6,0,,,,,,319,D04YT91
-1967,"Glenn Wood Tullamore",,glenn-wood-tullamore,"Industrial & Domestic Furniture(Tullamore) Ltd",,,2025,3,0,,,,,,217,R35VK03
-1968,"Industrial Packaging Ltd",,industrial-packaging-ltd,,,,2025,3,0,,,,,,331,A98X3T6
-1969,"ICS Medical Devices",,ics-medical-devices,"Innovative Catheter Solutions",,,2025,3,0,,,,,,333,H91A2WA
-1970,"St. Margaret's Network",,st-margarets-network,"IRL-IASD CLG",,,2025,18,0,,,,,,159,D14YK10
-1971,"John Hurley Midleton (Unlimited) Company",,john-hurley-midleton-unlimited-company,,,,2025,7,0,,,,,,610,P25FR64
-1972,"Washrooms Ireland",,washrooms-ireland,"Karmarton Ltd",,,2025,5,0,,,,,,383,D10WD29
-1973,"Laois Hire Centres Ltd",,laois-hire-centres-ltd,,,,2025,20,0,,,,,,324,D12C791
-1974,Léargas,,leargas,,,,2025,17,0,,,,,,440,D01A3Y8
-1975,"Lexas Technologies Ltd.",,lexas-technologies-ltd,,,,2025,14,0,,,,,,117,R35TX95
-1976,"Lifewave Europe Ltd",,lifewave-europe-ltd,,,,2025,3,0,,,,,,628,H63NW84
-1977,"Linnaeus Ireland Veterinary Limited",,linnaeus-ireland-veterinary-limited,,,,2025,20,0,,,,,,346,D02T380
-1978,"Local Jobs Limited",,local-jobs-limited,,,,2025,15,0,,,,,,668,D24Fa07
-1979,"Luttrellstown Castle Resort",,luttrellstown-castle-resort,,,,2025,9,0,,,,,,258,D15RH92
-1980,"M.Fitzgibbon Contractors Limited",,mfitzgibbon-contractors-limited,,,,2025,6,0,,,,,,173,V94Y7Y5
-1981,"Madigan Cunningham Ltd",,madigan-cunningham-ltd,,,,2025,13,0,,,,,,598,V94K2Y2
-1982,"Mallow Credit Union Ltd",,mallow-credit-union-ltd,,,,2025,12,0,,,,,,228,P51HP48
-1983,"Marchford Limited",,marchford-limited,,,,2025,9,0,,,,,,98,W91Y65N
-1984,"Marcoh Care Limited",,marcoh-care-limited,,,,2025,18,0,,,,,,360,D12A447
-1985,"Maritime Area Regulatory Authority",,maritime-area-regulatory-authority,,,,2025,16,0,,,,,,727,Y35RF29
-1986,"Ballyhass Adventure Group",,ballyhass-adventure-group,"Maritime Tourism Ltd.",,,2025,19,0,,,,,,556,P51N990
-1987,"Mars Foods Ireland LTD.",,mars-foods-ireland-ltd,,,,2025,20,0,,,,,,325,D18K8Y4
-1988,"Martin Ryan Haulage Limited",,martin-ryan-haulage-limited,,,,2025,8,0,,,,,,343,V94W0C3
-1989,"Masonite Ireland",,masonite-ireland,,,,2024,3,0,,,,,,224,N41CC94
-1990,"MCG Facilities Management Ireland Limited",,mcg-facilities-management-ireland-limited,,,,2025,20,0,,,,,,564,D11XY10
-1991,"McLoughlin Industrial Flooring Contractors Ltd",,mcloughlin-industrial-flooring-contractors-ltd,,,,2025,6,0,,,,,,630,W91NX66
-1992,"MeHow Medical Ireland Ltd",,mehow-medical-ireland-ltd,,,,2025,3,0,,,,,,158,A98W8P3
-1993,"Mizen Clothing Retail Limited",,mizen-clothing-retail-limited,,,,2025,7,0,,,,,,367,t12w274
-1994,"Monahill Supermarkets Ltd",,monahill-supermarkets-ltd,,,,2025,7,0,,,,,,459,A91EYX9
-1995,"Moorehaven Centre (Tipperary) DAC",,moorehaven-centre-tipperary-dac,,,,2025,20,0,,,,,,235,E34H280
-1996,"Mountain Lodge Nursing Home Ltd",,mountain-lodge-nursing-home-ltd,,,,2025,20,0,,,,,,144,R42HX70
-1997,"Mowlam Healthcare Services",,mowlam-healthcare-services,,,,2025,18,0,,,,,,643,V94HT2Y
-1998,"MP Doyle Ltd",,mp-doyle-ltd,,,,2025,7,0,,,,,,451,R93W8D9
-1999,"Munters Corp Ireland",,munters-corp-ireland,,,,2025,3,0,,,,,,480,T45VN22
-2000,"Murex Advanced Technologies Ltd.",,murex-advanced-technologies-ltd,,,,2025,14,0,,,,,,632,D04E7K5
-2001,"Murtagh Bars Ltd",,murtagh-bars-ltd,,,,2025,9,0,,,,,,464,N41P5X5
-2002,"National Express Coach and Bus Services Limited",,national-express-coach-and-bus-services-limited,,,,2025,8,0,,,,,,567,K67KD58
-2003,"Nelipak Healthcare Packaging",,nelipak-healthcare-packaging,,,,2025,3,0,,,,,,667,R35F583
-2004,"Nethercross Ltd",,nethercross-ltd,,,,2025,9,0,,,,,,486,K67P2E4
-2005,"Newgrange Hotel",,newgrange-hotel,,,,2025,9,0,,,,,,195,C15A6WV
-2006,NIKE,,nike,,,,2025,7,0,,,,,,568,D15PXY3
-2007,"Nisbets Limited",,nisbets-limited,,,,2025,7,0,,,,,,427,T23RR3H
-2008,"Nomadic Foods Ltd.",,nomadic-foods-ltd,,,,2025,3,0,,,,,,586,F93VP83
-2009,"Nord Anglia Education Ireland Ltd.",,nord-anglia-education-ireland-ltd,,,,2025,17,0,,,,,,438,D18T672
-2010,"North Midlands Credit Union",,north-midlands-credit-union,,,,2025,12,0,,,,,,320,N91VO94
-2011,"Northgate Vehicle Hire (Ireland) Ltd",,northgate-vehicle-hire-ireland-ltd,,,,2025,8,0,,,,,,444,D04TR29
-2012,"O'Leary International Ltd",,oleary-international-ltd,,,,2025,8,0,,,,,,271,Y34V252
-2013,"Oberstown Children Detention Campus",,oberstown-children-detention-campus,,,,2025,16,0,,,,,,354,K45AY66
-2014,"Oceanpath Ltd",,oceanpath-ltd,,,,2025,1,0,,,,,,793,D13Hx25
-2015,"OConnell Street Inns",,oconnell-street-inns,,,,2025,9,0,,,,,,404,D01CK74
-2016,"Offaly Centre Independent Living",,offaly-centre-independent-living,,,,2025,18,0,,,,,,310,R35VC63
-2017,"Omnicom Media Group (Ireland) Ltd",,omnicom-media-group-ireland-ltd,,,,2025,14,0,,,,,,222,D04C2N4
-2018,"Parksite Gemon Developments",,parksite-gemon-developments,,,,2025,7,0,,,,,,268,A82Y5T3
-2019,"Park Developments (Dublin) Ltd",,park-developments-dublin-ltd,,,,2025,6,0,,,,,,652,D18K8Y4
-2020,"Pat Rynn Engineering Limited",,pat-rynn-engineering-limited,,,,2025,3,0,,,,,,548,H91W5T8
-2021,"Patrician Academy",,patrician-academy,,,,2025,17,0,,,,,,582,P51YK80
-2022,"Perigord Premedia Limited",,perigord-premedia-limited,,,,2025,14,0,1624,,,,,783,D15N283
-2023,"Pilz Ireland Industrial Automation",,pilz-ireland-industrial-automation,,,,2025,14,0,,,,,,110,T12AW80
-2024,"Pioneer Homecare Ltd",,pioneer-homecare-ltd,,,,2025,18,0,,,,,,637,D14W8Y1
-2025,"Pipe Arc Ltd",,pipe-arc-ltd,,,,2025,3,0,,,,,,413,H12WK70
-2026,"Polish Teachers Association",,polish-teachers-association,,,,2025,17,0,,,,,,623,D15VF22
-2027,"Post-Primary Languages Ireland",,postprimary-languages-ireland,PPLI,,,2025,17,0,,,,,,359,D08TCV4
-2028,"Premier Irish Homes",,premier-irish-homes,"PPGIH Business Ltd",,,2025,6,0,,,,,,71,C15FX29
-2029,ProAmpac,,proampac,,,,2025,3,0,,,,,,396,F92F44a
-2030,"Proofpoint Ireland Ltd",,proofpoint-ireland-ltd,,,,2025,20,0,,,,,,287,D04XN32
-2031,QQI,,qqi,"Quality and Qualifications Ireland",,,2025,16,0,,,,,,200,D02P266
-2032,"Quality Tractor Parts Ltd",,quality-tractor-parts-ltd,,,,2025,7,0,,,,,,118,n91nd37
-2033,Qualtrics,,qualtrics,,,,2025,11,0,,,,,,433,D02TA43
-2034,"RS Ireland",,rs-ireland,"Radionics Ltd",,,2025,3,0,,,,,,172,D12CK80
-2035,"Radius Business Solutions (Ireland) Limited",,radius-business-solutions-ireland-limited,,,,2025,20,0,,,,,,691,H91W1YV
-2036,"Regnology Ireland Limited",,regnology-ireland-limited,,,,2025,10,0,,,,,,251,D18Y3X2
-2037,"Remote Management Technology Limited",,remote-management-technology-limited,,,,2025,15,0,,,,,,507,T23YY09
-2038,"Repromed Ireland",,repromed-ireland,,,,2025,18,0,,,,,,225,D16W7W3
-2039,"Retail Solutions",,retail-solutions,,,,2025,11,0,,,,,,209,H54TA43
-2040,"RGIS Inventory Specialists",,rgis-inventory-specialists,,,,2025,20,0,,,,,,373,K67E5A0
-2041,"Richard Boyle and Sons (2004) Limited",,richard-boyle-and-sons-2004-limited,,,,2025,7,0,,,,,,104,V93AV63
-2042,"Richmond Marketing",,richmond-marketing,,,,2025,14,0,,,,,,409,D24H7RK
-2043,"Rogerson Reddan",,rogerson-reddan,,,,2025,14,0,,,,,,419,D04V1K7
-2044,"Rolsford Limited",,rolsford-limited,,,,2025,7,0,,,,,,472,D22ET96
-2045,"SAICA Pack Dublin",,saica-pack-dublin,,,,2025,3,0,2045,,,,,737,D22R924
-2046,"Saica Pack Ireland Ltd",,saica-pack-ireland-ltd,,,,2025,3,0,2045,,,,,736,A84W744
-2047,"Santa Sabina House Limited",,santa-sabina-house-limited,,,,2025,18,0,,,,,,703,D07WK25
-2048,"Shannondoc CLG",,shannondoc-clg,,,,2025,18,0,,,,,,431,V945V24
-2049,"Simpson's Hospital",,simpsons-hospital,,,,2025,18,0,,,,,,484,D16P732
-2050,"SIRO Dac",,siro-dac,,,,2025,11,0,,,,,,264,D18K8Y4
-2051,"SmartBear Ireland",,smartbear-ireland,,,,2025,20,0,,,,,,154,H91P8PR
-2052,Solas,,solas,,,,2025,17,0,,,,,,114,D01A8N0
-2053,"Sonoco Metal Packaging Ireland Ltd",,sonoco-metal-packaging-ireland-ltd,,,,2025,3,0,,,,,,355,R14C622
-2054,"South County Self Drive Ltd.",,south-county-self-drive-ltd,,,,2025,20,0,,,,,,695,A96TF24
-2055,"South Dublin County Partnership",,south-dublin-county-partnership,,,,2025,18,0,,,,,,163,D24A3XC
-2056,"South West Doctors On Call CLG",,south-west-doctors-on-call-clg,,,,2024,18,0,,,,,,87,V93K0DN
-2057,"Spectrum Telecom Installations Ltd.",,spectrum-telecom-installations-ltd,,,,2025,6,0,,,,,,339,W91YC89
-2058,"St. Helens Hotel",,st-helens-hotel,,,,2025,9,0,,,,,,408,A94V6W3
-2059,"StepStone Group Europe Alternative Investments Ltd",,stepstone-group-europe-alternative-investments-ltd,,,,2025,12,0,,,,,,266,D04X4C9
-2060,"Standard Brands (Trading) Ireland Limited",,standard-brands-trading-ireland-limited,,,,2025,3,0,,,,,,231,A91XT59
-2061,"SWARCO Ireland",,swarco-ireland,,,,2025,6,0,,,,,,558,D08EWP2
-2062,VikingCloud,,vikingcloud,"Sysxnet Limited",,,2025,14,0,,,,,,588,D12WDN2
-2063,"Takumi Precision Engineering Limited",,takumi-precision-engineering-limited,,,,2025,3,0,,,,,,341,V94YW99
-2064,"TAOA Retail Limited",,taoa-retail-limited,,,,2025,7,0,2064,,,,,482,D02AC96
-2065,"TAOAR Retail Ltd",,taoar-retail-ltd,,,,2025,7,0,2064,,,,,483,D02AC96
-2066,"Telnyx Ireland Limited",,telnyx-ireland-limited,,,,2025,11,0,,,,,,250,T23WYK5
-2067,"Temmler Ireland Limited",,temmler-ireland-limited,,,,2025,3,0,,,,,,151,V93H972
-2068,"TF Fleming Ltd",,tf-fleming-ltd,,,,2025,7,0,,,,,,363,H18WK60
-2069,"The Crann Support Group",,the-crann-support-group,,,,2025,15,0,,,,,,121,C15VP77
-2070,"The Multiple Sclerosis Society of Ireland",,the-multiple-sclerosis-society-of-ireland,,,,2025,18,0,,,,,,428,D06CV90
-2071,"Thornpart Adjusters Limited",,thornpart-adjusters-limited,,,,2025,12,0,,,,,,317,D12W702
-2072,"Tinnypark Residential Care Limited",,tinnypark-residential-care-limited,,,,2025,20,0,,,,,,143,R42HX70
-2073,"Tipperary Healthcare Limited",,tipperary-healthcare-limited,,,,2025,18,0,,,,,,465,E34NX20
-2074,"Tom Cowman Agri Plant Hire Limited",,tom-cowman-agri-plant-hire-limited,,,,2025,6,0,,,,,,626,R21X665
-2075,"Tomra Sorting Limited",,tomra-sorting-limited,,,,2025,14,0,,,,,,400,D02VN56
-2076,"Townlink Construction Ltd",,townlink-construction-ltd,,,,2025,6,0,,,,,,99,D24NX77
-2077,"Trump International Golf Resort and Hotel",,trump-international-golf-resort-and-hotel,,,,2025,9,0,,,,,,337,v15kh39
-2078,"Typetec Ireland Limited",,typetec-ireland-limited,,,,2025,17,0,,,,,,390,D12XW25
-2079,"UHY Farrelly Dawe White Limited",,uhy-farrelly-dawe-white-limited,,,,2025,20,0,,,,,,405,A91RW26
-2080,"UN1F1ED2 Global Packaging Group Ireland Ltd.",,un1f1ed2-global-packaging-group-ireland-ltd,,,,2025,3,0,,,,,,232,T45KW29
-2081,"Underhill Investments Limited",,underhill-investments-limited,,,,2025,20,0,,,,,,132,R42HX70
-2082,"Viagogo 'VGL Support Services Ireland Ltd'",,viagogo-vgl-support-services-ireland-ltd,,,,2025,7,0,,,,,,466,V94RX49
-2083,"Walsh Printing Services Unlimited Company",,walsh-printing-services-unlimited-company,,,,2025,3,0,,,,,,138,V92C52N
-2084,"Water Technology Limited",,water-technology-limited,,,,2025,3,0,,,,,,214,T12KPF2
-2085,"Waterford & South Tipperary Community Youth Service",,waterford-south-tipperary-community-youth-service,,,,2025,18,0,,,,,,475,X91TY8N
-2086,Wayfair,,wayfair,,,,2025,7,0,,,,,,715,H91W260
-2087,"Weatherbys Ireland Limited",,weatherbys-ireland-limited,,,,2025,14,0,,,,,,469,W91VX86
-2088,"Weir & Sons",,weir-sons,,,,2025,7,0,,,,,,294,D02WR12
-2089,"Westbourne IT Global Services Ltd",,westbourne-it-global-services-ltd,,,,2025,14,0,,,,,,309,T12Y275
-2090,"Whitbread Plc",,whitbread-plc,,,,2025,9,0,,,,,,112,662880
-2091,"Whitewater Group H2O Limited.",,whitewater-group-h2o-limited,,,,2025,5,0,,,,,,669,W91TK7N
-2092,"Windmill Group",,windmill-group,,,,2025,18,0,,,,,,282,P51NH6X
-2093,"Irish Prison Service (all legal entities)",,irish-prison-service-all-legal-entities,,,,2022,16,0,228,,,,,838,N39A308
+1862,"Abcon Industrial Products Ltd",https://www.abconireland.com/,abcon-industrial-products,,,,2025,3,0,,,H16HY64,,,446,H16HY64
+1863,"ABM Aviation UK ltd.",https://www.abmireland.com/industries/airports,abm-aviation-uk,,,,2025,20,0,,,W23D9WH,,,407,W23D9WH
+1864,"ABM Contractors Ltd",https://abmcontractors.com/,abm-contractors-ltd,,,,2025,6,0,,,K67TX95,,,197,K67TX95
+1865,"Adoption Authority of Ireland",https://aai.gov.ie/en,adoption-authority-of-ireland,,,,2025,16,0,,,D04H6F6,,,551,D04H6F6
+1866,"Air Movement Supplies Ltd",https://amsventilation.com/,air-movement-supplies-ltd,,,,2025,3,0,,,D24FP95,,,432,D24FP95
+1867,"Airpacks Limited",https://www.kore-system.com/,airpacks-limited,,,,2025,3,0,,,A82T291,,,394,A82T291
+1868,"A O Gorman and Co Ltd",,a-o-gorman-and-co,,,,2025,7,0,,,A81V389,,,130,A81V389
+1869,"Arboretum Garden Centre",https://www.arboretum.ie/,arboretum-garden-centre,,,,2025,7,0,,,R93P9F4,,,591,R93P9F4
+1870,"Ardboyne Hotel",https://www.ardboynehotel.com/,ardboyne-hotel,,,,2025,9,0,,,C15C9YA,,,293,C15C9YA
+1871,"Ard Ri Marble",https://ardrimarble.com/,ard-ri-marble,,,,2025,7,0,,,V92EH6E,,,735,V92EH6E
+1872,"Arkil (Civil) Ltd",https://www.arkil.ie/services/civil-engineering/,arkil-civil-ltd,,,,2025,6,0,1874,,R32DA00,,,702,R32DA00
+1873,"Arkil (Fantane) Limited",https://www.arkil.ie/,arkil-fantane-limited,,,,2025,6,0,1874,,E41K7K5,,,501,E41K7K5
+1874,"Arkil Ltd",https://www.arkil.ie/services/civil-engineering/,arkil-ltd,,,,2025,2,0,1874,,R51YK27,,,608,R51YK27
+1875,"Ashbourne Holdings LTD",,ashbourne-holdings-ltd,"Old Head of Kinsale Golf Links",,,2025,9,0,,,P17CX88,,,301,P17CX88
+1876,"Aspen Grove",https://www.aspengrovesolutions.com/,aspen-grove,,,,2025,11,0,,,V92XO16,,,605,V92XO16
+1877,"AssemblyPoint Limited",,assemblypoint-limited,,,,2025,10,0,,,T23PPT8,,,576,T23PPT8
+1878,"AS Watson (Health & Beauty Ireland) Limited",,as-watson-health-beauty-ireland-limited,,,,2025,7,0,,,D02R296,,,276,D02R296
+1879,"Athletics Association Of Ireland",https://www.athleticsireland.ie/,athletics-association-of-ireland,,,,2025,19,0,,,D09CX26,,,846,D09CX26
+1880,"Atlas Copco Ireland Ltd",https://www.atlascopco.com/en-ie,atlas-copco-ireland-ltd,,,,2025,3,0,,,D15HR80,,,680,D15HR80
+1881,"AXIS UK Services Ltd (Irish branch)",,axis-uk-services-ltd-irish-branch,,,,2025,12,0,,,D02T3V7,,,575,D02T3V7
+1882,"Ball Beverage Packaging Ireland LTD",,ball-beverage-packaging-ireland-ltd,,,,2025,3,0,,,X91V62N,,,348,X91V62N
+1883,"Ballivor Community Childcare",https://www.crannsupportgroup.ie/giggles/,ballivor-community-childcare,,,,2025,17,0,,,C15EH67,,,245,C15EH67
+1884,"B & C Contractors Monaghan Ltd",https://bandccontractors.ie/,b-c-contractors-monaghan-ltd,,,,2025,6,0,,,A81PN28,,,269,A81PN28
+1885,"Bausch + Lomb Ireland",https://www.bausch.com/about-bausch-lomb/locations/,bausch-lomb-ireland,,,,2025,3,0,,,X91V383,,,700,X91V383
+1886,"Bellview Clinic Partnership",,bellview-clinic-partnership,,,,2025,20,0,,,N91EK7R,,,178,N91EK7R
+1887,Benning,https://www.benning.de/sbd/IRL/benning-ireland.html,benning,,,,2025,3,0,,,Y35F409,,,436,Y35F409
+1888,"BHA Construction Ltd",https://bhaconstruction.com/,bha-construction-ltd,,,,2025,6,0,,,Y21H728,,,342,Y21H728
+1889,"Bord Iascaigh Mhara",https://bim.ie/,bord-iascaigh-mhara,BIM,,,2025,1,0,,,A96A621,,,126,A96A621
+1890,"Brooks Retailing Ltd",,brooks-retailing-ltd,,,,2025,7,0,,,Y25H404,,,627,Y25H404
+1891,"BS&B Safety Systems Limited",https://bsbsystems.com/en/,bsb-safety-systems-limited,,,,2025,3,0,,,V94N4V2,,,386,V94N4V2
+1892,"BSS Subcontractors",https://www.buildstaff.ie/,bss-subcontractors,,,,2025,6,0,,,d08k3kd,,,322,d08k3kd
+1893,"Buttimer Engineering",https://buttimer.com/,buttimer-engineering,,,,2025,6,0,,,E21W240,,,391,E21W240
+1894,"Byron Distributors Ltd",,byron-distributors-ltd,,,,2025,7,0,,,F42XV09,,,859,F42XV09
+1895,"Calgary Trading Co. Limited",,calgary-trading-co-limited,,,,2025,9,0,,,X91D622,,,170,X91D622
+1896,"Calgary Trading Co. Limited",,calgary-trading-co-limited,,,,2025,9,0,,,X91D622,,,170,X91D622
+1897,"Cape Wrath Hotel Unlimited Company",,cape-wrath-hotel,,,,2025,9,0,,,D02WR20,,,73,D02WR20
+1898,"Carroll Joinery Manufacturing",,carroll-joinery-manufacturing,,,,2025,3,0,,,r95ee70,,,340,r95ee70
+1899,"Castle Arch Hotel",https://www.castlearchhotel.com/,castle-arch-hotel,,,,2025,9,0,,,C15WD92,,,247,C15WD92
+1900,"Celtic Ross Hotel Ltd",https://www.celticrosshotel.com/,celtic-ross-hotel-ltd,,,,2025,9,0,,,T12X4YW,,,306,T12X4YW
+1901,"Charles River Laboratories Ireland Ltd",,charles-river-laboratories-ireland-ltd,,,,2025,14,0,,,F26D786,,,203,F26D786
+1902,"Charles River Microbial Solutions",https://www.criver.com/,charles-river-microbial-solutions,,,,2025,14,0,,,D24NF21,,,204,D24NF21
+1903,"Chevron College Ltd",https://chevrontraining.ie/,chevron-college-ltd,,,,2025,17,0,,,Y35WKF7,,,315,Y35WKF7
+1904,CHM,https://chmltd.ie/,chm,,,,2025,6,0,,,D24H9PA,,,423,D24H9PA
+1905,"Clann Mor Residential & Respite CLG",,clann-mor-residential-respite-clg,,,,2024,18,0,,,C15P7F2,,,198,C15P7F2
+1906,"Clarity Recruitment Ventures LTD",,clarity-recruitment-ventures-ltd,"Clarity Locums",,,2024,20,0,,,D02DW94,,,381,D02DW94
+1907,"CMS Distribution LTD",,cms-distribution-ltd,,,,2025,20,0,,,f12td82,,,134,f12td82
+1908,"Cobh General Hospital",,cobh-general-hospital,,,,2025,18,0,,,P24AD85,,,682,P24AD85
+1909,"Cognex Ireland Limited",,cognex-ireland-limited,,,,2025,3,0,,,T23YY24,,,295,T23YY24
+1910,"Collinson Insurance Solutions Europe Limoited",,collinson-insurance-solutions-europe-limoited,,,,2025,12,0,,,A82E1C6,,,327,A82E1C6
+1911,"Commissioning Agents Ireland Ltd",,commissioning-agents-ireland-ltd,,,,2025,14,0,,,K67F256,,,166,K67F256
+1912,"CommScope EMEA Limited",,commscope-emea-limited,,,,2025,3,0,,,A98FY03,,,323,A98FY03
+1913,"Cora Systems Limited",,cora-systems-limited,,,,2025,11,0,,,N41HK23,,,205,N41HK23
+1914,"Cosmetic Creations Ltd",,cosmetic-creations-ltd,,,,2025,3,0,,,F12WT21,,,239,F12WT21
+1915,"County Kildare Leader Partnership",,county-kildare-leader-partnership,,,,2025,20,0,,,R51R588,,,288,R51R588
+1916,"Cricket Ireland",,cricket-ireland,,,,2025,19,0,,,K36CD70,,,286,K36CD70
+1917,"Abbeyleix manor Hotel",https://www.abbeyleixmanorhotel.com/,abbeyleix-manor-hotel,"Crimhill Ltd",,,2025,9,0,,,R32VE24,,,97,R32VE24
+1918,"Cru Na Greine Ltd",,cru-na-greine-ltd,,,,2025,7,0,,,V93H3VP,,,272,V93H3VP
+1919,CSG,https://www.csg.ie/,csg,,,,2025,12,0,,,V92P6HC,,,411,V92P6HC
+1920,"Culligan Home Ireland Limited",,culligan-home-ireland-limited,,,,2025,5,0,,,D02DK18,,,219,D02DK18
+1921,"The Castle Hotel",https://www.castle-hotel.ie/,the-castle-hotel,"Dan Gerard Buckley",,,2024,9,0,,,P12X293,,,243,P12X293
+1922,"Daniel Whelan Engineering Works Limited",,daniel-whelan-engineering-works-limited,,,,2025,3,0,,,R95XN56,,,300,R95XN56
+1923,"Dawnlough Ltd",https://dawnlough.com/,dawnlough-ltd,,,,2025,3,0,,,H91YPN7,,,188,H91YPN7
+1924,"Deluxe Taverns North Ltd",,deluxe-taverns-north-ltd,,,,2025,9,0,,,D02DH36,,,471,D02DH36
+1925,"Dillons Hotel",,dillons-hotel,,,,2025,9,0,,,F92F9DX,,,443,F92F9DX
+1926,"Dominic O'Connor Ltd",,dominic-oconnor-ltd,,,,2025,6,0,,,H62Y880,,,212,H62Y880
+1927,"Dromhall Hotel",,dromhall-hotel,,,,2025,9,0,,,V93PY80,,,559,V93PY80
+1928,"Drummonds Ltd",https://drummonds.ie/,drummonds-ltd,,,,2025,1,0,,,D15C789,,,113,D15C789
+1929,Eatdrinkstay.ie,,eatdrinkstayie,,,,2025,9,0,,,A98E864,,,347,A98E864
+1930,"EDC Engineering Design Consultants Ltd",,edc-engineering-design-consultants-ltd,,,,2025,14,0,,,T23R5TF,,,253,T23R5TF
+1931,"Elder Nursing Homes Ltd.",,elder-nursing-homes-ltd,,,,2025,18,0,,,P25KX56,,,76,P25KX56
+1932,"Eliza Care Limited",,eliza-care-limited,,,,2025,18,0,,,R42HX70,,,142,R42HX70
+1933,"Empower Local Development CLG",,empower-local-development-clg,,,,2025,20,0,,,D15K2TX,,,109,D15K2TX
+1934,"E MURPHY MOTORS LTD",,e-murphy-motors-ltd,,,,2025,7,0,,,Y35VAH6,,,596,Y35VAH6
+1935,"Energy Metrics Monitoring & Management",,energy-metrics-monitoring-management,,,,2025,14,0,,,V94HT2Y,,,186,V94HT2Y
+1936,"Event Fuel Limited",,event-fuel-limited,FUEL,,,2025,19,0,,,D02FW54,,,298,D02FW54
+1937,"Excel Industries",,excel-industries,,,,2025,3,0,,,D15N704,,,193,D15N704
+1938,Facilitas,,facilitas,,,,2025,15,0,,,D09T623,,,192,D09T623
+1939,"Dublin Home Support",,dublin-home-support,"Finglas Home Help/Care Organisation CLG",,,2025,18,0,,,D11TD8Y,,,714,D11TD8Y
+1940,"First Ireland Spirits Manufacturing Co.",,first-ireland-spirits-manufacturing-co,,,,2025,3,0,,,R32K230,,,92,R32K230
+1941,"First Up SLU",,first-up-slu,,,,2025,6,0,,,N37CY58,,,570,N37CY58
+1942,"Five Rivers Ireland",,five-rivers-ireland,,,,2025,18,0,,,D15YE28,,,261,D15YE28
+1943,"Framespace Solutions Limited",,framespace-solutions-limited,,,,2025,6,0,,,N39E337,,,398,N39E337
+1944,"Green Isle Foods",,green-isle-foods,,,,2025,3,0,,,W91RC85,,,260,W91RC85
+1945,"Oxfam Ireland",,oxfam-ireland,,,,2025,22,0,,,D04V9Y9,,,303,D04V9Y9
+1946,"Wexford Credit Union Ltd",,wexford-credit-union-ltd,,,,2025,12,0,,,Y35XW96,,,503,Y35XW96
+1947,"Franciscan Province of Ireland",,franciscan-province-of-ireland,,,,2025,21,0,,,D08XY19,,,616,D08XY19
+1948,"Fresh Start Support Services Limited",,fresh-start-support-services-limited,,,,2025,18,0,,,R93X0V9,,,72,R93X0V9
+1949,"FSW Coatings Ltd.",,fsw-coatings-ltd,,,,2025,3,0,,,A82N267,,,374,A82N267
+1950,"Galway Plant And Tool Hire Ltd",,galway-plant-and-tool-hire-ltd,,,,2025,20,0,,,D12C791,,,334,D12C791
+1951,"Hitachi Energy Ireland Limited",,hitachi-energy-ireland-limited,,,,2025,3,0,,,D22X0Y3,,,620,D22X0Y3
+1952,"Hegarty Demolition Ltd",,hegarty-demolition-ltd,,,,2025,6,0,,,D14V4F1,,,129,D14V4F1
+1953,"Great Southern Killarney",,great-southern-killarney,,,,2025,9,0,,,v93r866,,,206,v93r866
+1954,"Galway Rural Development CLG",,galway-rural-development-clg,,,,2024,15,0,,,H65KR02,,,369,H65KR02
+1955,"Goodman Medical Ireland",,goodman-medical-ireland,,,,2025,3,0,,,h91h9ck,,,210,h91h9ck
+1956,"Greenfield Foods Limited",,greenfield-foods-limited,,,,2025,1,0,,,H18YY33,,,313,H18YY33
+1957,"Greenhill Fruit Farm Ltd",,greenhill-fruit-farm-ltd,,,,2025,1,0,,,Y21T449,,,453,Y21T449
+1958,"Hamlet Court Hotel Ltd",,hamlet-court-hotel-ltd,,,,2025,9,0,,,A83WC04,,,350,A83WC04
+1959,"Harmonics Career Crafting Limited",,harmonics-career-crafting-limited,,,,2025,20,0,,,V94RR8D,,,233,V94RR8D
+1960,"Hayfield Manor Hotel",,hayfield-manor-hotel,,,,2025,9,0,,,T12HT97,,,263,T12HT97
+1961,"Healthcare Direct",,healthcare-direct,,,,2025,18,0,,,V94HT2Y,,,284,V94HT2Y
+1962,"Hilti Fastening Systems",,hilti-fastening-systems,,,,2025,6,0,,,D11V96E,,,208,D11V96E
+1963,"Hooke & MacDonald Limited",,hooke-macdonald-limited,,,,2025,13,0,,,D02AW89,,,275,D02AW89
+1964,"Hotel Balor Teoranta",,hotel-balor-teoranta,,,,2025,9,0,,,V93PXK3,,,925,V93PXK3
+1965,"HP Corrigan",,hp-corrigan,,,,2025,7,0,,,D04R6Y6,,,439,D04R6Y6
+1966,"i3PT Certification",,i3pt-certification,,,,2025,6,0,,,D04YT91,,,319,D04YT91
+1967,"Glenn Wood Tullamore",,glenn-wood-tullamore,"Industrial & Domestic Furniture(Tullamore) Ltd",,,2025,3,0,,,R35VK03,,,217,R35VK03
+1968,"Industrial Packaging Ltd",,industrial-packaging-ltd,,,,2025,3,0,,,A98X3T6,,,331,A98X3T6
+1969,"ICS Medical Devices",,ics-medical-devices,"Innovative Catheter Solutions",,,2025,3,0,,,H91A2WA,,,333,H91A2WA
+1970,"St. Margaret's Network",,st-margarets-network,"IRL-IASD CLG",,,2025,18,0,,,D14YK10,,,159,D14YK10
+1971,"John Hurley Midleton (Unlimited) Company",,john-hurley-midleton-unlimited-company,,,,2025,7,0,,,P25FR64,,,610,P25FR64
+1972,"Washrooms Ireland",,washrooms-ireland,"Karmarton Ltd",,,2025,5,0,,,D10WD29,,,383,D10WD29
+1973,"Laois Hire Centres Ltd",,laois-hire-centres-ltd,,,,2025,20,0,,,D12C791,,,324,D12C791
+1974,Léargas,,leargas,,,,2025,17,0,,,D01A3Y8,,,440,D01A3Y8
+1975,"Lexas Technologies Ltd.",,lexas-technologies-ltd,,,,2025,14,0,,,R35TX95,,,117,R35TX95
+1976,"Lifewave Europe Ltd",,lifewave-europe-ltd,,,,2025,3,0,,,H63NW84,,,628,H63NW84
+1977,"Linnaeus Ireland Veterinary Limited",,linnaeus-ireland-veterinary-limited,,,,2025,20,0,,,D02T380,,,346,D02T380
+1978,"Local Jobs Limited",,local-jobs-limited,,,,2025,15,0,,,D24Fa07,,,668,D24Fa07
+1979,"Luttrellstown Castle Resort",,luttrellstown-castle-resort,,,,2025,9,0,,,D15RH92,,,258,D15RH92
+1980,"M.Fitzgibbon Contractors Limited",,mfitzgibbon-contractors-limited,,,,2025,6,0,,,V94Y7Y5,,,173,V94Y7Y5
+1981,"Madigan Cunningham Ltd",,madigan-cunningham-ltd,,,,2025,13,0,,,V94K2Y2,,,598,V94K2Y2
+1982,"Mallow Credit Union Ltd",,mallow-credit-union-ltd,,,,2025,12,0,,,P51HP48,,,228,P51HP48
+1983,"Marchford Limited",,marchford-limited,,,,2025,9,0,,,W91Y65N,,,98,W91Y65N
+1984,"Marcoh Care Limited",,marcoh-care-limited,,,,2025,18,0,,,D12A447,,,360,D12A447
+1985,"Maritime Area Regulatory Authority",,maritime-area-regulatory-authority,,,,2025,16,0,,,Y35RF29,,,727,Y35RF29
+1986,"Ballyhass Adventure Group",,ballyhass-adventure-group,"Maritime Tourism Ltd.",,,2025,19,0,,,P51N990,,,556,P51N990
+1987,"Mars Foods Ireland LTD.",,mars-foods-ireland-ltd,,,,2025,20,0,,,D18K8Y4,,,325,D18K8Y4
+1988,"Martin Ryan Haulage Limited",,martin-ryan-haulage-limited,,,,2025,8,0,,,V94W0C3,,,343,V94W0C3
+1989,"Masonite Ireland",,masonite-ireland,,,,2024,3,0,,,N41CC94,,,224,N41CC94
+1990,"MCG Facilities Management Ireland Limited",,mcg-facilities-management-ireland-limited,,,,2025,20,0,,,D11XY10,,,564,D11XY10
+1991,"McLoughlin Industrial Flooring Contractors Ltd",,mcloughlin-industrial-flooring-contractors-ltd,,,,2025,6,0,,,W91NX66,,,630,W91NX66
+1992,"MeHow Medical Ireland Ltd",,mehow-medical-ireland-ltd,,,,2025,3,0,,,A98W8P3,,,158,A98W8P3
+1993,"Mizen Clothing Retail Limited",,mizen-clothing-retail-limited,,,,2025,7,0,,,t12w274,,,367,t12w274
+1994,"Monahill Supermarkets Ltd",,monahill-supermarkets-ltd,,,,2025,7,0,,,A91EYX9,,,459,A91EYX9
+1995,"Moorehaven Centre (Tipperary) DAC",,moorehaven-centre-tipperary-dac,,,,2025,20,0,,,E34H280,,,235,E34H280
+1996,"Mountain Lodge Nursing Home Ltd",,mountain-lodge-nursing-home-ltd,,,,2025,20,0,,,R42HX70,,,144,R42HX70
+1997,"Mowlam Healthcare Services",,mowlam-healthcare-services,,,,2025,18,0,,,V94HT2Y,,,643,V94HT2Y
+1998,"MP Doyle Ltd",,mp-doyle-ltd,,,,2025,7,0,,,R93W8D9,,,451,R93W8D9
+1999,"Munters Corp Ireland",,munters-corp-ireland,,,,2025,3,0,,,T45VN22,,,480,T45VN22
+2000,"Murex Advanced Technologies Ltd.",,murex-advanced-technologies-ltd,,,,2025,14,0,,,D04E7K5,,,632,D04E7K5
+2001,"Murtagh Bars Ltd",,murtagh-bars-ltd,,,,2025,9,0,,,N41P5X5,,,464,N41P5X5
+2002,"National Express Coach and Bus Services Limited",,national-express-coach-and-bus-services-limited,,,,2025,8,0,,,K67KD58,,,567,K67KD58
+2003,"Nelipak Healthcare Packaging",,nelipak-healthcare-packaging,,,,2025,3,0,,,R35F583,,,667,R35F583
+2004,"Nethercross Ltd",,nethercross-ltd,,,,2025,9,0,,,K67P2E4,,,486,K67P2E4
+2005,"Newgrange Hotel",,newgrange-hotel,,,,2025,9,0,,,C15A6WV,,,195,C15A6WV
+2006,NIKE,,nike,,,,2025,7,0,,,D15PXY3,,,568,D15PXY3
+2007,"Nisbets Limited",,nisbets-limited,,,,2025,7,0,,,T23RR3H,,,427,T23RR3H
+2008,"Nomadic Foods Ltd.",,nomadic-foods-ltd,,,,2025,3,0,,,F93VP83,,,586,F93VP83
+2009,"Nord Anglia Education Ireland Ltd.",,nord-anglia-education-ireland-ltd,,,,2025,17,0,,,D18T672,,,438,D18T672
+2010,"North Midlands Credit Union",,north-midlands-credit-union,,,,2025,12,0,,,N91VO94,,,320,N91VO94
+2011,"Northgate Vehicle Hire (Ireland) Ltd",,northgate-vehicle-hire-ireland-ltd,,,,2025,8,0,,,D04TR29,,,444,D04TR29
+2012,"O'Leary International Ltd",,oleary-international-ltd,,,,2025,8,0,,,Y34V252,,,271,Y34V252
+2013,"Oberstown Children Detention Campus",,oberstown-children-detention-campus,,,,2025,16,0,,,K45AY66,,,354,K45AY66
+2014,"Oceanpath Ltd",,oceanpath-ltd,,,,2025,1,0,,,D13Hx25,,,793,D13Hx25
+2015,"OConnell Street Inns",,oconnell-street-inns,,,,2025,9,0,,,D01CK74,,,404,D01CK74
+2016,"Offaly Centre Independent Living",,offaly-centre-independent-living,,,,2025,18,0,,,R35VC63,,,310,R35VC63
+2017,"Omnicom Media Group (Ireland) Ltd",,omnicom-media-group-ireland-ltd,,,,2025,14,0,,,D04C2N4,,,222,D04C2N4
+2018,"Parksite Gemon Developments",,parksite-gemon-developments,,,,2025,7,0,,,A82Y5T3,,,268,A82Y5T3
+2019,"Park Developments (Dublin) Ltd",,park-developments-dublin-ltd,,,,2025,6,0,,,D18K8Y4,,,652,D18K8Y4
+2020,"Pat Rynn Engineering Limited",,pat-rynn-engineering-limited,,,,2025,3,0,,,H91W5T8,,,548,H91W5T8
+2021,"Patrician Academy",,patrician-academy,,,,2025,17,0,,,P51YK80,,,582,P51YK80
+2022,"Perigord Premedia Limited",,perigord-premedia-limited,,,,2025,14,0,1624,,D15N283,,,783,D15N283
+2023,"Pilz Ireland Industrial Automation",,pilz-ireland-industrial-automation,,,,2025,14,0,,,T12AW80,,,110,T12AW80
+2024,"Pioneer Homecare Ltd",,pioneer-homecare-ltd,,,,2025,18,0,,,D14W8Y1,,,637,D14W8Y1
+2025,"Pipe Arc Ltd",,pipe-arc-ltd,,,,2025,3,0,,,H12WK70,,,413,H12WK70
+2026,"Polish Teachers Association",,polish-teachers-association,,,,2025,17,0,,,D15VF22,,,623,D15VF22
+2027,"Post-Primary Languages Ireland",,postprimary-languages-ireland,PPLI,,,2025,17,0,,,D08TCV4,,,359,D08TCV4
+2028,"Premier Irish Homes",,premier-irish-homes,"PPGIH Business Ltd",,,2025,6,0,,,C15FX29,,,71,C15FX29
+2029,ProAmpac,,proampac,,,,2025,3,0,,,F92F44a,,,396,F92F44a
+2030,"Proofpoint Ireland Ltd",,proofpoint-ireland-ltd,,,,2025,20,0,,,D04XN32,,,287,D04XN32
+2031,QQI,,qqi,"Quality and Qualifications Ireland",,,2025,16,0,,,D02P266,,,200,D02P266
+2032,"Quality Tractor Parts Ltd",,quality-tractor-parts-ltd,,,,2025,7,0,,,n91nd37,,,118,n91nd37
+2033,Qualtrics,,qualtrics,,,,2025,11,0,,,D02TA43,,,433,D02TA43
+2034,"RS Ireland",,rs-ireland,"Radionics Ltd",,,2025,3,0,,,D12CK80,,,172,D12CK80
+2035,"Radius Business Solutions (Ireland) Limited",,radius-business-solutions-ireland-limited,,,,2025,20,0,,,H91W1YV,,,691,H91W1YV
+2036,"Regnology Ireland Limited",,regnology-ireland-limited,,,,2025,10,0,,,D18Y3X2,,,251,D18Y3X2
+2037,"Remote Management Technology Limited",,remote-management-technology-limited,,,,2025,15,0,,,T23YY09,,,507,T23YY09
+2038,"Repromed Ireland",,repromed-ireland,,,,2025,18,0,,,D16W7W3,,,225,D16W7W3
+2039,"Retail Solutions",,retail-solutions,,,,2025,11,0,,,H54TA43,,,209,H54TA43
+2040,"RGIS Inventory Specialists",,rgis-inventory-specialists,,,,2025,20,0,,,K67E5A0,,,373,K67E5A0
+2041,"Richard Boyle and Sons (2004) Limited",,richard-boyle-and-sons-2004-limited,,,,2025,7,0,,,V93AV63,,,104,V93AV63
+2042,"Richmond Marketing",,richmond-marketing,,,,2025,14,0,,,D24H7RK,,,409,D24H7RK
+2043,"Rogerson Reddan",,rogerson-reddan,,,,2025,14,0,,,D04V1K7,,,419,D04V1K7
+2044,"Rolsford Limited",,rolsford-limited,,,,2025,7,0,,,D22ET96,,,472,D22ET96
+2045,"SAICA Pack Dublin",,saica-pack-dublin,,,,2025,3,0,2045,,D22R924,,,737,D22R924
+2046,"Saica Pack Ireland Ltd",,saica-pack-ireland-ltd,,,,2025,3,0,2045,,A84W744,,,736,A84W744
+2047,"Santa Sabina House Limited",,santa-sabina-house-limited,,,,2025,18,0,,,D07WK25,,,703,D07WK25
+2048,"Shannondoc CLG",,shannondoc-clg,,,,2025,18,0,,,V945V24,,,431,V945V24
+2049,"Simpson's Hospital",,simpsons-hospital,,,,2025,18,0,,,D16P732,,,484,D16P732
+2050,"SIRO Dac",,siro-dac,,,,2025,11,0,,,D18K8Y4,,,264,D18K8Y4
+2051,"SmartBear Ireland",,smartbear-ireland,,,,2025,20,0,,,H91P8PR,,,154,H91P8PR
+2052,Solas,,solas,,,,2025,17,0,,,D01A8N0,,,114,D01A8N0
+2053,"Sonoco Metal Packaging Ireland Ltd",,sonoco-metal-packaging-ireland-ltd,,,,2025,3,0,,,R14C622,,,355,R14C622
+2054,"South County Self Drive Ltd.",,south-county-self-drive-ltd,,,,2025,20,0,,,A96TF24,,,695,A96TF24
+2055,"South Dublin County Partnership",,south-dublin-county-partnership,,,,2025,18,0,,,D24A3XC,,,163,D24A3XC
+2056,"South West Doctors On Call CLG",,south-west-doctors-on-call-clg,,,,2024,18,0,,,V93K0DN,,,87,V93K0DN
+2057,"Spectrum Telecom Installations Ltd.",,spectrum-telecom-installations-ltd,,,,2025,6,0,,,W91YC89,,,339,W91YC89
+2058,"St. Helens Hotel",,st-helens-hotel,,,,2025,9,0,,,A94V6W3,,,408,A94V6W3
+2059,"StepStone Group Europe Alternative Investments Ltd",,stepstone-group-europe-alternative-investments-ltd,,,,2025,12,0,,,D04X4C9,,,266,D04X4C9
+2060,"Standard Brands (Trading) Ireland Limited",,standard-brands-trading-ireland-limited,,,,2025,3,0,,,A91XT59,,,231,A91XT59
+2061,"SWARCO Ireland",,swarco-ireland,,,,2025,6,0,,,D08EWP2,,,558,D08EWP2
+2062,VikingCloud,,vikingcloud,"Sysxnet Limited",,,2025,14,0,,,D12WDN2,,,588,D12WDN2
+2063,"Takumi Precision Engineering Limited",,takumi-precision-engineering-limited,,,,2025,3,0,,,V94YW99,,,341,V94YW99
+2064,"TAOA Retail Limited",,taoa-retail-limited,,,,2025,7,0,2064,,D02AC96,,,482,D02AC96
+2065,"TAOAR Retail Ltd",,taoar-retail-ltd,,,,2025,7,0,2064,,D02AC96,,,483,D02AC96
+2066,"Telnyx Ireland Limited",,telnyx-ireland-limited,,,,2025,11,0,,,T23WYK5,,,250,T23WYK5
+2067,"Temmler Ireland Limited",,temmler-ireland-limited,,,,2025,3,0,,,V93H972,,,151,V93H972
+2068,"TF Fleming Ltd",,tf-fleming-ltd,,,,2025,7,0,,,H18WK60,,,363,H18WK60
+2069,"The Crann Support Group",,the-crann-support-group,,,,2025,15,0,,,C15VP77,,,121,C15VP77
+2070,"The Multiple Sclerosis Society of Ireland",,the-multiple-sclerosis-society-of-ireland,,,,2025,18,0,,,D06CV90,,,428,D06CV90
+2071,"Thornpart Adjusters Limited",,thornpart-adjusters-limited,,,,2025,12,0,,,D12W702,,,317,D12W702
+2072,"Tinnypark Residential Care Limited",,tinnypark-residential-care-limited,,,,2025,20,0,,,R42HX70,,,143,R42HX70
+2073,"Tipperary Healthcare Limited",,tipperary-healthcare-limited,,,,2025,18,0,,,E34NX20,,,465,E34NX20
+2074,"Tom Cowman Agri Plant Hire Limited",,tom-cowman-agri-plant-hire-limited,,,,2025,6,0,,,R21X665,,,626,R21X665
+2075,"Tomra Sorting Limited",,tomra-sorting-limited,,,,2025,14,0,,,D02VN56,,,400,D02VN56
+2076,"Townlink Construction Ltd",,townlink-construction-ltd,,,,2025,6,0,,,D24NX77,,,99,D24NX77
+2077,"Trump International Golf Resort and Hotel",,trump-international-golf-resort-and-hotel,,,,2025,9,0,,,v15kh39,,,337,v15kh39
+2078,"Typetec Ireland Limited",,typetec-ireland-limited,,,,2025,17,0,,,D12XW25,,,390,D12XW25
+2079,"UHY Farrelly Dawe White Limited",,uhy-farrelly-dawe-white-limited,,,,2025,20,0,,,A91RW26,,,405,A91RW26
+2080,"UN1F1ED2 Global Packaging Group Ireland Ltd.",,un1f1ed2-global-packaging-group-ireland-ltd,,,,2025,3,0,,,T45KW29,,,232,T45KW29
+2081,"Underhill Investments Limited",,underhill-investments-limited,,,,2025,20,0,,,R42HX70,,,132,R42HX70
+2082,"Viagogo 'VGL Support Services Ireland Ltd'",,viagogo-vgl-support-services-ireland-ltd,,,,2025,7,0,,,V94RX49,,,466,V94RX49
+2083,"Walsh Printing Services Unlimited Company",,walsh-printing-services-unlimited-company,,,,2025,3,0,,,V92C52N,,,138,V92C52N
+2084,"Water Technology Limited",,water-technology-limited,,,,2025,3,0,,,T12KPF2,,,214,T12KPF2
+2085,"Waterford & South Tipperary Community Youth Service",,waterford-south-tipperary-community-youth-service,,,,2025,18,0,,,X91TY8N,,,475,X91TY8N
+2086,Wayfair,,wayfair,,,,2025,7,0,,,H91W260,,,715,H91W260
+2087,"Weatherbys Ireland Limited",,weatherbys-ireland-limited,,,,2025,14,0,,,W91VX86,,,469,W91VX86
+2088,"Weir & Sons",,weir-sons,,,,2025,7,0,,,D02WR12,,,294,D02WR12
+2089,"Westbourne IT Global Services Ltd",,westbourne-it-global-services-ltd,,,,2025,14,0,,,T12Y275,,,309,T12Y275
+2090,"Whitbread Plc",,whitbread-plc,,,,2025,9,0,,,662880,,,112,662880
+2091,"Whitewater Group H2O Limited.",,whitewater-group-h2o-limited,,,,2025,5,0,,,W91TK7N,,,669,W91TK7N
+2092,"Windmill Group",,windmill-group,,,,2025,18,0,,,P51NH6X,,,282,P51NH6X
+2093,"Irish Prison Service (all legal entities)",,irish-prison-service-all-legal-entities,,,,2022,16,0,228,,N39A308,,,838,N39A308
 2095,Vistatec,https://www.vistatec.com/,vistatec,,privacy@vistatec.com,,2025,14,74,,,"D08 T2TX",,,,
 2096,"Hanley Calibration",https://hanleycalibration.com/,hanleycalibration,,,,2024,14,71,,,"T45 X962",,,,
 2097,"Ryan Hanley",https://ryanhanley.ie/,ryanhanley,Stantec,,,2025,1,1,,,"H91 P3KH",,,,
 2098,"Danann Air",,danann-air,,,,2025,3,0,,,,,,,
 2099,"HPC Sales Limited",,hpc-sales-limited,,,,2025,7,0,,,,,,,
+2100,Fiosrú,,fiosru,,,,2024,16,0,,,,,,,
