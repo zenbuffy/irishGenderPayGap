@@ -95,7 +95,7 @@ companies_ID,companies_name,companies_site,companies_slug,companies_othername,co
 94,"Clare County Council",https://www.clarecoco.ie/,clarecoco,,customerservices@clarecoco.ie,,2022,16,84,,3,V95DXP2,,Clare,141,V95DXP2
 95,"Coca Cola Ireland",https://www.coca-cola.com/ie/en,cocacola,,gbmedia@coca-cola.com,,2022,3,11,,,D06,1809,Dublin,,
 96,Cognizant,https://www.cognizant.com/uk/en,cognizant,,inquiry@cognizant.com,,2022,11,62,,,D02,358105,Dublin,,
-97,Coillte,https://www.coillte.ie/,coillte,,info@coillte.ie,,2022,1,2,,1,"A63 DN25",,Wicklow,,
+97,Coillte,https://www.coillte.ie/,coillte,,info@coillte.ie,,2022,1,2,2103,1,"A63 DN25",,Wicklow,,
 98,"Compass Ireland",https://www.compass-group.ie/,compassireland,,,,2022,9,56,98,,D12,,Dublin,,
 99,Concern,https://www.concern.net/,concern,,info@concern.net,,2022,18,88,,,D02,39647,Dublin,,
 100,"Cook Medical",https://www.cookmedical.eu/,cookmedical,,EMEAenquiry@CookMedical.com,,2022,3,32,,,V94,492272,Limerick,,
@@ -1715,253 +1715,258 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1839,"The Arts Countil",https://artscouncil.ie/,theartscountil,,info@artscouncil.ie,,2025,16,84,,,"D02 NY52",,Dublin,,
 1840,"First Citizen Finance",https://www.firstcitizen.ie/,firstcitizenfinance,,info@firstcitizen.ie,,2025,12,64,,,"D01 C576",,Dublin,,
 1841,Whoop,https://www.whoop.com/ie/,whoop,,privacy@whoop.com,,2025,11,62,,,"D02 R296",,Dublin,,
-1842,"Punch Consulting Engineers",https://punchconsulting.com/,punchconsultingengineers,,limerick@punchconsulting.com,,2025,14,71,,,"A96 C7W7",,,,
-1844,TEKenable,https://tekenable.com/,tekenable,,info@tekenable.ie,,2025,11,62,,,"D02 DR98",,,,
-1846,"The Teaching Council",https://www.teachingcouncil.ie/,theteachingcouncil,,info@teachingcouncil.ie,,2025,16,84,,,W23Y7X0,,,489,W23Y7X0
-1848,"Independent Trustee Company",https://www.independent-trustee.com/,independenttrusteecompany,ITC,service@itcgroup.ie,,2025,12,66,,,"D02 VY52",,,,
-1850,"Tapped & Lost Lane",https://www.tappeddublin.com/,tappedlostlane,Noyfield,info@tappeddublin.com,,2025,9,55,,,"D02 RP20",,,,
-1852,"IPL Schoeller",https://www.iplschoeller.com/,iplschoeller,"One51 Group Services Ltd",,,2025,3,22,,,"D02 NY63",,,,
-1854,"Amber Oil",https://www.amberoil.ie/,amberoil,,info@amberoil.ie,,2023,7,46,,,"P61 AX03",,,,
-1856,"Swan Net Gundry",https://sng.ie/,swannetgundry,SNG,info@sng.ie,,2025,3,13,,,"F94 VF22",,,,
-1858,"Kapp & Peterson",https://www.peterson.ie/,kapppeterson,,info@peterson.ie,,2025,3,16,,,"A94 HX50",,,,
-1859,"Turner & Townsend",https://www.turnerandtownsend.com/,turnertownsend,,ireland@turnerandtownsend.com,,2024,14,71,,,"D02 VK70",,,,
-1860,"Screen Scene",https://screenscene.ie/,screenscene,,info@screenscene.ie,,2025,10,59,,,"D02 KH60",,,,
-1861,"NorDan Vinduer",https://nordan.ie/,nordanvinduer,,info@nordan.ie,,2025,7,46,,,"D12 DY40",,,,
-1862,"Abcon Industrial Products Ltd",https://www.abconireland.com/,abcon-industrial-products,,,,2025,3,0,,,H16HY64,,,446,H16HY64
-1863,"ABM Aviation UK ltd.",https://www.abmireland.com/industries/airports,abm-aviation-uk,,,,2025,20,0,,,W23D9WH,,,407,W23D9WH
-1864,"ABM Contractors Ltd",https://abmcontractors.com/,abm-contractors-ltd,,,,2025,6,0,,,K67TX95,,,197,K67TX95
-1865,"Adoption Authority of Ireland",https://aai.gov.ie/en,adoption-authority-of-ireland,,,,2025,16,0,,,D04H6F6,,,551,D04H6F6
-1866,"Air Movement Supplies Ltd",https://amsventilation.com/,air-movement-supplies-ltd,,,,2025,3,0,,,D24FP95,,,432,D24FP95
+1842,"Punch Consulting Engineers",https://punchconsulting.com/,punchconsultingengineers,,limerick@punchconsulting.com,,2025,14,71,,,"A96 C7W7",,Dublin,,
+1844,TEKenable,https://tekenable.com/,tekenable,,info@tekenable.ie,,2025,11,62,,,"D02 DR98",,Dublin,,
+1846,"The Teaching Council",https://www.teachingcouncil.ie/,theteachingcouncil,,info@teachingcouncil.ie,,2025,16,84,,,W23Y7X0,,Kildare,489,W23Y7X0
+1848,"Independent Trustee Company",https://www.independent-trustee.com/,independenttrusteecompany,ITC,service@itcgroup.ie,,2025,12,66,,,"D02 VY52",,Dublin,,
+1850,"Tapped & Lost Lane",https://www.tappeddublin.com/,tappedlostlane,Noyfield,info@tappeddublin.com,,2025,9,55,,,"D02 RP20",,Dublin,,
+1852,"IPL Schoeller",https://www.iplschoeller.com/,iplschoeller,"One51 Group Services Ltd",,,2025,3,22,,,"D02 NY63",,Dublin,,
+1854,"Amber Oil",https://www.amberoil.ie/,amberoil,,info@amberoil.ie,,2023,7,46,,,"P61 AX03",,Cork,,
+1856,"Swan Net Gundry",https://sng.ie/,swannetgundry,SNG,info@sng.ie,,2025,3,13,,,"F94 VF22",,Donegal,,
+1858,"Kapp & Peterson",https://www.peterson.ie/,kapppeterson,,info@peterson.ie,,2025,3,16,,,"A94 HX50",,Dublin,,
+1859,"Turner & Townsend",https://www.turnerandtownsend.com/,turnertownsend,,ireland@turnerandtownsend.com,,2024,14,71,,,"D02 VK70",,Dublin,,
+1860,"Screen Scene",https://screenscene.ie/,screenscene,,info@screenscene.ie,,2025,10,59,,,"D02 KH60",,Dublin,,
+1861,"NorDan Vinduer",https://nordan.ie/,nordanvinduer,,info@nordan.ie,,2025,7,46,,,"D12 DY40",,Dublin,,
+1862,"Abcon Industrial Products Ltd",https://www.abconireland.com/,abcon-industrial-products,,,,2025,3,0,,,H16HY64,,Monaghan,446,H16HY64
+1863,"ABM Aviation UK ltd.",https://www.abmireland.com/industries/airports,abm-aviation-uk,,,,2025,20,0,,,W23D9WH,,Kildare,407,W23D9WH
+1864,"ABM Contractors Ltd",https://abmcontractors.com/,abm-contractors-ltd,,,,2025,6,0,,,K67TX95,,Dublin,197,K67TX95
+1865,"Adoption Authority of Ireland",https://aai.gov.ie/en,adoption-authority-of-ireland,,,,2025,16,0,,,D04H6F6,,Dublin,551,D04H6F6
+1866,"Air Movement Supplies Ltd",https://amsventilation.com/,air-movement-supplies-ltd,,,,2025,3,0,,,D24FP95,,Dublin,432,D24FP95
 1867,"Airpacks Limited",https://www.kore-system.com/,airpacks-limited,,,,2025,3,0,,,A82T291,,,394,A82T291
 1868,"A O Gorman and Co Ltd",,a-o-gorman-and-co,,,,2025,7,0,,,A81V389,,,130,A81V389
-1869,"Arboretum Garden Centre",https://www.arboretum.ie/,arboretum-garden-centre,,,,2025,7,0,,,R93P9F4,,,591,R93P9F4
-1870,"Ardboyne Hotel",https://www.ardboynehotel.com/,ardboyne-hotel,,,,2025,9,0,,,C15C9YA,,,293,C15C9YA
-1871,"Ard Ri Marble",https://ardrimarble.com/,ard-ri-marble,,,,2025,7,0,,,V92EH6E,,,735,V92EH6E
-1872,"Arkil (Civil) Ltd",https://www.arkil.ie/services/civil-engineering/,arkil-civil-ltd,,,,2025,6,0,1874,,R32DA00,,,702,R32DA00
-1873,"Arkil (Fantane) Limited",https://www.arkil.ie/,arkil-fantane-limited,,,,2025,6,0,1874,,E41K7K5,,,501,E41K7K5
-1874,"Arkil Ltd",https://www.arkil.ie/services/civil-engineering/,arkil-ltd,,,,2025,2,0,1874,,R51YK27,,,608,R51YK27
-1875,"Ashbourne Holdings LTD",,ashbourne-holdings-ltd,"Old Head of Kinsale Golf Links",,,2025,9,0,,,P17CX88,,,301,P17CX88
-1876,"Aspen Grove",https://www.aspengrovesolutions.com/,aspen-grove,,,,2025,11,0,,,V92XO16,,,605,V92XO16
-1877,"AssemblyPoint Limited",,assemblypoint-limited,,,,2025,10,0,,,T23PPT8,,,576,T23PPT8
-1878,"AS Watson (Health & Beauty Ireland) Limited",,as-watson-health-beauty-ireland-limited,,,,2025,7,0,,,D02R296,,,276,D02R296
-1879,"Athletics Association Of Ireland",https://www.athleticsireland.ie/,athletics-association-of-ireland,,,,2025,19,0,,,D09CX26,,,846,D09CX26
-1880,"Atlas Copco Ireland Ltd",https://www.atlascopco.com/en-ie,atlas-copco-ireland-ltd,,,,2025,3,0,,,D15HR80,,,680,D15HR80
-1881,"AXIS UK Services Ltd (Irish branch)",,axis-uk-services-ltd-irish-branch,,,,2025,12,0,,,D02T3V7,,,575,D02T3V7
-1882,"Ball Beverage Packaging Ireland LTD",,ball-beverage-packaging-ireland-ltd,,,,2025,3,0,,,X91V62N,,,348,X91V62N
-1883,"Ballivor Community Childcare",https://www.crannsupportgroup.ie/giggles/,ballivor-community-childcare,,,,2025,17,0,,,C15EH67,,,245,C15EH67
+1869,"Arboretum Garden Centre",https://www.arboretum.ie/,arboretum-garden-centre,,,,2025,7,0,,,R93P9F4,,Carlow,591,R93P9F4
+1870,"Ardboyne Hotel",https://www.ardboynehotel.com/,ardboyne-hotel,,,,2025,9,0,,,C15C9YA,,Meath,293,C15C9YA
+1871,"Ard Ri Marble",https://ardrimarble.com/,ard-ri-marble,,,,2025,7,0,,,V92EH6E,,Kerry,735,V92EH6E
+1872,"Arkil (Civil) Ltd",https://www.arkil.ie/services/civil-engineering/,arkil-civil-ltd,,,,2025,6,0,1874,,R32DA00,,Laois,702,R32DA00
+1873,"Arkil (Fantane) Limited",https://www.arkil.ie/,arkil-fantane-limited,,,,2025,6,0,1874,,E41K7K5,,Carlow,501,E41K7K5
+1874,"Arkil Ltd",https://www.arkil.ie/services/civil-engineering/,arkil-ltd,,,,2025,2,0,1874,,R51YK27,,Tipperary,608,R51YK27
+1875,"Ashbourne Holdings LTD",,ashbourne-holdings-ltd,"Old Head of Kinsale Golf Links",,,2025,9,0,,,P17CX88,,Cork,301,P17CX88
+1876,"Aspen Grove",https://www.aspengrovesolutions.com/,aspen-grove,,,,2025,11,0,,,V92XO16,,Kerry,605,V92XO16
+1877,"AssemblyPoint Limited",,assemblypoint-limited,,,,2025,10,0,,,T23PPT8,,Cork,576,T23PPT8
+1878,"AS Watson (Health & Beauty Ireland) Limited",,as-watson-health-beauty-ireland-limited,,,,2025,7,0,,,D02R296,,Dublin,276,D02R296
+1879,"Athletics Association Of Ireland",https://www.athleticsireland.ie/,athletics-association-of-ireland,,,,2025,19,0,,,D09CX26,,Dublin,846,D09CX26
+1880,"Atlas Copco Ireland Ltd",https://www.atlascopco.com/en-ie,atlas-copco-ireland-ltd,,,,2025,3,0,,,D15HR80,,Dublin,680,D15HR80
+1881,"AXIS UK Services Ltd (Irish branch)",,axis-uk-services-ltd-irish-branch,,,,2025,12,0,,,D02T3V7,,Dublin,575,D02T3V7
+1882,"Ball Beverage Packaging Ireland LTD",,ball-beverage-packaging-ireland-ltd,,,,2025,3,0,,,X91V62N,,Waterford,348,X91V62N
+1883,"Ballivor Community Childcare",https://www.crannsupportgroup.ie/giggles/,ballivor-community-childcare,,,,2025,17,0,,,C15EH67,,Meath,245,C15EH67
 1884,"B & C Contractors Monaghan Ltd",https://bandccontractors.ie/,b-c-contractors-monaghan-ltd,,,,2025,6,0,,,A81PN28,,,269,A81PN28
-1885,"Bausch + Lomb Ireland",https://www.bausch.com/about-bausch-lomb/locations/,bausch-lomb-ireland,,,,2025,3,0,,,X91V383,,,700,X91V383
-1886,"Bellview Clinic Partnership",,bellview-clinic-partnership,,,,2025,20,0,,,N91EK7R,,,178,N91EK7R
-1887,Benning,https://www.benning.de/sbd/IRL/benning-ireland.html,benning,,,,2025,3,0,,,Y35F409,,,436,Y35F409
-1888,"BHA Construction Ltd",https://bhaconstruction.com/,bha-construction-ltd,,,,2025,6,0,,,Y21H728,,,342,Y21H728
-1889,"Bord Iascaigh Mhara",https://bim.ie/,bord-iascaigh-mhara,BIM,,,2025,1,0,,,A96A621,,,126,A96A621
-1890,"Brooks Retailing Ltd",,brooks-retailing-ltd,,,,2025,7,0,,,Y25H404,,,627,Y25H404
-1891,"BS&B Safety Systems Limited",https://bsbsystems.com/en/,bsb-safety-systems-limited,,,,2025,3,0,,,V94N4V2,,,386,V94N4V2
-1892,"BSS Subcontractors",https://www.buildstaff.ie/,bss-subcontractors,,,,2025,6,0,,,d08k3kd,,,322,d08k3kd
-1893,"Buttimer Engineering",https://buttimer.com/,buttimer-engineering,,,,2025,6,0,,,E21W240,,,391,E21W240
-1894,"Byron Distributors Ltd",,byron-distributors-ltd,,,,2025,7,0,,,F42XV09,,,859,F42XV09
-1895,"Calgary Trading Co. Limited",,calgary-trading-co-limited,,,,2025,9,0,,,X91D622,,,170,X91D622
-1896,"Calgary Trading Co. Limited",,calgary-trading-co-limited,,,,2025,9,0,,,X91D622,,,170,X91D622
-1897,"Cape Wrath Hotel Unlimited Company",,cape-wrath-hotel,,,,2025,9,0,,,D02WR20,,,73,D02WR20
-1898,"Carroll Joinery Manufacturing",,carroll-joinery-manufacturing,,,,2025,3,0,,,r95ee70,,,340,r95ee70
-1899,"Castle Arch Hotel",https://www.castlearchhotel.com/,castle-arch-hotel,,,,2025,9,0,,,C15WD92,,,247,C15WD92
-1900,"Celtic Ross Hotel Ltd",https://www.celticrosshotel.com/,celtic-ross-hotel-ltd,,,,2025,9,0,,,T12X4YW,,,306,T12X4YW
-1901,"Charles River Laboratories Ireland Ltd",,charles-river-laboratories-ireland-ltd,,,,2025,14,0,,,F26D786,,,203,F26D786
-1902,"Charles River Microbial Solutions",https://www.criver.com/,charles-river-microbial-solutions,,,,2025,14,0,,,D24NF21,,,204,D24NF21
-1903,"Chevron College Ltd",https://chevrontraining.ie/,chevron-college-ltd,,,,2025,17,0,,,Y35WKF7,,,315,Y35WKF7
-1904,CHM,https://chmltd.ie/,chm,,,,2025,6,0,,,D24H9PA,,,423,D24H9PA
-1905,"Clann Mor Residential & Respite CLG",,clann-mor-residential-respite-clg,,,,2024,18,0,,,C15P7F2,,,198,C15P7F2
-1906,"Clarity Recruitment Ventures LTD",,clarity-recruitment-ventures-ltd,"Clarity Locums",,,2024,20,0,,,D02DW94,,,381,D02DW94
-1907,"CMS Distribution LTD",,cms-distribution-ltd,,,,2025,20,0,,,f12td82,,,134,f12td82
-1908,"Cobh General Hospital",,cobh-general-hospital,,,,2025,18,0,,,P24AD85,,,682,P24AD85
-1909,"Cognex Ireland Limited",,cognex-ireland-limited,,,,2025,3,0,,,T23YY24,,,295,T23YY24
+1885,"Bausch + Lomb Ireland",https://www.bausch.com/about-bausch-lomb/locations/,bausch-lomb-ireland,,,,2025,3,0,,,X91V383,,Waterford,700,X91V383
+1886,"Bellview Clinic Partnership",,bellview-clinic-partnership,,,,2025,20,0,,,N91EK7R,,Westmeath,178,N91EK7R
+1887,Benning,https://www.benning.de/sbd/IRL/benning-ireland.html,benning,,,,2025,3,0,,,Y35F409,,Wexford,436,Y35F409
+1888,"BHA Construction Ltd",https://bhaconstruction.com/,bha-construction-ltd,,,,2025,6,0,,,Y21H728,,Wexford,342,Y21H728
+1889,"Bord Iascaigh Mhara",https://bim.ie/,bord-iascaigh-mhara,BIM,,,2025,1,0,,,A96A621,,Dublin,126,A96A621
+1890,"Brooks Retailing Ltd",,brooks-retailing-ltd,,,,2025,7,0,,,Y25H404,,Wexford,627,Y25H404
+1891,"BS&B Safety Systems Limited",https://bsbsystems.com/en/,bsb-safety-systems-limited,,,,2025,3,0,,,V94N4V2,,Limerick,386,V94N4V2
+1892,"BSS Subcontractors",https://www.buildstaff.ie/,bss-subcontractors,,,,2025,6,0,,,d08k3kd,,Dublin,322,d08k3kd
+1893,"Buttimer Engineering",https://buttimer.com/,buttimer-engineering,,,,2025,6,0,,,E21W240,,Wexford,391,E21W240
+1894,"Byron Distributors Ltd",,byron-distributors-ltd,,,,2025,7,0,,,F42XV09,,Roscommon,859,F42XV09
+1895,"Calgary Trading Co. Limited",,calgary-trading-co-limited,,,,2025,9,0,,,X91D622,,Waterford,170,X91D622
+1896,"Calgary Trading Co. Limited",,calgary-trading-co-limited,,,,2025,9,0,,,X91D622,,Waterford,170,X91D622
+1897,"Cape Wrath Hotel Unlimited Company",,cape-wrath-hotel,,,,2025,9,0,,,D02WR20,,Dublin,73,D02WR20
+1898,"Carroll Joinery Manufacturing",,carroll-joinery-manufacturing,,,,2025,3,0,,,r95ee70,,Kilkenny,340,r95ee70
+1899,"Castle Arch Hotel",https://www.castlearchhotel.com/,castle-arch-hotel,,,,2025,9,0,,,C15WD92,,Meath,247,C15WD92
+1900,"Celtic Ross Hotel Ltd",https://www.celticrosshotel.com/,celtic-ross-hotel-ltd,,,,2025,9,0,,,T12X4YW,,Cork,306,T12X4YW
+1901,"Charles River Laboratories Ireland Ltd",,charles-river-laboratories-ireland-ltd,,,,2025,14,0,,,F26D786,,Mayo,203,F26D786
+1902,"Charles River Microbial Solutions",https://www.criver.com/,charles-river-microbial-solutions,,,,2025,14,0,,,D24NF21,,Dublin,204,D24NF21
+1903,"Chevron College Ltd",https://chevrontraining.ie/,chevron-college-ltd,,,,2025,17,0,,,Y35WKF7,,Wexford,315,Y35WKF7
+1904,CHM,https://chmltd.ie/,chm,,,,2025,6,0,,,D24H9PA,,Dublin,423,D24H9PA
+1905,"Clann Mor Residential & Respite CLG",,clann-mor-residential-respite-clg,,,,2024,18,0,,,C15P7F2,,Meath,198,C15P7F2
+1906,"Clarity Recruitment Ventures LTD",,clarity-recruitment-ventures-ltd,"Clarity Locums",,,2024,20,0,,,D02DW94,,Dublin,381,D02DW94
+1907,"CMS Distribution LTD",,cms-distribution-ltd,,,,2025,20,0,,,f12td82,,Mayo,134,f12td82
+1908,"Cobh General Hospital",,cobh-general-hospital,,,,2025,18,0,,,P24AD85,,Cork,682,P24AD85
+1909,"Cognex Ireland Limited",,cognex-ireland-limited,,,,2025,3,0,,,T23YY24,,Cork,295,T23YY24
 1910,"Collinson Insurance Solutions Europe Limoited",,collinson-insurance-solutions-europe-limoited,,,,2025,12,0,,,A82E1C6,,,327,A82E1C6
-1911,"Commissioning Agents Ireland Ltd",,commissioning-agents-ireland-ltd,,,,2025,14,0,,,K67F256,,,166,K67F256
-1912,"CommScope EMEA Limited",,commscope-emea-limited,,,,2025,3,0,,,A98FY03,,,323,A98FY03
-1913,"Cora Systems Limited",,cora-systems-limited,,,,2025,11,0,,,N41HK23,,,205,N41HK23
-1914,"Cosmetic Creations Ltd",,cosmetic-creations-ltd,,,,2025,3,0,,,F12WT21,,,239,F12WT21
-1915,"County Kildare Leader Partnership",,county-kildare-leader-partnership,,,,2025,20,0,,,R51R588,,,288,R51R588
-1916,"Cricket Ireland",,cricket-ireland,,,,2025,19,0,,,K36CD70,,,286,K36CD70
-1917,"Abbeyleix manor Hotel",https://www.abbeyleixmanorhotel.com/,abbeyleix-manor-hotel,"Crimhill Ltd",,,2025,9,0,,,R32VE24,,,97,R32VE24
-1918,"Cru Na Greine Ltd",,cru-na-greine-ltd,,,,2025,7,0,,,V93H3VP,,,272,V93H3VP
-1919,CSG,https://www.csg.ie/,csg,,,,2025,12,0,,,V92P6HC,,,411,V92P6HC
-1920,"Culligan Home Ireland Limited",,culligan-home-ireland-limited,,,,2025,5,0,,,D02DK18,,,219,D02DK18
-1921,"The Castle Hotel",https://www.castle-hotel.ie/,the-castle-hotel,"Dan Gerard Buckley",,,2024,9,0,,,P12X293,,,243,P12X293
-1922,"Daniel Whelan Engineering Works Limited",,daniel-whelan-engineering-works-limited,,,,2025,3,0,,,R95XN56,,,300,R95XN56
-1923,"Dawnlough Ltd",https://dawnlough.com/,dawnlough-ltd,,,,2025,3,0,,,H91YPN7,,,188,H91YPN7
-1924,"Deluxe Taverns North Ltd",,deluxe-taverns-north-ltd,,,,2025,9,0,,,D02DH36,,,471,D02DH36
-1925,"Dillons Hotel",,dillons-hotel,,,,2025,9,0,,,F92F9DX,,,443,F92F9DX
-1926,"Dominic O'Connor Ltd",,dominic-oconnor-ltd,,,,2025,6,0,,,H62Y880,,,212,H62Y880
-1927,"Dromhall Hotel",,dromhall-hotel,,,,2025,9,0,,,V93PY80,,,559,V93PY80
-1928,"Drummonds Ltd",https://drummonds.ie/,drummonds-ltd,,,,2025,1,0,,,D15C789,,,113,D15C789
-1929,Eatdrinkstay.ie,,eatdrinkstayie,,,,2025,9,0,,,A98E864,,,347,A98E864
-1930,"EDC Engineering Design Consultants Ltd",,edc-engineering-design-consultants-ltd,,,,2025,14,0,,,T23R5TF,,,253,T23R5TF
-1931,"Elder Nursing Homes Ltd.",,elder-nursing-homes-ltd,,,,2025,18,0,,,P25KX56,,,76,P25KX56
-1932,"Eliza Care Limited",,eliza-care-limited,,,,2025,18,0,,,R42HX70,,,142,R42HX70
-1933,"Empower Local Development CLG",,empower-local-development-clg,,,,2025,20,0,,,D15K2TX,,,109,D15K2TX
-1934,"E MURPHY MOTORS LTD",,e-murphy-motors-ltd,,,,2025,7,0,,,Y35VAH6,,,596,Y35VAH6
-1935,"Energy Metrics Monitoring & Management",,energy-metrics-monitoring-management,,,,2025,14,0,,,V94HT2Y,,,186,V94HT2Y
-1936,"Event Fuel Limited",,event-fuel-limited,FUEL,,,2025,19,0,,,D02FW54,,,298,D02FW54
-1937,"Excel Industries",,excel-industries,,,,2025,3,0,,,D15N704,,,193,D15N704
-1938,Facilitas,,facilitas,,,,2025,15,0,,,D09T623,,,192,D09T623
-1939,"Dublin Home Support",,dublin-home-support,"Finglas Home Help/Care Organisation CLG",,,2025,18,0,,,D11TD8Y,,,714,D11TD8Y
-1940,"First Ireland Spirits Manufacturing Co.",,first-ireland-spirits-manufacturing-co,,,,2025,3,0,,,R32K230,,,92,R32K230
-1941,"First Up SLU",,first-up-slu,,,,2025,6,0,,,N37CY58,,,570,N37CY58
-1942,"Five Rivers Ireland",,five-rivers-ireland,,,,2025,18,0,,,D15YE28,,,261,D15YE28
-1943,"Framespace Solutions Limited",,framespace-solutions-limited,,,,2025,6,0,,,N39E337,,,398,N39E337
-1944,"Green Isle Foods",,green-isle-foods,,,,2025,3,0,,,W91RC85,,,260,W91RC85
-1945,"Oxfam Ireland",,oxfam-ireland,,,,2025,22,0,,,D04V9Y9,,,303,D04V9Y9
-1946,"Wexford Credit Union Ltd",,wexford-credit-union-ltd,,,,2025,12,0,,,Y35XW96,,,503,Y35XW96
-1947,"Franciscan Province of Ireland",,franciscan-province-of-ireland,,,,2025,21,0,,,D08XY19,,,616,D08XY19
-1948,"Fresh Start Support Services Limited",,fresh-start-support-services-limited,,,,2025,18,0,,,R93X0V9,,,72,R93X0V9
+1911,"Commissioning Agents Ireland Ltd",,commissioning-agents-ireland-ltd,,,,2025,14,0,,,K67F256,,Dublin,166,K67F256
+1912,"CommScope EMEA Limited",,commscope-emea-limited,,,,2025,3,0,,,A98FY03,,Wicklow,323,A98FY03
+1913,"Cora Systems Limited",,cora-systems-limited,,,,2025,11,0,,,N41HK23,,Leitrim,205,N41HK23
+1914,"Cosmetic Creations Ltd",,cosmetic-creations-ltd,,,,2025,3,0,,,F12WT21,,Mayo,239,F12WT21
+1915,"County Kildare Leader Partnership",,county-kildare-leader-partnership,,,,2025,20,0,,,R51R588,,Tipperary,288,R51R588
+1916,"Cricket Ireland",,cricket-ireland,,,,2025,19,0,,,K36CD70,,Dublin,286,K36CD70
+1917,"Abbeyleix manor Hotel",https://www.abbeyleixmanorhotel.com/,abbeyleix-manor-hotel,"Crimhill Ltd",,,2025,9,0,,,R32VE24,,Laois,97,R32VE24
+1918,"Cru Na Greine Ltd",,cru-na-greine-ltd,,,,2025,7,0,,,V93H3VP,,Kerry,272,V93H3VP
+1919,CSG,https://www.csg.ie/,csg,,,,2025,12,0,,,V92P6HC,,Kerry,411,V92P6HC
+1920,"Culligan Home Ireland Limited",,culligan-home-ireland-limited,,,,2025,5,0,,,D02DK18,,Dublin,219,D02DK18
+1921,"The Castle Hotel",https://www.castle-hotel.ie/,the-castle-hotel,"Dan Gerard Buckley",,,2024,9,0,,,P12X293,,Cork,243,P12X293
+1922,"Daniel Whelan Engineering Works Limited",,daniel-whelan-engineering-works-limited,,,,2025,3,0,,,R95XN56,,Kilkenny,300,R95XN56
+1923,"Dawnlough Ltd",https://dawnlough.com/,dawnlough-ltd,,,,2025,3,0,,,H91YPN7,,Galway,188,H91YPN7
+1924,"Deluxe Taverns North Ltd",,deluxe-taverns-north-ltd,,,,2025,9,0,,,D02DH36,,Dublin,471,D02DH36
+1925,"Dillons Hotel",,dillons-hotel,,,,2025,9,0,,,F92F9DX,,Donegal,443,F92F9DX
+1926,"Dominic O'Connor Ltd",,dominic-oconnor-ltd,,,,2025,6,0,,,H62Y880,,Leitrim,212,H62Y880
+1927,"Dromhall Hotel",,dromhall-hotel,,,,2025,9,0,,,V93PY80,,Kerry,559,V93PY80
+1928,"Drummonds Ltd",https://drummonds.ie/,drummonds-ltd,,,,2025,1,0,,,D15C789,,Dublin,113,D15C789
+1929,Eatdrinkstay.ie,,eatdrinkstayie,,,,2025,9,0,,,A98E864,,Wicklow,347,A98E864
+1930,"EDC Engineering Design Consultants Ltd",,edc-engineering-design-consultants-ltd,,,,2025,14,0,,,T23R5TF,,Cork,253,T23R5TF
+1931,"Elder Nursing Homes Ltd.",,elder-nursing-homes-ltd,,,,2025,18,0,,,P25KX56,,Cork,76,P25KX56
+1932,"Eliza Care Limited",,eliza-care-limited,,,,2025,18,0,,,R42HX70,,Offaly,142,R42HX70
+1933,"Empower Local Development CLG",,empower-local-development-clg,,,,2025,20,0,,,D15K2TX,,Dublin,109,D15K2TX
+1934,"E MURPHY MOTORS LTD",,e-murphy-motors-ltd,,,,2025,7,0,,,Y35VAH6,,Wexford,596,Y35VAH6
+1935,"Energy Metrics Monitoring & Management",,energy-metrics-monitoring-management,,,,2025,14,0,,,V94HT2Y,,Limerick,186,V94HT2Y
+1936,"Event Fuel Limited",,event-fuel-limited,FUEL,,,2025,19,0,,,D02FW54,,Dublin,298,D02FW54
+1937,"Excel Industries",,excel-industries,,,,2025,3,0,,,D15N704,,Dublin,193,D15N704
+1938,Facilitas,,facilitas,,,,2025,15,0,,,D09T623,,Dublin,192,D09T623
+1939,"Dublin Home Support",,dublin-home-support,"Finglas Home Help/Care Organisation CLG",,,2025,18,0,,,D11TD8Y,,Dublin,714,D11TD8Y
+1940,"First Ireland Spirits Manufacturing Co.",,first-ireland-spirits-manufacturing-co,,,,2025,3,0,,,R32K230,,Laois,92,R32K230
+1941,"First Up SLU",,first-up-slu,,,,2025,6,0,,,N37CY58,,Westmeath,570,N37CY58
+1942,"Five Rivers Ireland",,five-rivers-ireland,,,,2025,18,0,,,D15YE28,,Dublin,261,D15YE28
+1943,"Framespace Solutions Limited",,framespace-solutions-limited,,,,2025,6,0,,,N39E337,,Longford,398,N39E337
+1944,"Green Isle Foods",,green-isle-foods,,,,2025,3,0,,,W91RC85,,Kildare,260,W91RC85
+1945,"Oxfam Ireland",,oxfam-ireland,,,,2025,22,0,,,D04V9Y9,,Dublin,303,D04V9Y9
+1946,"Wexford Credit Union Ltd",,wexford-credit-union-ltd,,,,2025,12,0,,,Y35XW96,,Wexford,503,Y35XW96
+1947,"Franciscan Province of Ireland",,franciscan-province-of-ireland,,,,2025,21,0,,,D08XY19,,Dublin,616,D08XY19
+1948,"Fresh Start Support Services Limited",,fresh-start-support-services-limited,,,,2025,18,0,,,R93X0V9,,Carlow,72,R93X0V9
 1949,"FSW Coatings Ltd.",,fsw-coatings-ltd,,,,2025,3,0,,,A82N267,,,374,A82N267
-1950,"Galway Plant And Tool Hire Ltd",,galway-plant-and-tool-hire-ltd,,,,2025,20,0,,,D12C791,,,334,D12C791
-1951,"Hitachi Energy Ireland Limited",,hitachi-energy-ireland-limited,,,,2025,3,0,,,D22X0Y3,,,620,D22X0Y3
-1952,"Hegarty Demolition Ltd",,hegarty-demolition-ltd,,,,2025,6,0,,,D14V4F1,,,129,D14V4F1
-1953,"Great Southern Killarney",,great-southern-killarney,,,,2025,9,0,,,v93r866,,,206,v93r866
+1950,"Galway Plant And Tool Hire Ltd",,galway-plant-and-tool-hire-ltd,,,,2025,20,0,,,D12C791,,Dublin,334,D12C791
+1951,"Hitachi Energy Ireland Limited",,hitachi-energy-ireland-limited,,,,2025,3,0,,,D22X0Y3,,Dublin,620,D22X0Y3
+1952,"Hegarty Demolition Ltd",,hegarty-demolition-ltd,,,,2025,6,0,,,D14V4F1,,Dublin,129,D14V4F1
+1953,"Great Southern Killarney",,great-southern-killarney,,,,2025,9,0,,,v93r866,,Kerry,206,v93r866
 1954,"Galway Rural Development CLG",,galway-rural-development-clg,,,,2024,15,0,,,H65KR02,,,369,H65KR02
-1955,"Goodman Medical Ireland",,goodman-medical-ireland,,,,2025,3,0,,,h91h9ck,,,210,h91h9ck
-1956,"Greenfield Foods Limited",,greenfield-foods-limited,,,,2025,1,0,,,H18YY33,,,313,H18YY33
-1957,"Greenhill Fruit Farm Ltd",,greenhill-fruit-farm-ltd,,,,2025,1,0,,,Y21T449,,,453,Y21T449
-1958,"Hamlet Court Hotel Ltd",,hamlet-court-hotel-ltd,,,,2025,9,0,,,A83WC04,,,350,A83WC04
-1959,"Harmonics Career Crafting Limited",,harmonics-career-crafting-limited,,,,2025,20,0,,,V94RR8D,,,233,V94RR8D
-1960,"Hayfield Manor Hotel",,hayfield-manor-hotel,,,,2025,9,0,,,T12HT97,,,263,T12HT97
-1961,"Healthcare Direct",,healthcare-direct,,,,2025,18,0,,,V94HT2Y,,,284,V94HT2Y
-1962,"Hilti Fastening Systems",,hilti-fastening-systems,,,,2025,6,0,,,D11V96E,,,208,D11V96E
-1963,"Hooke & MacDonald Limited",,hooke-macdonald-limited,,,,2025,13,0,,,D02AW89,,,275,D02AW89
-1964,"Hotel Balor Teoranta",,hotel-balor-teoranta,,,,2025,9,0,,,V93PXK3,,,925,V93PXK3
-1965,"HP Corrigan",,hp-corrigan,,,,2025,7,0,,,D04R6Y6,,,439,D04R6Y6
-1966,"i3PT Certification",,i3pt-certification,,,,2025,6,0,,,D04YT91,,,319,D04YT91
-1967,"Glenn Wood Tullamore",,glenn-wood-tullamore,"Industrial & Domestic Furniture(Tullamore) Ltd",,,2025,3,0,,,R35VK03,,,217,R35VK03
-1968,"Industrial Packaging Ltd",,industrial-packaging-ltd,,,,2025,3,0,,,A98X3T6,,,331,A98X3T6
-1969,"ICS Medical Devices",,ics-medical-devices,"Innovative Catheter Solutions",,,2025,3,0,,,H91A2WA,,,333,H91A2WA
-1970,"St. Margaret's Network",,st-margarets-network,"IRL-IASD CLG",,,2025,18,0,,,D14YK10,,,159,D14YK10
-1971,"John Hurley Midleton (Unlimited) Company",,john-hurley-midleton-unlimited-company,,,,2025,7,0,,,P25FR64,,,610,P25FR64
-1972,"Washrooms Ireland",,washrooms-ireland,"Karmarton Ltd",,,2025,5,0,,,D10WD29,,,383,D10WD29
-1973,"Laois Hire Centres Ltd",,laois-hire-centres-ltd,,,,2025,20,0,,,D12C791,,,324,D12C791
-1974,Léargas,,leargas,,,,2025,17,0,,,D01A3Y8,,,440,D01A3Y8
-1975,"Lexas Technologies Ltd.",,lexas-technologies-ltd,,,,2025,14,0,,,R35TX95,,,117,R35TX95
+1955,"Goodman Medical Ireland",,goodman-medical-ireland,,,,2025,3,0,,,h91h9ck,,Galway,210,h91h9ck
+1956,"Greenfield Foods Limited",,greenfield-foods-limited,,,,2025,1,0,,,H18YY33,,Monaghan,313,H18YY33
+1957,"Greenhill Fruit Farm Ltd",,greenhill-fruit-farm-ltd,,,,2025,1,0,,,Y21T449,,Wexford,453,Y21T449
+1958,"Hamlet Court Hotel Ltd",,hamlet-court-hotel-ltd,,,,2025,9,0,,,A83WC04,,Kildare,350,A83WC04
+1959,"Harmonics Career Crafting Limited",,harmonics-career-crafting-limited,,,,2025,20,0,,,V94RR8D,,Limerick,233,V94RR8D
+1960,"Hayfield Manor Hotel",,hayfield-manor-hotel,,,,2025,9,0,,,T12HT97,,Cork,263,T12HT97
+1961,"Healthcare Direct",,healthcare-direct,,,,2025,18,0,,,V94HT2Y,,Limerick,284,V94HT2Y
+1962,"Hilti Fastening Systems",,hilti-fastening-systems,,,,2025,6,0,,,D11V96E,,Dublin,208,D11V96E
+1963,"Hooke & MacDonald Limited",,hooke-macdonald-limited,,,,2025,13,0,,,D02AW89,,Dublin,275,D02AW89
+1964,"Hotel Balor Teoranta",,hotel-balor-teoranta,,,,2025,9,0,,,V93PXK3,,Kerry,925,V93PXK3
+1965,"HP Corrigan",,hp-corrigan,,,,2025,7,0,,,D04R6Y6,,Dublin,439,D04R6Y6
+1966,"i3PT Certification",,i3pt-certification,,,,2025,6,0,,,D04YT91,,Dublin,319,D04YT91
+1967,"Glenn Wood Tullamore",,glenn-wood-tullamore,"Industrial & Domestic Furniture(Tullamore) Ltd",,,2025,3,0,,,R35VK03,,Offaly,217,R35VK03
+1968,"Industrial Packaging Ltd",,industrial-packaging-ltd,,,,2025,3,0,,,A98X3T6,,Wicklow,331,A98X3T6
+1969,"ICS Medical Devices",,ics-medical-devices,"Innovative Catheter Solutions",,,2025,3,0,,,H91A2WA,,Galway,333,H91A2WA
+1970,"St. Margaret's Network",,st-margarets-network,"IRL-IASD CLG",,,2025,18,0,,,D14YK10,,Dublin,159,D14YK10
+1971,"John Hurley Midleton (Unlimited) Company",,john-hurley-midleton-unlimited-company,,,,2025,7,0,,,P25FR64,,Cork,610,P25FR64
+1972,"Washrooms Ireland",,washrooms-ireland,"Karmarton Ltd",,,2025,5,0,,,D10WD29,,Dublin,383,D10WD29
+1973,"Laois Hire Centres Ltd",,laois-hire-centres-ltd,,,,2025,20,0,,,D12C791,,Dublin,324,D12C791
+1974,Léargas,,leargas,,,,2025,17,0,,,D01A3Y8,,Dublin,440,D01A3Y8
+1975,"Lexas Technologies Ltd.",,lexas-technologies-ltd,,,,2025,14,0,,,R35TX95,,Offaly,117,R35TX95
 1976,"Lifewave Europe Ltd",,lifewave-europe-ltd,,,,2025,3,0,,,H63NW84,,,628,H63NW84
-1977,"Linnaeus Ireland Veterinary Limited",,linnaeus-ireland-veterinary-limited,,,,2025,20,0,,,D02T380,,,346,D02T380
-1978,"Local Jobs Limited",,local-jobs-limited,,,,2025,15,0,,,D24Fa07,,,668,D24Fa07
-1979,"Luttrellstown Castle Resort",,luttrellstown-castle-resort,,,,2025,9,0,,,D15RH92,,,258,D15RH92
-1980,"M.Fitzgibbon Contractors Limited",,mfitzgibbon-contractors-limited,,,,2025,6,0,,,V94Y7Y5,,,173,V94Y7Y5
-1981,"Madigan Cunningham Ltd",,madigan-cunningham-ltd,,,,2025,13,0,,,V94K2Y2,,,598,V94K2Y2
-1982,"Mallow Credit Union Ltd",,mallow-credit-union-ltd,,,,2025,12,0,,,P51HP48,,,228,P51HP48
-1983,"Marchford Limited",,marchford-limited,,,,2025,9,0,,,W91Y65N,,,98,W91Y65N
-1984,"Marcoh Care Limited",,marcoh-care-limited,,,,2025,18,0,,,D12A447,,,360,D12A447
-1985,"Maritime Area Regulatory Authority",,maritime-area-regulatory-authority,,,,2025,16,0,,,Y35RF29,,,727,Y35RF29
-1986,"Ballyhass Adventure Group",,ballyhass-adventure-group,"Maritime Tourism Ltd.",,,2025,19,0,,,P51N990,,,556,P51N990
-1987,"Mars Foods Ireland LTD.",,mars-foods-ireland-ltd,,,,2025,20,0,,,D18K8Y4,,,325,D18K8Y4
-1988,"Martin Ryan Haulage Limited",,martin-ryan-haulage-limited,,,,2025,8,0,,,V94W0C3,,,343,V94W0C3
-1989,"Masonite Ireland",,masonite-ireland,,,,2024,3,0,,,N41CC94,,,224,N41CC94
-1990,"MCG Facilities Management Ireland Limited",,mcg-facilities-management-ireland-limited,,,,2025,20,0,,,D11XY10,,,564,D11XY10
-1991,"McLoughlin Industrial Flooring Contractors Ltd",,mcloughlin-industrial-flooring-contractors-ltd,,,,2025,6,0,,,W91NX66,,,630,W91NX66
-1992,"MeHow Medical Ireland Ltd",,mehow-medical-ireland-ltd,,,,2025,3,0,,,A98W8P3,,,158,A98W8P3
-1993,"Mizen Clothing Retail Limited",,mizen-clothing-retail-limited,,,,2025,7,0,,,t12w274,,,367,t12w274
-1994,"Monahill Supermarkets Ltd",,monahill-supermarkets-ltd,,,,2025,7,0,,,A91EYX9,,,459,A91EYX9
-1995,"Moorehaven Centre (Tipperary) DAC",,moorehaven-centre-tipperary-dac,,,,2025,20,0,,,E34H280,,,235,E34H280
-1996,"Mountain Lodge Nursing Home Ltd",,mountain-lodge-nursing-home-ltd,,,,2025,20,0,,,R42HX70,,,144,R42HX70
-1997,"Mowlam Healthcare Services",,mowlam-healthcare-services,,,,2025,18,0,,,V94HT2Y,,,643,V94HT2Y
-1998,"MP Doyle Ltd",,mp-doyle-ltd,,,,2025,7,0,,,R93W8D9,,,451,R93W8D9
-1999,"Munters Corp Ireland",,munters-corp-ireland,,,,2025,3,0,,,T45VN22,,,480,T45VN22
-2000,"Murex Advanced Technologies Ltd.",,murex-advanced-technologies-ltd,,,,2025,14,0,,,D04E7K5,,,632,D04E7K5
-2001,"Murtagh Bars Ltd",,murtagh-bars-ltd,,,,2025,9,0,,,N41P5X5,,,464,N41P5X5
-2002,"National Express Coach and Bus Services Limited",,national-express-coach-and-bus-services-limited,,,,2025,8,0,,,K67KD58,,,567,K67KD58
-2003,"Nelipak Healthcare Packaging",,nelipak-healthcare-packaging,,,,2025,3,0,,,R35F583,,,667,R35F583
-2004,"Nethercross Ltd",,nethercross-ltd,,,,2025,9,0,,,K67P2E4,,,486,K67P2E4
-2005,"Newgrange Hotel",,newgrange-hotel,,,,2025,9,0,,,C15A6WV,,,195,C15A6WV
-2006,NIKE,,nike,,,,2025,7,0,,,D15PXY3,,,568,D15PXY3
-2007,"Nisbets Limited",,nisbets-limited,,,,2025,7,0,,,T23RR3H,,,427,T23RR3H
-2008,"Nomadic Foods Ltd.",,nomadic-foods-ltd,,,,2025,3,0,,,F93VP83,,,586,F93VP83
-2009,"Nord Anglia Education Ireland Ltd.",,nord-anglia-education-ireland-ltd,,,,2025,17,0,,,D18T672,,,438,D18T672
-2010,"North Midlands Credit Union",,north-midlands-credit-union,,,,2025,12,0,,,N91VO94,,,320,N91VO94
-2011,"Northgate Vehicle Hire (Ireland) Ltd",,northgate-vehicle-hire-ireland-ltd,,,,2025,8,0,,,D04TR29,,,444,D04TR29
-2012,"O'Leary International Ltd",,oleary-international-ltd,,,,2025,8,0,,,Y34V252,,,271,Y34V252
-2013,"Oberstown Children Detention Campus",,oberstown-children-detention-campus,,,,2025,16,0,,,K45AY66,,,354,K45AY66
-2014,"Oceanpath Ltd",,oceanpath-ltd,,,,2025,1,0,,,D13Hx25,,,793,D13Hx25
-2015,"OConnell Street Inns",,oconnell-street-inns,,,,2025,9,0,,,D01CK74,,,404,D01CK74
-2016,"Offaly Centre Independent Living",,offaly-centre-independent-living,,,,2025,18,0,,,R35VC63,,,310,R35VC63
-2017,"Omnicom Media Group (Ireland) Ltd",,omnicom-media-group-ireland-ltd,,,,2025,14,0,,,D04C2N4,,,222,D04C2N4
+1977,"Linnaeus Ireland Veterinary Limited",,linnaeus-ireland-veterinary-limited,,,,2025,20,0,,,D02T380,,Dublin,346,D02T380
+1978,"Local Jobs Limited",,local-jobs-limited,,,,2025,15,0,,,D24Fa07,,Dublin,668,D24Fa07
+1979,"Luttrellstown Castle Resort",,luttrellstown-castle-resort,,,,2025,9,0,,,D15RH92,,Dublin,258,D15RH92
+1980,"M.Fitzgibbon Contractors Limited",,mfitzgibbon-contractors-limited,,,,2025,6,0,,,V94Y7Y5,,Limerick,173,V94Y7Y5
+1981,"Madigan Cunningham Ltd",,madigan-cunningham-ltd,,,,2025,13,0,,,V94K2Y2,,Limerick,598,V94K2Y2
+1982,"Mallow Credit Union Ltd",,mallow-credit-union-ltd,,,,2025,12,0,,,P51HP48,,Cork,228,P51HP48
+1983,"Marchford Limited",,marchford-limited,,,,2025,9,0,,,W91Y65N,,Kildare,98,W91Y65N
+1984,"Marcoh Care Limited",,marcoh-care-limited,,,,2025,18,0,,,D12A447,,Dublin,360,D12A447
+1985,"Maritime Area Regulatory Authority",,maritime-area-regulatory-authority,,,,2025,16,0,,,Y35RF29,,Wexford,727,Y35RF29
+1986,"Ballyhass Adventure Group",,ballyhass-adventure-group,"Maritime Tourism Ltd.",,,2025,19,0,,,P51N990,,Cork,556,P51N990
+1987,"Mars Foods Ireland LTD.",,mars-foods-ireland-ltd,,,,2025,20,0,,,D18K8Y4,,Dublin,325,D18K8Y4
+1988,"Martin Ryan Haulage Limited",,martin-ryan-haulage-limited,,,,2025,8,0,,,V94W0C3,,Limerick,343,V94W0C3
+1989,"Masonite Ireland",,masonite-ireland,,,,2024,3,0,,,N41CC94,,Leitrim,224,N41CC94
+1990,"MCG Facilities Management Ireland Limited",,mcg-facilities-management-ireland-limited,,,,2025,20,0,,,D11XY10,,Dublin,564,D11XY10
+1991,"McLoughlin Industrial Flooring Contractors Ltd",,mcloughlin-industrial-flooring-contractors-ltd,,,,2025,6,0,,,W91NX66,,Kildare,630,W91NX66
+1992,"MeHow Medical Ireland Ltd",,mehow-medical-ireland-ltd,,,,2025,3,0,,,A98W8P3,,Wicklow,158,A98W8P3
+1993,"Mizen Clothing Retail Limited",,mizen-clothing-retail-limited,,,,2025,7,0,,,t12w274,,Cork,367,t12w274
+1994,"Monahill Supermarkets Ltd",,monahill-supermarkets-ltd,,,,2025,7,0,,,A91EYX9,,Louth,459,A91EYX9
+1995,"Moorehaven Centre (Tipperary) DAC",,moorehaven-centre-tipperary-dac,,,,2025,20,0,,,E34H280,,Wexford,235,E34H280
+1996,"Mountain Lodge Nursing Home Ltd",,mountain-lodge-nursing-home-ltd,,,,2025,20,0,,,R42HX70,,Offaly,144,R42HX70
+1997,"Mowlam Healthcare Services",,mowlam-healthcare-services,,,,2025,18,0,,,V94HT2Y,,Limerick,643,V94HT2Y
+1998,"MP Doyle Ltd",,mp-doyle-ltd,,,,2025,7,0,,,R93W8D9,,Carlow,451,R93W8D9
+1999,"Munters Corp Ireland",,munters-corp-ireland,,,,2025,3,0,,,T45VN22,,Cork,480,T45VN22
+2000,"Murex Advanced Technologies Ltd.",,murex-advanced-technologies-ltd,,,,2025,14,0,,,D04E7K5,,Dublin,632,D04E7K5
+2001,"Murtagh Bars Ltd",,murtagh-bars-ltd,,,,2025,9,0,,,N41P5X5,,Leitrim,464,N41P5X5
+2002,"National Express Coach and Bus Services Limited",,national-express-coach-and-bus-services-limited,,,,2025,8,0,,,K67KD58,,Dublin,567,K67KD58
+2003,"Nelipak Healthcare Packaging",,nelipak-healthcare-packaging,,,,2025,3,0,,,R35F583,,Offaly,667,R35F583
+2004,"Nethercross Ltd",,nethercross-ltd,,,,2025,9,0,,,K67P2E4,,Dublin,486,K67P2E4
+2005,"Newgrange Hotel",,newgrange-hotel,,,,2025,9,0,,,C15A6WV,,Meath,195,C15A6WV
+2006,NIKE,,nike,,,,2025,7,0,,,D15PXY3,,Dublin,568,D15PXY3
+2007,"Nisbets Limited",,nisbets-limited,,,,2025,7,0,,,T23RR3H,,Cork,427,T23RR3H
+2008,"Nomadic Foods Ltd.",,nomadic-foods-ltd,,,,2025,3,0,,,F93VP83,,Donegal,586,F93VP83
+2009,"Nord Anglia Education Ireland Ltd.",,nord-anglia-education-ireland-ltd,,,,2025,17,0,,,D18T672,,Dublin,438,D18T672
+2010,"North Midlands Credit Union",,north-midlands-credit-union,,,,2025,12,0,,,N91VO94,,Westmeath,320,N91VO94
+2011,"Northgate Vehicle Hire (Ireland) Ltd",,northgate-vehicle-hire-ireland-ltd,,,,2025,8,0,,,D04TR29,,Dublin,444,D04TR29
+2012,"O'Leary International Ltd",,oleary-international-ltd,,,,2025,8,0,,,Y34V252,,Wexford,271,Y34V252
+2013,"Oberstown Children Detention Campus",,oberstown-children-detention-campus,,,,2025,16,0,,,K45AY66,,Kildare,354,K45AY66
+2014,"Oceanpath Ltd",,oceanpath-ltd,,,,2025,1,0,,,D13Hx25,,Dublin,793,D13Hx25
+2015,"OConnell Street Inns",,oconnell-street-inns,,,,2025,9,0,,,D01CK74,,Dublin,404,D01CK74
+2016,"Offaly Centre Independent Living",,offaly-centre-independent-living,,,,2025,18,0,,,R35VC63,,Offaly,310,R35VC63
+2017,"Omnicom Media Group (Ireland) Ltd",,omnicom-media-group-ireland-ltd,,,,2025,14,0,,,D04C2N4,,Dublin,222,D04C2N4
 2018,"Parksite Gemon Developments",,parksite-gemon-developments,,,,2025,7,0,,,A82Y5T3,,,268,A82Y5T3
-2019,"Park Developments (Dublin) Ltd",,park-developments-dublin-ltd,,,,2025,6,0,,,D18K8Y4,,,652,D18K8Y4
-2020,"Pat Rynn Engineering Limited",,pat-rynn-engineering-limited,,,,2025,3,0,,,H91W5T8,,,548,H91W5T8
-2021,"Patrician Academy",,patrician-academy,,,,2025,17,0,,,P51YK80,,,582,P51YK80
-2022,"Perigord Premedia Limited",,perigord-premedia-limited,,,,2025,14,0,1624,,D15N283,,,783,D15N283
-2023,"Pilz Ireland Industrial Automation",,pilz-ireland-industrial-automation,,,,2025,14,0,,,T12AW80,,,110,T12AW80
-2024,"Pioneer Homecare Ltd",,pioneer-homecare-ltd,,,,2025,18,0,,,D14W8Y1,,,637,D14W8Y1
-2025,"Pipe Arc Ltd",,pipe-arc-ltd,,,,2025,3,0,,,H12WK70,,,413,H12WK70
-2026,"Polish Teachers Association",,polish-teachers-association,,,,2025,17,0,,,D15VF22,,,623,D15VF22
-2027,"Post-Primary Languages Ireland",,postprimary-languages-ireland,PPLI,,,2025,17,0,,,D08TCV4,,,359,D08TCV4
-2028,"Premier Irish Homes",,premier-irish-homes,"PPGIH Business Ltd",,,2025,6,0,,,C15FX29,,,71,C15FX29
-2029,ProAmpac,,proampac,,,,2025,3,0,,,F92F44a,,,396,F92F44a
-2030,"Proofpoint Ireland Ltd",,proofpoint-ireland-ltd,,,,2025,20,0,,,D04XN32,,,287,D04XN32
-2031,QQI,,qqi,"Quality and Qualifications Ireland",,,2025,16,0,,,D02P266,,,200,D02P266
-2032,"Quality Tractor Parts Ltd",,quality-tractor-parts-ltd,,,,2025,7,0,,,n91nd37,,,118,n91nd37
-2033,Qualtrics,,qualtrics,,,,2025,11,0,,,D02TA43,,,433,D02TA43
-2034,"RS Ireland",,rs-ireland,"Radionics Ltd",,,2025,3,0,,,D12CK80,,,172,D12CK80
-2035,"Radius Business Solutions (Ireland) Limited",,radius-business-solutions-ireland-limited,,,,2025,20,0,,,H91W1YV,,,691,H91W1YV
-2036,"Regnology Ireland Limited",,regnology-ireland-limited,,,,2025,10,0,,,D18Y3X2,,,251,D18Y3X2
-2037,"Remote Management Technology Limited",,remote-management-technology-limited,,,,2025,15,0,,,T23YY09,,,507,T23YY09
-2038,"Repromed Ireland",,repromed-ireland,,,,2025,18,0,,,D16W7W3,,,225,D16W7W3
-2039,"Retail Solutions",,retail-solutions,,,,2025,11,0,,,H54TA43,,,209,H54TA43
-2040,"RGIS Inventory Specialists",,rgis-inventory-specialists,,,,2025,20,0,,,K67E5A0,,,373,K67E5A0
-2041,"Richard Boyle and Sons (2004) Limited",,richard-boyle-and-sons-2004-limited,,,,2025,7,0,,,V93AV63,,,104,V93AV63
-2042,"Richmond Marketing",,richmond-marketing,,,,2025,14,0,,,D24H7RK,,,409,D24H7RK
-2043,"Rogerson Reddan",,rogerson-reddan,,,,2025,14,0,,,D04V1K7,,,419,D04V1K7
-2044,"Rolsford Limited",,rolsford-limited,,,,2025,7,0,,,D22ET96,,,472,D22ET96
-2045,"SAICA Pack Dublin",,saica-pack-dublin,,,,2025,3,0,2045,,D22R924,,,737,D22R924
-2046,"Saica Pack Ireland Ltd",,saica-pack-ireland-ltd,,,,2025,3,0,2045,,A84W744,,,736,A84W744
-2047,"Santa Sabina House Limited",,santa-sabina-house-limited,,,,2025,18,0,,,D07WK25,,,703,D07WK25
-2048,"Shannondoc CLG",,shannondoc-clg,,,,2025,18,0,,,V945V24,,,431,V945V24
-2049,"Simpson's Hospital",,simpsons-hospital,,,,2025,18,0,,,D16P732,,,484,D16P732
-2050,"SIRO Dac",,siro-dac,,,,2025,11,0,,,D18K8Y4,,,264,D18K8Y4
-2051,"SmartBear Ireland",,smartbear-ireland,,,,2025,20,0,,,H91P8PR,,,154,H91P8PR
-2052,Solas,,solas,,,,2025,17,0,,,D01A8N0,,,114,D01A8N0
-2053,"Sonoco Metal Packaging Ireland Ltd",,sonoco-metal-packaging-ireland-ltd,,,,2025,3,0,,,R14C622,,,355,R14C622
-2054,"South County Self Drive Ltd.",,south-county-self-drive-ltd,,,,2025,20,0,,,A96TF24,,,695,A96TF24
-2055,"South Dublin County Partnership",,south-dublin-county-partnership,,,,2025,18,0,,,D24A3XC,,,163,D24A3XC
-2056,"South West Doctors On Call CLG",,south-west-doctors-on-call-clg,,,,2024,18,0,,,V93K0DN,,,87,V93K0DN
-2057,"Spectrum Telecom Installations Ltd.",,spectrum-telecom-installations-ltd,,,,2025,6,0,,,W91YC89,,,339,W91YC89
-2058,"St. Helens Hotel",,st-helens-hotel,,,,2025,9,0,,,A94V6W3,,,408,A94V6W3
-2059,"StepStone Group Europe Alternative Investments Ltd",,stepstone-group-europe-alternative-investments-ltd,,,,2025,12,0,,,D04X4C9,,,266,D04X4C9
-2060,"Standard Brands (Trading) Ireland Limited",,standard-brands-trading-ireland-limited,,,,2025,3,0,,,A91XT59,,,231,A91XT59
-2061,"SWARCO Ireland",,swarco-ireland,,,,2025,6,0,,,D08EWP2,,,558,D08EWP2
-2062,VikingCloud,,vikingcloud,"Sysxnet Limited",,,2025,14,0,,,D12WDN2,,,588,D12WDN2
-2063,"Takumi Precision Engineering Limited",,takumi-precision-engineering-limited,,,,2025,3,0,,,V94YW99,,,341,V94YW99
-2064,"TAOA Retail Limited",,taoa-retail-limited,,,,2025,7,0,2064,,D02AC96,,,482,D02AC96
-2065,"TAOAR Retail Ltd",,taoar-retail-ltd,,,,2025,7,0,2064,,D02AC96,,,483,D02AC96
-2066,"Telnyx Ireland Limited",,telnyx-ireland-limited,,,,2025,11,0,,,T23WYK5,,,250,T23WYK5
-2067,"Temmler Ireland Limited",,temmler-ireland-limited,,,,2025,3,0,,,V93H972,,,151,V93H972
-2068,"TF Fleming Ltd",,tf-fleming-ltd,,,,2025,7,0,,,H18WK60,,,363,H18WK60
-2069,"The Crann Support Group",,the-crann-support-group,,,,2025,15,0,,,C15VP77,,,121,C15VP77
-2070,"The Multiple Sclerosis Society of Ireland",,the-multiple-sclerosis-society-of-ireland,,,,2025,18,0,,,D06CV90,,,428,D06CV90
-2071,"Thornpart Adjusters Limited",,thornpart-adjusters-limited,,,,2025,12,0,,,D12W702,,,317,D12W702
-2072,"Tinnypark Residential Care Limited",,tinnypark-residential-care-limited,,,,2025,20,0,,,R42HX70,,,143,R42HX70
-2073,"Tipperary Healthcare Limited",,tipperary-healthcare-limited,,,,2025,18,0,,,E34NX20,,,465,E34NX20
-2074,"Tom Cowman Agri Plant Hire Limited",,tom-cowman-agri-plant-hire-limited,,,,2025,6,0,,,R21X665,,,626,R21X665
-2075,"Tomra Sorting Limited",,tomra-sorting-limited,,,,2025,14,0,,,D02VN56,,,400,D02VN56
-2076,"Townlink Construction Ltd",,townlink-construction-ltd,,,,2025,6,0,,,D24NX77,,,99,D24NX77
-2077,"Trump International Golf Resort and Hotel",,trump-international-golf-resort-and-hotel,,,,2025,9,0,,,v15kh39,,,337,v15kh39
-2078,"Typetec Ireland Limited",,typetec-ireland-limited,,,,2025,17,0,,,D12XW25,,,390,D12XW25
-2079,"UHY Farrelly Dawe White Limited",,uhy-farrelly-dawe-white-limited,,,,2025,20,0,,,A91RW26,,,405,A91RW26
-2080,"UN1F1ED2 Global Packaging Group Ireland Ltd.",,un1f1ed2-global-packaging-group-ireland-ltd,,,,2025,3,0,,,T45KW29,,,232,T45KW29
-2081,"Underhill Investments Limited",,underhill-investments-limited,,,,2025,20,0,,,R42HX70,,,132,R42HX70
-2082,"Viagogo 'VGL Support Services Ireland Ltd'",,viagogo-vgl-support-services-ireland-ltd,,,,2025,7,0,,,V94RX49,,,466,V94RX49
-2083,"Walsh Printing Services Unlimited Company",,walsh-printing-services-unlimited-company,,,,2025,3,0,,,V92C52N,,,138,V92C52N
-2084,"Water Technology Limited",,water-technology-limited,,,,2025,3,0,,,T12KPF2,,,214,T12KPF2
-2085,"Waterford & South Tipperary Community Youth Service",,waterford-south-tipperary-community-youth-service,,,,2025,18,0,,,X91TY8N,,,475,X91TY8N
-2086,Wayfair,,wayfair,,,,2025,7,0,,,H91W260,,,715,H91W260
-2087,"Weatherbys Ireland Limited",,weatherbys-ireland-limited,,,,2025,14,0,,,W91VX86,,,469,W91VX86
-2088,"Weir & Sons",,weir-sons,,,,2025,7,0,,,D02WR12,,,294,D02WR12
-2089,"Westbourne IT Global Services Ltd",,westbourne-it-global-services-ltd,,,,2025,14,0,,,T12Y275,,,309,T12Y275
-2090,"Whitbread Plc",,whitbread-plc,,,,2025,9,0,,,662880,,,112,662880
-2091,"Whitewater Group H2O Limited.",,whitewater-group-h2o-limited,,,,2025,5,0,,,W91TK7N,,,669,W91TK7N
-2092,"Windmill Group",,windmill-group,,,,2025,18,0,,,P51NH6X,,,282,P51NH6X
-2093,"Irish Prison Service (all legal entities)",,irish-prison-service-all-legal-entities,,,,2022,16,0,228,,N39A308,,,838,N39A308
-2095,Vistatec,https://www.vistatec.com/,vistatec,,privacy@vistatec.com,,2025,14,74,,,"D08 T2TX",,,,
-2096,"Hanley Calibration",https://hanleycalibration.com/,hanleycalibration,,,,2024,14,71,,,"T45 X962",,,,
-2097,"Ryan Hanley",https://ryanhanley.ie/,ryanhanley,Stantec,,,2025,1,1,,,"H91 P3KH",,,,
+2019,"Park Developments (Dublin) Ltd",,park-developments-dublin-ltd,,,,2025,6,0,,,D18K8Y4,,Dublin,652,D18K8Y4
+2020,"Pat Rynn Engineering Limited",,pat-rynn-engineering-limited,,,,2025,3,0,,,H91W5T8,,Galway,548,H91W5T8
+2021,"Patrician Academy",,patrician-academy,,,,2025,17,0,,,P51YK80,,Cork,582,P51YK80
+2022,"Perigord Premedia Limited",,perigord-premedia-limited,,,,2025,14,0,1624,,D15N283,,Dublin,783,D15N283
+2023,"Pilz Ireland Industrial Automation",,pilz-ireland-industrial-automation,,,,2025,14,0,,,T12AW80,,Cork,110,T12AW80
+2024,"Pioneer Homecare Ltd",,pioneer-homecare-ltd,,,,2025,18,0,,,D14W8Y1,,Dublin,637,D14W8Y1
+2025,"Pipe Arc Ltd",,pipe-arc-ltd,,,,2025,3,0,,,H12WK70,,Cavan,413,H12WK70
+2026,"Polish Teachers Association",,polish-teachers-association,,,,2025,17,0,,,D15VF22,,Dublin,623,D15VF22
+2027,"Post-Primary Languages Ireland",,postprimary-languages-ireland,PPLI,,,2025,17,0,,,D08TCV4,,Dublin,359,D08TCV4
+2028,"Premier Irish Homes",,premier-irish-homes,"PPGIH Business Ltd",,,2025,6,0,,,C15FX29,,Meath,71,C15FX29
+2029,ProAmpac,,proampac,,,,2025,3,0,,,F92F44a,,Donegal,396,F92F44a
+2030,"Proofpoint Ireland Ltd",,proofpoint-ireland-ltd,,,,2025,20,0,,,D04XN32,,Dublin,287,D04XN32
+2031,QQI,,qqi,"Quality and Qualifications Ireland",,,2025,16,0,,,D02P266,,Dublin,200,D02P266
+2032,"Quality Tractor Parts Ltd",,quality-tractor-parts-ltd,,,,2025,7,0,,,n91nd37,,Westmeath,118,n91nd37
+2033,Qualtrics,,qualtrics,,,,2025,11,0,,,D02TA43,,Dublin,433,D02TA43
+2034,"RS Ireland",,rs-ireland,"Radionics Ltd",,,2025,3,0,,,D12CK80,,Dublin,172,D12CK80
+2035,"Radius Business Solutions (Ireland) Limited",,radius-business-solutions-ireland-limited,,,,2025,20,0,,,H91W1YV,,Galway,691,H91W1YV
+2036,"Regnology Ireland Limited",,regnology-ireland-limited,,,,2025,10,0,,,D18Y3X2,,Dublin,251,D18Y3X2
+2037,"Remote Management Technology Limited",,remote-management-technology-limited,,,,2025,15,0,,,T23YY09,,Cork,507,T23YY09
+2038,"Repromed Ireland",,repromed-ireland,,,,2025,18,0,,,D16W7W3,,Dublin,225,D16W7W3
+2039,"Retail Solutions",,retail-solutions,,,,2025,11,0,,,H54TA43,,Leitrim,209,H54TA43
+2040,"RGIS Inventory Specialists",,rgis-inventory-specialists,,,,2025,20,0,,,K67E5A0,,Dublin,373,K67E5A0
+2041,"Richard Boyle and Sons (2004) Limited",,richard-boyle-and-sons-2004-limited,,,,2025,7,0,,,V93AV63,,Kerry,104,V93AV63
+2042,"Richmond Marketing",,richmond-marketing,,,,2025,14,0,,,D24H7RK,,Dublin,409,D24H7RK
+2043,"Rogerson Reddan",,rogerson-reddan,,,,2025,14,0,,,D04V1K7,,Dublin,419,D04V1K7
+2044,"Rolsford Limited",,rolsford-limited,,,,2025,7,0,,,D22ET96,,Dublin,472,D22ET96
+2045,"SAICA Pack Dublin",,saica-pack-dublin,,,,2025,3,0,2045,,D22R924,,Dublin,737,D22R924
+2046,"Saica Pack Ireland Ltd",,saica-pack-ireland-ltd,,,,2025,3,0,2045,,A84W744,,Meath,736,A84W744
+2047,"Santa Sabina House Limited",,santa-sabina-house-limited,,,,2025,18,0,,,D07WK25,,Dublin,703,D07WK25
+2048,"Shannondoc CLG",,shannondoc-clg,,,,2025,18,0,,,V945V24,,Limerick,431,V945V24
+2049,"Simpson's Hospital",,simpsons-hospital,,,,2025,18,0,,,D16P732,,Dublin,484,D16P732
+2050,"SIRO Dac",,siro-dac,,,,2025,11,0,,,D18K8Y4,,Dublin,264,D18K8Y4
+2051,"SmartBear Ireland",,smartbear-ireland,,,,2025,20,0,,,H91P8PR,,Galway,154,H91P8PR
+2052,Solas,,solas,,,,2025,17,0,,,D01A8N0,,Dublin,114,D01A8N0
+2053,"Sonoco Metal Packaging Ireland Ltd",,sonoco-metal-packaging-ireland-ltd,,,,2025,3,0,,,R14C622,,Laois,355,R14C622
+2054,"South County Self Drive Ltd.",,south-county-self-drive-ltd,,,,2025,20,0,,,A96TF24,,Dublin,695,A96TF24
+2055,"South Dublin County Partnership",,south-dublin-county-partnership,,,,2025,18,0,,,D24A3XC,,Dublin,163,D24A3XC
+2056,"South West Doctors On Call CLG",,south-west-doctors-on-call-clg,,,,2024,18,0,,,V93K0DN,,Kerry,87,V93K0DN
+2057,"Spectrum Telecom Installations Ltd.",,spectrum-telecom-installations-ltd,,,,2025,6,0,,,W91YC89,,Kildare,339,W91YC89
+2058,"St. Helens Hotel",,st-helens-hotel,,,,2025,9,0,,,A94V6W3,,Dublin,408,A94V6W3
+2059,"StepStone Group Europe Alternative Investments Ltd",,stepstone-group-europe-alternative-investments-ltd,,,,2025,12,0,,,D04X4C9,,Dublin,266,D04X4C9
+2060,"Standard Brands (Trading) Ireland Limited",,standard-brands-trading-ireland-limited,,,,2025,3,0,,,A91XT59,,Louth,231,A91XT59
+2061,"SWARCO Ireland",,swarco-ireland,,,,2025,6,0,,,D08EWP2,,Dublin,558,D08EWP2
+2062,VikingCloud,,vikingcloud,"Sysxnet Limited",,,2025,14,0,,,D12WDN2,,Dublin,588,D12WDN2
+2063,"Takumi Precision Engineering Limited",,takumi-precision-engineering-limited,,,,2025,3,0,,,V94YW99,,Limerick,341,V94YW99
+2064,"TAOA Retail Limited",,taoa-retail-limited,,,,2025,7,0,2064,,D02AC96,,Dublin,482,D02AC96
+2065,"TAOAR Retail Ltd",,taoar-retail-ltd,,,,2025,7,0,2064,,D02AC96,,Dublin,483,D02AC96
+2066,"Telnyx Ireland Limited",,telnyx-ireland-limited,,,,2025,11,0,,,T23WYK5,,Cork,250,T23WYK5
+2067,"Temmler Ireland Limited",,temmler-ireland-limited,,,,2025,3,0,,,V93H972,,Kerry,151,V93H972
+2068,"TF Fleming Ltd",,tf-fleming-ltd,,,,2025,7,0,,,H18WK60,,Monaghan,363,H18WK60
+2069,"The Crann Support Group",,the-crann-support-group,,,,2025,15,0,,,C15VP77,,Meath,121,C15VP77
+2070,"The Multiple Sclerosis Society of Ireland",,the-multiple-sclerosis-society-of-ireland,,,,2025,18,0,,,D06CV90,,Dublin,428,D06CV90
+2071,"Thornpart Adjusters Limited",,thornpart-adjusters-limited,,,,2025,12,0,,,D12W702,,Dublin,317,D12W702
+2072,"Tinnypark Residential Care Limited",,tinnypark-residential-care-limited,,,,2025,20,0,,,R42HX70,,Offaly,143,R42HX70
+2073,"Tipperary Healthcare Limited",,tipperary-healthcare-limited,,,,2025,18,0,,,E34NX20,,Wexford,465,E34NX20
+2074,"Tom Cowman Agri Plant Hire Limited",,tom-cowman-agri-plant-hire-limited,,,,2025,6,0,,,R21X665,,Tipperary,626,R21X665
+2075,"Tomra Sorting Limited",,tomra-sorting-limited,,,,2025,14,0,,,D02VN56,,Dublin,400,D02VN56
+2076,"Townlink Construction Ltd",,townlink-construction-ltd,,,,2025,6,0,,,D24NX77,,Dublin,99,D24NX77
+2077,"Trump International Golf Resort and Hotel",,trump-international-golf-resort-and-hotel,,,,2025,9,0,,,v15kh39,,Kerry,337,v15kh39
+2078,"Typetec Ireland Limited",,typetec-ireland-limited,,,,2025,17,0,,,D12XW25,,Dublin,390,D12XW25
+2079,"UHY Farrelly Dawe White Limited",,uhy-farrelly-dawe-white-limited,,,,2025,20,0,,,A91RW26,,Louth,405,A91RW26
+2080,"UN1F1ED2 Global Packaging Group Ireland Ltd.",,un1f1ed2-global-packaging-group-ireland-ltd,,,,2025,3,0,,,T45KW29,,Cork,232,T45KW29
+2081,"Underhill Investments Limited",,underhill-investments-limited,,,,2025,20,0,,,R42HX70,,Offaly,132,R42HX70
+2082,"Viagogo 'VGL Support Services Ireland Ltd'",,viagogo-vgl-support-services-ireland-ltd,,,,2025,7,0,,,V94RX49,,Limerick,466,V94RX49
+2083,"Walsh Printing Services Unlimited Company",,walsh-printing-services-unlimited-company,,,,2025,3,0,,,V92C52N,,Kerry,138,V92C52N
+2084,"Water Technology Limited",,water-technology-limited,,,,2025,3,0,,,T12KPF2,,Cork,214,T12KPF2
+2085,"Waterford & South Tipperary Community Youth Service",,waterford-south-tipperary-community-youth-service,,,,2025,18,0,,,X91TY8N,,Waterford,475,X91TY8N
+2086,Wayfair,,wayfair,,,,2025,7,0,,,H91W260,,Galway,715,H91W260
+2087,"Weatherbys Ireland Limited",,weatherbys-ireland-limited,,,,2025,14,0,,,W91VX86,,Kildare,469,W91VX86
+2088,"Weir & Sons",,weir-sons,,,,2025,7,0,,,D02WR12,,Dublin,294,D02WR12
+2089,"Westbourne IT Global Services Ltd",,westbourne-it-global-services-ltd,,,,2025,14,0,,,T12Y275,,Cork,309,T12Y275
+2090,"Whitbread Plc",,whitbread-plc,,,,2025,9,0,,,,,,112,
+2091,"Whitewater Group H2O Limited.",,whitewater-group-h2o-limited,,,,2025,5,0,,,W91TK7N,,Kildare,669,W91TK7N
+2092,"Windmill Group",,windmill-group,,,,2025,18,0,,,P51NH6X,,Cork,282,P51NH6X
+2093,"Irish Prison Service (all legal entities)",,irish-prison-service-all-legal-entities,,,,2022,16,0,228,,N39A308,,Longford,838,N39A308
+2095,Vistatec,https://www.vistatec.com/,vistatec,,privacy@vistatec.com,,2025,14,74,,,"D08 T2TX",,Dublin,,
+2096,"Hanley Calibration",https://hanleycalibration.com/,hanleycalibration,,,,2024,14,71,,,"T45 X962",,Cork,,
+2097,"Ryan Hanley",https://ryanhanley.ie/,ryanhanley,Stantec,,,2025,1,1,,,"H91 P3KH",,Galway,,
 2098,"Danann Air",,danann-air,,,,2025,3,0,,,,,,,
 2099,"HPC Sales Limited",,hpc-sales-limited,,,,2025,7,0,,,,,,,
 2100,Fiosrú,,fiosru,,,,2024,16,0,,,,,,,
+2101,"Ballymaloe House Hotel",https://www.ballymaloe.ie,ballymaloehousehotel,"Yeats Room Limited",res@ballymaloe.ie,,2025,9,55,,,"P25 Y070",,Cork,,
+2102,"Kitman Labs",https://www.kitmanlabs.com/,kitmanlabs,,,,2025,10,62,,,"D01 Y6H7",,Dublin,,
+2103,"Medite Smartply",https://mdfosb.com/en,meditesmartply,,info@mdfosb.com,,2024,3,16,,,"E91 V584",,Tipperary,,
+2104,"Policing and Community Safety Authority",,policing-and-community-safety-authority,,,,2025,16,0,,,,,,,
+2105,"QT Technologies Ireland Limited",,qt-technologies-ireland-limited,,,,2025,11,0,,,,,,1049,T23YY09
