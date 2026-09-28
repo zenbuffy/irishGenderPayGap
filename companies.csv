@@ -611,7 +611,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 726,FMI,https://fmi.ie/,fmi,,,,2022,14,73,,,,Dublin,,D14
 727,"Flextronics International",https://flex.com/,flextronicsinternational,,,,2023,3,26,727,,316578,Dublin,,D02
 728,Xilinx,https://www.amd.com/en.html,xilinx,AMD,,,2022,3,26,,,190265,Dublin,,D02
-729,"National Rehabilitation Hospital",https://www.nrh.ie/,nationalrehabilitationhospital,,enquiries@nrh.ie,,2022,18,86,,5,,Dublin,,A96
+729,"National Rehabilitation Hospital",https://www.nrh.ie/,nationalrehabilitationhospital,,enquiries@nrh.ie,,2022,18,86,729,5,,Dublin,,A96
 730,"Winthrop Technologies",https://winthrop.ie/,winthroptechnologies,,info@winthrop.ie,,2022,6,41,,,322865,Wexford,,Y35
 731,"Verizon Connect",https://www.verizonconnect.com/ie/,verizonconnect,,,,2022,11,62,1215,,516472,Dublin,,D18
 732,"The Barry Group",https://barrygroup.ie/reports-and-publications/,barrygroup,,info@barrys.ie,,2022,8,49,,,,Meath,,C15
@@ -641,7 +641,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 756,"Sea-Fisheries Protection Authority",https://www.sfpa.ie/,sfpa,SFPA,,,2024,16,84,,1,,Cork,,P85
 757,"H&MV Engineering",https://www.hmvengineering.com/,hmvengineering,,,,2022,14,71,,,266920,Donegal,,"F93 RKW6"
 758,"The Grand Hotel Malahide",https://www.thegrand.ie/,thegrandhotelmalahide,,info@thegrand.ie,,2024,9,55,,,3518,Dublin,,"D13 CK80"
-759,"Lily O'Brien's",https://lilyobriens.ie/,lilyobriens,,weborders@lilyobriens.ie,,2024,3,10,,,538211,Kildare,,W23
+759,"Lily O'Brien's",https://lilyobriens.ie/,lilyobriens,,weborders@lilyobriens.ie,,2024,3,10,,,538211,Kildare,1028,W23
 760,"The Shannon Airport Group",https://snnairportgroup.ie/,shannonairportgroup,,,,2024,8,51,,,,Clare,,V14
 761,"Gheel Autism Services",https://www.gheel.ie/,gheelautismservices,,,,2024,18,88,,,53565,Meath,,C15
 762,"National Standards Authority of Ireland",https://www.nsai.ie/,nsai,NSAI,,,2024,16,84,,1,,Dublin,254,D09A0E4
@@ -1269,7 +1269,7 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 1391,"Frank Keane South Dublin",https://www.frankkeanevolkswagen.ie/,frankkeanesouthdublin,,,,2025,7,47,1390,,577137,Dublin,,D12
 1392,"International Hotel Kilkenny",https://www.killarneyinternational.com/,internationalhotelkilkenny,,,,2025,9,55,,,,Kilkenny,,R95
 1393,"Aghadoe Heights Hotel & Spa",https://www.aghadoeheights.com/,aghadoeheightshotelspa,,,,2025,9,55,,,521713,Dublin,,"D02 P638"
-1394,"Bluebird Care BKE Ltd.",https://www.bluebirdcare.ie/,bluebirdcarebkeltd,,,,2025,18,86,1394,,486624,Kilkenny,,R95
+1394,"Bluebird Care BKE Ltd.",https://www.bluebirdcare.ie/,bluebirdcarebkeltd,,,,2025,18,86,1394,,486624,Kilkenny,1396,R95
 1395,"Bluebird Care Dublin South",https://www.bluebirdcare.ie/,bluebirdcaredublinsouth,,,,2025,18,86,1394,,559085,Dublin,,D14
 1396,"Bluebird Care Northeast",https://www.bluebirdcare.ie/,bluebirdcarenortheast,Kiermar,,,2025,18,86,1394,,488652,Donegal,,F92
 1397,"Bluebird Care Valcao",https://www.bluebirdcare.ie/,bluebirdcarevalcao,,,,2025,18,86,1394,,509885,Laois,,R32
@@ -1994,3 +1994,5 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 2128,"Ireland's Eye Knitwear Ltd",,irelands-eye-knitwear-ltd,,,,2025,3,0,,,,Dublin,856,D13DT63
 2129,"Brewdog Ireland Limited",,brewdog-ireland-limited,,,,2026,9,0,,,,Dublin,1021,D02E5R7
 2130,"Health and Social Care Professionals Council (CORU)",,health-and-social-care-professionals-council-coru,,,,2025,16,0,,,,Dublin,1097,D07E98Y
+2131,"National Institute for Bioprocessing Research and Training",,nibrt,NIBRT,,,2025,14,0,,,,Dublin,1472,A94X099
+2132,"National Rehabilitation Hospital (Monthly)",https://www.nrh.ie/,nationalrehabilitationhospitalmonthly,,enquiries@nrh.ie,,2025,18,86,729,,,Dublin,,A96
