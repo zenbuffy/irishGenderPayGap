@@ -24,7 +24,7 @@ companies_ID,companies_name,companies_site,companies_slug,companies_othername,co
 23,"Amazon Development Centre Ireland Ltd ",https://www.amazon.co.uk/,amazondci,,,,2022,11,62,22,,566018,Dublin,,D04
 24,"Amazon Ireland Support Services Ltd ",https://www.amazon.co.uk/,amazonssi,,,,2022,11,63,22,,413291,Cork,,T12
 25,"Amundi Ireland",https://www.amundi.ie/retail,amundi,,,,2022,12,66,,,287793,Dublin,,D24
-26,"An Garda Síochána: Garda Members",https://garda.ie/en/,gardamembers,,pressoffice@garda.ie,,2022,16,84,26,1,,Dublin,,"D08 HN3X"
+26,"An Garda Síochána: Garda Members",https://garda.ie/en/,gardamembers,,pressoffice@garda.ie,,2022,16,84,26,1,,Dublin,853,"D08 HN3X"
 27,"An Garda Síochána: Garda Staff",https://garda.ie/en/,gardastaff,,pressoffice@garda.ie,,2022,16,84,26,1,,Dublin,,"D08 HN3X"
 28,"An Post",https://www.anpost.com/,anpost,,Pressoffice@anpost.ie,,2022,16,84,,1,98788,Dublin,504,D01F5P2
 29,"Aon Ireland (all legal entities)",https://www.aon.com/ireland/default.jsp,aon,,requests@aon.ie,,2022,12,65,29,,,Dublin,,D02VR98
@@ -2011,3 +2011,5 @@ and Training Board",https://www.ddletb.ie/home-page-new/,ddletb,,"info@ddletb.ie
 2145,"The Convention Centre",https://www.theccd.ie/,theconventioncentre,,info@theccd.ie,,2025,19,93,,,,Dublin,,"D01 T1W6"
 2146,"Select Roofing",,selectroofing,,info@selectroofingandcladding.com,,2025,6,43,,,,Dublin,,"D22 AY65"
 2147,Leprino,https://leprino.com/,leprino,,,,2025,3,10,,,,Laois,,"R32 W7Y8"
+2148,"O'Keeffes of Kilkenny Ltd",,okeeffes-of-kilkenny-ltd,,,,2025,7,0,,,,Kilkenny,1221,R95Y26C
+2149,Lockton,https://global.lockton.com/ie/en,lockton,,enquiriesireland@lockton.com,,2025,12,66,,,,Dublin,,"D02 HE97"
